@@ -1,0 +1,24 @@
+numero,controlador,tipo,numero_controlador,pais,desde,hasta,naturaleza
+03375789,Aston Villa Limited,corporate-entity-person-with-significant-control,46572,England And Wales,2016-04-06,,ownership-of-shares-75-to-100-percent;voting-rights-75-to-100-percent;right-to-appoint-and-remove-directors
+02502822,Aston Villa Limited,corporate-entity-person-with-significant-control,46572,England And Wales,2016-04-06,,ownership-of-shares-75-to-100-percent;voting-rights-75-to-100-percent;right-to-appoint-and-remove-directors
+00046572,Nswe Sports Limited,corporate-entity-person-with-significant-control,5891280,England,2016-04-06,,ownership-of-shares-75-to-100-percent
+00057186,Tottenham Hotspur Limited,corporate-entity-person-with-significant-control,1706358,England,2016-04-06,,ownership-of-shares-75-to-100-percent;voting-rights-25-to-50-percent;right-to-appoint-and-remove-directors
+06279984,Tottenham Hotspur Limited,corporate-entity-person-with-significant-control,1706358,England,2016-04-06,,ownership-of-shares-75-to-100-percent;voting-rights-75-to-100-percent;right-to-appoint-and-remove-directors
+01706358,Mr Peter Clive Charrington,individual-person-with-significant-control,,,2024-08-27,,ownership-of-shares-50-to-75-percent-as-trust;voting-rights-50-to-75-percent-as-trust;right-to-appoint-and-remove-directors-as-trust
+01706358,Mr Bryan Antoine Glinton,individual-person-with-significant-control,,,2022-10-05,2024-08-27,ownership-of-shares-50-to-75-percent-as-trust;voting-rights-50-to-75-percent-as-trust;right-to-appoint-and-remove-directors-as-trust
+01706358,Mrs Katie Louise Booth,individual-person-with-significant-control,,,2022-10-05,,ownership-of-shares-50-to-75-percent-as-trust;voting-rights-50-to-75-percent-as-trust;right-to-appoint-and-remove-directors-as-trust
+01706358,Mr Joseph Charles Lewis,individual-person-with-significant-control,,,2016-04-06,2022-10-05,ownership-of-shares-50-to-75-percent-as-trust
+10443734,Tottenham Hotspur Limited,corporate-entity-person-with-significant-control,01706358,United Kingdom,2016-10-25,,ownership-of-shares-75-to-100-percent;voting-rights-75-to-100-percent;right-to-appoint-and-remove-directors
+00488096,Nordic Football Group Uk Limited,corporate-entity-person-with-significant-control,15497767,England,2024-05-31,,ownership-of-shares-75-to-100-percent;voting-rights-75-to-100-percent;right-to-appoint-and-remove-directors
+00488096,Mr Clarence Bennie Robinson,individual-person-with-significant-control,,,2016-04-06,2024-05-31,ownership-of-shares-75-to-100-percent;voting-rights-75-to-100-percent
+11761052,Ms Sharon Brittan,individual-person-with-significant-control,,,2021-10-29,2022-11-09,ownership-of-shares-50-to-75-percent;voting-rights-50-to-75-percent
+11761052,Mr Michael Stuart James,individual-person-with-significant-control,,,2019-07-02,2019-08-27,ownership-of-shares-25-to-50-percent;ownership-of-shares-25-to-50-percent-as-firm
+11761052,Mr Jeffrey Paul Thomas,individual-person-with-significant-control,,,2019-07-02,2019-07-30,ownership-of-shares-25-to-50-percent;significant-influence-or-control-as-firm
+11761052,Ms Sharon Brittan,individual-person-with-significant-control,,,2019-01-11,2019-08-27,ownership-of-shares-25-to-50-percent;voting-rights-25-to-50-percent
+11761052,Mr Parminder Basran,individual-person-with-significant-control,,,2019-01-11,2019-07-02,ownership-of-shares-25-to-50-percent;voting-rights-25-to-50-percent
+00189754,Yeovil Town Holdings Limited,corporate-entity-person-with-significant-control,07113379,England,2016-04-06,,ownership-of-shares-75-to-100-percent;voting-rights-75-to-100-percent;right-to-appoint-and-remove-directors
+07113379,Mr Prabhu Srinivasan,individual-person-with-significant-control,,,2026-05-06,,significant-influence-or-control
+07113379,Inflection Holding Limited,corporate-entity-person-with-significant-control,Cl5738,United Arab Emirates,2025-05-29,2026-05-06,ownership-of-shares-75-to-100-percent;voting-rights-75-to-100-percent;right-to-appoint-and-remove-directors
+07113379,Hellier Trading Group Limited,corporate-entity-person-with-significant-control,13519886,United Kingdom,2023-05-12,2025-05-29,ownership-of-shares-75-to-100-percent;voting-rights-75-to-100-percent;right-to-appoint-and-remove-directors
+07113379,Cv Leisure Ltd,corporate-entity-person-with-significant-control,11509426,United Kingdom,2019-09-20,2023-05-12,ownership-of-shares-75-to-100-percent;voting-rights-75-to-100-percent;right-to-appoint-and-remove-directors
+07113379,Huish Park Stadium Partnership Limited,corporate-entity-person-with-significant-control,05702242,England,2016-04-06,2019-09-20,ownership-of-shares-75-to-100-percent;voting-rights-75-to-100-percent;right-to-appoint-and-remove-directors

@@ -1,0 +1,230 @@
+﻿club,numero,nombre,estado,tipo,creada,disuelta,actividad_sic,es_club_futbol_sic_93120,ultimas_cuentas_cierre,ultimas_cuentas_tipo,cuentas_vencidas,tiene_prestamos_garantizados,historial_insolvencia,localidad
+Arsenal,00109244,THE ARSENAL FOOTBALL CLUB LIMITED,active,ltd,1910-04-26,,93120,True,2025-05-31,full,False,False,False,London
+Arsenal,08846758,"THE WOOLWICH ARSENAL FOOTBALL AND ATHLETIC COMPANY, LIMITED",active,ltd,2014-01-15,,91012,False,2025-06-30,micro-entity,False,False,False,Hertford
+Arsenal,09175100,FOOTBALLWEBWATCH - ARSENAL LIMITED,dissolved,ltd,2014-08-14,2014-12-30,,False,,null,,False,False,Buckingham
+Arsenal,09797061,ARSENAL YACHT CLUB LIMITED,dissolved,ltd,2015-09-28,2018-02-27,99999,False,2016-09-30,dormant,,False,False,London
+Arsenal,07564846,WOOLWICH ARSENAL FOOTBALL AND ATHLETIC COMPANY LIMITED,dissolved,ltd,2011-03-15,2012-10-23,,False,,null,,False,False,Brixton
+Aston Villa,03375789,ASTON VILLA FOOTBALL CLUB LIMITED,active,ltd,1997-05-20,,93120,True,2025-06-30,full,False,False,False,Birmingham
+Aston Villa,14847477,ASTON VILLA FORMER PLAYERS CLUB,active,private-limited-guarant-nsc-limited-exemption,2023-05-04,,96090,False,2025-05-31,micro-entity,False,False,False,Birmingham
+Aston Villa,00046572,ASTON VILLA LIMITED,active,ltd,1896-01-18,,93120,True,2025-06-30,full,False,False,False,
+Aston Villa,02502822,ASTON VILLA FC LIMITED,active,ltd,1990-05-17,,93120,True,2025-06-30,full,False,False,False,Birmingham
+Aston Villa,05912677,ASTON VILLA SOCIAL ENTERPRISE CIC,dissolved,ltd,2006-08-22,2026-10-20,93199,False,2025-06-30,dormant,,False,False,Birmingham
+Aston Villa,16277880,ASTON VILLA VENUE COMPANY LIMITED,active,ltd,2025-02-26,,93120,True,,,False,False,False,Birmingham
+Aston Villa,CE005457,COAL ASTON VILLAGE HALL CIO,,charitable-incorporated-organisation,,,,False,,,,False,False,
+Aston Villa,CE009936,COLD ASTON VILLAGE HALL,,charitable-incorporated-organisation,,,,False,,,,False,False,
+Barnsley,04573250,BARNSLEY FOOTBALL CLUB LIMITED,active,ltd,2002-10-25,,93199,False,2025-06-30,medium,False,False,False,South Yorkshire
+Barnsley,07988378,BARNSLEY RUGBY UNION FOOTBALL CLUB LIMITED,active,private-limited-guarant-nsc,2012-03-13,,93120,True,2025-04-30,total-exemption-full,False,False,False,Barnsley
+Barnsley,10116238,BARNSLEY TOWN FOOTBALL CLUB LTD,dissolved,ltd,2016-04-11,2017-09-19,,False,,null,,False,False,Barnsley
+Barnsley,IP030413,BARNSLEY AND DISTRICT TRADES COUNCIL CLUB AND INSTITUTE LIMITED,,registered-society-non-jurisdictional,,,,False,,null,,False,False,
+Barnsley,IP030432,BARNSLEY CENTRAL WORKING MEN'S CLUB LIMITED,active,registered-society-non-jurisdictional,,,,False,,null,,False,False,
+Barnsley,IP030488,BARNSLEY EAST DENE WORKING MEN'S CLUB LIMITED,active,registered-society-non-jurisdictional,,,,False,,null,,False,False,
+Barnsley,07485969,BARNSLEY GOLF CLUB LTD,active,ltd,2011-01-10,,93120,True,2026-01-31,micro-entity,False,False,False,Barnsley
+Barnsley,06585875,BARNSLEY GYMNASTICS CLUB LIMITED,active,private-limited-guarant-nsc,2008-05-07,,93120,True,2025-09-30,total-exemption-full,False,False,False,Barnsley
+Birmingham,00027318,BIRMINGHAM CITY FOOTBALL CLUB LIMITED,active,ltd,1888-08-22,,93120,True,2025-06-30,full,False,False,False,Birmingham
+Blackburn,00053482,THE BLACKBURN ROVERS FOOTBALL AND ATHLETIC LIMITED,active,ltd,1897-07-27,,93120,True,2025-06-30,full,False,False,False,
+Blackburn,01653533,BLACKBURN ROVERS DEVELOPMENT ASSOCIATION LIMITED,dissolved,private-limited-guarant-nsc,1982-07-23,2020-04-07,92000,False,2019-06-30,,,False,False,Blackburn
+Blackpool,12022161,BLACKPOOL FOOTBALL CLUB HOLDINGS LTD,active,ltd,2019-05-29,,70100;93120,True,2025-06-30,group,False,False,False,Blackpool
+Blackpool,07739483,BLACKPOOL FOOTBALL CLUB HOTEL LTD,active,ltd,2011-08-12,,55100,False,2025-06-30,small,False,False,False,Blackpool
+Blackpool,12022758,BLACKPOOL FOOTBALL CLUB STADIUM AND PROPERTY LTD,active,ltd,2019-05-29,,55100;93110,False,2025-06-30,full,False,False,False,Blackpool
+Blackpool,00048409,THE BLACKPOOL FOOTBALL CLUB LIMITED,active,ltd,1896-06-18,,93120,True,2025-06-30,full,False,False,False,
+Blackpool,05669942,BLACKPOOL FOOTBALL CLUB PROPERTIES LIMITED,dissolved,ltd,2006-01-09,2016-06-28,82990,False,2014-12-31,dormant,,False,False,Blackpool
+Blackpool,07400837,WATERLOO HOTEL & BOWLING CLUB BLACKPOOL LIMITED,dissolved,ltd,2010-10-08,2016-04-05,99999,False,2014-10-31,dormant,,False,False,Blackpool
+Blackpool,04323509,BLACKPOOL CASINOS LIMITED,dissolved,ltd,2001-11-15,2011-09-13,7499,False,2009-05-31,dormant,,False,False,Preston
+Blackpool,13684299,BLACKPOOL FOOTBALL THERAPY CIC,active,private-limited-guarant-nsc,2021-10-18,,93199,False,2025-10-31,total-exemption-full,False,False,False,Blackpool
+Bolton,12184224,BOLTON WANDERERS FOOTBALL CLUB LIMITED,active,ltd,2019-09-02,,99999,False,2025-09-30,dormant,False,False,False,Warrington
+Bolton,12190013,BOLTON WANDERERS FOOTBALL CLUB MERCHANDISING LIMITED,active,ltd,2019-09-04,,99999,False,2025-09-30,dormant,False,False,False,Warrington
+Bolton,14915543,BOLTON WANDERERS FOOTBALL CLUB SPORTS TV LTD,active,ltd,2023-06-05,,93120,True,2025-06-30,dormant,False,False,False,Warrington
+Bolton,14196988,BOLTON WANDERERS FOOTBALL CLUB STADIUM LTD,active,ltd,2022-06-27,,55100,False,2025-06-30,dormant,False,False,False,Warrington
+Bolton,14196986,BOLTON WANDERERS FOOTBALL CLUB STADIUM HOTEL LTD,active,ltd,2022-06-27,,55100,False,2025-06-30,dormant,False,False,False,Warrington
+Bolton,12190015,BOLTON WANDERERS FOOTBALL CLUB TRAVEL LIMITED,active,ltd,2019-09-04,,99999,False,2025-09-30,dormant,False,False,False,Warrington
+Bolton,14915541,BOLTON WANDERERS FOOTBALL CLUB TV LTD,active,ltd,2023-06-05,,93120,True,2025-06-30,dormant,False,False,False,Warrington
+Bolton,12571016,THE BOLTON WANDERERS FOOTBALL & ATHLETIC COMPANY LTD,active,ltd,2020-04-24,,93110,False,2025-06-30,dormant,False,False,False,Bolton
+Bournemouth,06632170,AFC BOURNEMOUTH LIMITED,active,ltd,2008-06-27,,93120,True,2025-06-30,full,False,False,False,Bournemouth
+Bournemouth,06562229,A F C BOURNEMOUTH (2008) LIMITED,dissolved,ltd,2008-04-10,2010-01-19,,False,,null,,False,False,London
+Brentford,03642327,BRENTFORD FC LIMITED,active,ltd,1998-10-01,,93120,True,2025-06-30,group,False,False,False,Brentford
+Brentford,06296400,BRENTFORD FC (LIONEL ROAD) LIMITED,dissolved,ltd,2007-06-28,2020-10-13,93110,False,2019-06-30,small,,False,False,Brentford
+Brentford,OE028503,AG BRENTFORD LTD,registered,registered-overseas-entity,2023-03-09,,,False,,,,False,False,St Helier
+Brentford,16490214,AG BRENTFORD TC LTD,active,ltd,2025-06-02,,68209,False,2025-12-31,total-exemption-full,False,False,False,London
+Brentford,14009547,A K CAFE (BRENTFORD) LIMITED,active,ltd,2022-03-29,,56102,False,2025-03-31,micro-entity,False,False,False,Birmingham
+Brentford,12359994,ASPIDA BRENTFORD LTD,active,ltd,2019-12-12,,68209,False,2025-12-31,micro-entity,False,False,False,London
+Brentford,BR011861,AZOTE BRENTFORD B.V.,closed,uk-establishment,2009-10-01,,,False,,,,,,Gerald Edelman
+Brentford,11766571,BALLYMORE BRENTFORD WATERSIDE HOLDINGS LIMITED,active,ltd,2019-01-15,,64203,False,2024-11-30,group,False,False,False,London
+Brighton,00081077,"BRIGHTON AND HOVE ALBION FOOTBALL CLUB,LIMITED(THE)",active,ltd,1904-05-27,,93120,True,2025-06-30,full,False,False,False,Brighton
+Brighton,15803777,BRIGHTON AND HOVE SEA SERPENTS RUGBY FOOTBALL CLUB LIMITED,active,private-limited-guarant-nsc,2024-06-26,,93120,True,2026-04-30,micro-entity,False,False,False,Haywards Heath
+Brighton,00273063,BRIGHTON AND HOVE MOTOR CLUB LIMITED(THE),active,private-limited-guarant-nsc,1933-02-15,,93120,True,2025-12-31,total-exemption-full,False,False,False,Brighton
+Brighton,02849319,BRIGHTON & HOVE ALBION HOLDINGS LIMITED,active,ltd,1993-08-31,,70100,False,2025-06-30,group,False,False,False,Brighton
+Brighton,07559357,BRIGHTON & HOVE AMATEUR BOXING CLUB,active,private-limited-guarant-nsc-limited-exemption,2011-03-10,,93199,False,2025-03-31,total-exemption-full,False,False,False,Manchester
+Brighton,06390067,BRIGHTON & HOVE HOCKEY CLUB LIMITED,active,private-limited-guarant-nsc,2007-10-04,,99999,False,2025-10-31,dormant,False,False,False,Hove
+Brighton,IP007640,BRIGHTON & HOVE SPORTS & SOCIAL CLUB LIMITED,converted-closed,industrial-and-provident-society,,,,False,,,,False,False,
+Bristol City,03230871,BRISTOL CITY FOOTBALL CLUB LIMITED,active,ltd,1996-07-29,,93120,True,2025-06-30,full,False,False,False,Bristol
+Burnley,00054222,"BURNLEY FOOTBALL & ATHLETIC COMPANY,LIMITED(THE)",active,ltd,1897-09-29,,93110,False,2025-07-31,full,False,False,False,Lancashire
+Burnley,11553392,A & E PROPERTIES (BURNLEY) LTD,active,ltd,2018-09-05,,99999,False,2026-03-31,total-exemption-full,False,False,False,Burnley
+Burnley,06785640,ABBOTTS OF BURNLEY LIMITED,active,ltd,2009-01-07,,45200,False,2026-01-31,total-exemption-full,False,False,False,Burnley
+Burnley,16263082,ABRAHAM ASSOCIATES BURNLEY LIMITED,dissolved,ltd,2025-02-19,2026-08-18,69201;73120,False,,,,False,False,Bradford
+Burnley,16374872,AKASH BURNLEY LTD,dissolved,ltd,2025-04-08,2026-10-13,56103,False,,,,False,False,Burnley
+Burnley,16492167,AK MOTORS (BURNLEY) LIMITED,active,ltd,2025-06-03,,45112,False,,,False,False,False,Burnley
+Burnley,12773605,ALADDINS CAVE BURNLEY LIMITED,active,ltd,2020-07-28,,47421,False,2025-07-31,micro-entity,False,False,False,Burnley
+Burnley,17301302,ALTIUM (BURNLEY) LTD,active,ltd,2026-06-25,,96020,False,,,False,False,False,Crewe
+Burton,04948126,MILLER GADSBY (BURTON ALBION) LIMITED,dissolved,ltd,2003-10-30,2024-01-02,41201,False,2022-12-31,dormant,,False,False,Derby
+Cardiff,00109065,CARDIFF CITY FOOTBALL CLUB LIMITED,active,ltd,1910-04-21,,93110;93120,True,2025-05-31,full,False,False,False,Cardiff
+Cardiff,04044254,CARDIFF CITY FOOTBALL CLUB (HOLDINGS) LIMITED,active,ltd,2000-08-01,,93110;93120,True,2025-05-31,group,False,False,False,Cardiff
+Cardiff,08435789,CARDIFF CITY DRAGONS FOOTBALL CLUB LTD,dissolved,ltd,2013-03-08,2015-11-10,99999,False,,null,,False,False,Cardiff
+Charlton,01788466,CHARLTON ATHLETIC FOOTBALL COMPANY LIMITED,active,ltd,1984-02-02,,93199,False,2025-06-30,full,False,False,False,London
+Chelsea,01965149,CHELSEA FOOTBALL CLUB LIMITED,active,ltd,1985-11-26,,93120,True,2025-06-30,full,False,False,False,London
+Chelsea,15864088,CHELSEA ROVERS FOOTBALL CLUB LTD,active,private-limited-guarant-nsc,2024-07-29,,93120,True,2026-07-31,micro-entity,False,False,False,London
+Chelsea,OC460673,WE MAKE FOOTBALLERS CHELSEA & FULHAM LLP,active,llp,2026-05-20,,,False,,,False,False,False,Swindon
+Chelsea,15276364,CADDI CLUB CHELSEA LTD,active,ltd,2023-11-10,,93110,False,2025-03-31,unaudited-abridged,False,False,False,London
+Chelsea,12695416,CHELSEA AND WESTMINSTER SWIMMING CLUB LIMITED,active,private-limited-guarant-nsc,2020-06-24,,93120,True,2025-08-31,total-exemption-full,False,False,False,London
+Chelsea,05315425,CHELSEA ARABIC SCHOOL & CLUB LIMITED,active,ltd,2004-12-17,,85590,False,2024-12-31,micro-entity,False,False,False,London
+Chelsea,00874458,CHELSEA ARTS BALL AND CHELSEA ARTS CLUB LIMITED,active,ltd,1966-03-21,,90020,False,2025-03-31,dormant,False,False,False,
+Chelsea,02124272,CHELSEA ARTS CLUB LIMITED,active,ltd,1987-04-21,,94990,False,2026-03-31,full,False,False,False,London
+Coventry,07612487,COVENTRY CITY FOOTBALL CLUB LIMITED,active,ltd,2011-04-21,,93120,True,2025-05-31,full,False,False,False,Coventry
+Coventry,03056875,COVENTRY CITY FOOTBALL CLUB LIMITED,dissolved,ltd,1995-05-16,2015-08-14,93110,False,2011-05-31,full,,True,True,London
+Coventry,00094305,COVENTRY CITY FOOTBALL CLUB (HOLDINGS) LIMITED,dissolved,ltd,1907-07-24,2014-06-03,99999,False,2011-05-31,full,,True,False,Coventry
+Coventry,08980734,COVENTRY CITY BUBBLE FOOTBALL LIMITED,dissolved,ltd,2014-04-07,2021-06-22,93290,False,2020-04-30,dormant,,False,False,Nuneaton
+Crystal Palace,00327883,CRYSTAL PALACE INDOOR BOWLING CLUB LIMITED,active,ltd,1937-05-14,,93110,False,2025-04-30,unaudited-abridged,False,False,False,London
+Crystal Palace,14454799,CRYSTAL PALACE BASKETBALL CLUB CIC,dissolved,private-limited-guarant-nsc,2022-11-01,2024-06-18,93199,False,2023-11-30,micro-entity,,False,False,London
+Crystal Palace,12758057,AVF DEVELOPMENTS (CRYSTAL PALACE) LTD,active,ltd,2020-07-21,,41100,False,2025-03-31,total-exemption-full,False,False,False,London
+Crystal Palace,05099991,BEECHWOODS COURT (CRYSTAL PALACE) LIMITED,active,ltd,2004-04-13,,98000,False,2025-09-30,dormant,False,False,False,Woking
+Crystal Palace,02316648,COPPER CLOSE (CRYSTAL PALACE) RESIDENTS ASSOCIATION LIMITED,active,ltd,1988-11-14,,98000,False,2025-03-31,micro-entity,False,False,False,London
+Crystal Palace,RC000153,CRYSTAL PALACE COMPANY,active,royal-charter,,,,False,,null,,False,False,
+Crystal Palace,16874128,CRYSTAL PALACE AMUSEMENT ARCADE LIMITED,active,ltd,2025-11-25,,92000,False,,,False,False,False,Great Yarmouth
+Crystal Palace,10167578,CRYSTAL PALACE BEAUTY & NAILS LTD,active,ltd,2016-05-06,,96020,False,2025-01-31,total-exemption-full,True,False,False,London
+Derby,15844786,DERBY COUNTY MARKET LIMITED,active,ltd,2024-07-17,,47110,False,2025-07-31,total-exemption-full,False,False,False,Derby
+Derby,14190771,DERBY COUNTY (THE RAMS) LIMITED,active,ltd,2022-06-23,,93199,False,2025-06-30,full,False,False,False,Ashbourne
+Derby,16434604,DERBY COUNTY (THE RAMS) HOLDINGS LIMITED,active,ltd,2025-05-07,,64209,False,,,False,False,False,Ashbourne
+Doncaster,00170192,DONCASTER ROVERS FOOTBALL CLUB LIMITED,active,ltd,1920-09-13,,74990,False,2026-05-31,total-exemption-full,False,False,True,Uxbridge
+Everton,00036624,"EVERTON FOOTBALL CLUB COMPANY, LIMITED",active,ltd,1892-06-14,,93110,False,2025-06-30,group,False,False,False,Liverpool
+Everton,15954023,EVERTON FOOTBALL GROUP LIMITED,dissolved,ltd,2024-09-12,2026-02-17,62011,False,,,,False,False,Biggleswade
+Everton,IP24565R,EVERTON AND LYMORE SOCIAL CLUB LIMITED,active,registered-society-non-jurisdictional,,,,False,,null,,False,False,
+Everton,10808604,EVERTON KIDS CLUB LTD,active,ltd,2017-06-08,,96090,False,2025-06-30,dormant,False,False,False,Liverpool
+Everton,13421622,EVERTON PARK GYMNASTICS CLUB LIMITED,active,ltd,2021-05-26,,93120;93199,True,2025-05-31,total-exemption-full,False,False,False,Chester
+Everton,09174254,FOOTBALLWEBWATCH - EVERTON LIMITED,dissolved,ltd,2014-08-13,2014-12-30,,False,,null,,False,False,Buckingham
+Everton,00749000,EVERTON COURT MANAGEMENT COMPANY LIMITED,active,private-limited-guarant-nsc,1963-02-04,,98000,False,2026-04-01,micro-entity,False,False,False,Pinner
+Everton,14375460,EVERTON ESTATE COMPANY (NO1) LTD,active,ltd,2022-09-26,,99999,False,2026-09-30,dormant,False,False,False,Sandy
+Fulham,02114486,FULHAM FOOTBALL CLUB LIMITED,active,ltd,1987-03-24,,93120,True,2025-06-30,full,False,False,False,New Malden
+Fulham,04772258,THE HAMMERSMITH & FULHAM RUGBY FOOTBALL CLUB,active,private-limited-guarant-nsc-limited-exemption,2003-05-20,,93120,True,2025-05-31,micro-entity,False,False,False,London
+Fulham,03374347,FULHAM FOOTBALL LEISURE LIMITED,active,ltd,1997-05-21,,93120,True,2025-06-30,group,False,False,False,New Malden
+Fulham,OC460673,WE MAKE FOOTBALLERS CHELSEA & FULHAM LLP,active,llp,2026-05-20,,,False,,,False,False,False,Swindon
+Fulham,IP21642R,FULHAM AND CHELSEA ROYAL NAVAL ASSOCIATION CLUB LIMITED,converted-closed,industrial-and-provident-society,,,,False,,,,False,False,
+Fulham,15511737,FULHAM BOXING CLUB C.I.C.,active,ltd,2024-02-21,,93130,False,2025-02-28,micro-entity,False,False,False,London
+Fulham,IP28024R,FULHAM CLUB AND INSTITUTE LIMITED,,registered-society-non-jurisdictional,,,,False,,null,,False,False,
+Fulham,08900584,FULHAM REACH BOAT CLUB,active,private-limited-guarant-nsc-limited-exemption,2014-02-18,,93110,False,2025-08-31,small,False,False,False,London
+Huddersfield,01771361,THE HUDDERSFIELD TOWN ASSOCIATION FOOTBALL CLUB LIMITED,active,ltd,1983-11-21,,93120,True,2025-06-30,group,False,False,False,Huddersfield
+Hull,04032392,HULL CITY TIGERS LIMITED,active,ltd,2000-07-12,,93110;93120,True,2025-06-30,full,False,False,False,Hull
+Hull,CE042858,CELESTIAL CHURCH OF CHRIST HULL CITY PARISH,,charitable-incorporated-organisation,,,,False,,,,False,False,
+Hull,13974037,HULL CITY BATHROOMS LTD,active,ltd,2022-03-14,,43220,False,2025-03-31,unaudited-abridged,False,False,False,Hull
+Hull,04934387,HULL CITYCARE LIMITED,active,ltd,2003-10-16,,68209,False,2025-12-31,group,False,False,False,Leads Road
+Hull,07766240,HULL CITYCARE (FUNDCO 5) LIMITED,active,ltd,2011-09-07,,68209,False,2025-12-31,full,False,False,False,Hull
+Hull,07406106,HULL CITYCARE (FUNDCO 4) LIMITED,active,ltd,2010-10-13,,68209,False,2025-12-31,full,False,False,False,Hull
+Hull,05069104,HULL CITYCARE (FUNDCO 1) LIMITED,active,ltd,2004-03-10,,68209,False,2025-12-31,full,False,False,False,Leads Road
+Hull,10303898,HULL CITYCARE (FUNDCO 6) LIMITED,active,ltd,2016-07-29,,68209,False,2025-12-31,full,False,False,False,Hull
+Ipswich,00315421,IPSWICH TOWN FOOTBALL CLUB COMPANY LIMITED,active,ltd,1936-06-19,,93110,False,2025-06-30,full,False,False,True,
+Leeds,06233875,LEEDS UNITED FOOTBALL CLUB LIMITED,active,ltd,2007-05-01,,93110,False,2025-06-30,group,False,False,False,Leeds
+Leeds,00170600,LEEDS UNITED ASSOCIATION FOOTBALL CLUB LIMITED (THE),dissolved,ltd,1920-10-02,2019-05-18,9262,False,2006-06-30,group,,True,True,Leeds
+Leicester,04593477,LEICESTER CITY FOOTBALL CLUB LIMITED,active,ltd,2002-11-18,,93199,False,2025-06-30,group,False,False,False,Leicester
+Lincoln,00045611,LINCOLN CITY FOOTBALL CLUB COMPANY LIMITED,active,ltd,1895-10-12,,93120,True,2025-06-30,medium,False,False,True,Lincoln
+Lincoln,04526709,LINCOLN CITY FOOTBALL CLUB CENTRE OF EXCELLENCE LIMITED,dissolved,ltd,2002-09-05,2021-09-28,93199,False,2019-06-30,dormant,,False,False,Lincoln
+Lincoln,11347603,LINCOLN CITY GYMNASTICS CLUB LIMITED,active,private-limited-guarant-nsc,2018-05-04,,93120,True,2025-12-31,micro-entity,False,False,False,Lincoln
+Liverpool,00035668,THE LIVERPOOL FOOTBALL CLUB AND ATHLETIC GROUNDS LIMITED,active,ltd,1892-01-26,,93110,False,2025-05-31,group,False,False,False,Liverpool
+Luton,04977080,LUTON TOWN FOOTBALL CLUB LIMITED,dissolved,ltd,2003-11-26,2014-01-08,9262,False,2005-05-31,total-exemption-small,,True,True,
+Luton,06133975,LUTON TOWN FOOTBALL CLUB 2020 LTD,active,ltd,2007-03-01,,93120,True,2025-06-30,full,False,False,False,Luton
+Luton,05879652,LUTON TOWN FOOTBALL CLUB (CASINO) LIMITED,dissolved,ltd,2006-07-18,2011-05-03,9271,False,2008-07-31,dormant,,False,False,Clevedon
+Luton,CE031504,LUTON TOWN BOWLING CLUB,,charitable-incorporated-organisation,,,,False,,,,False,False,
+Luton,CE038237,LUTON TOWN HOCKEY CLUB,,charitable-incorporated-organisation,,,,False,,,,False,False,
+Man City,00040946,MANCHESTER CITY FOOTBALL CLUB LIMITED,active,ltd,1894-04-16,,93120,True,2025-06-30,full,False,False,False,Manchester
+Man United,00095489,MANCHESTER UNITED FOOTBALL CLUB LIMITED,active,ltd,1907-10-31,,93120,True,2025-06-30,full,False,False,False,
+Middlesbrough,05324467,MIDDLESBROUGH FOOTBALL AND  ATHLETIC COMPANY LIMITED,active,ltd,2005-01-05,,99999,False,2025-06-30,dormant,False,False,False,
+Middlesbrough,03912084,MIDDLESBROUGH FOOTBALL & ATHLETIC COMPANY HOLDINGS LIMITED,active,ltd,2000-01-24,,70100,False,2025-06-30,audit-exemption-subsidiary,False,False,False,
+Middlesbrough,01947851,MIDDLESBROUGH FOOTBALL & ATHLETIC COMPANY (1986) LIMITED,active,ltd,1985-09-17,,93120,True,2025-06-30,full,False,False,False,
+Millwall,08690023,MILLWALL LIONESSES FOOTBALL CLUB,active,private-limited-guarant-nsc-limited-exemption,2013-09-13,,93120,True,2025-12-31,micro-entity,False,False,False,London
+Millwall,08678797,MILLWALL RUGBY CLUB LTD,active,private-limited-guarant-nsc,2013-09-05,,93120,True,2026-03-31,micro-entity,False,False,False,London
+Millwall,01924222,THE MILLWALL FOOTBALL AND ATHLETIC COMPANY (1985) LIMITED,active,ltd,1985-06-20,,93199,False,2025-06-30,full,False,False,True,London
+Millwall,14978969,MILLWALL STARS CRICKET CLUB LTD,active,private-limited-guarant-nsc,2023-07-04,,93120,True,2025-07-31,unaudited-abridged,False,False,False,London
+Millwall,IP23318R,POPLAR AND MILLWALL ROYAL BRITISH LEGION CLUB LIMITED,converted-closed,industrial-and-provident-society,,,,False,,null,,False,False,
+Newcastle,00031014,NEWCASTLE UNITED FOOTBALL COMPANY LIMITED,active,ltd,1890-03-11,,93110,False,2025-06-30,full,False,False,False,
+Newcastle,05981582,NEWCASTLE UNITED FOOTBALL CLUB LIMITED,active,ltd,2006-10-30,,93110,False,2025-06-30,dormant,False,False,False,Tyne & Wear
+Newcastle,14525696,NEWCASTLE UNITED FOOTBALL CLUB PROJECTS LIMITED,active,ltd,2022-12-06,,41100,False,2025-06-30,small,False,False,False,Newcastle Upon Tyne
+Newcastle,09174240,FOOTBALLWEBWATCH - NEWCASTLE UNITED LIMITED,dissolved,ltd,2014-08-13,2014-12-30,,False,,null,,False,False,Buckingham
+Newcastle,02529667,NEWCASTLE UNITED LIMITED,active,ltd,1990-08-10,,93110,False,2025-06-30,group,False,False,False,
+Newcastle,03305197,NEWCASTLE UNITED CATERING LIMITED,active,ltd,1997-01-21,,74990,False,2025-06-30,dormant,False,False,False,
+Newcastle,03299418,NEWCASTLE UNITED EMPLOYMENT LIMITED,active,ltd,1997-01-06,,74990,False,2025-06-30,dormant,False,False,False,
+Newcastle,03305223,NEWCASTLE UNITED ENTERPRISES LIMITED,active,ltd,1997-01-21,,82990,False,2025-06-30,dormant,False,False,False,
+Norwich,00154044,NORWICH CITY FOOTBALL CLUB PLC,active,plc,1919-04-02,,93120,True,2025-06-30,group,False,False,False,Norfolk
+Norwich,06815830,NORWICH CITY RUGBY LEAGUE FOOTBALL CLUB LTD,dissolved,private-limited-guarant-nsc,2009-02-11,2010-09-28,,False,,null,,False,False,Norwich
+Norwich,12030148,NORWICH CITY FOOTBALL DEVELOPMENT LIMITED,active,ltd,2019-06-03,,93120,True,2025-06-30,audit-exemption-subsidiary,False,False,False,Norwich
+Norwich,CE037543,NORWICH CITY AMATEUR BOXING CLUB (NCABC),,charitable-incorporated-organisation,,,,False,,,,False,False,
+Nott'm Forest,01630402,NOTTINGHAM FOREST FOOTBALL CLUB LIMITED,active,ltd,1982-04-20,,93120,True,2025-06-30,full,False,False,False,West Bridgford
+Nott'm Forest,15475934,NOTTINGHAM FOREST NETBALL CLUB LTD,active,ltd,2024-02-09,,93120,True,2025-06-30,audit-exemption-subsidiary,False,False,False,Nottingham
+Oxford,00470509,OXFORD UNITED FOOTBALL CLUB LIMITED,active,ltd,1949-07-05,,93110,False,2025-06-30,full,False,False,True,Oxford
+Peterboro,00290803,PETERBOROUGH UNITED FOOTBALL CLUB LIMITED,active,ltd,1934-08-01,,93110,False,2025-06-30,full,False,False,False,Peterborough
+Plymouth,07796376,PLYMOUTH ARGYLE FOOTBALL CLUB LIMITED,active,ltd,2011-10-04,,93120,True,2025-06-30,group,False,False,False,Devon
+Plymouth,07690524,PLYMOUTH ARGYLE FOOTBALL CLUB (125) LIMITED,dissolved,ltd,2011-07-01,2013-03-19,,False,,null,,False,False,Plymouth
+Plymouth,00110819,PLYMOUTH ARGYLE FOOTBALL COMPANY LIMITED(THE),dissolved,ltd,1910-07-15,2015-10-27,9261,False,2009-05-31,full,,True,True,Sheffield
+Plymouth,04242687,PLYMOUTH ARGYLE FOOTBALL COMPANY (HOLDINGS) LIMITED,dissolved,ltd,2001-06-28,2013-07-23,7415,False,2009-05-31,group,,False,True,London
+Plymouth,CE018989,PLYMOUTH ARGYLE HERITAGE ARCHIVE,,charitable-incorporated-organisation,,,,False,,,,False,False,
+Plymouth,10728762,PLYMOUTH ARGYLE HERITAGE ARCHIVE,dissolved,private-limited-guarant-nsc-limited-exemption,2017-04-19,2020-09-22,91012;91020,False,2019-04-30,total-exemption-full,,False,False,Plymouth
+Plymouth,03618812,PLYMOUTH ARGYLE DEVELOPMENTS LIMITED,dissolved,ltd,1998-08-20,2016-12-06,68320,False,2015-05-31,dormant,,False,False,Tiverton
+Portsmouth,11538360,PORTSMOUTH FOOTBALL CLUB LIMITED,active,ltd,2018-08-28,,93120,True,2026-08-31,dormant,False,False,False,Portsmouth
+Portsmouth,07963840,PORTSMOUTH FOOTBALL CLUB LTD,dissolved,ltd,2012-02-24,2018-04-24,93199,False,2016-02-24,dormant,,False,False,Hampshire
+Portsmouth,06567232,PORTSMOUTH FOOTBALL CLUB LIMITED,dissolved,ltd,2008-04-16,2012-02-14,9999,False,2010-04-30,dormant,,False,False,Southampton
+Portsmouth,12414726,PORTSMOUTH FOOTBALL CLUB(FRATTON PARK) LIMITED,active,ltd,2020-01-20,,93120,True,2026-01-31,dormant,False,False,False,Portsmouth
+Portsmouth,07264768,PORTSMOUTH FOOTBALL CLUB (2010) LIMITED,dissolved,ltd,2010-05-25,2020-11-17,9261;9262,False,,null,,True,True,Woldingham
+Portsmouth,08225145,PORTSMOUTH FOOTBALL CLUB FRATTON PARK LIMITED,dissolved,ltd,2012-09-24,2014-02-04,,False,,null,,False,False,London
+Portsmouth,08224727,PORTSMOUTH FOOTBALL CLUB (2012) LIMITED,dissolved,ltd,2012-09-21,2014-02-04,,False,,null,,False,False,London
+Portsmouth,12405581,PORTSMOUTH CITY FOOTBALL CLUB LIMITED,active,ltd,2020-01-15,,93120,True,2026-01-31,dormant,False,False,False,Portsmouth
+Preston,00039494,"PRESTON NORTH END FOOTBALL CLUB,LIMITED(THE)",active,ltd,1893-08-29,,93120,True,2025-06-30,full,False,False,False,Preston
+Preston,01621060,PRESTON NORTH END LIMITED,active,ltd,1982-03-10,,93120,True,2025-06-30,group,False,False,False,Preston
+Preston,04322676,FRIENDS OF PRESTON NORTH END LIMITED,dissolved,ltd,2001-11-14,2018-04-24,68209,False,2017-05-31,total-exemption-small,,True,False,Preston
+QPR,00060094,"QUEENS PARK RANGERS FOOTBALL & ATHLETIC CLUB,LIMITED,(THE)",active,ltd,1898-12-29,,93110,False,2025-05-31,full,False,False,True,London
+Reading,00053703,THE READING FOOTBALL CLUB LIMITED,active,ltd,1897-08-11,,93199,False,2025-06-30,group,False,False,False,Reading
+Rotherham,06550400,ROTHERHAM UNITED FOOTBALL CLUB (RUFC) LIMITED,active,ltd,2008-04-01,,93120,True,2025-06-30,medium,False,False,False,Rotherham
+Rotherham,00158654,ROTHERHAM UNITED FOOTBALL CLUB LIMITED(THE),dissolved,ltd,1919-09-09,2011-06-07,9261,False,2005-05-31,small,,True,True,
+Scunthorpe,00123622,SCUNTHORPE UNITED FOOTBALL CLUB LIMITED,active,ltd,1912-08-06,,93110,False,2025-06-30,unaudited-abridged,False,False,False,Scunthorpe
+Sheffield United,00061564,THE SHEFFIELD UNITED FOOTBALL CLUB LIMITED,active,ltd,1899-04-18,,93120,True,2025-06-30,full,False,False,False,Sheffield
+Sheffield Weds,02509978,SHEFFIELD WEDNESDAY FOOTBALL CLUB LIMITED,administration,ltd,1990-06-08,,93110,False,2024-07-31,full,True,False,True,Northampton
+Sheffield Weds,00062478,SHEFFIELD WEDNESDAY PLC,active,plc,1899-06-08,,9261,False,2009-05-31,group,True,True,False,
+Southampton,00053301,SOUTHAMPTON FOOTBALL CLUB LIMITED,active,ltd,1897-07-12,,93110,False,2025-06-30,full,False,False,False,Southampton
+Southampton,CE033768,CITY OF SOUTHAMPTON SWIMMING CLUB,,charitable-incorporated-organisation,,,,False,,,,False,False,
+Southampton,01476015,CLUB LIBRA (SOUTHAMPTON) LIMITED,liquidation,ltd,1980-01-29,,,False,,null,True,True,True,
+Southampton,CE035192,FRIENDS OF SOUTHAMPTON GYMNASTICS CLUB,,charitable-incorporated-organisation,,,,False,,,,False,False,
+Southampton,IP04840R,HULSE ROAD SOCIAL CLUB SOUTHAMPTON LIMITED,converted-closed,industrial-and-provident-society,,,,False,,,,False,False,
+Southampton,IP14581R,ROYAL BRITISH LEGION MANOR (SOUTHAMPTON) CLUB LIMITED,converted-closed,industrial-and-provident-society,,,,False,,,,False,False,
+Southampton,05670438,THE ROYAL SOUTHAMPTON YACHT CLUB LIMITED,active,private-limited-guarant-nsc,2006-01-10,,93120,True,2025-10-31,total-exemption-full,False,False,False,Brockenhurst
+Southampton,05298090,SOUTHAMPTON & DISTRICT MOTOR CYCLE CLUB,active,private-limited-guarant-nsc-limited-exemption,2004-11-26,,93290,False,2025-11-30,micro-entity,False,False,False,Eastleigh
+Stoke,00099885,STOKE CITY FOOTBALL CLUB LIMITED,active,ltd,1908-10-14,,93120,True,2025-05-31,full,False,False,False,Stoke-On-Trent
+Sunderland,00049116,"SUNDERLAND ASSOCIATION FOOTBALL CLUB,LIMITED(THE)",active,ltd,1896-08-12,,93110,False,2025-07-31,full,False,False,False,Tyne And Wear
+Sunderland,IP18940R,SUNDERLAND FOOTBALL SUPPORTER'S CLUB LIMITED,converted-closed,industrial-and-provident-society,,,,False,,,,False,False,
+Sunderland,13115277,SUNDERLAND ALBION FOOTBALL CLUB LTD,dissolved,private-limited-guarant-nsc,2021-01-06,2022-06-14,93120,True,,null,,False,False,Houghton Le Spring
+Sunderland,10099219,SUNDERLAND WEST END FOOTBALL CLUB LIMITED,dissolved,private-limited-guarant-nsc,2016-04-02,2022-04-26,93120,True,2019-04-30,micro-entity,,False,False,Birtley
+Sunderland,IP21221R,SUNDERLAND ROYAL NAVAL ASSOCIATION CLUB LIMITED,active,registered-society-non-jurisdictional,,,,False,,null,,False,False,
+Swansea,00123414,SWANSEA CITY ASSOCIATION FOOTBALL CLUB LIMITED(THE),active,ltd,1912-07-25,,93120,True,2025-06-30,full,False,False,True,Swansea
+Swansea,04056708,SWANSEA CITY FOOTBALL CLUB LIMITED,active,ltd,2000-08-21,,93120,True,2025-06-30,unaudited-abridged,False,False,False,Swansea
+Swansea,04305508,SWANSEA CITY FOOTBALL 2002 LIMITED,active,ltd,2001-10-16,,93120,True,2025-06-30,group,False,False,False,Swansea
+Tottenham,06279984,TOTTENHAM HOTSPUR FOOTBALL CO LIMITED,active,ltd,2007-06-14,,93110,False,2025-06-30,full,False,False,False,London
+Tottenham,00057186,TOTTENHAM HOTSPUR FOOTBALL & ATHLETIC CO. LTD,active,ltd,1898-05-03,,93110,False,2025-06-30,full,False,False,False,London
+Tottenham,10443734,TOTTENHAM HOTSPUR FOOTBALL CLUB HOLDINGS LIMITED,active,ltd,2016-10-25,,93120,True,2025-06-30,dormant,False,False,False,London
+Tottenham,09174393,FOOTBALLWEBWATCH - TOTTENHAM HOTSPUR LIMITED,dissolved,ltd,2014-08-13,2014-12-30,,False,,null,,False,False,Buckingham
+Tottenham,01706358,TOTTENHAM HOTSPUR LIMITED,active,ltd,1983-03-14,,93110,False,2025-06-30,group,False,False,False,London
+Tottenham,13009818,TOTTENHAM HOTSPUR HOTEL LTD,active,ltd,2020-11-11,,68209,False,2025-06-30,audit-exemption-subsidiary,False,False,False,London
+Tottenham,13009782,TOTTENHAM HOTSPUR LEISURE LTD,active,ltd,2020-11-11,,68209,False,2025-06-30,dormant,False,False,False,London
+Tottenham,06279820,TOTTENHAM HOTSPUR PROPERTY CO. LIMITED,active,ltd,2007-06-14,,68209,False,2025-06-30,audit-exemption-subsidiary,False,False,False,London
+Watford,00104194,WATFORD ASSOCIATION FOOTBALL CLUB LIMITED(THE),active,ltd,1909-07-22,,93199,False,2025-06-30,full,False,False,False,Watford Hertfordshire
+Watford,03335610,WATFORD LEISURE LIMITED,dissolved,ltd,1997-03-19,2023-01-26,82990,False,2011-06-30,full,,True,True,London
+Watford,IP23771R,WATFORD ROYAL NAVAL ASSOCIATION CLUB LIMITED,converted-closed,industrial-and-provident-society,,,,False,,,,False,False,
+Watford,11416478,NORTH WATFORD BOYS FOOTBALL CLUB LIMITED,dissolved,ltd,2018-06-14,2018-09-25,93199,False,,null,,False,False,Watford
+West Brom,03295063,WEST BROMWICH ALBION FOOTBALL CLUB LIMITED,active,ltd,1996-12-16,,93120,True,2025-06-30,full,False,False,False,West Midlands
+West Brom,00034292,WEST BROMWICH ALBION HERITAGE LIMITED,active,ltd,1891-06-27,,93110,False,2025-06-30,small,False,False,False,West Midlands
+West Brom,07230595,WEST BROMWICH ALBION GROUP LIMITED,active,ltd,2010-04-21,,93120,True,2025-06-30,group,False,False,False,West Bromwich
+West Ham,00066516,WEST HAM UNITED FOOTBALL CLUB LIMITED,active,ltd,1900-07-05,,93120,True,2025-05-31,full,False,False,False,London
+Wigan,13161421,WIGAN ATHLETIC A.F.C. LIMITED,active,ltd,2021-01-27,,93120,True,2025-06-30,full,False,False,False,Wigan
+Wigan,07283993,WIGAN ATHLETIC HOLDINGS LIMITED,dissolved,ltd,2010-06-14,2025-10-10,93110,False,2019-06-30,full,,False,True,Manchester
+Wigan,13085411,FLM WIGAN ATHLETIC LIMITED,dissolved,ltd,2020-12-16,2021-11-09,82990,False,,null,,False,False,Wigan
+Wigan,12926841,AFC WIGAN ATHLETIC LIMITED,dissolved,ltd,2020-10-04,2021-04-13,82990,False,,null,,False,False,Wigan
+Wolves,01989823,WOLVERHAMPTON WANDERERS FOOTBALL CLUB (1986) LIMITED,active,ltd,1986-02-14,,93120,True,2025-06-30,full,False,False,False,Wolverhampton
+Wrexham,00124022,WREXHAM ASSOCIATION FOOTBALL CLUB LIMITED(THE),active,ltd,1912-08-29,2017-06-06,9261,False,2003-05-31,full,True,True,True,Wrexham
+Wrexham,CE013759,WREXHAM INCLUSION FOOTBALL CLUB,,charitable-incorporated-organisation,,,,False,,,,False,False,
+Wrexham,06690270,WREXHAM RUGBY UNION FOOTBALL CLUB LIMITED,active,private-limited-guarant-nsc,2008-09-05,,93120,True,2026-05-31,micro-entity,False,False,False,Wrexham
+Wrexham,IP21424R,WREXHAM ROYAL NAVAL ASSOCIATION CLUB LIMITED,converted-closed,industrial-and-provident-society,,,,False,,,,False,False,
+Wycombe,05132509,WYCOMBE WANDERERS FOOTBALL CLUB LIMITED,active,ltd,2004-05-19,,93199,False,2025-06-30,small,False,False,False,High Wycombe
+Yeovil,13137403,YEOVIL TOWN FOOTBALL CLUB LTD,dissolved,ltd,2021-01-15,2023-07-25,93199,False,,null,,False,False,Yeovil
