@@ -1,0 +1,398 @@
+{
+  "etag": "6c209bb4178b6fe7047eff464393b2c7574e7736",
+  "items": [
+    {
+      "charge_code": "025099780009",
+      "charge_number": 9,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2018-04-23",
+      "delivered_on": "2018-04-23",
+      "etag": "98999e8a04d2e128c00d33e662240787aea03fe4",
+      "links": {
+        "self": "/company/02509978/charges/MuRa_cEfmJmwpWvo_gERU7UQsyI"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Close Leasing LTD"
+        }
+      ],
+      "satisfied_on": "2018-07-17",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2018-04-23",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/02509978/filing-history/MzIwMzIwMTE3MWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2018-06-26",
+          "filing_type": "charge-whole-release",
+          "links": {
+            "filing": "/company/02509978/filing-history/MzIwODMyNjE2OWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2018-07-17",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/02509978/filing-history/MzIwOTkyNzU0MGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "025099780008",
+      "charge_number": 8,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2013-10-31",
+      "delivered_on": "2013-11-18",
+      "etag": "5a810d457f64dae2d34fbe118ee331d2f292d822",
+      "links": {
+        "self": "/company/02509978/charges/o3I7Amqz_euQF90BIfKFlrUk2EQ"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "description": "F/H property k/a hillsborough football stadium penistone road north sheffield t/no SYK384069. Notification of addition to or amendment of charge.",
+        "type": "brief-description"
+      },
+      "persons_entitled": [
+        {
+          "name": "Gol International Limited"
+        }
+      ],
+      "satisfied_on": "2015-02-05",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2013-11-18",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/02509978/filing-history/MzA4OTI0NTE4NGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2015-02-05",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/02509978/filing-history/MzExNzAwODk4OWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "025099780007",
+      "charge_number": 7,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2013-09-27",
+      "delivered_on": "2013-10-17",
+      "etag": "988745f10397cf736b83ebe563ffd304544e16aa",
+      "links": {
+        "self": "/company/02509978/charges/TOJNBf45JYrEgZWq9OZK0qIGvWc"
+      },
+      "particulars": {
+        "description": "Hillsborough football stadium penistone road north sheffield.",
+        "type": "brief-description"
+      },
+      "persons_entitled": [
+        {
+          "name": "Terence William Brown"
+        }
+      ],
+      "satisfied_on": "2015-02-02",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2013-10-17",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/02509978/filing-history/MzA4NzIyNzg4OWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2015-02-02",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/02509978/filing-history/MzExNzAxODg4OGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 6,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "2012-10-19",
+      "delivered_on": "2012-10-25",
+      "etag": "1d3d1fc58baf67ea6a2e4cecf9dc89ee697e8218",
+      "links": {
+        "self": "/company/02509978/charges/fVWRKjdEDgkjax_hq19b9BxXSl0"
+      },
+      "particulars": {
+        "description": "F/H property k/a hillsborough football stadium penistone road north sheffield t/n SYK384069.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Terence William Brown, Pjsl Limited and Trustees of the Latham Management Limited Sps"
+        }
+      ],
+      "satisfied_on": "2015-02-02",
+      "secured_details": {
+        "description": "£2,000,000.00 and all other monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2012-10-25",
+          "filing_type": "create-charge-pre-april-2013",
+          "links": {
+            "filing": "/company/02509978/filing-history/MzA2NjYxMzQwMGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2015-02-02",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/02509978/filing-history/MzExNzAxODM4MGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 5,
+      "classification": {
+        "description": "Debenture & legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "2004-07-05",
+      "delivered_on": "2004-07-12",
+      "etag": "5f1952d048765902a6d84508e79e108cc13e0964",
+      "links": {
+        "self": "/company/02509978/charges/9blKl7uoicbN-Y4PaNiViHwDwTw"
+      },
+      "particulars": {
+        "description": "Hillsborough stadium penistone road, sheffield t/no SYK384069; 236,238,242,246,248,250 & 256,252,254,258,260 & 262,264,266 & 272 penistone road, sheffield (andland on east side of pennistone road, sheffield); land on the north side of parkside road, sheffield (f/h); training ground, middlewood road t/no SYK142919 (l/H. Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery. See the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "David Easton Dey Allen"
+        }
+      ],
+      "satisfied_on": "2007-12-05",
+      "secured_details": {
+        "description": "£1,000,000 and all other monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2004-07-12",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/02509978/filing-history/MDA5MTg5OTM5NWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2007-12-05",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/02509978/filing-history/MDE4OTE2ODk5NGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 4,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "2003-05-21",
+      "delivered_on": "2003-05-31",
+      "etag": "84ed9485eaf132259292be936db9aed016c778fc",
+      "links": {
+        "self": "/company/02509978/charges/WGyDVPAGGC5CVXOcvqGSRb_3ico"
+      },
+      "particulars": {
+        "description": "Freehold premises at hillsborough stadium penistone road sheffield. 236, 238, 242, 246, 248, 250 & 256, 252, 254, 258, 260 & 262, 264, 266 & 272 penistone road sheffield and land on east side of penistone road sheffield. Land on the north west side of parkside road sheffield. For further details of property charged please refer to form 395. see the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Keith Tilsley Addy, David Easton Dey Allen and Robert Mcmorrine Grierson"
+        }
+      ],
+      "satisfied_on": "2011-01-18",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the noteholders under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2003-05-31",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2011-01-18",
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "links": {
+            "filing": "/company/02509978/filing-history/MzAzMDY5OTQ5NWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 3,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "2003-05-21",
+      "delivered_on": "2003-05-31",
+      "etag": "e70b2acaf489e9edfe63d71ced1a4af0ee9a5179",
+      "links": {
+        "self": "/company/02509978/charges/Z4PaXZeZ4hZPsHBhIio_byXWD1o"
+      },
+      "particulars": {
+        "description": "Freehold premises at hillsborough statium penistone road sheffield, 236, 238, 242, 246, 248, 250 & 256, 252, 254, 258, 260 & 262, 264, 266 & 272 penistone road sheffield and land on east side of penistone road sheffield, land on the north west side of parkside road sheffield. For further details of property charged please refer to form 395.. see the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Keith Tilsley Addy, David Easton Dey Allen and Robert Mcmorrine Grierson"
+        }
+      ],
+      "satisfied_on": "2011-01-18",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the noteholders under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2003-05-31",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2011-01-18",
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "links": {
+            "filing": "/company/02509978/filing-history/MzAzMDY5OTM5OWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 2,
+      "classification": {
+        "description": "Assignment of payments",
+        "type": "charge-description"
+      },
+      "created_on": "2000-03-09",
+      "delivered_on": "2000-03-20",
+      "etag": "56123d123134592fbcf12acc968f2d164a0c674e",
+      "links": {
+        "self": "/company/02509978/charges/HninS-a7sUhpgxvQngH6f7GfMxU"
+      },
+      "particulars": {
+        "description": "All right title and interest in and to the premier league payments. See the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Co-Operative Bank PLC"
+        }
+      ],
+      "satisfied_on": "2011-01-18",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2000-03-20",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/02509978/filing-history/MDA4NjE0Nzg5N2FkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2011-01-18",
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "links": {
+            "filing": "/company/02509978/filing-history/MzAzMDY5OTI3MmFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 1,
+      "classification": {
+        "description": "Debenture",
+        "type": "charge-description"
+      },
+      "created_on": "1995-06-19",
+      "delivered_on": "1995-06-20",
+      "etag": "e2b1035351847d4c1954da72b1cd2bdf9656732f",
+      "links": {
+        "self": "/company/02509978/charges/QpWZy5RhxoOipPRffZWfvRTIPWg"
+      },
+      "particulars": {
+        "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Co-Operative Bank PLC"
+        }
+      ],
+      "satisfied_on": "2011-01-18",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1995-06-20",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/02509978/filing-history/MDEwMjY0NjkzMmFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2011-01-18",
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "links": {
+            "filing": "/company/02509978/filing-history/MzAzMDY5OTE5OWFkaXF6a2N4"
+          }
+        }
+      ]
+    }
+  ],
+  "part_satisfied_count": 0,
+  "satisfied_count": 9,
+  "total_count": 9,
+  "unfiltered_count": 9
+}

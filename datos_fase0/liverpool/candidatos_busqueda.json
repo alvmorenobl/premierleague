@@ -1,0 +1,273 @@
+[
+  {
+    "address": {
+      "address_line_2": "Anfield Road",
+      "locality": "Liverpool",
+      "postal_code": "L4 0TH",
+      "region": "Merseyside"
+    },
+    "address_snippet": "Anfield Road, Liverpool, Merseyside, L4 0TH",
+    "company_number": "00035668",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "1892-01-26",
+    "description": "00035668 - Incorporated on 26 January 1892",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/00035668"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "LIVERPOOL FOOTBALL CLUB AND ATHLETIC GROUNDS PUBLICLIMITED COMPANY(THE)",
+    "title": "THE LIVERPOOL FOOTBALL CLUB AND ATHLETIC GROUNDS LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "Clackmannan Road",
+      "locality": "Alloa",
+      "postal_code": "FK10 1RY",
+      "premises": "Indodrill Stadium",
+      "region": "Clackmannanshire"
+    },
+    "address_snippet": "Indodrill Stadium, Clackmannan Road, Alloa, Clackmannanshire, FK10 1RY",
+    "company_number": "SC010309",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "1919-04-05",
+    "description": "SC010309 - Incorporated on 5 April 1919",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/SC010309"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "ALLOA FOOTBALL AND ATHLETIC CLUB, LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "Tryfield Place",
+      "locality": "Ayr",
+      "postal_code": "KA8 9NB",
+      "premises": "Somerset Park"
+    },
+    "address_snippet": "Somerset Park, Tryfield Place, Ayr, KA8 9NB",
+    "company_number": "SC005950",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "1905-08-19",
+    "description": "SC005950 - Incorporated on 19 August 1905",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/SC005950"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "THE AYR UNITED FOOTBALL AND ATHLETIC CLUB, LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "Off Clandeboye Rd",
+      "country": "United Kingdom",
+      "locality": "Bangor",
+      "postal_code": "BT20 3HR",
+      "premises": "Clandeboye Park 1a Hawthorne Court",
+      "region": "Down"
+    },
+    "address_snippet": "Clandeboye Park 1a Hawthorne Court, Off Clandeboye Rd, Bangor, Down, United Kingdom, BT20 3HR",
+    "company_number": "NI003211",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "1953-04-21",
+    "description": "NI003211 - Incorporated on 21 April 1953",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/NI003211"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "BANGOR FOOTBALL AND ATHLETIC CLUB LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "48-60 High St",
+      "country": "Northern Ireland",
+      "locality": "Belfast",
+      "postal_code": "BT1 2BE",
+      "premises": "C/O Tlt (N.I.) Llp River House"
+    },
+    "address_snippet": "C/O Tlt (N.I.) Llp River House, 48-60 High St, Belfast, Northern Ireland, BT1 2BE",
+    "company_number": "NI713273",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "2024-04-03",
+    "description": "NI713273 - Incorporated on 3 April 2024",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/NI713273"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "BELFAST CELTIC FOOTBALL AND ATHLETIC CLUB LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "Boldmere",
+      "locality": "Sutton Coldfield",
+      "postal_code": "B73 5RY",
+      "premises": "Church Road",
+      "region": "W Mids"
+    },
+    "address_snippet": "Church Road, Boldmere, Sutton Coldfield, W Mids, B73 5RY",
+    "company_number": "00473418",
+    "company_status": "active",
+    "company_type": "private-limited-guarant-nsc",
+    "date_of_creation": "1949-09-30",
+    "description": "00473418 - Incorporated on 30 September 1949",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/00473418"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "BOLDMERE ST. MICHAEL'S FOOTBALL AND ATHLETIC CLUB LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "Solitude",
+      "locality": "Cliftonville Street",
+      "postal_code": "BT14 6LP",
+      "premises": "The Pavilion",
+      "region": "Belfast"
+    },
+    "address_snippet": "The Pavilion, Solitude, Cliftonville Street, Belfast, BT14 6LP",
+    "company_number": "R0000145",
+    "company_status": "active",
+    "company_type": "private-limited-guarant-nsc",
+    "date_of_creation": "1912-04-01",
+    "description": "R0000145 - Incorporated on 1 April 1912",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/R0000145"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "CLIFTONVILLE FOOTBALL AND ATHLETIC CLUB LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "Stenhousemuir",
+      "country": "Scotland",
+      "locality": "Larbert",
+      "postal_code": "FK5 4QL",
+      "premises": "Ochilview Park Gladstone Road"
+    },
+    "address_snippet": "Ochilview Park Gladstone Road, Stenhousemuir, Larbert, Scotland, FK5 4QL",
+    "company_number": "SC007575",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "1910-06-15",
+    "description": "SC007575 - Incorporated on 15 June 1910",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/SC007575"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "EAST STIRLINGSHIRE FOOTBALL AND ATHLETIC CLUB LIMITED (THE)"
+  },
+  {
+    "address": {
+      "address_line_1": "Westfield",
+      "country": "Scotland",
+      "locality": "Falkirk",
+      "postal_code": "FK2 9EE",
+      "premises": "The Falkirk Stadium",
+      "region": "Stirlingshire"
+    },
+    "address_snippet": "The Falkirk Stadium, Westfield, Falkirk, Stirlingshire, Scotland, FK2 9EE",
+    "company_number": "SC005854",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "1905-04-26",
+    "description": "SC005854 - Incorporated on 26 April 1905",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/SC005854"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "FALKIRK FOOTBALL AND ATHLETIC CLUB LTD. (THE)"
+  },
+  {
+    "address": {
+      "address_line_1": "Boslowick Road",
+      "country": "United Kingdom",
+      "locality": "Falmouth",
+      "postal_code": "TR11 4QD",
+      "premises": "79-81",
+      "region": "Cornwall"
+    },
+    "address_snippet": "79-81 Boslowick Road, Falmouth, Cornwall, United Kingdom, TR11 4QD",
+    "company_number": "07415491",
+    "company_status": "active",
+    "company_type": "private-limited-guarant-nsc",
+    "date_of_creation": "2010-10-21",
+    "description": "07415491 - Incorporated on 21 October 2010",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/07415491"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "FALMOUTH RUGBY FOOTBALL AND ATHLETIC CLUB LIMITED"
+  }
+]

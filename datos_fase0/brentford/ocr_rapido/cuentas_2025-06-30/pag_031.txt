@@ -1,0 +1,65 @@
+Docusign Envelope 1D: 73C4E23E-GAF8-402A-8F11-463C7EC78800
+Brentford FC Ltd (Registered number: 03642327)
+
+Notes to the Consolidated Cash Flow Statement
+for the Year Ended 30 June 2025
+
+ 
+
+ 
+
+ 
+
+1. Reconciliation of loss before taxation to cash generated from operations
+30/6/25 30/6/24
+£'000 £'000
+Loss before taxation (20,527) (7,873)
+Depreciation charges 11,390 8,694
+Amortisation of intangible assets 47,872 35,631
+Gain on disposal of intangible assets (27,236) (25,198)
+Profit on sale of tangible assets (8,796) :
+Interest payable and similar expenses 10,446 5,020
+Interest receivable and similar income (2,680) (1,168)
+Unrealised FX losses 736 :
+11,205 15,106
+Decrease/{Increase) in stocks (280) (27)
+Decrease/(Increase) in trade and other debtors (12,623) 2,530
+Increase in trade and other creditors 6,707 3,804
+Increase/(Decrease) in provision 97) 48
+Cash generated from operations 4,912 4
+
+ 
+
+2. Cash and cash equivalents
+
+The amounts disclosed on the Cash Flow Statement in respect of cash and cash equivalents are
+in respect of these Balance Sheet amounts:
+
+Year ended 30 June 2025 30/6/25 30/6/24
+£'000 £'000
+Cash in hand 1,977 7,470
+Bank overdraft (26,548) _(36,747)
+Total (24,574) (29,277)
+
+3. Analysis of changes in net (debt)/funds
+At 30/6/24 Cashflow At 30/6/25
+
+£000 £'000 £'000
+Cash
+Cash in hand 7,470 (5,493) 1,977
+Bank overdraft (36,747) 10,199 (26,548)
+(29,277) 4,706 (24,871)
+Debt
+Debts falling due within one year (23,260) (43,924) (67,184)
+Debts falling due after one year 38,340 = — _(38,340)
+(61,600) (43,924) (105,524)
+Total 90,877, 39,218) (130,095)
+
+ 
+
+ 
+
+ 
+
+29
+

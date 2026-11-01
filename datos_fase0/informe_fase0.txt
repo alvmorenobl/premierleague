@@ -1,0 +1,37 @@
+=== SHEFFIELD_WEDNESDAY ===
+Sociedad: SHEFFIELD WEDNESDAY FOOTBALL CLUB LIMITED (02509978)
+Estado: administration  |  Cuentas vencidas: True
+Cuentas anuales en el historial: 36
+Retraso (dias desde el cierre hasta la presentacion), ultimas 6: 2024-07-31->2024-12-30: 152; 2023-07-31->2024-03-04: 217; 2022-07-31->2023-07-31: 365; 2021-07-31->2022-05-19: 292; 2021-07-31->2022-05-05: 278; 2020-07-31->2021-07-07: 341
+Prestamos garantizados: total 9, vigentes 0
+Administradores (historico): 26, de ellos dimitidos/cesados: 25
+Cuentas descargadas: 2024-07-31: XHTML (351 KB); 2023-07-31: XHTML (648 KB); 2022-07-31: XHTML (614 KB)
+
+=== EVERTON ===
+Sociedad: EVERTON FOOTBALL CLUB COMPANY, LIMITED (00036624)
+Estado: active  |  Cuentas vencidas: False
+Cuentas anuales en el historial: 52
+Retraso (dias desde el cierre hasta la presentacion), ultimas 6: 2025-06-30->2026-04-12: 286; 2024-06-30->2025-04-02: 276; 2023-06-30->2024-04-10: 285; 2022-06-30->2023-04-12: 286; 2021-06-30->2022-04-05: 279; 2020-06-30->2021-03-05: 248
+Prestamos garantizados: total 78, vigentes 3
+Administradores (historico): 42, de ellos dimitidos/cesados: 36
+Cuentas descargadas: 2025-06-30: PDF (2774 KB); 2024-06-30: PDF (1790 KB); 2023-06-30: PDF (1343 KB)
+
+=== BRENTFORD ===
+Sociedad: BRENTFORD FC LIMITED (03642327)
+Estado: active  |  Cuentas vencidas: False
+Cuentas anuales en el historial: 28
+Retraso (dias desde el cierre hasta la presentacion), ultimas 6: 2025-06-30->2026-03-16: 259; 2024-06-30->2025-04-11: 285; 2023-06-30->2024-03-20: 264; 2022-06-30->2023-04-05: 279; 2021-06-30->2022-01-19: 203; 2020-06-30->2021-04-16: 290
+Prestamos garantizados: total 36, vigentes 10
+Administradores (historico): 46, de ellos dimitidos/cesados: 39
+Cuentas descargadas: 2025-06-30: PDF (2111 KB); 2024-06-30: PDF (2392 KB); 2023-06-30: PDF (2103 KB)
+
+=== LIVERPOOL ===
+Sociedad: THE LIVERPOOL FOOTBALL CLUB AND ATHLETIC GROUNDS LIMITED (00035668)
+Estado: active  |  Cuentas vencidas: False
+Cuentas anuales en el historial: 52
+Retraso (dias desde el cierre hasta la presentacion), ultimas 6: 2025-05-31->2026-03-04: 277; 2024-05-31->2025-03-03: 276; 2023-05-31->2024-03-08: 282; 2022-05-31->2023-03-02: 275; 2021-05-31->2022-03-02: 275; 2020-05-31->2021-05-07: 341
+Prestamos garantizados: total 22, vigentes 5
+Administradores (historico): 45, de ellos dimitidos/cesados: 37
+Cuentas descargadas: 2025-05-31: PDF (1706 KB); 2024-05-31: PDF (1554 KB); 2023-05-31: PDF (1518 KB)
+
+Cifras iXBRL extraidas: 783 (clave: 339)

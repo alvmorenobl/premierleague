@@ -1,0 +1,266 @@
+[
+  {
+    "address": {
+      "address_line_1": "Regent Road",
+      "country": "England",
+      "locality": "Liverpool",
+      "postal_code": "L3 0BW",
+      "premises": "Hill Dickinson Stadium"
+    },
+    "address_snippet": "Hill Dickinson Stadium, Regent Road, Liverpool, England, L3 0BW",
+    "company_number": "00036624",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "1892-06-14",
+    "description": "00036624 - Incorporated on 14 June 1892",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/00036624"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "EVERTON FOOTBALL CLUB COMPANY,LIMITED(THE)",
+    "title": "EVERTON FOOTBALL CLUB COMPANY, LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "Goodison Road",
+      "locality": "Liverpool",
+      "postal_code": "L4 4EL",
+      "premises": "Goodison Park",
+      "region": "Merseyside"
+    },
+    "address_snippet": "Goodison Park, Goodison Road, Liverpool, Merseyside, L4 4EL",
+    "company_number": "07335143",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "2010-08-04",
+    "description": "07335143 - Incorporated on 4 August 2010",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/07335143"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "THE EVERTON LADIES FOOTBALL CLUB LIMITED",
+    "title": "EVERTON FOOTBALL CLUB WOMEN LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "Wenlock Road",
+      "country": "England",
+      "locality": "London",
+      "postal_code": "N1 7GU",
+      "premises": "20-22"
+    },
+    "address_snippet": "20-22 Wenlock Road, London, England, N1 7GU",
+    "company_number": "11153806",
+    "company_status": "dissolved",
+    "company_type": "ltd",
+    "date_of_cessation": "2019-07-02",
+    "date_of_creation": "2018-01-17",
+    "description": "11153806 - Dissolved on 2 July 2019",
+    "description_identifier": [
+      "dissolved-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/11153806"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "EVERTON FOOTBALL CLUB",
+    "title": "ONLINE AGENCY LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "Dickens Court",
+      "country": "England",
+      "locality": "Biggleswade",
+      "postal_code": "SG18 8QE",
+      "premises": "6"
+    },
+    "address_snippet": "6 Dickens Court, Biggleswade, England, SG18 8QE",
+    "company_number": "15954023",
+    "company_status": "dissolved",
+    "company_type": "ltd",
+    "date_of_cessation": "2026-02-17",
+    "date_of_creation": "2024-09-12",
+    "description": "15954023 - Dissolved on 17 February 2026",
+    "description_identifier": [
+      "dissolved-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/15954023"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "EVERTON FOOTBALL GROUP LIMITED"
+  },
+  {
+    "address": {},
+    "company_number": "IP24565R",
+    "company_status": "active",
+    "company_type": "registered-society-non-jurisdictional",
+    "description": "IP24565R",
+    "description_identifier": [
+      null
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/IP24565R"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "EVERTON AND LYMORE SOCIAL CLUB LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "374 Smithdown Road",
+      "country": "England",
+      "locality": "Liverpool",
+      "postal_code": "L15 5AN",
+      "premises": "Penny Lane Business Centre"
+    },
+    "address_snippet": "Penny Lane Business Centre, 374 Smithdown Road, Liverpool, England, L15 5AN",
+    "company_number": "10808604",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "2017-06-08",
+    "description": "10808604 - Incorporated on 8 June 2017",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/10808604"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "EVERTON KIDS CLUB LTD"
+  },
+  {
+    "address": {
+      "address_line_1": "Dee Hills Park",
+      "country": "United Kingdom",
+      "locality": "Chester",
+      "postal_code": "CH3 5AR",
+      "premises": "Cholmondeley House"
+    },
+    "address_snippet": "Cholmondeley House, Dee Hills Park, Chester, United Kingdom, CH3 5AR",
+    "company_number": "13421622",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "2021-05-26",
+    "description": "13421622 - Incorporated on 26 May 2021",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/13421622"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "EVERTON PARK GYMNASTICS CLUB LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "109 Douglas Street",
+      "locality": "Glasgow",
+      "postal_code": "G2 4HB",
+      "premises": "C/O HOLMES MACKILLOP"
+    },
+    "address_snippet": "C/O HOLMES MACKILLOP, 109 Douglas Street, Glasgow, G2 4HB",
+    "company_number": "SC893813",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "2026-06-23",
+    "description": "SC893813 - Incorporated on 23 June 2026",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/SC893813"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "THE RESUSCITATED BAILLIESTON JUNIORS, LUCKIE WHITE HEATHER AND (IN THE EVENT THAT CIRCUMSTANCES PERMIT) ALBION ROVERS FOOTBALL CLUBS' COMMUNITY INTEREST COMPANY",
+    "title": "A SHELF COMPANY FOR THE EVENTUALITY OF AN URGENT ACQUISITION OF SOME NON-HERITABLE ASSETS OF ALBION ROVERS FOOTBALL CLUB, LIMITED COMMUNITY INTEREST COMPANY"
+  },
+  {
+    "address": {
+      "address_line_1": "Gigg Lane",
+      "country": "England",
+      "locality": "Bury",
+      "postal_code": "BL9 9HR",
+      "premises": "Bury Football Club"
+    },
+    "address_snippet": "Bury Football Club, Gigg Lane, Bury, England, BL9 9HR",
+    "company_number": "13907755",
+    "company_status": "active",
+    "company_type": "private-limited-guarant-nsc",
+    "date_of_creation": "2022-02-10",
+    "description": "13907755 - Incorporated on 10 February 2022",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/13907755"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "THE BURY FOOTBALL CLUB COMPANY LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "Gresty Road",
+      "country": "England",
+      "locality": "Crewe",
+      "postal_code": "CW2 6EB",
+      "premises": "Mornflake Stadium",
+      "region": "Cheshire"
+    },
+    "address_snippet": "Mornflake Stadium, Gresty Road, Crewe, Cheshire, England, CW2 6EB",
+    "company_number": "00062367",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "1899-05-31",
+    "description": "00062367 - Incorporated on 31 May 1899",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/00062367"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "CREWE ALEXANDRA FOOTBALL CLUB COMPANY,LIMITED(THE)"
+  }
+]

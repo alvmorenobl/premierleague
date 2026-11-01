@@ -1,0 +1,922 @@
+{
+  "etag": "70c910f334ba5954aaf91d1dbd3b286b359996e6",
+  "items": [
+    {
+      "assets_ceased_released": "part-property-released",
+      "charge_code": "000356680023",
+      "charge_number": 23,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2024-09-20",
+      "delivered_on": "2024-09-27",
+      "etag": "bc94383427c7bfdabba5b8c120b1d2d7dbf52dd7",
+      "links": {
+        "self": "/company/00035668/charges/iESTb1yvQXidtLjcXbIgs-NUgH8"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_floating_charge": true,
+        "contains_negative_pledge": true,
+        "description": "The company grants inter alia a first legal mortgage over and a first fixed charge over real property/related rights (including anfield stadium, title no. MS483402, and others), a first fixed charge over intellectual property/related rights (including liverpool fc, registered no. 007024565, and others). For more details, please refer to the debenture.",
+        "floating_charge_covers_all": true,
+        "type": "brief-description"
+      },
+      "persons_entitled": [
+        {
+          "name": "Natwest Markets PLC as Trustee for Each of the Secured Parties on the Terms and Conditions Set Out in the Intercreditor Agreement"
+        }
+      ],
+      "status": "outstanding",
+      "transactions": [
+        {
+          "delivered_on": "2024-09-27",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00035668/filing-history/MzQzNzQ5NTM5OGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2026-05-27",
+          "filing_type": "charge-part-release",
+          "links": {
+            "filing": "/company/00035668/filing-history/MzUyMzg2OTY0OWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "assets_ceased_released": "part-property-released",
+      "charge_code": "000356680022",
+      "charge_number": 22,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2020-01-31",
+      "delivered_on": "2020-02-11",
+      "etag": "9dec2d2ff7145116cbb1e29ae81f8d3033830790",
+      "links": {
+        "self": "/company/00035668/charges/xImvVheRYBmnlMQ3AyXl2PQozUg"
+      },
+      "particulars": {
+        "chargor_acting_as_bare_trustee": true,
+        "contains_fixed_charge": true,
+        "contains_floating_charge": true,
+        "contains_negative_pledge": true,
+        "description": "The company by means of a debenture grants inter alia a first legal mortgage over and a first fixed charge over real property/related rights (including anfield stadium, title no. MS483402, and others), a first fixed charge over intellectual property/related rights (including liverpool fc, registered no. 007024565, and others), and a first floating charge over all present and future assets (presently no ship or aircraft assets) and undertaking of the company. See debenture.",
+        "floating_charge_covers_all": true,
+        "type": "brief-description"
+      },
+      "persons_entitled": [
+        {
+          "name": "Natwest Markets PLC as Trustee for Each of the Secured Parties on the Terms and Conditions Set Out in the Intercreditor Agreement"
+        }
+      ],
+      "status": "outstanding",
+      "transactions": [
+        {
+          "delivered_on": "2020-02-11",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00035668/filing-history/MzI1Njk1NjgwNmFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2026-05-27",
+          "filing_type": "charge-part-release",
+          "links": {
+            "filing": "/company/00035668/filing-history/MzUyMzg2OTE4OWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000356680021",
+      "charge_number": 21,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2015-09-14",
+      "delivered_on": "2015-09-22",
+      "etag": "fd54341d651417d7fc7c58d27572f8032067a67d",
+      "links": {
+        "self": "/company/00035668/charges/J06RTqv-AwVuv7nw4J9L_9CqtHY"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_floating_charge": true,
+        "contains_negative_pledge": true,
+        "description": "Anfield stadium t/no MS483402 please see image for details of further land (including buildings), ship, aircraft or intellectual property charged.",
+        "floating_charge_covers_all": true,
+        "type": "brief-description"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Royal Bank of Scotland PLC as Trustee for Each of the Secured Parties Subject to the Intercreditor Agreement (The Security Agent)"
+        }
+      ],
+      "status": "outstanding",
+      "transactions": [
+        {
+          "delivered_on": "2015-09-22",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00035668/filing-history/MzEzMTc1NzEzOWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000356680020",
+      "charge_number": 20,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2014-03-28",
+      "delivered_on": "2014-04-04",
+      "etag": "49e54347da472d3cf1d2a60819ade847803561bc",
+      "links": {
+        "self": "/company/00035668/charges/BR_rEKnzW4XlgKjgl8JyZUAscfs"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_floating_charge": true,
+        "contains_negative_pledge": true,
+        "description": "F/H anfield stadium anfield road liverpool t/no.MS483402: l/h anfield stadium anfield road liverpool t/no.MS483403: f/h liverpool football club youth academy t/no.MS387542 please see image for details of further land (including buildings) charged.",
+        "floating_charge_covers_all": true,
+        "type": "brief-description"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Royal Bank of Scotland PLC (The Security Agent)"
+        }
+      ],
+      "status": "outstanding",
+      "transactions": [
+        {
+          "delivered_on": "2014-04-04",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00035668/filing-history/MzA5Nzk0NDc1NmFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 19,
+      "classification": {
+        "description": "Security agreement",
+        "type": "charge-description"
+      },
+      "created_on": "2011-09-30",
+      "delivered_on": "2011-10-10",
+      "etag": "ab4d96302e2574063e4866813420059d952e4785",
+      "links": {
+        "self": "/company/00035668/charges/GBtZAKksezxrvB5IhSUgT_ugraU"
+      },
+      "particulars": {
+        "description": "Fixed and floating charge over the undertaking and all property and assets present and future, including goodwill, book debts, uncalled capital, buildings, fixtures, fixed plant & machinery see image for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Royal Bank of Scotland PLC"
+        }
+      ],
+      "secured_details": {
+        "description": "All monies due or to become due from any obligor to any senior creditor on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "outstanding",
+      "transactions": [
+        {
+          "delivered_on": "2011-10-10",
+          "filing_type": "create-charge-pre-april-2013",
+          "links": {
+            "filing": "/company/00035668/filing-history/MzA0NTM4MjE1NWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 18,
+      "classification": {
+        "description": "Deed of accession",
+        "type": "charge-description"
+      },
+      "created_on": "2010-10-15",
+      "delivered_on": "2010-10-27",
+      "etag": "633e611f85065ddf9c2e6994e29f5d4d1b34a86c",
+      "links": {
+        "self": "/company/00035668/charges/3NcmwQHe-zeSHpDiyT1GCmxCHlQ"
+      },
+      "particulars": {
+        "description": "Fixed and floating charge over the rights, title and interest from time to time in and to the real estate, investments, plant, machinery, vehicles, office equipment, computers and other chattels, accounts, goodwill, intellectual property, any beneficial interest, claim or entitlement of it to any assets of any pension fund and monetary claims see image for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Royal Bank of Scotland PLC"
+        }
+      ],
+      "satisfied_on": "2011-10-05",
+      "secured_details": {
+        "description": "All monies due or to become due from any obligor to any senior creditor on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2010-10-27",
+          "filing_type": "create-charge-pre-april-2013",
+          "links": {
+            "filing": "/company/00035668/filing-history/MzAyNjAyOTE3NmFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2011-10-05",
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "links": {
+            "filing": "/company/00035668/filing-history/MzA0NTA5MTI5OGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 17,
+      "classification": {
+        "description": "Security agreement",
+        "type": "charge-description"
+      },
+      "created_on": "2008-01-25",
+      "delivered_on": "2008-02-08",
+      "etag": "7944d567e09292d3c04eb8244650359de85d628b",
+      "links": {
+        "self": "/company/00035668/charges/nAdl0WF27StRCZHtdBby_fXUaS8"
+      },
+      "particulars": {
+        "description": "F/H anfield stadium anfield road liverpool t/no MS483402; l/h anfield stadium anfield road liverpool t/no MS483403; f/hliverpool football club youth academy th. Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery. See the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Royal Bank of Scotland PLC"
+        }
+      ],
+      "satisfied_on": "2010-11-05",
+      "secured_details": {
+        "description": "All monies due or to become due from any obligor to any senior creditor on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2008-02-08",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MDE5MjA4MDA5MmFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2009-05-13",
+          "filing_type": "charge-released-floating-charge-in-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MjAzMzAyNzU3OGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2010-11-05",
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "links": {
+            "filing": "/company/00035668/filing-history/MzAyNjcwOTI2NWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 16,
+      "classification": {
+        "description": "Debenture",
+        "type": "charge-description"
+      },
+      "created_on": "2002-08-14",
+      "delivered_on": "2002-08-20",
+      "etag": "5940e7bb0d6b0ae1f8d1d17f9907d0630925af65",
+      "links": {
+        "self": "/company/00035668/charges/HvZTFEHCSPt0YTIJzbZd4sw7UPo"
+      },
+      "particulars": {
+        "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2008-10-30",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2002-08-20",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MDA4OTE1Njc0NmFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2008-10-30",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MjAxNjk3MTA1OWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 15,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1999-06-23",
+      "delivered_on": "1999-07-06",
+      "etag": "a48052d6b87d8f76c95f067141d79b13b4a64f80",
+      "links": {
+        "self": "/company/00035668/charges/T36kvp6Em9hiWJ2BtgslP9NduEM"
+      },
+      "particulars": {
+        "description": "The property k/a liverpool football club youth academy, the liverpool way, kirby, (formerly known as land on the south east side of simonswood lane, kirkby, merseysede) t/no MS387542.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2008-07-23",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1999-07-06",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MDA4NTk2NDA2N2FkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2008-07-23",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MjAwOTY3ODk0MGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 13,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1994-06-30",
+      "delivered_on": "1994-07-14",
+      "etag": "05e705af74d23be72d97e6c4cde0440d4bf74d7a",
+      "links": {
+        "self": "/company/00035668/charges/9_0a0__VsATeLEgtsBivTzRn-UY"
+      },
+      "particulars": {
+        "description": "Part of 265, 267 and 269 walton breck road liverpool merseyside t/n ms 83654.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2008-07-23",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1994-07-14",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2008-07-23",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MjAwOTY3OTAwM2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 12,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1994-06-30",
+      "delivered_on": "1994-07-14",
+      "etag": "518ad0b75aad77533d957ab8c51ea8e1e97af51c",
+      "links": {
+        "self": "/company/00035668/charges/yhBgfDcZivywG-i14We2lOGBzIM"
+      },
+      "particulars": {
+        "description": "24D westcliffe road birkdale southport merseyside t/n ms 280771.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2008-07-23",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1994-07-14",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2008-07-23",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MjAwOTY3OTA0OWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 11,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1994-06-30",
+      "delivered_on": "1994-07-14",
+      "etag": "39dc71d997b6d25791e31e82458e72bbd6e8fdd7",
+      "links": {
+        "self": "/company/00035668/charges/PjNBDVseVw8rEESTPpnCcudwLds"
+      },
+      "particulars": {
+        "description": "1-39 (odds) skerries road liverpool and part of the liverpool football club stadium previously k/a land at kemlyn road and walton breck road anfield merseyside t/n ms 321418.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2008-07-23",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1994-07-14",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2008-07-23",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MjAwOTY3OTk2M2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 10,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1994-06-30",
+      "delivered_on": "1994-07-08",
+      "etag": "bee269eb220f476b80751486999a63c6651572b9",
+      "links": {
+        "self": "/company/00035668/charges/vacO1TWCJ0Wfv-h6kRL5XQ9cbYM"
+      },
+      "particulars": {
+        "description": "Previously k/a 164 anfield road liverpool (now part of liverpool football club stadium) merseyside.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2008-07-23",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1994-07-08",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2008-07-23",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MjAwOTY4MDAxNmFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 9,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1994-06-30",
+      "delivered_on": "1994-07-08",
+      "etag": "3bad514d6de2040c6c9dc8ef08e03107ccac7a94",
+      "links": {
+        "self": "/company/00035668/charges/6b_KnN8x_UMuop8yT2QiY_vaRZo"
+      },
+      "particulars": {
+        "description": "Previously k/a 166 anfield road liverpool (now part of liverpool football club stadium) merseyside.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2008-07-23",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1994-07-08",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2008-07-23",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MjAwOTY3ODcwMGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 8,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1994-06-30",
+      "delivered_on": "1994-07-08",
+      "etag": "a9c6395bb65a122b3ac901ea48ce6dce86cb2573",
+      "links": {
+        "self": "/company/00035668/charges/joUTdDSJYcQQq45TN0hwP6Zuv5I"
+      },
+      "particulars": {
+        "description": "Formerly a piece of land in back rockfield road anfield (now forming part of liverpool football club stadium) merseyside.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2008-07-23",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1994-07-08",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2008-07-23",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MjAwOTY3OTkxOGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 7,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1994-06-30",
+      "delivered_on": "1994-07-08",
+      "etag": "7ad1ed9922be24899864b8051c30740913b10475",
+      "links": {
+        "self": "/company/00035668/charges/kxS06kTbkNAAfW3uIP8e25-9cOg"
+      },
+      "particulars": {
+        "description": "F/H property being parcel of land situate on the souh west side of anfield road walton on the hill liverpool and l/h property land on the northerly side of walton breck road (now forming part of liverpool football club stadium) merseyside.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2008-07-23",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1994-07-08",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2008-07-23",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MjAwOTY3OTQxNWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 6,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1994-06-30",
+      "delivered_on": "1994-07-08",
+      "etag": "11933bb1ff3b47825932505d1e7b0be466168c71",
+      "links": {
+        "self": "/company/00035668/charges/GnI4qtD7Mf8E5tODDrvDEiL43zY"
+      },
+      "particulars": {
+        "description": "Formerly land situate in the rear of the rear of the albert hotel 185 walton breck road everton liverpool (now forming part of the liverpool football club stadium) merseyside.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2008-07-23",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1994-07-08",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2008-07-23",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MjAwOTY3OTM2MWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 5,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1994-06-30",
+      "delivered_on": "1994-07-08",
+      "etag": "60668fc2cdbe0adfe3b746260586be146f9855b8",
+      "links": {
+        "self": "/company/00035668/charges/oyYgNg5-cwkFKOXebS00ZD8z9L8"
+      },
+      "particulars": {
+        "description": "F/H and l/h land in anfield road and walton breck road liverpool now forming part of liverpool football club stadium merseyside.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2008-07-23",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1994-07-08",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2008-07-23",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MjAwOTY3OTI5MGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 4,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1994-06-30",
+      "delivered_on": "1994-07-08",
+      "etag": "3e00ccaecf34d743899f196a96f2173adc6e13d5",
+      "links": {
+        "self": "/company/00035668/charges/g2K0e6r1lACjNuSKcD451jd_8y4"
+      },
+      "particulars": {
+        "description": "Land on the north westerly side of deysbrook lane (now k/a the liverpool football club training ground melwood) liverpool merseyside.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2008-07-23",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1994-07-08",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2008-07-23",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MjAwOTY3OTIxOGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 3,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1994-06-30",
+      "delivered_on": "1994-06-30",
+      "etag": "74033917253091db21789715e044833c6fb8bbea",
+      "links": {
+        "self": "/company/00035668/charges/BhI8Q0COj3q1843ZZ-6hQDDqZhM"
+      },
+      "particulars": {
+        "description": "Previously k/a 166A anfield road liverpool (now part of liverpool football club stadium) merseyside.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2008-07-23",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1994-06-30",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/MjAwOTY3OTEwN2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 2,
+      "classification": {
+        "description": "Charge",
+        "type": "charge-description"
+      },
+      "created_on": "1947-08-16",
+      "delivered_on": "1947-08-30",
+      "etag": "5fc2ac96d91a5e34879b3e84b7bef43e06c176d6",
+      "links": {
+        "self": "/company/00035668/charges/ixBok1V7U_bOXJMVXgwbjxhWkYY"
+      },
+      "particulars": {
+        "description": "13 westfield avenue hayton with roby, lancashire, 2 greystone road, south haytonwith roby.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Patrolis Benefit Building Society"
+        }
+      ],
+      "satisfied_on": "1994-07-29",
+      "secured_details": {
+        "description": "Sterling pounds 1950",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1947-08-30",
+          "filing_type": "create-charge"
+        },
+        {
+          "delivered_on": "1994-07-29",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 1,
+      "classification": {
+        "description": "Charge",
+        "type": "charge-description"
+      },
+      "created_on": "1931-11-25",
+      "delivered_on": "1931-12-10",
+      "etag": "359548339e269f76ac1812725282c4fd858207fa",
+      "links": {
+        "self": "/company/00035668/charges/9K4z8dcDqvdXbMonObxMXdEz7Co"
+      },
+      "particulars": {
+        "description": "Freeholds land & anfield park foothall ground, walton breek rd, anfield, liverpool 10 coringsley rd, anfield, afad. 26 richmond park, anfield afad. Leasehold: 38 & 61 chapham rd, anfield, afad.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "1994-07-29",
+      "secured_details": {
+        "description": "All moneys etc.",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1931-12-10",
+          "filing_type": "create-charge"
+        },
+        {
+          "delivered_on": "1994-07-29",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00035668/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    }
+  ],
+  "part_satisfied_count": 0,
+  "satisfied_count": 17,
+  "total_count": 22,
+  "unfiltered_count": 22
+}

@@ -1,0 +1,68 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2025-06-30",
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-07-01",
+      "type": "group"
+    },
+    "next_accounts": {
+      "due_on": "2027-03-31",
+      "overdue": false,
+      "period_end_on": "2026-06-30",
+      "period_start_on": "2025-07-01"
+    },
+    "next_due": "2027-03-31",
+    "next_made_up_to": "2026-06-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "BRENTFORD FC LIMITED",
+  "company_number": "03642327",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2026-10-01",
+    "next_due": "2027-10-15",
+    "next_made_up_to": "2027-10-01",
+    "overdue": false
+  },
+  "date_of_creation": "1998-10-01",
+  "etag": "c1cc599e1713d67684b4b0045cd5420acdfff3ca",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-10-01",
+  "links": {
+    "persons_with_significant_control": "/company/03642327/persons-with-significant-control",
+    "self": "/company/03642327",
+    "charges": "/company/03642327/charges",
+    "filing_history": "/company/03642327/filing-history",
+    "officers": "/company/03642327/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "1998-12-03",
+      "effective_from": "1998-10-01",
+      "name": "IBIS (455) LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "Vantage London",
+    "address_line_2": "Great West Road",
+    "country": "England",
+    "locality": "Brentford",
+    "postal_code": "TW8 9AG"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "93120"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

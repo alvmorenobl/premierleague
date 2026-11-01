@@ -1,0 +1,68 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-07-31",
+      "period_end_on": "2024-07-31",
+      "period_start_on": "2023-08-01",
+      "type": "full"
+    },
+    "next_accounts": {
+      "due_on": "2026-04-30",
+      "overdue": true,
+      "period_end_on": "2025-07-31",
+      "period_start_on": "2024-08-01"
+    },
+    "next_due": "2026-04-30",
+    "next_made_up_to": "2025-07-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "SHEFFIELD WEDNESDAY FOOTBALL CLUB LIMITED",
+  "company_number": "02509978",
+  "company_status": "administration",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-06-03",
+    "next_due": "2026-06-17",
+    "next_made_up_to": "2026-06-03",
+    "overdue": true
+  },
+  "date_of_creation": "1990-06-08",
+  "etag": "26e0d5a2614052be90f98dd56f1cf1126024f628",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": true,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-06-08",
+  "links": {
+    "persons_with_significant_control": "/company/02509978/persons-with-significant-control",
+    "self": "/company/02509978",
+    "charges": "/company/02509978/charges",
+    "filing_history": "/company/02509978/filing-history",
+    "insolvency": "/company/02509978/insolvency",
+    "officers": "/company/02509978/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "1997-05-13",
+      "effective_from": "1990-06-08",
+      "name": "MIDDLEWOOD DEVELOPMENT COMPANY LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "Suite 500 Unit 2",
+    "address_line_2": "94a Wycliffe Road",
+    "locality": "Northampton",
+    "postal_code": "NN1 5JF"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "93110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

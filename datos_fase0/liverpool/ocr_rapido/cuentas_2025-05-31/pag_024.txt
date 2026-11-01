@@ -1,0 +1,69 @@
+The Liverpool Football Club and Athletic Grounds Limited
+Annual report and consolidated financial statements
+31 May 2025
+
+Notes (continued)
+Accounting policies (continued)
+LU Stocks
+
+Stocks are stated at the lower of cost and estimated selling price less costs to complete and sell. Cost is based on
+the first-in first-out principle and includes expenditure incurred in acquiring the stocks and other costs in bringing
+them to their existing location and condition.
+
+1.12 Classification of financial instruments issued by the Group
+
+‘The Group uses foreign exchange contracts to manage foreign currency risk impacting assets and liabilities due at a
+future date. These derivative financial instruments are recognised at fair value.
+
+The Group accounts for certain foreign exchange contracts as cash flow hedges. The effective portion of changes in
+the fair value of derivatives that are designated and qualify as cash flow hedges is recognised in Other
+Comprehensive Income. Any ineffective portion of the hedge is recognised in the Profit and Loss Account.
+
+‘The Group also uses foreign exchange contracts to mitigate foreign currency risks that are not designated as cash
+flow hedges. The gain or loss on re-measurement to fair value of these contracts is recognised in the Profit and
+Loss Account.
+
+1.13 Basic financial instruments
+Trade and other debtors / creditors
+
+Trade and other debtors/creditors are recognised initially at transaction price less/plus attributable transaction costs.
+If the arrangement constitutes a financing transaction, for example if payment is deferred beyond normal business
+terms, then it is measured at the present value of future payments discounted at a market rate of interest for a
+similar debt instrument.
+
+A financial asset not carried at fair value is assessed at each reporting date to determine whether there is objective
+evidence that it is impaired. A financial asset is impaired if objective evidence indicates that a loss event has
+occurred after the initial recognition of the asset, and that the loss event had a negative effect on the estimated
+future cash flows of that asset that can be estimated reliably.
+
+Interest-bearing borrowings
+
+Interest-bearing borrowings are recognised initially at transaction price, unless the arrangement constitutes a
+financial transaction, where the liability is measured at the present value of the future payments discounted at a
+market rate of interest. Subsequent to initial recognition, interest-bearing borrowings are stated at amortised cost
+using the effective interest method.
+
+Cash and cash equivalents
+
+Cash and cash equivalents comprise cash balances. Bank overdrafts that are repayable on demand anid form an
+integral part of the Group’s cash management are included as a component of cash and cash equivalents for the
+purpose only of the Consolidated Statement of Cash Flows.
+
+114 Other financial instruments
+Financial instruments not considered to be Basic financial instruments (Other financial instruments)
+
+Other financial instruments not meeting the definition of Basic Financial Instruments are recognised initially at fair
+value, Subsequent to initial recognition other financial instruments are measured at fair value with changes
+recognised in the Profit or Loss Account except as hedging instruments in a designated hedging relationship shall
+bbe recognised as set out below.
+
+ 
+
+Derivative financial instruments and hedging
+
+Derivative financial instruments are recognised at fair value. ‘The gain or loss on re-measurement to fair value is
+recognised immediately in the Profit or Loss Account. However, where derivatives qualify for hedge accounting,
+recognition of any resultant gain or loss depends on the nature of the item being hedged.
+
+22
+

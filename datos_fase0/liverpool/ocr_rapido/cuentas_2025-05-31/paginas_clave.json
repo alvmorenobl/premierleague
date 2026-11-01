@@ -1,0 +1,49 @@
+{
+ "resultados": [
+  3,
+  7,
+  14,
+  21
+ ],
+ "intangibles": [
+  4,
+  23,
+  30
+ ],
+ "personal": [
+  5,
+  6,
+  8,
+  27,
+  34,
+  37
+ ],
+ "continuidad": [
+  7,
+  8,
+  10,
+  11,
+  12,
+  20,
+  21
+ ],
+ "balance": [
+  15,
+  16
+ ],
+ "flujos_caja": [
+  19
+ ],
+ "acreedores": [
+  19,
+  20
+ ],
+ "deudores": [
+  19,
+  20,
+  36
+ ],
+ "partes_vinculadas": [
+  38
+ ]
+}

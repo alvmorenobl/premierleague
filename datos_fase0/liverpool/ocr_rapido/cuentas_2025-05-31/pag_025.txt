@@ -1,0 +1,50 @@
+The Liverpool Foottiall Club and Athletic Grounds Limited
+Annual report and consolidated financial statements
+31 May 2025
+
+Notes (continued)
+
+Accounting policies (continued)
+
+114 Other financial instruments (continued)
+Cash flow hedges
+
+Where a derivative financial instrument is designated as a hedge of the variability in cash flows of a recognised
+asset or liability, or a highly probable forecast transaction, the effective part of any gain or loss on the derivative
+financial instrument is recognised directly in Other Comprehensive Income. Any ineffective portion of the hedge
+is recognised immediately in the Profit or Loss Account.
+
+For cash flow hedges, where the forecast transactions resulted in the recognition of a non-financial asset or non-
+financial liability, the hedging gain or loss recognised in Other Comprehensive Income is included in the initial
+cost or other carrying amount of the asset or liability. Alternatively, when the hedged item is recognised in the
+Profit or Loss Account the hedging gain or loss is reclassified to the Profit and Loss Account.
+
+When a hedging instrument expires or is sold, terminated or exercised, or the entity discontinues designation of the
+hedge relationship, but the hedged forecast transaction is still expected to occur, the cumulative gain or loss at that
+point remains in equity and is recognised in accordance with the above policy when the transaction occurs. If the
+hedged transaction is no longer expected to take place, the cumulative unrealised gain or loss recognised in equity
+is recognised in the Profit and Loss Account immediately.
+
+115 Pensions
+
+‘The Group operates its own defined contribution scheme which is managed by Legal and General Group Ple,
+Contributions are also paid to individuals’ private pension schemes. Pension contributions are charged to the Profit
+and Loss Account as they become payable,
+
+The Group continues to make contributions in respect of its share of the deficit of the defined benefit section of
+‘The Football League Limited Pension and Life Assurance Scheme (the ‘Scheme’). Accrual of benefits on a final
+salary basis was suspended with effect from 31 August 1999, when an actuarial review showed a substantial
+deficit. As one of a number of participating employers the Group is advised only of its share of the Scheme’s
+deficit and recognises a liability in respect of this. As a result, the contributions paid to the Scheme reduce the
+provision. The Group is unable to identify its share of the underlying assets and liabilities of the Scheme on a
+consistent and reliable basis and therefore, accounts for the Scheme as if it were a defined contribution scheme.
+
+116 Provisions
+
+‘A provision is recognised in the balance sheet when the entity has a present legal or constructive obligation as a
+result of a past event, that can be reliably measured, and it is probable that an outflow of economic benefits will be
+required to settle the obligation. Provisions are recognised at the best estimate of the amount required to settle the
+obligation at the reporting date.
+
+ 
+

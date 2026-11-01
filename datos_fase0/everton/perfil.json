@@ -1,0 +1,68 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2025-06-30",
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-07-01",
+      "type": "group"
+    },
+    "next_accounts": {
+      "due_on": "2027-03-31",
+      "overdue": false,
+      "period_end_on": "2026-06-30",
+      "period_start_on": "2025-07-01"
+    },
+    "next_due": "2027-03-31",
+    "next_made_up_to": "2026-06-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "EVERTON FOOTBALL CLUB COMPANY, LIMITED",
+  "company_number": "00036624",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2026-08-21",
+    "next_due": "2027-09-04",
+    "next_made_up_to": "2027-08-21",
+    "overdue": false
+  },
+  "date_of_creation": "1892-06-14",
+  "etag": "64d36ea45ef40ba359d8a4e76e71a0dd2b705543",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-08-17",
+  "links": {
+    "persons_with_significant_control": "/company/00036624/persons-with-significant-control",
+    "self": "/company/00036624",
+    "charges": "/company/00036624/charges",
+    "filing_history": "/company/00036624/filing-history",
+    "officers": "/company/00036624/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2018-01-19",
+      "effective_from": "1892-06-14",
+      "name": "EVERTON FOOTBALL CLUB COMPANY,LIMITED(THE)"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "Hill Dickinson Stadium",
+    "address_line_2": "Regent Road",
+    "country": "England",
+    "locality": "Liverpool",
+    "postal_code": "L3 0BW"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "93110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

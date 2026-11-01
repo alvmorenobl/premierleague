@@ -1,0 +1,267 @@
+[
+  {
+    "address": {
+      "address_line_1": "Unit 2",
+      "address_line_2": "94a Wycliffe Road",
+      "locality": "Northampton",
+      "postal_code": "NN1 5JF",
+      "premises": "Suite 500"
+    },
+    "address_snippet": "Suite 500 Unit 2, 94a Wycliffe Road, Northampton, NN1 5JF",
+    "company_number": "02509978",
+    "company_status": "administration",
+    "company_type": "ltd",
+    "date_of_creation": "1990-06-08",
+    "description": "02509978 - Incorporated on 8 June 1990 - In Administration",
+    "description_identifier": [
+      "incorporated-on",
+      "administration"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/02509978"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "SHEFFIELD WEDNESDAY FOOTBALL CLUB LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "Club Hillsborough Sheffield",
+      "locality": "Yorkshire",
+      "postal_code": "S6 1SW",
+      "premises": "Sheffield Wednesday Football"
+    },
+    "address_snippet": "Sheffield Wednesday Football, Club Hillsborough Sheffield, Yorkshire, S6 1SW",
+    "company_number": "05053927",
+    "company_status": "active",
+    "company_type": "private-limited-guarant-nsc-limited-exemption",
+    "date_of_creation": "2004-02-24",
+    "description": "05053927 - Incorporated on 24 February 2004",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/05053927"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "SHEFFIELD WEDNESDAY FOOTBALL CLUB COMMUNITY PROGRAMME"
+  },
+  {
+    "address": {
+      "address_line_1": "Sheffield",
+      "postal_code": "S6 1SW",
+      "premises": "Hillsborough"
+    },
+    "address_snippet": "Hillsborough, Sheffield, S6 1SW",
+    "company_number": "00062478",
+    "company_status": "active",
+    "company_type": "plc",
+    "date_of_creation": "1899-06-08",
+    "description": "00062478 - Incorporated on 8 June 1899",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/00062478"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "SHEFFIELD WEDNESDAY FOOTBALL CLUB",
+    "title": "SHEFFIELD WEDNESDAY PLC"
+  },
+  {
+    "address": {
+      "address_line_1": "Wellington",
+      "country": "United Kingdom",
+      "locality": "Hereford",
+      "postal_code": "HR4 8AY",
+      "premises": "The Cottage Bridge Lane"
+    },
+    "address_snippet": "The Cottage Bridge Lane, Wellington, Hereford, United Kingdom, HR4 8AY",
+    "company_number": "16398073",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "2025-04-22",
+    "description": "16398073 - Incorporated on 22 April 2025",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/16398073"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "THE WEDNESDAY FOOTBALL CLUB LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "Chelmsford Avenue",
+      "address_line_2": "Aston",
+      "country": "United Kingdom",
+      "locality": "Sheffield",
+      "postal_code": "S26 2AU",
+      "premises": "14",
+      "region": "South Yorkshire"
+    },
+    "address_snippet": "14 Chelmsford Avenue, Aston, Sheffield, South Yorkshire, United Kingdom, S26 2AU",
+    "company_number": "09148645",
+    "company_status": "dissolved",
+    "company_type": "private-limited-guarant-nsc",
+    "date_of_cessation": "2016-03-08",
+    "date_of_creation": "2014-07-28",
+    "description": "09148645 - Dissolved on 8 March 2016",
+    "description_identifier": [
+      "dissolved-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/09148645"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "SHEFFIELD WEDNESDAY SUPPORTERS CLUB LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "Sheffield Road",
+      "locality": "Dronfield",
+      "postal_code": "S18 2GD",
+      "premises": "Home Of Football C/O Coach & Horses",
+      "region": "Derbyshire"
+    },
+    "address_snippet": "Home Of Football C/O Coach & Horses, Sheffield Road, Dronfield, Derbyshire, S18 2GD",
+    "company_number": "03088676",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "1995-08-08",
+    "description": "03088676 - Incorporated on 8 August 1995",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/03088676"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "SHEFFIELD F.C.  THE OLDEST FOOTBALL CLUB IN THE WORLD' EST 1857 LTD."
+  },
+  {
+    "address": {
+      "address_line_1": "Totley Rise",
+      "locality": "Sheffield",
+      "postal_code": "S17 3LJ",
+      "premises": "Abbeydale Park",
+      "region": "South Yorkshire"
+    },
+    "address_snippet": "Abbeydale Park, Totley Rise, Sheffield, South Yorkshire, S17 3LJ",
+    "company_number": "04311165",
+    "company_status": "active",
+    "company_type": "private-limited-guarant-nsc",
+    "date_of_creation": "2001-10-25",
+    "description": "04311165 - Incorporated on 25 October 2001",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/04311165"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "SHEFFIELD RUGBY UNION FOOTBALL CLUB LIMITED"
+  },
+  {
+    "address": {},
+    "company_number": "IP28892R",
+    "company_status": "active",
+    "company_type": "registered-society-non-jurisdictional",
+    "description": "IP28892R",
+    "description_identifier": [
+      null
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/IP28892R"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "SHEFFIELD TIGERS RUGBY UNION FOOTBALL CLUB LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "Cherry Street",
+      "country": "England",
+      "locality": "Sheffield",
+      "postal_code": "S2 4SU",
+      "premises": "Sheffield United Football Club Bramall Lane"
+    },
+    "address_snippet": "Sheffield United Football Club Bramall Lane, Cherry Street, Sheffield, England, S2 4SU",
+    "company_number": "00061564",
+    "company_status": "active",
+    "company_type": "ltd",
+    "date_of_creation": "1899-04-18",
+    "description": "00061564 - Incorporated on 18 April 1899",
+    "description_identifier": [
+      "incorporated-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/00061564"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "SHEFFIELD UNITED FOOTBALL CLUB LIMITED (THE)",
+    "title": "THE SHEFFIELD UNITED FOOTBALL CLUB LIMITED"
+  },
+  {
+    "address": {
+      "address_line_1": "6 Cross Bedford Street",
+      "country": "United Kingdom",
+      "locality": "Sheffield",
+      "postal_code": "S6 3BS",
+      "premises": "Apartment 30",
+      "region": "South Yorkshire"
+    },
+    "address_snippet": "Apartment 30 6 Cross Bedford Street, Sheffield, South Yorkshire, United Kingdom, S6 3BS",
+    "company_number": "12823382",
+    "company_status": "dissolved",
+    "company_type": "ltd",
+    "date_of_cessation": "2022-07-26",
+    "date_of_creation": "2020-08-19",
+    "description": "12823382 - Dissolved on 26 July 2022",
+    "description_identifier": [
+      "dissolved-on"
+    ],
+    "kind": "searchresults#company",
+    "links": {
+      "self": "/company/12823382"
+    },
+    "matches": {
+      "snippet": []
+    },
+    "snippet": "",
+    "title": "SHEFFIELD TOWN FOOTBALL CLUB LIMITED"
+  }
+]

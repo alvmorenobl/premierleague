@@ -1,0 +1,3344 @@
+{
+  "etag": "97a601638c3d0b657f3dc22d6a7ab6a9ce43fb1c",
+  "items": [
+    {
+      "charge_code": "000366240078",
+      "charge_number": 78,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2025-02-20",
+      "delivered_on": "2025-02-24",
+      "etag": "95495b9c32b12c6051e9bfc285f16079175a6b99",
+      "links": {
+        "self": "/company/00036624/charges/GPpbAQZZuZGAmi6z8dxdxGTsFIU"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Glas Trust Corporation Limited"
+        }
+      ],
+      "status": "outstanding",
+      "transactions": [
+        {
+          "delivered_on": "2025-02-24",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzQ1NjE4MTEyM2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "assets_ceased_released": "part-property-release-and-ceased-to-belong",
+      "charge_code": "000366240077",
+      "charge_number": 77,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2024-12-18",
+      "delivered_on": "2024-12-19",
+      "etag": "a09d1582dc61cf9939117a9c039f4588e73ad631",
+      "links": {
+        "self": "/company/00036624/charges/VIU7OiZZoAYopEl_6B-3cbw9J-w"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_floating_charge": true,
+        "contains_negative_pledge": true,
+        "description": "(1) freehold land at 25 goodison road, walton, L4 4EH liverpool, registered under title number LA317438, and the nine other mortgaged properties (as defined in the instrument) more particularly described in schedule 2 (mortgaged property) of the instrument and other real property (as defined in the instrument) which it has at the date of the instrument or may subsequently acquire and (2) the registered trade mark number UK00909363409 with mark text 1878 nil satis nisi optimum ev and the other intellectual property (as defined in the instrument) more particularly described in schedule 7 (intellectual property) of the instrument and other intellectual property which it has at the date of the instrument or may subsequently acquire.",
+        "floating_charge_covers_all": true,
+        "type": "brief-description"
+      },
+      "persons_entitled": [
+        {
+          "name": "Jpmorgan Chase Bank, National Association"
+        }
+      ],
+      "status": "outstanding",
+      "transactions": [
+        {
+          "delivered_on": "2024-12-19",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzQ0ODMzNTc2MmFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2025-07-08",
+          "filing_type": "charge-part-both",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzQ3Mjg3MTM2OGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240076",
+      "charge_number": 76,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2023-09-15",
+      "delivered_on": "2023-09-15",
+      "etag": "edf7c7b4a602a51f73236aca28f63cf3a6cb3645",
+      "links": {
+        "self": "/company/00036624/charges/i7hfUzmoyfbdSNIyCyi6GRuWh0Y"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_floating_charge": true,
+        "contains_negative_pledge": true,
+        "description": "Freehold land known as 25 goodison road, walton L4 4EH (title LA317438) and the eight other properties listed in schedule 1 of the instrument.. All other freehold, leasehold or immovable property which it has at the date of the instrument or may subsequently acquire.",
+        "type": "brief-description"
+      },
+      "persons_entitled": [
+        {
+          "name": "Rights and Media Funding Limited"
+        }
+      ],
+      "satisfied_on": "2024-12-19",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2023-09-15",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzM5MzMyMzY1NWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2024-12-19",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzQ0ODMyMzU2OWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240075",
+      "charge_number": 75,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2022-08-15",
+      "delivered_on": "2022-08-30",
+      "etag": "34b547f0a73dbac13b4a5a7ac010e75befa39c9b",
+      "links": {
+        "self": "/company/00036624/charges/XLy5R_FRBz7rPgdz5-tW4_clNsE"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true,
+        "description": "N/A.",
+        "type": "brief-description"
+      },
+      "persons_entitled": [
+        {
+          "name": "Rights and Media Funding Limited"
+        }
+      ],
+      "satisfied_on": "2024-12-19",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2022-08-30",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzM1MDE4MjMxOWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2024-12-19",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzQ0ODMyMzE4MmFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240074",
+      "charge_number": 74,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2021-11-05",
+      "delivered_on": "2021-11-08",
+      "etag": "5467b5a8882f228d43f375b2a5a807c2e06af2d6",
+      "links": {
+        "self": "/company/00036624/charges/p8MBnqm3_spcKb8b4FvVpDBtMnE"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_floating_charge": true,
+        "contains_negative_pledge": true,
+        "description": "Land at 25 goodison road, walton, (L4 4EH), registered under title number LA317438. Land at 1 finch lane, halewood, liverpool (L26 3UE), registered under title number MS186485. Land at 55 goodison road, walton, (L4 4EJ), registered under title number MS244102. Land at 47 goodison road, walton (L4 4EJ), registered under title number MS359559. Land at finch farm, lower road, liverpool (L26 3UB), registered under title number MS509664. Land on the east side of, goodison road, liverpool, registered under title number MS589035. Land on the south side of lower road, liverpool, registered under title number MS616663. Land on 53 goodison road, walton, (L4 4EJ), registered under title number MS392247. Land on 51 goodison road, liverpool, registered under title number MS393098.. Please refer to the instrument for further details.",
+        "floating_charge_covers_all": true,
+        "type": "brief-description"
+      },
+      "persons_entitled": [
+        {
+          "name": "Rights and Media Funding Limited"
+        }
+      ],
+      "satisfied_on": "2024-12-19",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2021-11-08",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzMxOTQ4MDcxMmFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2024-12-19",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzQ0ODMyMzA1M2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240073",
+      "charge_number": 73,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2021-04-29",
+      "delivered_on": "2021-05-04",
+      "etag": "958ef301d5ef95ce45f312c5bfb70ca6c7f61cd1",
+      "links": {
+        "self": "/company/00036624/charges/B0ai8PwiOdtL849hoSllpbj2gks"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_floating_charge": true,
+        "contains_negative_pledge": true,
+        "description": "Land at 25 goodison road, walton, (L4 4EH), registered under title number LA317438. Land at 1 finch lane, halewood, liverpool (L26 3UE), registered under title number MS186485. Land at 55 goodison road, walton, (L4 4EJ), registered under title number MS244102. Land at 47 goodison road, walton (L4 4EJ), registered under title number MS359559. Land at finch farm, lower road, liverpool (L26 3UB), registered under title number MS509664. Land on the east side of, goodison road, liverpool, registered under title number MS589035. Land on the south side of lower road, liverpool, registered under title number MS616663. Land on 53 goodison road, walton, (L4 4EJ), registered under title number MS392247. Land on 51 goodison road, liverpool, registered under title number MS393098.. Please refer to the instrument for further details.",
+        "floating_charge_covers_all": true,
+        "type": "brief-description"
+      },
+      "persons_entitled": [
+        {
+          "name": "Rights and Media Funding Limited"
+        }
+      ],
+      "satisfied_on": "2024-12-19",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2021-05-04",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI5OTg5NTA0OWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2024-12-19",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzQ0ODMyMjg4NmFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240072",
+      "charge_number": 72,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2020-07-16",
+      "delivered_on": "2020-07-22",
+      "etag": "a657d81868a79cf667bc0387f7f153346a1d6090",
+      "links": {
+        "self": "/company/00036624/charges/wc4SqEGggaPf5Q42b1A-komFJXY"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_floating_charge": true,
+        "contains_negative_pledge": true,
+        "description": "[Note only: any land or intellectual property of the chargor would be subject to a fixed charge, but no specific land or intellectual property of the chargor is detailed in the debenture].",
+        "floating_charge_covers_all": true,
+        "type": "brief-description"
+      },
+      "persons_entitled": [
+        {
+          "name": "Rights and Media Funding Limited"
+        }
+      ],
+      "satisfied_on": "2024-12-19",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2020-07-22",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI3MzY2MzQ0OWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2024-12-19",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzQ0ODMyMjYxOWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "assets_ceased_released": "part-property-release-and-ceased-to-belong",
+      "charge_code": "000366240071",
+      "charge_number": 71,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2020-07-16",
+      "delivered_on": "2020-07-21",
+      "etag": "e05fe77f1241994ba498c5eb985292f47249c924",
+      "links": {
+        "self": "/company/00036624/charges/YKi5Flcs1z49YGedu8vpHsV4eJY"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_floating_charge": true,
+        "contains_negative_pledge": true,
+        "floating_charge_covers_all": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Metro Bank PLC"
+        }
+      ],
+      "status": "outstanding",
+      "transactions": [
+        {
+          "delivered_on": "2020-07-21",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI3MzUxMzc2MGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2025-07-08",
+          "filing_type": "charge-part-both",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzQ3Mjg3MDgwMmFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240070",
+      "charge_number": 70,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2019-09-26",
+      "delivered_on": "2019-10-02",
+      "etag": "00590f400034c9e1922213d7d0e5bcbc9fbcddbb",
+      "links": {
+        "self": "/company/00036624/charges/LxZ-ETKTB3Q7KzwTS0sBGB2bozA"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_floating_charge": true,
+        "contains_negative_pledge": true,
+        "floating_charge_covers_all": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Rights and Media Funding Limited"
+        }
+      ],
+      "satisfied_on": "2020-08-05",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2019-10-02",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI0NTgzMTA2N2FkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2020-08-05",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI3NDU5OTI5NGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240069",
+      "charge_number": 69,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2019-06-27",
+      "delivered_on": "2019-06-28",
+      "etag": "17d028cc9e68a931f40270cd2e0d7e1f977a4658",
+      "links": {
+        "self": "/company/00036624/charges/IjRe3qgK1tpjl2GBq_r18RX3iSQ"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Industrial and Commercial Bank of China Limited, London Branch"
+        }
+      ],
+      "satisfied_on": "2019-09-27",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2019-06-28",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzIzODA4MjI4NWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2019-09-27",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI0NTM2OTMzNGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240068",
+      "charge_number": 68,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2019-04-10",
+      "delivered_on": "2019-04-12",
+      "etag": "2cf0f45bb8b46c40a41ff002f8b383c0d34fab9f",
+      "links": {
+        "self": "/company/00036624/charges/uEnmtMkg9AteUCrXVqELvY9U0Bk"
+      },
+      "particulars": {
+        "contains_floating_charge": true,
+        "contains_negative_pledge": true,
+        "description": "All property, assets and rights of the chargor.",
+        "floating_charge_covers_all": true,
+        "type": "brief-description"
+      },
+      "persons_entitled": [
+        {
+          "name": "Metro Bank PLC"
+        }
+      ],
+      "satisfied_on": "2020-08-05",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2019-04-12",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzIzMTk0NDMyMGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2020-08-05",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI3NDU5OTIyMGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240067",
+      "charge_number": 67,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2019-04-10",
+      "delivered_on": "2019-04-11",
+      "etag": "61e578c9026c4f0315d2f6a86d5a13fa117e7c49",
+      "links": {
+        "self": "/company/00036624/charges/e696t8wJn5wDQb4SwhsjP6NmZ98"
+      },
+      "particulars": {
+        "contains_fixed_charge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Industrial and Commercial Bank of China Limited, London Branch"
+        }
+      ],
+      "satisfied_on": "2019-09-27",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2019-04-11",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzIzMTgyNDAzOGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2019-09-27",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI0NTM2ODk1M2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240066",
+      "charge_number": 66,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2019-04-10",
+      "delivered_on": "2019-04-11",
+      "etag": "6702fa61d21ba2fc5c06ccde4ba00f7f285bfee6",
+      "links": {
+        "self": "/company/00036624/charges/ajsUTsNuspkloolE3dAxcq7J8qI"
+      },
+      "particulars": {
+        "contains_fixed_charge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Industrial and Commercial Bank of China Limited, London Branch"
+        }
+      ],
+      "satisfied_on": "2019-09-27",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2019-04-11",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzIzMTgyMzk5MGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2019-09-27",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI0NTM2ODc5MGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240065",
+      "charge_number": 65,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2018-07-25",
+      "delivered_on": "2018-07-25",
+      "etag": "e2b38cb1540316da6c7ed9fc93f0806b8aef34c5",
+      "links": {
+        "self": "/company/00036624/charges/0akJK2aCICcCmXjDVuUqb0N1kmc"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Industrial and Commercial Bank of China Limited, London Branch"
+        }
+      ],
+      "satisfied_on": "2019-09-27",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2018-07-25",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzIxMDU2NTg5NmFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2019-09-27",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI0NTM2ODYzNmFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240064",
+      "charge_number": 64,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2018-06-01",
+      "delivered_on": "2018-06-04",
+      "etag": "f19a0129c4583771b7328ceb8792bf485cfce05d",
+      "links": {
+        "self": "/company/00036624/charges/dtMzb9Ov8Jq1279KPZBapR5j4gE"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Santander UK PLC"
+        }
+      ],
+      "satisfied_on": "2020-08-05",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2018-06-04",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzIwNjU4NTU5NWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2020-08-05",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI3NDU5OTExMGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240063",
+      "charge_number": 63,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2018-06-01",
+      "delivered_on": "2018-06-04",
+      "etag": "b6c1cdcb3d0834914f2bc4f970811cdc60219283",
+      "links": {
+        "self": "/company/00036624/charges/cMC49JLIGtNBgAWFjrNN5lCPIrM"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Santander UK PLC"
+        }
+      ],
+      "satisfied_on": "2020-08-05",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2018-06-04",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzIwNjU4NTgzMWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2020-08-05",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI3NDU5ODk5MGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240062",
+      "charge_number": 62,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2018-03-01",
+      "delivered_on": "2018-03-12",
+      "etag": "f06580fcc80827bb849c50d3b4331985fc2917b0",
+      "links": {
+        "self": "/company/00036624/charges/hB3i5QkfuH0d8XvyET_7hhaIRDc"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Santander UK PLC"
+        }
+      ],
+      "satisfied_on": "2018-09-18",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2018-03-12",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE5OTc5MTExN2FkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2018-09-18",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzIxNDc0NzI1OWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240061",
+      "charge_number": 61,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2018-03-01",
+      "delivered_on": "2018-03-12",
+      "etag": "40eeb83dc578c4219a90bcea6bac6e7138beeac5",
+      "links": {
+        "self": "/company/00036624/charges/Lt958lHgse7raZAiTn_eOM7dgoc"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Santander UK PLC"
+        }
+      ],
+      "satisfied_on": "2018-09-18",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2018-03-12",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE5OTc5MDg0MGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2018-09-18",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzIxNDc0ODQ3NWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240060",
+      "charge_number": 60,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2017-12-01",
+      "delivered_on": "2017-12-07",
+      "etag": "1e44c6bd8de96e7d95c556226372c1b33a9ac611",
+      "links": {
+        "self": "/company/00036624/charges/Bz1KF6eMy_-fOZgvFrNqBeqg-GI"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Santander UK PLC"
+        }
+      ],
+      "satisfied_on": "2018-08-17",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2017-12-07",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE5MjI1MTgwM2FkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2018-08-17",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzIxMjMyMDg1OWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240059",
+      "charge_number": 59,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2017-12-01",
+      "delivered_on": "2017-12-07",
+      "etag": "2a0e0b905fb9f5d69048bdaab1f0dbacf88a8398",
+      "links": {
+        "self": "/company/00036624/charges/djLi6d_XbnBiGyxmXsXX0FfxmW4"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Santander UK PLC"
+        }
+      ],
+      "satisfied_on": "2018-08-17",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2017-12-07",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE5MjI1MTU3M2FkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2018-08-17",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzIxMjMyMDUwOGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240058",
+      "charge_number": 58,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2017-06-30",
+      "delivered_on": "2017-07-05",
+      "etag": "925eb9051aeab43238b71c2972563d7a0f47ee3f",
+      "links": {
+        "self": "/company/00036624/charges/SVuPuFoJSw-j5xFfQHjyHUu20JQ"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_floating_charge": true,
+        "contains_negative_pledge": true,
+        "floating_charge_covers_all": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Industrial and Commercial Bank of China Limited, London Branch"
+        }
+      ],
+      "satisfied_on": "2019-09-27",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2017-07-05",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE3OTgyODY4MmFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2019-09-27",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI0NTM2ODUxM2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240057",
+      "charge_number": 57,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2017-06-30",
+      "delivered_on": "2017-07-05",
+      "etag": "39cae88cd75691d2cdf8216e9671204015097e17",
+      "links": {
+        "self": "/company/00036624/charges/7Z6CMJd3nJ3nRQtgAK5VeMPZn0c"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Industrial and Commercial Bank of China Limited, London Branch"
+        }
+      ],
+      "satisfied_on": "2019-09-27",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2017-07-05",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE3OTgyOTAwMWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2019-09-27",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI0NTM2ODM3M2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240056",
+      "charge_number": 56,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2017-06-30",
+      "delivered_on": "2017-07-05",
+      "etag": "1b6302706312f83801755d43e459c4bb167c1537",
+      "links": {
+        "self": "/company/00036624/charges/yRjWGPm6ShLjOX-mmbGMIbWuRSo"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Industrial and Commercial Bank of China Limited, London Branch"
+        }
+      ],
+      "satisfied_on": "2019-09-27",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2017-07-05",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE3OTgyODY4NWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2019-05-08",
+          "filing_type": "charge-whole-both",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzIzNDQ2NjI0OGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2019-09-27",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI0NTM2ODI0OGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240055",
+      "charge_number": 55,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2017-06-30",
+      "delivered_on": "2017-07-05",
+      "etag": "6c9da10df13bf21955353a541c30981bff95e631",
+      "links": {
+        "self": "/company/00036624/charges/XLZXyfQiITxyHhj6GS0FXurYrgg"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Industrial and Commercial Bank of China Limited, London Branch"
+        }
+      ],
+      "satisfied_on": "2019-09-27",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2017-07-05",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE3OTgyODY3NWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2019-05-08",
+          "filing_type": "charge-whole-both",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzIzNDQ2NjQ0NGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2019-09-27",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzI0NTM2ODIyOGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240054",
+      "charge_number": 54,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2017-06-30",
+      "delivered_on": "2017-07-04",
+      "etag": "0b89fd5aaf57a8ada0b63c1a9b0776c34c3fff03",
+      "links": {
+        "self": "/company/00036624/charges/wg5vALNUwMsFE5WEREu52dllerM"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_floating_charge": true,
+        "contains_negative_pledge": true,
+        "description": "Any land in which the company has any right, title or interest, whether now or in the future.",
+        "floating_charge_covers_all": true,
+        "type": "brief-description"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2019-05-08",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2017-07-04",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE3OTcwMDc2MmFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2019-05-08",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzIzNDQ2NjgwNWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240053",
+      "charge_number": 53,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2016-08-22",
+      "delivered_on": "2016-08-26",
+      "etag": "6c17ec9c64a86bd8377ca46f201d19426bca4360",
+      "links": {
+        "self": "/company/00036624/charges/YrZBxZXukaJv0PuGEGBZm2FaHMg"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Rights and Media Funding Limited"
+        }
+      ],
+      "satisfied_on": "2017-06-06",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2016-08-26",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE1NjUwODE2M2FkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2017-03-21",
+          "filing_type": "charge-part-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE3MTU2MTY3N2FkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2017-06-06",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE3NzQ5ODAyNGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240052",
+      "charge_number": 52,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2015-08-10",
+      "delivered_on": "2015-08-19",
+      "etag": "31a8667ae6faa855b2e67cbec1b9cb1d675c0192",
+      "links": {
+        "self": "/company/00036624/charges/GWttBiVXPgDTJnf1k1zD7We6loQ"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Jg Funding Limited"
+        }
+      ],
+      "satisfied_on": "2017-06-07",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2015-08-19",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzEyOTYyOTA2OWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2017-06-07",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE3NzYwMzk1N2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240051",
+      "charge_number": 51,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2014-09-05",
+      "delivered_on": "2014-09-18",
+      "etag": "dbd65bafcff5fa3ae4a45fb8a5f77f61e7297935",
+      "links": {
+        "self": "/company/00036624/charges/iPelSQwEARyyP-vr70TlkxQXqa0"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Vibrac Corporation"
+        }
+      ],
+      "satisfied_on": "2015-10-16",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2014-09-18",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzEwODAwNjY0NGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2015-10-16",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzEzMzIxODk0OGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_code": "000366240050",
+      "charge_number": 50,
+      "classification": {
+        "description": "A registered charge",
+        "type": "charge-description"
+      },
+      "created_on": "2013-08-08",
+      "delivered_on": "2013-08-13",
+      "etag": "4cb045d068ece858aed9323233bfc364664eeaf4",
+      "links": {
+        "self": "/company/00036624/charges/cGoILWgoBdivms_mlAbRTHc_QX4"
+      },
+      "particulars": {
+        "contains_fixed_charge": true,
+        "description": "Notification of addition to or amendment of charge.",
+        "type": "brief-description"
+      },
+      "persons_entitled": [
+        {
+          "name": "Vibrac Corporation"
+        }
+      ],
+      "satisfied_on": "2014-09-05",
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2013-08-13",
+          "filing_type": "create-charge-with-deed",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzA4MzI2NDM4NGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2014-04-17",
+          "filing_type": "charge-part-release",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzA5ODk2MDk4MGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2014-09-05",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzEwNzIzNzIzM2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 49,
+      "classification": {
+        "description": "Deed of assignment relating to certain receivables",
+        "type": "charge-description"
+      },
+      "created_on": "2012-08-03",
+      "delivered_on": "2012-08-08",
+      "etag": "a22ea93fc37c5f73a730003ebfeb54b5b65400ef",
+      "links": {
+        "self": "/company/00036624/charges/R6GMdZ57xxZqO6Ib-Vjiq0uOMW4"
+      },
+      "particulars": {
+        "description": "Assigns all rights and interests in connection with the assigned rights being all right, title and interest in and to the receivables.. See image for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Vibrac Corporation"
+        }
+      ],
+      "satisfied_on": "2013-08-09",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2012-08-08",
+          "filing_type": "create-charge-pre-april-2013",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzA2MjM4NDczMGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2013-05-04",
+          "filing_type": "charge-part-release",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzA3Nzg5MTcxNGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2013-08-09",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzA4MzE4NzMwOGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 48,
+      "classification": {
+        "description": "Deed of assignment",
+        "type": "charge-description"
+      },
+      "created_on": "2011-08-08",
+      "delivered_on": "2011-08-11",
+      "etag": "e2b2d88b7f85890d0be56a3618e23201d11bf72e",
+      "links": {
+        "self": "/company/00036624/charges/23XUPiSbgV63pW9g4fCPpRRuujU"
+      },
+      "particulars": {
+        "description": "All rights and interests which now or at any later time is has to, in or in connection with, the assigned rights see image for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Vibrac Corporation"
+        }
+      ],
+      "satisfied_on": "2012-08-07",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2011-08-11",
+          "filing_type": "create-charge-pre-april-2013",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzA0MjAyODQxMWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2012-08-07",
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzA2MjE5NTQ1M2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 47,
+      "classification": {
+        "description": "Assignment of payments",
+        "type": "charge-description"
+      },
+      "created_on": "2010-12-20",
+      "delivered_on": "2010-12-31",
+      "etag": "2a67baf8c27279b45e5646618ac752076b1ca1c4",
+      "links": {
+        "self": "/company/00036624/charges/QdtT-0ZgkT64BmAeA2HzYUHTsfk"
+      },
+      "particulars": {
+        "description": "Right title benefit and interest present and future in the payments together with all rights to take action in respect of any non-payment of the payments:payments means all amounts due or owing from the premier league for the 2010/2011 association football season see image for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2012-08-07",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2010-12-31",
+          "filing_type": "create-charge-pre-april-2013",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzAyOTg3MTMyOWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2012-08-07",
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzA2MjE5NTM4NmFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 46,
+      "classification": {
+        "description": "Deed of assignment",
+        "type": "charge-description"
+      },
+      "created_on": "2010-08-03",
+      "delivered_on": "2010-08-05",
+      "etag": "957114454caa2bd4bd0ef6a9837258e564c3edcf",
+      "links": {
+        "self": "/company/00036624/charges/mKoeDGIz0KgpSYkwrHFylkFIkZQ"
+      },
+      "particulars": {
+        "description": "All right and interest which now or at any later time it has to, in or in connection with, the assigned rights meaning the receivables which means all amounts due by the company from the premier league for the 2011/2012 football season in relation to the basic award fund see image for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Investec Bank PLC"
+        }
+      ],
+      "satisfied_on": "2011-08-05",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to investec on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2010-08-05",
+          "filing_type": "create-charge-pre-april-2013",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzAyMTI4NjY4MmFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2011-08-05",
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzA0MTc3NDMxMmFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 45,
+      "classification": {
+        "description": "Assignment of receivables",
+        "type": "charge-description"
+      },
+      "created_on": "2009-09-29",
+      "delivered_on": "2009-10-17",
+      "etag": "a691762c41091a68ef3ebf5ff909d943e0637cf7",
+      "links": {
+        "self": "/company/00036624/charges/5SGJ-S7UjX5LABCecWrp2iyd8WI"
+      },
+      "particulars": {
+        "description": "All its rights, title and interest in the following assets, the charged contracts and the contract proceeds see image for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Investec Bank PLC"
+        }
+      ],
+      "satisfied_on": "2011-08-03",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2009-10-17",
+          "filing_type": "create-charge-pre-april-2013",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzAwMDk5NjQ2NWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2011-08-03",
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzA0MTYzMTUyNGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 44,
+      "classification": {
+        "description": "Assignment of payments",
+        "type": "charge-description"
+      },
+      "created_on": "2009-07-29",
+      "delivered_on": "2009-08-05",
+      "etag": "1a5df4919318bb450d0ca5012b9165ec8912ad91",
+      "links": {
+        "self": "/company/00036624/charges/YdUYEHezKvhRkEcVgnKPCzWFgao"
+      },
+      "particulars": {
+        "description": "Right title benefit and interest present and future in the payments together with all rights to take action in respect of any non-payment of the payments:payments means in relation to basic award fund and the merit payments fund for the 2009/2010.see image for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2012-08-07",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2009-08-05",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MjAzODk5MTc5NGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2012-08-07",
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzA2MjE5NTI5OGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 43,
+      "classification": {
+        "description": "Assignment of payments",
+        "type": "charge-description"
+      },
+      "created_on": "2008-09-12",
+      "delivered_on": "2008-10-01",
+      "etag": "70abd7e36bfe8b5f652cf6c74180a4294be2c9dc",
+      "links": {
+        "self": "/company/00036624/charges/x4PBxmlz3h1rE_UkORAS94fce00"
+      },
+      "particulars": {
+        "description": "Right title benefit and interest present and future in the payments together with all rights to take action in respect of any non-payment of the payments. See image for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2012-08-07",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2008-10-01",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MjAxNDU1NDk5NGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2012-08-07",
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzA2MjE5NTI0N2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 42,
+      "classification": {
+        "description": "Mortgage created 23/06/2008",
+        "type": "charge-description"
+      },
+      "created_on": "2008-06-23",
+      "delivered_on": "2008-06-28",
+      "etag": "2180e9fcaa71b8bf90150f1fde287bf24f7c1cf5",
+      "links": {
+        "self": "/company/00036624/charges/xwfvxrRnR-jUfZEvG-51r3mT_90"
+      },
+      "particulars": {
+        "description": "F/H property k/a 98 sandforth road west derby liverpool merseyside t/no. LA306467 with full title guarantee as a continuing security for the discharge on demand of the secured liabilities by way of fixed charge over all moveable plant, machinery, implements, utensils, furniture & equipment see image for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Adam & Company PLC"
+        }
+      ],
+      "satisfied_on": "2011-06-07",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2008-06-28",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MjAwODM1OTUxMGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2011-06-07",
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzAzODU0MDM3M2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 41,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "2007-10-11",
+      "delivered_on": "2007-10-19",
+      "etag": "29629c3630e409c447598e895761326c2fb9750a",
+      "links": {
+        "self": "/company/00036624/charges/FLP9-BlLB71BkbIEquA8BICznNA"
+      },
+      "particulars": {
+        "description": "94 sandforth road west derby liverpool plant machinery fixtures and fittings furniture furnishings equipment tools and other chattels goodwill insurances.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Adam & Company PLC"
+        }
+      ],
+      "satisfied_on": "2011-06-07",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2007-10-19",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDE4NzE0MjQzMmFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2011-06-07",
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzAzODU0MDMxMWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 40,
+      "classification": {
+        "description": "Assignments of payments",
+        "type": "charge-description"
+      },
+      "created_on": "2007-08-22",
+      "delivered_on": "2007-08-24",
+      "etag": "f03c6413b287afead15eecef2dc4d2b3d7ff8aed",
+      "links": {
+        "self": "/company/00036624/charges/aZ8KHvLR7r1MZnTIloka_-OIfWQ"
+      },
+      "particulars": {
+        "description": "The right, title, benefit and interest in the payments. See the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2008-10-29",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2007-08-24",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDE4NTA3MzQxM2FkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2008-10-29",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MjAxNjc1MjgzNmFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 39,
+      "classification": {
+        "description": "Assignment of payments",
+        "type": "charge-description"
+      },
+      "created_on": "2007-04-18",
+      "delivered_on": "2007-04-21",
+      "etag": "e34a619e4099add1c4d601409721f75e7d2c91ac",
+      "links": {
+        "self": "/company/00036624/charges/rHCL14R0xMCe3-YIaBZSb_lL_xE"
+      },
+      "particulars": {
+        "description": "The right title benefit and interest (present and future) in the payments together with all rights to sue or take action in respect of any non-payment of the payments by the fapl. See the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2007-08-29",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2007-04-21",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDE3ODc5NzgxOGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2007-08-29",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDE4NDg4NzMxMmFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 38,
+      "classification": {
+        "description": "Charge over account",
+        "type": "charge-description"
+      },
+      "created_on": "2006-05-30",
+      "delivered_on": "2006-06-16",
+      "etag": "c1adcd5b30497d436e46efd4ea912488f3a67ebb",
+      "links": {
+        "self": "/company/00036624/charges/xPfEKGLaQHSqmnJ1-nNdscnqbYk"
+      },
+      "particulars": {
+        "description": "All rights title and interest in the deposit and the security account no 70365971,name:everton football club company limited re finch farm,. See the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "New Blue Properties Limited"
+        }
+      ],
+      "satisfied_on": "2013-08-29",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2006-06-16",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDE2MjcxNzk1MGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2013-08-29",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzA4NDI0Nzc5M2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 37,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "2006-01-25",
+      "delivered_on": "2006-02-02",
+      "etag": "63f2d55c67d4df0cc3915958a262e0c9e1b7999c",
+      "links": {
+        "self": "/company/00036624/charges/p1qkzuRqbOMgFFy_ij9ho7NOKko"
+      },
+      "particulars": {
+        "description": "F/H land forming finch farm halewood estate halewood merseyside t/no MS509664.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2015-10-16",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2006-02-02",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDE1MjAzNTczOWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2015-10-16",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzEzMzIxNTc0NWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 36,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "2004-07-16",
+      "delivered_on": "2004-07-29",
+      "etag": "eec3b5e1fdaa7a97f696f73c6e60ef41dff52c06",
+      "links": {
+        "self": "/company/00036624/charges/RHJ2SKllyIV9EzmkFxtsxpFlb7Q"
+      },
+      "particulars": {
+        "description": "Land on the west side of walton lane and the south side of florence street liverpool merseyside t/no MS405415.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2015-10-16",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2004-07-29",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDA1ODMzNDI4OWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2015-10-16",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzEzMzIxNTUxNmFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 35,
+      "classification": {
+        "description": "Account charge",
+        "type": "charge-description"
+      },
+      "created_on": "2004-02-02",
+      "delivered_on": "2004-02-05",
+      "etag": "8e7806520b2cf2bc16b9debeb2d2e805037f3c0b",
+      "links": {
+        "self": "/company/00036624/charges/mF4Q5wRe4Z8YqM2NDfEiTUx4H4U"
+      },
+      "particulars": {
+        "description": "By way of first fixed charge its interest in the account and all money at or at any time after the date of the account charge credited to or standing to the credit of the account. See the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Singer & Friedlander Limited"
+        }
+      ],
+      "satisfied_on": "2006-05-26",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2004-02-05",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2006-05-26",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 34,
+      "classification": {
+        "description": "Assignment",
+        "type": "charge-description"
+      },
+      "created_on": "2004-02-02",
+      "delivered_on": "2004-02-05",
+      "etag": "1a5214bd3c63b11d9c13d97501c9cdf28ed30c3f",
+      "links": {
+        "self": "/company/00036624/charges/_WQYj2jPTf4yPlSgfyBeJ7lXMgg"
+      },
+      "particulars": {
+        "description": "All its right title and interest in and to the premier league payments. See the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Singer & Friedlander Limited"
+        }
+      ],
+      "satisfied_on": "2004-09-14",
+      "secured_details": {
+        "description": "All monies due or to become due from the company or the borrower to the chargee",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2004-02-05",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2004-09-14",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDAxOTAwODg5NWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 33,
+      "classification": {
+        "description": "Deed of charge over credit balances",
+        "type": "charge-description"
+      },
+      "created_on": "2003-08-18",
+      "delivered_on": "2003-08-29",
+      "etag": "6da3403f57e3e40e2e83addc0629ac0201005d0d",
+      "links": {
+        "self": "/company/00036624/charges/EbAGeKEN3RV4qVpv2S1aOYrh_zg"
+      },
+      "particulars": {
+        "description": "The charge creates a fixed charge over all the deposit(s) referred to in the schedule (including all or any part of the money payable pursuant to such deposit(s) and the debts represented therby) together with all interest from time to time accruing thereon. It also creates an assignment by the chargor, for the purposes of and to give effect to the security, over the right of the chargor to require repayment of such deposit(s) and interest thereon details of charged account(s) barclays bank PLC re the everton football club company limited current account account number 40214515.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2017-11-03",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2003-08-29",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDA1NzkxMTQ0NWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2017-11-03",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE4OTkwMjAxN2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 32,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "2003-08-14",
+      "delivered_on": "2003-08-16",
+      "etag": "fcd2b4f7da576b20dae215da286e99f0cd01b7bb",
+      "links": {
+        "self": "/company/00036624/charges/qpbTaq54VD6-tIRurbglxSf0MZE"
+      },
+      "particulars": {
+        "description": "F/H property on the west side of walton lane walton liverpool t/no MS154694. F/h property being 94 newby street walton liverpool t/no MS354948. F/h property forming part of the bellefield sports ground sandforth road west derby liverpool t/no LA17955.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2015-10-16",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2003-08-16",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDA5NDgwMzkzNmFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2011-08-03",
+          "filing_type": "charge-part-or-whole-release-pre-april-2013",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzA0MTYzMTQ4OWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2015-10-16",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzEzMzIxNTIwMWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 31,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "2003-02-14",
+      "delivered_on": "2003-02-18",
+      "etag": "6dd1d0e285c0371c83687ed9ccbb83ef9cdb94f8",
+      "links": {
+        "self": "/company/00036624/charges/JDYIKqFJHIh72dPzVHgTbaAKIl4"
+      },
+      "particulars": {
+        "description": "Freehold properties k/a bellefield training ground west derby liverpool t/n MS377268, property at south west side of park lane netherton t/n MS370175 and \"everton megastore\" watlon lane liverpool t/n MS296033.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2015-10-16",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2003-02-18",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2011-08-03",
+          "filing_type": "charge-part-or-whole-release-pre-april-2013",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzA0MTYzMTQ1M2FkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2015-10-16",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzEzMzIxMzc2N2FkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 30,
+      "classification": {
+        "description": "Floating charge",
+        "type": "charge-description"
+      },
+      "created_on": "2003-02-14",
+      "delivered_on": "2003-02-18",
+      "etag": "be3c2f2f36c3db0506d9120159ec75a82a0a6b8a",
+      "links": {
+        "self": "/company/00036624/charges/Ed0bVUxm6dHd3cXeUdxX-d3_l7s"
+      },
+      "particulars": {
+        "description": "By way of floating charge all present and future assets and undertakings.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Barclays Bank PLC"
+        }
+      ],
+      "satisfied_on": "2019-05-08",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2003-02-18",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2019-05-08",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzIzNDQ2NjU4MmFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 29,
+      "classification": {
+        "description": "Fixed security document",
+        "type": "charge-description"
+      },
+      "created_on": "2002-03-21",
+      "delivered_on": "2002-04-10",
+      "etag": "f6cddb6a291f24b9f959806958cf060a33678c81",
+      "links": {
+        "self": "/company/00036624/charges/DvTx7xeBkNntInJ0RbYH7M5d5xU"
+      },
+      "particulars": {
+        "description": "By way of fixed charge all its present and future player proceeds. See the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Registered European Football Finance Limited"
+        }
+      ],
+      "satisfied_on": "2006-05-26",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2002-04-10",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDE0NTMzMTg4NWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2006-05-26",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 28,
+      "classification": {
+        "description": "Share charge",
+        "type": "charge-description"
+      },
+      "created_on": "2002-03-18",
+      "delivered_on": "2002-04-05",
+      "etag": "fecd2dd0cc557b2483867948abb8c71d6cf0153c",
+      "links": {
+        "self": "/company/00036624/charges/DP7lLEGaVKOlO4OdGiYyn0N6mEk"
+      },
+      "particulars": {
+        "description": "By way of first fixed charge all of the club's right, title and interest from time to time in and to the issuer shares.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Prudential Trustee Company Limited (In Its Capacity as Trustee)"
+        }
+      ],
+      "satisfied_on": "2016-10-05",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the trustee, the noteholders and the other secured creditors under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2002-04-05",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2016-10-05",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE1OTg5OTAwNGFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 27,
+      "classification": {
+        "description": "Club debenture",
+        "type": "charge-description"
+      },
+      "created_on": "2002-03-18",
+      "delivered_on": "2002-04-05",
+      "etag": "717bfa57fece8a2e91a85198caefa36a23f9453e",
+      "links": {
+        "self": "/company/00036624/charges/WUg1yBhtk1FV-T9TTPVtTlrsInM"
+      },
+      "particulars": {
+        "description": "By way of (a) first fixed charge, all the club's right title and interest from time to time in and to the stadium shares; and (b) floating charge, all present and future assets and undertakings of the club other than those assets validly and effectively charged by way of fixed security granted (1) (a) above.. See the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Everton Investments Limited"
+        }
+      ],
+      "satisfied_on": "2016-10-05",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2002-04-05",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2016-10-05",
+          "filing_type": "charge-satisfaction",
+          "links": {
+            "filing": "/company/00036624/filing-history/MzE1OTkwMDM4NWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 26,
+      "classification": {
+        "description": "Floating charge",
+        "type": "charge-description"
+      },
+      "created_on": "2002-03-18",
+      "delivered_on": "2002-04-05",
+      "etag": "a46c38764d75753bd08b52d8f695568a9e6a8df1",
+      "links": {
+        "self": "/company/00036624/charges/L-TUMlDjuNEa99soaYe8qgk3Vfs"
+      },
+      "particulars": {
+        "description": "By way of floating charge all present and future assets and undertaking of the club.. See the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Allied Irish Banks PLC"
+        }
+      ],
+      "satisfied_on": "2003-11-29",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2002-04-05",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2003-11-29",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDEzNDY3MDIxMWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 25,
+      "classification": {
+        "description": "Assignment of payments",
+        "type": "charge-description"
+      },
+      "created_on": "2001-04-02",
+      "delivered_on": "2001-04-03",
+      "etag": "ac052ab28fb4b6cae14e7fe4887b903446ca2ed9",
+      "links": {
+        "self": "/company/00036624/charges/qriMRK-mEDpfW0jvR_vyqIokrrY"
+      },
+      "particulars": {
+        "description": "All right,title and interest in and to each of the payments to be received by the company from puma united kingdom limited pursuant to a sponsorship agreement dated 15/7/2000.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Co-Operative Bank P.L.C."
+        }
+      ],
+      "satisfied_on": "2002-04-26",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2001-04-03",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDA1NTE0NDU2OWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2002-04-26",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 24,
+      "classification": {
+        "description": "An aggignment of payments",
+        "type": "charge-description"
+      },
+      "created_on": "2001-01-12",
+      "delivered_on": "2001-01-13",
+      "etag": "072c714ddd24b076ab48ada964dd027ad2dfb848",
+      "links": {
+        "self": "/company/00036624/charges/sD8VmNZVz4jbUNZCKRdOHyp7Jpo"
+      },
+      "particulars": {
+        "description": "By way of assignment all the companys right title and interest in and to all amounts from the football association premier league limited or combination of association football clubs comprising the clubs k/a the fa premier league or any replacement thereof by whatever source of payment liverpool f c (re sale of barmby) amount of payment £625 000 £625 000 £625 000 date for payment 31 january 2001 30 april 2001 31 july 2001. see the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Co-Operative Bank P.L.C."
+        }
+      ],
+      "satisfied_on": "2002-04-26",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "2001-01-13",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDAyODIyMjc3OWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2002-04-26",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 23,
+      "classification": {
+        "description": "Assignment of payments",
+        "type": "charge-description"
+      },
+      "created_on": "1999-06-02",
+      "delivered_on": "1999-06-22",
+      "etag": "9c834e660b9d7f600c65a5b1e0ff2c42cf96f30b",
+      "links": {
+        "self": "/company/00036624/charges/6HqvyI4S6W1UtoJR-GOWNOTbML8"
+      },
+      "particulars": {
+        "description": "Assigned absolutely to the bank and in the bank's favour all its right, title and interest in and to the premier league payments and interest in and to the football league payments.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Singer & Friedlander Limited"
+        }
+      ],
+      "satisfied_on": "2000-01-20",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1999-06-22",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2000-01-20",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 22,
+      "classification": {
+        "description": "Debenture",
+        "type": "charge-description"
+      },
+      "created_on": "1999-06-02",
+      "delivered_on": "1999-06-22",
+      "etag": "4baa9fd5927aa59fb7d8eb71bb4e2f9ed4627a1d",
+      "links": {
+        "self": "/company/00036624/charges/s2WDrWOhBV6e_Hc4Qx1GB8iCP1Q"
+      },
+      "particulars": {
+        "description": "The freehold property known as goodison park, goodison road, liverpool, the main ground for further details of property see ch microfiche. Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Singer & Friedlander Limited"
+        }
+      ],
+      "satisfied_on": "2000-01-20",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1999-06-22",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2000-01-20",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 21,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1998-06-16",
+      "delivered_on": "1998-06-19",
+      "etag": "653d34565c4771f0c6d296c605ad88d89b9e59db",
+      "links": {
+        "self": "/company/00036624/charges/rb4m9LjUrXsyqtHEONSftB6TFbc"
+      },
+      "particulars": {
+        "description": "By way of legal mortgage f/h land and buildings on the west side of walton lane liverpool and 94 newby street liverpool t/nos: MS296033, MS154694 and MS354948 and all fixtures and fittings and all fixed plant and machinery; by way of flaoting charge the equipment.. See the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Co-Operative Bank P.L.C."
+        }
+      ],
+      "satisfied_on": "2002-08-22",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1998-06-19",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDAzNDQyMTkzNmFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "2002-08-22",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDA1NjQ4Mjk3OWFkaXF6a2N4"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 20,
+      "classification": {
+        "description": "Debenture",
+        "type": "charge-description"
+      },
+      "created_on": "1998-03-27",
+      "delivered_on": "1998-04-06",
+      "etag": "f456dee06d147e4998e0ca4b4179e90eb1dc830c",
+      "links": {
+        "self": "/company/00036624/charges/qkeMseDhvmrC4TjfJcvt03ikyp4"
+      },
+      "particulars": {
+        "description": "(Including trade fixtures). Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Co-Operative Bank PLC"
+        }
+      ],
+      "satisfied_on": "2002-04-26",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1998-04-06",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2002-04-26",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 19,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1998-03-27",
+      "delivered_on": "1998-04-06",
+      "etag": "42aac6284a3d823711f9a882c6f76655fd89c86a",
+      "links": {
+        "self": "/company/00036624/charges/QeudSZbXAe6SZdfcdIJkGcQEYvo"
+      },
+      "particulars": {
+        "description": "Property k/a land on the south side of sandforth road west derby liverpool merseyside t/no: MS377268 floating charge over all unfixed plant and machinery and other chattels and equipment now or in the future in or about the property and by way of assignment the goodwill of the business.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Co-Operative Bank PLC"
+        }
+      ],
+      "satisfied_on": "2002-04-26",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1998-04-06",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2002-04-26",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 18,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1998-03-27",
+      "delivered_on": "1998-04-06",
+      "etag": "5809a50495d1b34db189a2f57fe3ef5defafabf1",
+      "links": {
+        "self": "/company/00036624/charges/-Kjyc9b_9Zasf9a573FqMB7BtfA"
+      },
+      "particulars": {
+        "description": "Land and buildings on the south west of park lane netherton merseyside t/no: MS370175 floating charge over all unfixed plant and machinery and other chattels and equipment now or in the future in or about the property and by way of assignment the goodwill of the business.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Co-Operative Bank PLC"
+        }
+      ],
+      "satisfied_on": "2002-04-26",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1998-04-06",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2002-04-26",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 17,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1998-03-27",
+      "delivered_on": "1998-04-06",
+      "etag": "1f2d4de7861b67e48da7edb3f40da423b0de5656",
+      "links": {
+        "self": "/company/00036624/charges/J1zayncmwhljjk3Iz_d1fZWLN7w"
+      },
+      "particulars": {
+        "description": "Land forming part of bellefield sports ground sandforth road, west derby liverpool merseyside t/no: LA17955 floating charge over all unfixed plant and machinery and other chattels and equipment now or in the future in or about the property and by way of assignment the goodwill of the business.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Co-Operative Bank PLC"
+        }
+      ],
+      "satisfied_on": "2002-04-26",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1998-04-06",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2002-04-26",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 16,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1998-03-27",
+      "delivered_on": "1998-04-06",
+      "etag": "358cfc6023e2539596fbe83eabf2b3f0c92683d2",
+      "links": {
+        "self": "/company/00036624/charges/nnPe2qc8ld_DkpIaZsxiJaBqCfY"
+      },
+      "particulars": {
+        "description": "F/H property k/a goodison park, goodison road liverpool; 205 walton lane, liverpool; 207 & 209 walton lane liverpool floating charge over all unfixed plant and machinery and other chattels and equipment now or in the future in or about the property and by way of assignment the goodwill of the business.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Co-Operative Bank PLC"
+        }
+      ],
+      "satisfied_on": "2002-04-26",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1998-04-06",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "2002-04-26",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 15,
+      "classification": {
+        "description": "Legal mortgage",
+        "type": "charge-description"
+      },
+      "created_on": "1997-06-20",
+      "delivered_on": "1997-06-30",
+      "etag": "427dea1bb54537313bf1691f2f2e8cab06149bba",
+      "links": {
+        "self": "/company/00036624/charges/ljtdn_sQQSSzSJsVoCMftUytdUo"
+      },
+      "particulars": {
+        "description": "F/H property k/a land on the south side of sandforth road and land forming part of bellefield sports ground sandforth road west derby liverpool merseyside t/n-MS377268.. And the proceeds of sale thereof floating charge over all moveable plant machinery implements utensils furniture and equipment and an assignment of the goodwill and connection of any business together with the full benefit of all licences.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "National Westminster Bank PLC"
+        }
+      ],
+      "satisfied_on": "1998-12-09",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1997-06-30",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDAxNTA3MjgyNWFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "1998-12-09",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 14,
+      "classification": {
+        "description": "Legal mortgage",
+        "type": "charge-description"
+      },
+      "created_on": "1996-02-08",
+      "delivered_on": "1996-02-16",
+      "etag": "711b61c35c93bab993a4181fc16b575c9051d4ca",
+      "links": {
+        "self": "/company/00036624/charges/G1HR-CyUC00lj7xB1g5S_LwYPV4"
+      },
+      "particulars": {
+        "description": "F/H property k/a land and buildings on the south west of park lane netherton merseyside t/n MS370175. Floating charge over all moveable plant machinery implements utensils furniture and equipment and an assignment of the goodwill and connection of any business together with the full benefit of all licences. See the mortgage charge document for full details.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "National Westminster Bank PLC"
+        }
+      ],
+      "satisfied_on": "1998-12-09",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1996-02-16",
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/MDAxNjc0NTYzMGFkaXF6a2N4"
+          }
+        },
+        {
+          "delivered_on": "1998-12-09",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 13,
+      "classification": {
+        "description": "Mortgage debenture",
+        "type": "charge-description"
+      },
+      "created_on": "1995-04-13",
+      "delivered_on": "1995-04-21",
+      "etag": "84f4b3b79771dc989801abf31b97d6bb5e9eb53a",
+      "links": {
+        "self": "/company/00036624/charges/wy9FKDCcOTfpvVw6-_vdIhlqF8c"
+      },
+      "particulars": {
+        "description": "A specific equitable charge over all freehold and leasehold properties and/or the proceeds of sale thereof fixed and floating charges over undertaking and all property and assets present and future including goodwill bookdebts and the benefits of any licences.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "National Westminster Bank PLC"
+        }
+      ],
+      "satisfied_on": "1998-12-09",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1995-04-21",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "1998-12-09",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 12,
+      "classification": {
+        "description": "Legal mortgage",
+        "type": "charge-description"
+      },
+      "created_on": "1995-04-13",
+      "delivered_on": "1995-04-21",
+      "etag": "76f61ed1250a40815a6e429b790af7d5c4fa5118",
+      "links": {
+        "self": "/company/00036624/charges/GJTUjpHmoWXpoAWTxklJSvcAuGE"
+      },
+      "particulars": {
+        "description": "F/H property k/a goodison park, liverpool and the proceeds of sale thereof. Floating charge over all moveable plant machinery implements utensils furniture and equipment and an assignment of the goodwill and connection of any business together with the full benefit of all licences.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "National Westminster Bank PLC"
+        }
+      ],
+      "satisfied_on": "1998-12-09",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1995-04-21",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "1998-12-09",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 11,
+      "classification": {
+        "description": "Legal mortgage",
+        "type": "charge-description"
+      },
+      "created_on": "1995-04-13",
+      "delivered_on": "1995-04-21",
+      "etag": "0d0bcd63ce2cef45d9b58e7f23f2aba849a6c7ea",
+      "links": {
+        "self": "/company/00036624/charges/hWu-1C3UKPzILefboxNHYjjikOA"
+      },
+      "particulars": {
+        "description": "F/H property k/a land forming part of bellefield sports ground, sandforth road, west derby, liverpool, merseyside t/no. LA17955 and the proceeds of sale thereof. Floating charge over all moveable plant machinery implements utensils furniture and equipment and an assignment of the goodwill and connection of any business together with the full benefit of all licences.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "National Westminster Bank PLC"
+        }
+      ],
+      "satisfied_on": "1998-12-09",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1995-04-21",
+          "filing_type": "create-charge-pre-2006-companies-act"
+        },
+        {
+          "delivered_on": "1998-12-09",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 10,
+      "classification": {
+        "description": "Mortgage debenture",
+        "type": "charge-description"
+      },
+      "created_on": "1991-08-15",
+      "delivered_on": "1991-09-02",
+      "etag": "683fe79a7206c8b25fad0a762073a33e6a0d675a",
+      "links": {
+        "self": "/company/00036624/charges/MtnOJQOvDu-6hXGF8-DP2CfsL7E"
+      },
+      "particulars": {
+        "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Tsb Bank PLC"
+        }
+      ],
+      "satisfied_on": "1995-05-25",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1991-09-02",
+          "filing_type": "create-charge"
+        },
+        {
+          "delivered_on": "1995-05-25",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 9,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1987-04-24",
+      "delivered_on": "1987-05-07",
+      "etag": "c75304a462115e5d91086c36e425979fd8c0a557",
+      "links": {
+        "self": "/company/00036624/charges/34UVw-mv-lNhm_VvzQ0_3b_BfII"
+      },
+      "particulars": {
+        "description": "Everton football ground, goodison park, goodison road, liverpool.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Tsb England & Wales PLC"
+        }
+      ],
+      "satisfied_on": "1995-05-25",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1987-05-07",
+          "filing_type": "create-charge"
+        },
+        {
+          "delivered_on": "1995-05-25",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 8,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1983-10-31",
+      "delivered_on": "1983-11-18",
+      "etag": "275238b5ba8eccdecd02c4da2c7739848d1563b8",
+      "links": {
+        "self": "/company/00036624/charges/XQ2v5uDl4LZKxDX_1gFHtrKQAew"
+      },
+      "particulars": {
+        "description": "F/H land and buildings shortly k/a goodsison park, liverpool 4.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Trustee Savings Bank North West"
+        }
+      ],
+      "satisfied_on": "1995-05-25",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1983-11-18",
+          "filing_type": "create-charge"
+        },
+        {
+          "delivered_on": "1995-05-25",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 7,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1983-10-31",
+      "delivered_on": "1983-11-18",
+      "etag": "85d37deecff20d2e16ec0d2fffd672452ed42aaa",
+      "links": {
+        "self": "/company/00036624/charges/bYnw8IfhLR2_uYYBrnQhWQZNdH8"
+      },
+      "particulars": {
+        "description": "Bellefield sports ground, sandforth road, west derby, title no:- la 17955.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Trustee Savings Bank North West"
+        }
+      ],
+      "satisfied_on": "1995-05-25",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1983-11-18",
+          "filing_type": "create-charge"
+        },
+        {
+          "delivered_on": "1995-05-25",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 6,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1982-11-01",
+      "delivered_on": "1982-11-11",
+      "etag": "376432a2b0253fb9d3ff4353a7952be9ae940e12",
+      "links": {
+        "self": "/company/00036624/charges/k6l08eV7c3fMAJ3yf-av1KkQ13E"
+      },
+      "particulars": {
+        "description": "F/H land forming part of bellefield sports ground, sandforth road, west derby, liverpool title no:- LA17955.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Midland Bank PLC"
+        }
+      ],
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1982-11-11",
+          "filing_type": "create-charge"
+        }
+      ]
+    },
+    {
+      "acquired_on": "1962-07-20",
+      "charge_number": 5,
+      "classification": {
+        "description": "Second legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1962-02-08",
+      "delivered_on": "1962-07-26",
+      "etag": "e79a9b69ed959fdf5584e0450f6160ed6808f295",
+      "links": {
+        "self": "/company/00036624/charges/KMg9vTdchHDgoCBbtC_rKzDK_NU"
+      },
+      "particulars": {
+        "description": "37, riverbank road, liverpool.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Leigh & District Lending Society LTD"
+        }
+      ],
+      "satisfied_on": "1995-05-25",
+      "secured_details": {
+        "description": "£591.10",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1962-07-26",
+          "filing_type": "create-charge"
+        },
+        {
+          "delivered_on": "1995-05-25",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 3,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1960-04-02",
+      "delivered_on": "1960-04-13",
+      "etag": "e36c331f9a18e96525ea04d29a303ca8170eff8d",
+      "links": {
+        "self": "/company/00036624/charges/2W7THppZ2IhMc7NFQDzc4BgZekE"
+      },
+      "particulars": {
+        "description": "197,199,201,203,205,207,209 & 211,213, walton lane, walton, liverpool (see form 47 (95) for further detials).",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "John Moores"
+        }
+      ],
+      "satisfied_on": "2000-01-20",
+      "secured_details": {
+        "description": "£50,000",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1960-04-13",
+          "filing_type": "create-charge"
+        },
+        {
+          "delivered_on": "2000-01-20",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "acquired_on": "1962-07-20",
+      "charge_number": 4,
+      "classification": {
+        "description": "Legal charge",
+        "type": "charge-description"
+      },
+      "created_on": "1956-10-01",
+      "delivered_on": "1962-07-26",
+      "etag": "3bbcdcbf074daa7d1a861b0688e1065989916380",
+      "links": {
+        "self": "/company/00036624/charges/3bBm6HrQy6lrNEh-Ru2QuRz4Eu8"
+      },
+      "particulars": {
+        "description": "37, riverbank road, liverpool.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Huddersfield Building Society"
+        }
+      ],
+      "satisfied_on": "1995-05-25",
+      "secured_details": {
+        "description": "£864.29",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1962-07-26",
+          "filing_type": "create-charge"
+        },
+        {
+          "delivered_on": "1995-05-25",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 2,
+      "classification": {
+        "description": "Mortgage",
+        "type": "charge-description"
+      },
+      "created_on": "1938-02-01",
+      "delivered_on": "1938-02-07",
+      "etag": "5dbb76425c2e251c2ee366b7b2756bf6a07596e1",
+      "links": {
+        "self": "/company/00036624/charges/jAfJ4pEmtsFivLwX666nwCR0kTc"
+      },
+      "particulars": {
+        "description": "All that piece of land situate on the southerly side of gwladys street walton in the city of liverpool, together with the football stand thereon erected & formerly k/a nos 2/48 (even no's only inclusive) gwladys street aforesaid together with all fixtures.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "Midland Bank PLC"
+        }
+      ],
+      "satisfied_on": "1995-05-25",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1938-02-07",
+          "filing_type": "create-charge"
+        },
+        {
+          "delivered_on": "1995-05-25",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    },
+    {
+      "charge_number": 1,
+      "classification": {
+        "description": "Mortgage",
+        "type": "charge-description"
+      },
+      "created_on": "1920-08-19",
+      "delivered_on": "1920-09-01",
+      "etag": "3bd91c2e69dbe8cec4b9e0548eab7edd9c378874",
+      "links": {
+        "self": "/company/00036624/charges/cB8cViModhzBGzcnjpEkGPSW928"
+      },
+      "particulars": {
+        "description": "32, f/h houses no's 2 to 10 (both inclusive) in goodison rd walton, no's 1 to 23 (both inclusive) & no's 4 to 32 (both inclusive) in goodison avenue walton, liverpool.",
+        "type": "short-particulars"
+      },
+      "persons_entitled": [
+        {
+          "name": "London Joint City"
+        },
+        {
+          "name": "Midland Bank PLC"
+        }
+      ],
+      "satisfied_on": "1995-05-25",
+      "secured_details": {
+        "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+        "type": "amount-secured"
+      },
+      "status": "fully-satisfied",
+      "transactions": [
+        {
+          "delivered_on": "1920-09-01",
+          "filing_type": "create-charge"
+        },
+        {
+          "delivered_on": "1995-05-25",
+          "filing_type": "charge-satisfaction-pre-2006-companies-act",
+          "links": {
+            "filing": "/company/00036624/filing-history/YWRpcXprY3g"
+          }
+        }
+      ]
+    }
+  ],
+  "part_satisfied_count": 0,
+  "satisfied_count": 75,
+  "total_count": 78,
+  "unfiltered_count": 78
+}

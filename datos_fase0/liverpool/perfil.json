@@ -1,0 +1,67 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2025-05-31",
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-06-01",
+      "type": "group"
+    },
+    "next_accounts": {
+      "due_on": "2027-02-28",
+      "overdue": false,
+      "period_end_on": "2026-05-31",
+      "period_start_on": "2025-06-01"
+    },
+    "next_due": "2027-02-28",
+    "next_made_up_to": "2026-05-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "THE LIVERPOOL FOOTBALL CLUB AND ATHLETIC GROUNDS LIMITED",
+  "company_number": "00035668",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2026-09-15",
+    "next_due": "2027-09-29",
+    "next_made_up_to": "2027-09-15",
+    "overdue": false
+  },
+  "date_of_creation": "1892-01-26",
+  "etag": "3079492524d2cd8d91101336f520adeb8c98ef1f",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-09-15",
+  "links": {
+    "persons_with_significant_control": "/company/00035668/persons-with-significant-control",
+    "self": "/company/00035668",
+    "charges": "/company/00035668/charges",
+    "filing_history": "/company/00035668/filing-history",
+    "officers": "/company/00035668/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2007-06-21",
+      "effective_from": "1892-01-26",
+      "name": "LIVERPOOL FOOTBALL CLUB AND ATHLETIC GROUNDS PUBLICLIMITED COMPANY(THE)"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_2": "Anfield Road",
+    "locality": "Liverpool",
+    "postal_code": "L4 0TH",
+    "region": "Merseyside"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "93110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

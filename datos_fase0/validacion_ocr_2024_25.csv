@@ -1,0 +1,16 @@
+club,cifra,valor_extraido_miles_gbp,valor_publicado,fuente_publicada,coincide,nota
+liverpool,Ingresos (turnover),702722,703m,Sky Sports / club,si,
+liverpool,Resultado antes de impuestos,15212,15.2m,City AM / Sky Sports,si,
+liverpool,Gastos de personal (salarios+SS+pensiones),427727,428m,Irish Examiner / club,si,suma de 3 lineas de la nota 4
+liverpool,Beneficio por venta de jugadores,53268,53m,Swiss Ramble,si,
+liverpool,Identidades del balance (3),cuadran,-,calculo interno,si,
+everton,Ingresos (turnover),196697,196.7m (196697),theesk / club,si,OCR leyo el ano anterior como 4486902; corregible
+everton,Resultado antes de impuestos,-8609,-8.6m,Toffeeweb / club,si,
+everton,Beneficio venta a parte vinculada (mujeres + Goodison),49161,49.2m,Toffeeweb / Particle,si,senal de calidad del beneficio
+everton,Identidades del balance (3),cuadran tras corregir,-,calculo interno,si,3 celdas con errores de OCR reconstruidas por identidad
+brentford,Ingresos (turnover),173076,173.1m,Brentford FC,si,
+brentford,Perdida operativa antes de traspasos,-39997,-40.0m,Brentford FC,si,
+brentford,Beneficio por venta de jugadores,27236,27.2m,Brentford FC,si,
+brentford,Resultado antes de impuestos,-20527,-20.5m,Brentford FC,si,
+brentford,Activos intangibles (jugadores),184028,184.0m,theesk,si,
+brentford,Identidades del balance (3),cuadran,-,calculo interno,si,
