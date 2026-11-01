@@ -1,2 +1,17 @@
+# Clave de la API (nunca al repositorio)
 api-premier-key.text
 *.key
+
+# Python
+__pycache__/
+*.pyc
+
+# Datos brutos descargables de nuevo con los scripts (pesados)
+datos_fase0/*/cuentas/
+datos_fase0/*/ocr_rapido/
+
+# Archivos sueltos
+Nuevo Documento de Microsoft Word.text
+
+# Datos brutos de la fase 1
+datos_fase1/raw/
