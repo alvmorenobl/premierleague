@@ -74,7 +74,8 @@ def medir(ref, x, base):
     pan = {(a, b): c for a, b, c in zip(fiable.documento, fiable.variable, fiable.valor)}
     # el panel puede tomar el valor de la cuenta del año siguiente: se busca por sociedad y cierre
     pan2 = {(n, c, v): val for n, c, v, val in zip(fiable.numero, fiable.cierre, fiable.variable, fiable.valor)}
-    r["panel"] = evalua({(f.documento, f.variable): pan.get((f.documento, f.variable), pan2.get((f.numero, f.cierre, f.variable), np.nan)) for _, f in r.iterrows()})
+    # solo por (sociedad, cierre, variable): las filas 'desde_año_siguiente' llevan el documento del ano t+1
+    r["panel"] = evalua({(f.documento, f.variable): pan2.get((f.numero, f.documento[:10], f.variable), np.nan) for _, f in r.iterrows()})
     for col in ("extractor", "panel"):
         c = r[r[col].isin(["correcto", "incorrecto"])]
         f = r[r[col].isin(["correcto", "incorrecto", "falta"])]
