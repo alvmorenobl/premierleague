@@ -1,6 +1,6 @@
 club,numero_club,sociedad_club,numero_grupo,sociedad_grupo,temporadas,confianza,nota
 Arsenal,00109244,THE ARSENAL FOOTBALL CLUB LIMITED,,,todas,alta,Matriz Arsenal Holdings / KSE fuera de la búsqueda; añadir si hace falta grupo
-Aston Villa,03375789,ASTON VILLA FOOTBALL CLUB LIMITED,00046572,ASTON VILLA LIMITED,todas,alta,"Cadena PSC: 03375789 y 02502822 -> Aston Villa Ltd (00046572, antigua plc) -> NSWE Sports. Confirmar actividad principal al descargar cuentas"
+Aston Villa,03375789,ASTON VILLA FOOTBALL CLUB LIMITED,,,todas,alta,"Club: 03375789. Aston Villa Ltd (00046572, antigua plc) es solo patrimonial (ingresos ~£1 m, sin consolidar): NO se usa como grupo. Cadena PSC: club -> 00046572 -> NSWE Sports"
 Barnsley,04573250,BARNSLEY FOOTBALL CLUB LIMITED,,,todas,alta,
 Birmingham,00027318,BIRMINGHAM CITY FOOTBALL CLUB LIMITED,,,todas,alta,Matriz cotizada en Hong Kong (BSHL/BCP) no está en Companies House
 Blackburn,00053482,THE BLACKBURN ROVERS FOOTBALL AND ATHLETIC LIMITED,,,todas,alta,Matriz Venky's London Ltd no buscada

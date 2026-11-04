@@ -1,0 +1,91 @@
+id,numero,documento,variable,verdad,extraido,resultado,nota
+0,03642327,2013-05-31_MzA5NTY4NTM0OWFkaXF6a2N4,ingresos,3900.701,3900.701,correcto,bal sociedad (no consolidado)
+0,03642327,2013-05-31_MzA5NTY4NTM0OWFkaXF6a2N4,resultado_antes_impuestos,-4454.513,-5.078,incorrecto,bal sociedad (no consolidado)
+0,03642327,2013-05-31_MzA5NTY4NTM0OWFkaXF6a2N4,activos_netos,4323.915,3792.957,correcto,bal: verdad = balance CONSOLIDADO (members funds) revisado a mano
+1,00048409,2012-05-31_MzA3MzcyODkxNWFkaXF6a2N4,ingresos,28780.044,28780.044,correcto,
+1,00048409,2012-05-31_MzA3MzcyODkxNWFkaXF6a2N4,resultado_antes_impuestos,16052.86,16052.86,correcto,
+1,00048409,2012-05-31_MzA3MzcyODkxNWFkaXF6a2N4,activos_netos,20793.629,20793.629,correcto,
+2,00035668,2009-07-31_MzAxNDkxNzc1N2FkaXF6a2N4,ingresos,177324,177324.0,correcto,
+2,00035668,2009-07-31_MzAxNDkxNzc1N2FkaXF6a2N4,resultado_antes_impuestos,-16084,-16084.0,correcto,
+2,00035668,2009-07-31_MzAxNDkxNzc1N2FkaXF6a2N4,activos_netos,14039,14039.0,correcto,
+3,06133975,2012-05-31_MzA3MjUxNzA4NWFkaXF6a2N4,ingresos,,,no_existe_ok,abreviadas: sin cuenta de resultados
+3,06133975,2012-05-31_MzA3MjUxNzA4NWFkaXF6a2N4,resultado_antes_impuestos,,,no_existe_ok,abreviadas: sin cuenta de resultados
+3,06133975,2012-05-31_MzA3MjUxNzA4NWFkaXF6a2N4,activos_netos,-641.022,,falta,abreviadas: sin cuenta de resultados
+4,00099885,2014-05-31_MzExMzI5MDc1MGFkaXF6a2N4,ingresos,98318,98318.0,correcto,formato 4 columnas
+4,00099885,2014-05-31_MzExMzI5MDc1MGFkaXF6a2N4,resultado_antes_impuestos,3786,3786.0,correcto,formato 4 columnas
+4,00099885,2014-05-31_MzExMzI5MDc1MGFkaXF6a2N4,activos_netos,-28412,-28412.0,correcto,formato 4 columnas
+5,00081077,2014-06-30_MzExNTg1NzgxOGFkaXF6a2N4,ingresos,24024.626,24024.626,correcto,sin linea net assets
+5,00081077,2014-06-30_MzExNTg1NzgxOGFkaXF6a2N4,resultado_antes_impuestos,-8507.137,-8507.137,correcto,sin linea net assets
+5,00081077,2014-06-30_MzExNTg1NzgxOGFkaXF6a2N4,activos_netos,-60714.743,,falta,sin linea net assets
+6,00066516,2009-05-31_MzAxMDQ4MzQ4OGFkaXF6a2N4,ingresos,~75800,,falta,pag. resultados mal localizada; cifra del informe
+6,00066516,2009-05-31_MzAxMDQ4MzQ4OGFkaXF6a2N4,resultado_antes_impuestos,~-16200,,no_existe_ok,"informe de los administradores: perdida de £16,2 m (pag. de resultados localizada ahora)"
+6,00066516,2009-05-31_MzAxMDQ4MzQ4OGFkaXF6a2N4,activos_netos,-22666,-22666.0,correcto,pag. resultados mal localizada; cifra del informe
+7,00049139,2014-06-30_MzEyMDkzMzYzMGFkaXF6a2N4,ingresos,20175,20175.0,correcto,
+7,00049139,2014-06-30_MzEyMDkzMzYzMGFkaXF6a2N4,resultado_antes_impuestos,-7062,-7062.0,correcto,
+7,00049139,2014-06-30_MzEyMDkzMzYzMGFkaXF6a2N4,activos_netos,27183,27183.0,correcto,
+8,06133975,2010-05-31_MzAzMzE3MDEwNmFkaXF6a2N4,ingresos,,,no_existe_ok,abreviadas
+8,06133975,2010-05-31_MzAzMzE3MDEwNmFkaXF6a2N4,resultado_antes_impuestos,,,no_existe_ok,abreviadas
+8,06133975,2010-05-31_MzAzMzE3MDEwNmFkaXF6a2N4,activos_netos,-1178.832,,falta,abreviadas
+9,00046572,2013-05-31_MzA5NTYwMTg5NGFkaXF6a2N4,ingresos,1058.62,1058.62,correcto,holding sin actividad
+9,00046572,2013-05-31_MzA5NTYwMTg5NGFkaXF6a2N4,resultado_antes_impuestos,0,0.003,correcto,holding sin actividad
+9,00046572,2013-05-31_MzA5NTYwMTg5NGFkaXF6a2N4,activos_netos,210394.488,210394.488,correcto,holding sin actividad
+10,07796376,2018-12-31_MzI0NTk1NjI3NmFkaXF6a2N4,ingresos,,,no_existe_ok,filleted: sin cuenta de resultados
+10,07796376,2018-12-31_MzI0NTk1NjI3NmFkaXF6a2N4,resultado_antes_impuestos,,,no_existe_ok,filleted: sin cuenta de resultados
+10,07796376,2018-12-31_MzI0NTk1NjI3NmFkaXF6a2N4,activos_netos,4906.905,,no_existe_ok,filleted: sin cuenta de resultados; balance revisado a mano
+11,04593477,2016-05-31_MzE3MDI5Njg0NWFkaXF6a2N4,ingresos,128715,128715.0,correcto,2015 reexpresado
+11,04593477,2016-05-31_MzE3MDI5Njg0NWFkaXF6a2N4,resultado_antes_impuestos,16365,16365.0,correcto,2015 reexpresado
+11,04593477,2016-05-31_MzE3MDI5Njg0NWFkaXF6a2N4,activos_netos,62551,62551.0,correcto,2015 reexpresado
+12,00049116,2016-07-31_MzE3NjkwNzQzM2FkaXF6a2N4,ingresos,104072,104072.0,correcto,
+12,00049116,2016-07-31_MzE3NjkwNzQzM2FkaXF6a2N4,resultado_antes_impuestos,-33785,-33785.0,correcto,
+12,00049116,2016-07-31_MzE3NjkwNzQzM2FkaXF6a2N4,activos_netos,-106495,-106495.0,correcto,
+13,06233875,2019-06-30_MzI2MTM1NjMxOGFkaXF6a2N4,ingresos,48919.765,48919.765,correcto,bal sociedad (no consolidado)
+13,06233875,2019-06-30_MzI2MTM1NjMxOGFkaXF6a2N4,resultado_antes_impuestos,-21398.994,-21398.994,correcto,bal sociedad (no consolidado)
+13,06233875,2019-06-30_MzI2MTM1NjMxOGFkaXF6a2N4,activos_netos,-6979.915,,falta,bal: verdad = balance CONSOLIDADO revisado a mano
+14,02509978,2017-05-31_MzE5OTI1Mzk0N2FkaXF6a2N4,ingresos,23377,23377.0,correcto,
+14,02509978,2017-05-31_MzE5OTI1Mzk0N2FkaXF6a2N4,resultado_antes_impuestos,-20765,-20765.0,correcto,
+14,02509978,2017-05-31_MzE5OTI1Mzk0N2FkaXF6a2N4,activos_netos,-12925,-12925.0,correcto,
+15,00036624,2016-05-31_MzE2NjUxMzYwNmFkaXF6a2N4,ingresos,121541,121541.0,correcto,formato 4 columnas
+15,00036624,2016-05-31_MzE2NjUxMzYwNmFkaXF6a2N4,resultado_antes_impuestos,-24333,-24333.0,correcto,formato 4 columnas
+15,00036624,2016-05-31_MzE2NjUxMzYwNmFkaXF6a2N4,activos_netos,-43404,-43404.0,correcto,formato 4 columnas
+16,00036624,2015-05-31_MzEzNjkxMTg4MGFkaXF6a2N4,ingresos,125572,125572.0,correcto,formato 4 columnas; reexpresado en 2016 a -19.071
+16,00036624,2015-05-31_MzEzNjkxMTg4MGFkaXF6a2N4,resultado_antes_impuestos,-4054,-4054.0,correcto,formato 4 columnas; reexpresado en 2016 a -19.071
+16,00036624,2015-05-31_MzEzNjkxMTg4MGFkaXF6a2N4,activos_netos,-18532,-18532.0,correcto,formato 4 columnas; reexpresado en 2016 a -19.071
+17,00049139,2016-06-30_MzE3MzA3MjA0MWFkaXF6a2N4,ingresos,22559,22559.0,correcto,
+17,00049139,2016-06-30_MzE3MzA3MjA0MWFkaXF6a2N4,resultado_antes_impuestos,-14725,-14725.0,correcto,
+17,00049139,2016-06-30_MzE3MzA3MjA0MWFkaXF6a2N4,activos_netos,71791,,falta,
+18,00109065,2018-05-31_MzIyNzU4NTQ4M2FkaXF6a2N4,ingresos,32785,32785.0,correcto,
+18,00109065,2018-05-31_MzIyNzU4NTQ4M2FkaXF6a2N4,resultado_antes_impuestos,-39399,-39399.0,correcto,
+18,00109065,2018-05-31_MzIyNzU4NTQ4M2FkaXF6a2N4,activos_netos,-117164,,falta,
+19,00123414,2016-07-31_MzE3NTEyOTI4OGFkaXF6a2N4,ingresos,97151.029,,falta,"formato 4 columnas; coincide con el informe estrategico (£97,2 m)"
+19,00123414,2016-07-31_MzE3NTEyOTI4OGFkaXF6a2N4,resultado_antes_impuestos,-14594.017,-14594.017,correcto,"etiqueta partida en 2 lineas; coincide con el informe estrategico (£14,6 m)"
+19,00123414,2016-07-31_MzE3NTEyOTI4OGFkaXF6a2N4,activos_netos,6708.962,6708.962,correcto,pag. resultados mal localizada; cifra del informe
+20,04044254,2024-05-31_MzQ1NzA0ODAwMWFkaXF6a2N4,ingresos,23241,23241.0,correcto,
+20,04044254,2024-05-31_MzQ1NzA0ODAwMWFkaXF6a2N4,resultado_antes_impuestos,-11661,-11661.0,correcto,
+20,04044254,2024-05-31_MzQ1NzA0ODAwMWFkaXF6a2N4,activos_netos,-30772,,falta,
+21,07206409,2021-06-30_MzM0MTI3NDc2OWFkaXF6a2N4,ingresos,134383,134383.0,correcto,periodo de 11 meses
+21,07206409,2021-06-30_MzM0MTI3NDc2OWFkaXF6a2N4,resultado_antes_impuestos,-40261,-40261.0,correcto,periodo de 11 meses
+21,07206409,2021-06-30_MzM0MTI3NDc2OWFkaXF6a2N4,activos_netos,-89368,,falta,periodo de 11 meses
+22,00035668,2021-05-31_MzMzMTQ3NTI1NGFkaXF6a2N4,ingresos,487365,487365.0,correcto,
+22,00035668,2021-05-31_MzMzMTQ3NTI1NGFkaXF6a2N4,resultado_antes_impuestos,-4762,-4762.0,correcto,
+22,00035668,2021-05-31_MzMzMTQ3NTI1NGFkaXF6a2N4,activos_netos,199240,199240.0,correcto,
+23,06133975,2024-06-30_MzQ2MDgwMDg0M2FkaXF6a2N4,ingresos,132321.856,132321.856,correcto,
+23,06133975,2024-06-30_MzQ2MDgwMDg0M2FkaXF6a2N4,resultado_antes_impuestos,49467.297,49467.297,correcto,
+23,06133975,2024-06-30_MzQ2MDgwMDg0M2FkaXF6a2N4,activos_netos,27620.909,,falta,
+24,00095489,2023-06-30_MzQxMDkwODc4OGFkaXF6a2N4,ingresos,601313,,falta,NIIF: loss before income tax
+24,00095489,2023-06-30_MzQxMDkwODc4OGFkaXF6a2N4,resultado_antes_impuestos,-25132,,falta,NIIF: loss before income tax
+24,00095489,2023-06-30_MzQxMDkwODc4OGFkaXF6a2N4,activos_netos,,,no_existe_ok,NIIF: loss before income tax
+25,14190771,2023-06-30_MzQxMzk5NDI1MmFkaXF6a2N4,ingresos,20442.892,0.004,incorrecto,primer ejercicio: una sola columna
+25,14190771,2023-06-30_MzQxMzk5NDI1MmFkaXF6a2N4,resultado_antes_impuestos,-30358.613,-30358.613,correcto,primer ejercicio: una sola columna
+25,14190771,2023-06-30_MzQxMzk5NDI1MmFkaXF6a2N4,activos_netos,-29858.613,0.007,incorrecto,primer ejercicio: una sola columna
+26,04787003,2025-06-30_MzUzMDUzODI0MGFkaXF6a2N4,ingresos,5550.784,5550.784000000001,correcto,
+26,04787003,2025-06-30_MzUzMDUzODI0MGFkaXF6a2N4,resultado_antes_impuestos,-3028.019,-3028.019,correcto,
+26,04787003,2025-06-30_MzUzMDUzODI0MGFkaXF6a2N4,activos_netos,-14510.723,-14510.723,correcto,
+27,02849319,2023-06-30_MzQxNzEyODU5MWFkaXF6a2N4,ingresos,204450,204450.0,correcto,formato 4 columnas
+27,02849319,2023-06-30_MzQxNzEyODU5MWFkaXF6a2N4,resultado_antes_impuestos,133252,133252.0,correcto,formato 4 columnas
+27,02849319,2023-06-30_MzQxNzEyODU5MWFkaXF6a2N4,activos_netos,-27720,,falta,formato 4 columnas
+28,00104194,2023-06-30_MzQxMTkwNzQ4NWFkaXF6a2N4,ingresos,66198,66198.0,correcto,formato 6 columnas
+28,00104194,2023-06-30_MzQxMTkwNzQ4NWFkaXF6a2N4,resultado_antes_impuestos,24131,24131.0,correcto,formato 6 columnas
+28,00104194,2023-06-30_MzQxMTkwNzQ4NWFkaXF6a2N4,activos_netos,-10511,-10511.0,correcto,formato 6 columnas
+29,03374347,2021-06-30_MzMzNDMxMjI3N2FkaXF6a2N4,ingresos,116111,116111.0,correcto,
+29,03374347,2021-06-30_MzMzNDMxMjI3N2FkaXF6a2N4,resultado_antes_impuestos,-93483,-93483.0,correcto,
+29,03374347,2021-06-30_MzMzNDMxMjI3N2FkaXF6a2N4,activos_netos,245351,245351.0,correcto,
