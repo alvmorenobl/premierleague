@@ -65,7 +65,7 @@ id,numero,cierre,documento,variable,verdad,estado_ref
 15,03295063,2015-06-30,2016-06-30_MzE2NzU2NDA5NWFkaXF6a2N4,activos_netos,13902.0,extraida_correcta
 15,03295063,2015-06-30,2016-06-30_MzE2NzU2NDA5NWFkaXF6a2N4,sueldos_salarios,65579.0,extraida_correcta
 16,04787003,2017-06-30,2018-06-30_MzIzMTA1MjAzNGFkaXF6a2N4,ingresos,5558.485,extraida_correcta
-16,04787003,2017-06-30,2018-06-30_MzIzMTA1MjAzNGFkaXF6a2N4,resultado_antes_impuestos,,incorrecta_sin_cifra
+16,04787003,2017-06-30,2018-06-30_MzIzMTA1MjAzNGFkaXF6a2N4,resultado_antes_impuestos,-4475.622,verdad_corregida
 16,04787003,2017-06-30,2018-06-30_MzIzMTA1MjAzNGFkaXF6a2N4,activos_netos,-10552.431,extraida_correcta
 16,04787003,2017-06-30,2018-06-30_MzIzMTA1MjAzNGFkaXF6a2N4,patrimonio,-10552.431,extraida_correcta
 16,04787003,2017-06-30,2018-06-30_MzIzMTA1MjAzNGFkaXF6a2N4,sueldos_salarios,4652.543,extraida_correcta

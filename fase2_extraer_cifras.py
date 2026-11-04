@@ -44,7 +44,7 @@ BAL = [
     ("activo_circulante_neto", r"^net current (assets|liabilities|\(liabilities\))"),
     ("activo_menos_pasivo_cp", r"^total assets less current liabilities"),
     ("provisiones", r"^provisions"),
-    ("activos_netos", r"^net \(?(assets|l[a-z]{4,10}ties|deficit)\)?(?=\W|$)(?!.*excluding)"),
+    ("activos_netos", r"^net \(?(assets|l[a-z]{4,10}t?i?es|deficit)\)?(?=\W|$)(?!.*excluding)"),
     ("patrimonio", r"^(?!.*and li[a-z]*bilities)total (shareholders|equity|members)|shareholder.{0,8}(funds|deficit|deficiency)|^total equity|^members.{0,3} (funds|deficit)|^equity shareholders"),
     ("deudores", r"^debtors$|^debtors\b(?!.*after)|^trade and other receivables"),
     ("caja", r"^cash (at bank|and cash equivalents|in hand)|^cash$"),
@@ -79,6 +79,7 @@ def es_fecha(linea):
     return bool(re.search(MESES, l) or re.search(r"year ended|period ended|as at|\b(19|20)\d\d\s+(19|20)\d\d\b", l))
 
 def numeros(s):
+    s = re.sub(r"(?<![\d,])[$§](?=\d{1,3}(,\d{3})+)", "5", s)    # "$49,633" -> "549,633"
     s = re.sub(r"\((\d{1,3}) (\d{3}(?:,\d{3})*)\)", r"(\1,\2)", s)
     s = re.sub(r"(\d,)\s(\d{3}\b)(?![,.]\d)", r"\1\2", s)
     """Cifras de una linea, uniendo grupos separados por espacio ('10 979,172') cuando la
@@ -105,9 +106,12 @@ def numeros(s):
             unido = valor(t.lstrip("(") + "," + tk[i+1][0])
             if t.startswith("(") or tk[i+1][0].endswith(")"):
                 unido = -abs(unido)
-            prev = out[-1] if out else None
-            if prev and abs(math.log(abs(unido) / abs(prev))) < abs(math.log(abs(v) / abs(prev))):
-                out.append(unido); i += 2; continue
+            vecinos = [x for x in ((out[-1] if out else None), (vals[i+2] if i + 2 < len(tk) else None)) if x]
+            if vecinos and unido and v:
+                du = min(abs(math.log(abs(unido) / abs(x))) for x in vecinos)
+                dv = min(abs(math.log(abs(v) / abs(x))) for x in vecinos)
+                if du < dv:
+                    out.append(unido); i += 2; continue
         if v is not None:
             out.append(v)
         i += 1
@@ -140,10 +144,19 @@ def n_columnas_ano(texto):
 def elegir(nums, ncol):
     """(actual, anterior) a partir de las cifras de la linea."""
     g = list(nums)
-    cerca = lambda x, y: abs(x - y) <= max(2, 0.002 * abs(y))
+    cerca = lambda x, y: abs(x - y) <= max(2, 0.00002 * abs(y))    # la suma de columnas es exacta
+    nota = lambda x: x != 0 and abs(x) < 60 and x == int(x)
+    sin_nota = list(g)
+    while len(sin_nota) > 2 and nota(sin_nota[0]):
+        sin_nota = sin_nota[1:]
+    # 6 columnas: operaciones | traspasos | total | (lo mismo del año anterior)
+    if len(sin_nota) == 6 and cerca(sin_nota[3] + sin_nota[4], sin_nota[5]):
+        return sin_nota[2], sin_nota[5]
     # 'operaciones | traspasos | total | (anterior...)': a + b = total
     if len(g) >= 3:
         for i in range(2, len(g)):
+            if nota(g[i-2]) or nota(g[i-1]):
+                continue
             if cerca(g[i-2] + g[i-1], g[i]) and g[i] != 0:
                 rest = g[i+1:]
                 if len(rest) >= 3 and cerca(rest[0] + rest[1], rest[2]):
@@ -156,8 +169,11 @@ def elegir(nums, ncol):
         if len(g) >= 2 and abs(g[0]) < 60:
             g = g[1:]
         return (g[-1] if g else None), None
-    if ncol == 4 and len(g) >= 4:
-        return g[-4], g[-3]
+    if ncol == 4:
+        if len(sin_nota) >= 4:
+            return sin_nota[-4], sin_nota[-3]
+        if len(sin_nota) == 3:          # falta el guion de una columna vacia
+            return sin_nota[-2], sin_nota[-1]
     if ncol == 3 and len(g) >= 3:
         return g[-3], g[-2]
     if len(g) >= 2:
@@ -184,7 +200,7 @@ def lineas(texto):
         if not nums:
             if pendiente:
                 e, u, n = pendiente
-                if 0 < len(etiq) < 40:
+                if 0 < len(etiq) < 40 and re.search(r"\b(before|and|on|of|ordinary|activities|the|from|after)$", e):
                     pendiente = (e, (u + " " + etiq).strip(), n)
                 yield pendiente; pendiente = None
             previa = etiq if 0 < len(etiq) < 70 else ""
