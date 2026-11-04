@@ -51,10 +51,12 @@ BAL = [
 ]
 PER = [
     ("gastos_personal", r"^(total )?(staff|employment|personnel) costs\b(?!.*(were|comprise|include|as follows))|^total staff"),
-    ("sueldos_salarios", r"^wages and salaries"),
+    ("sueldos_salarios", r"^wages ?and ?sal[a-z]{3,5}s?\b"),     # 'salanes', 'andsalaries' (OCR)
     ("seguridad_social", r"^social security"),
     ("pensiones", r"^(other )?pension"),
 ]
+# exclusiones propias de una partida
+EXCL_VAR = {"sueldos_salarios": r"normal|exceptional|director|included|excluding"}
 MESES = r"january|february|march|april|may|june|july|august|september|october|november|december"
 
 TOK = re.compile(r"\(?-?\d{1,3}(?:[,.;:]\d{3})+\)?|\(?-?\d+\)?|(?<!\S)[-–—](?!\S)")   # "=" es ruido de subrayado, no cero
@@ -72,6 +74,7 @@ def tokens(s):
     """Lista de (texto, inicio, fin) de cada cifra de la linea."""
     s = re.sub(r"\((\d{1,3}) (\d{3}(?:,\d{3})*)\)", r"(\1,\2)", s)   # "(63 173)" -> "(63,173)"
     s = re.sub(r"(\d,)\s(\d{3}\b)(?![,.]\d)", r"\1\2", s)     # "5,078, 106" -> "5,078,106" (no "332,211. 298,903")
+    s = re.sub(r"(?<![\d,.])(\d{1,3}),\s(\d{3}(?:,\d{3})+)\b", r"\1,\2", s)   # "10, 886,881" -> "10,886,881"
     return [(m.group(), m.start(), m.end()) for m in TOK.finditer(s)]
 
 def es_fecha(linea):
@@ -82,6 +85,7 @@ def numeros(s):
     s = re.sub(r"(?<![\d,])[$§](?=\d{1,3}(,\d{3})+)", "5", s)    # "$49,633" -> "549,633"
     s = re.sub(r"\((\d{1,3}) (\d{3}(?:,\d{3})*)\)", r"(\1,\2)", s)
     s = re.sub(r"(\d,)\s(\d{3}\b)(?![,.]\d)", r"\1\2", s)
+    s = re.sub(r"(?<![\d,.])(\d{1,3}),\s(\d{3}(?:,\d{3})+)\b", r"\1,\2", s)
     """Cifras de una linea, uniendo grupos separados por espacio ('10 979,172') cuando la
     union encaja mejor en magnitud con la columna siguiente."""
     tk = tokens(s)
@@ -162,6 +166,13 @@ def elegir(nums, ncol):
                 if len(rest) >= 3 and cerca(rest[0] + rest[1], rest[2]):
                     return g[i], rest[2]
                 return g[i], (rest[-1] if rest else None)
+    # lo mismo sin los ceros de guiones/ruido sueltos ('0 (48,286) 0 72,377 24,091 (74,447)')
+    nz = [x for x in g if x != 0 and not nota(x)]
+    if len(nz) >= 3 and len(nz) < len(g):
+        for i in range(2, len(nz)):
+            if cerca(nz[i-2] + nz[i-1], nz[i]):
+                rest = nz[i+1:]
+                return nz[i], (rest[-1] if rest else None)
     # quitar numeros de nota al principio
     while len(g) > max(ncol, 1) and abs(g[0]) < 60 and g[0] == int(g[0]):
         g = g[1:]
@@ -194,8 +205,9 @@ def lineas(texto):
             if pendiente: yield pendiente; pendiente = None
             previa = ""
             continue
-        m = TOK.search(s)
-        etiq = limpiar(s[:m.start()] if m else s)
+        # un guion seguido de texto es parte de la etiqueta ('wages and salaries - normal costs')
+        m = next((x for x in TOK.finditer(s) if not (x.group() in "-–—" and re.match(r"\s*[A-Za-z]", s[x.end():]))), None)
+        etiq = re.sub(r"^(?:[a-z] )+(?=[a-z]{3,})", "", limpiar(s[:m.start()] if m else s))   # 'i wages ...' (ruido OCR)
         nums = numeros(s[m.start():]) if m else []
         if not nums:
             if pendiente:
@@ -227,9 +239,12 @@ def extraer(texto, reglas, u):
     ncol = n_columnas_ano(texto)
     res = {}
     for sola, unida, nums in lineas(texto):
+        # cuentas en libras: un entero < 60 al principio es el numero de nota, nunca un importe
+        while u == 0.001 and len(nums) >= 2 and nums[0] != 0 and abs(nums[0]) < 60 and nums[0] == int(nums[0]):
+            nums = nums[1:]
         for var, pat in reglas:
             et = sola if re.search(pat, sola) else (unida if re.search(pat, unida) and reglas is not PER else None)
-            if et is None or re.search(EXCLUIR_ETIQ, et):
+            if et is None or re.search(EXCLUIR_ETIQ, et) or (var in EXCL_VAR and re.search(EXCL_VAR[var], et)):
                 continue
             if var not in res:
                 a, b = elegir(nums, ncol)
@@ -261,7 +276,16 @@ def main():
                        if (t := leer(doc, p))]
         u = unidad_documento(principales) if principales else 1.0
         for bloque, tipo, reglas in (("pyg", "resultados", PYG), ("balance", "balance", BAL), ("personal", "personal", PER)):
-            for p in clave.get(tipo, []):
+            cand = list(clave.get(tipo, []))
+            if bloque != "personal":
+                # primero las paginas con el titulo del estado en la cabecera (no el informe de administradores)
+                tit = TIT_BAL if bloque == "balance" else TIT_PYG
+                def cab(p):
+                    t = leer(doc, p)
+                    return bool(t and re.search(tit, " ".join(t.lower().split()[:60])))
+                cand.sort(key=lambda p: 0 if cab(p) else 1)
+            hecho = False
+            for p in cand:
                 t = leer(doc, p)
                 if not t:
                     continue
@@ -284,7 +308,31 @@ def main():
                         filas.append({"numero": doc.parent.name, "cierre": doc.name[:10], "documento": doc.name,
                                       "bloque": bloque, "variable": var, "actual": a, "anterior": b,
                                       "pagina": p, "etiqueta_ocr": et, "unidad": u, "localizacion": version})
-                    break
+                    hecho = bloque != "personal" or "sueldos_salarios" in res or "gastos_personal" in res
+                    if hecho:
+                        break
+            if bloque == "personal" and not hecho:
+                # sin sueldos en las paginas localizadas: se busca la tabla de gastos de personal en todo el
+                # documento, exigiendo sueldos y seguridad social o pensiones en la misma pagina
+                ya = {r["variable"] for r in filas if r["documento"] == doc.name}
+                ing = next((abs(r["actual"]) for r in filas if r["documento"] == doc.name and r["variable"] == "ingresos"), None)
+                opciones = []
+                for fp in sorted((doc / "fino").glob("pag_*.txt")):
+                    p = int(fp.stem[4:])
+                    res = extraer(fp.read_text(encoding="utf-8", errors="replace"), PER, u)
+                    if "sueldos_salarios" in res and ({"seguridad_social", "pensiones"} & set(res)):
+                        opciones.append((abs(res["sueldos_salarios"][0]), p, res))
+                if opciones:
+                    # la tabla de personal del club es la de mayor importe (las otras son de administradores
+                    # o de la sociedad matriz); debe ser plausible frente a los ingresos
+                    sue, p, res = max(opciones, key=lambda x: x[0])
+                    plausible = sue >= 100 and (ing is None or ing < 100 or 0.15 <= sue / ing <= 3)
+                    if plausible:
+                        for var, (a, b, et) in res.items():
+                            if var not in ya:
+                                filas.append({"numero": doc.parent.name, "cierre": doc.name[:10], "documento": doc.name,
+                                              "bloque": bloque, "variable": var, "actual": a, "anterior": b,
+                                              "pagina": p, "etiqueta_ocr": et, "unidad": u, "localizacion": "busqueda_personal"})
         if i % 250 == 0:
             print(f"{i}/{len(docs)}")
     with open(OUT, "w", newline="", encoding="utf-8") as f:

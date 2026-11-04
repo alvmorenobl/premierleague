@@ -44,6 +44,9 @@ def main():
     ix["fuente"] = np.where(ix.bloque == "ixbrl_texto", "ixbrl_texto", "ixbrl")
     d = pd.concat([ix, ocr], ignore_index=True)
     d = d[d.documento.isin(validos)]
+    # los gastos de personal son costes: unas cuentas los imprimen entre parentesis y otras no
+    per = d.variable.isin(["gastos_personal", "sueldos_salarios", "seguridad_social", "pensiones"])
+    d.loc[per, ["actual", "anterior"]] = d.loc[per, ["actual", "anterior"]].abs()
     publicada = d[d.variable == "cuenta_resultados_publicada"][["numero", "cierre", "actual"]].rename(columns={"actual": "pyg_publicada"})
     d = d[d.variable != "cuenta_resultados_publicada"]
 
@@ -107,7 +110,10 @@ def main():
             d.at[i, "valor"] = a if abs(a) > abs(b) else b
             d.at[i, "estado"] = "corregida_ocr"
             continue
-        if t in ("unidades", "digito"):
+        if t == "digito":
+            d.at[i, "estado"] = "conflicto_digito"         # se decide con las identidades o queda en conflicto
+            continue
+        if t == "unidades":
             if np.isinf(la) and np.isinf(lb):
                 d.at[i, "estado"] = "conflicto_digito"     # se decide con las identidades
             else:
@@ -190,6 +196,12 @@ def main():
                 d.loc[k & (d.variable == "activos_netos"), ["valor", "estado"]] = [pa, "corregida_identidad"]
             elif ea in buenos and ep not in buenos:
                 d.loc[k & (d.variable == "patrimonio"), ["valor", "estado"]] = [an, "corregida_identidad"]
+            else:
+                # sin una cifra validada que mande: la de menor garantia (o las dos) queda en conflicto
+                rango = lambda e: 2 if e in buenos else (1 if e == "desde_año_siguiente" else 0)
+                ra, rp = rango(ea), rango(ep)
+                malas = ["activos_netos", "patrimonio"] if ra == rp else (["patrimonio"] if ra > rp else ["activos_netos"])
+                d.loc[k & d.variable.isin(malas), "estado"] = "conflicto"
         gp, ss = fila.get("gastos_personal"), fila.get("sueldos_salarios")
         if pd.notna(gp) and pd.notna(ss) and ss > 0 and not (0.98 * ss <= gp <= 1.6 * ss):
             k = (d.numero == num) & (d.cierre == cie) & (d.variable == "gastos_personal")
