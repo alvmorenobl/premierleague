@@ -1,0 +1,67 @@
+club,temporada,variable,valor_externo_mill,fuente
+Liverpool,2024/25,ingresos,702.722,salarysport.com (cuentas depositadas)
+Liverpool,2024/25,resultado_antes_impuestos,15,salarysport.com
+Man City,2024/25,ingresos,694.094,salarysport.com
+Man City,2024/25,resultado_antes_impuestos,-9.9,salarysport.com
+Arsenal,2024/25,ingresos,690.998,salarysport.com
+Arsenal,2024/25,resultado_antes_impuestos,-1.3,salarysport.com
+Man United,2024/25,ingresos,600.652,salarysport.com
+Man United,2024/25,resultado_antes_impuestos,-33,salarysport.com
+Tottenham,2024/25,ingresos,564.881,salarysport.com
+Tottenham,2024/25,resultado_antes_impuestos,-121,salarysport.com
+Chelsea,2024/25,ingresos,490.857,salarysport.com
+Aston Villa,2024/25,ingresos,359.277,salarysport.com
+Aston Villa,2024/25,resultado_antes_impuestos,-74,salarysport.com
+Newcastle,2023/24,ingresos,320.313,salarysport.com
+Newcastle,2023/24,resultado_antes_impuestos,-11,salarysport.com
+Brighton,2023/24,ingresos,260.849,salarysport.com
+Brighton,2023/24,resultado_antes_impuestos,3.9,salarysport.com
+Nott'm Forest,2024/25,ingresos,221.746,salarysport.com
+Nott'm Forest,2024/25,resultado_antes_impuestos,-79,salarysport.com
+Everton,2024/25,ingresos,196.697,salarysport.com
+Everton,2024/25,resultado_antes_impuestos,-8.6,salarysport.com
+Crystal Palace,2024/25,ingresos,195.304,salarysport.com
+Crystal Palace,2024/25,resultado_antes_impuestos,8.1,salarysport.com
+Leeds,2022/23,ingresos,189.683547,salarysport.com
+Leeds,2022/23,resultado_antes_impuestos,-34,salarysport.com
+Fulham,2022/23,ingresos,182.325,salarysport.com
+Fulham,2022/23,resultado_antes_impuestos,-27,salarysport.com
+Brentford,2024/25,ingresos,173.076,salarysport.com
+Brentford,2024/25,resultado_antes_impuestos,-21,salarysport.com
+Ipswich,2024/25,ingresos,155.418,salarysport.com
+Ipswich,2024/25,resultado_antes_impuestos,4.0,salarysport.com
+Bournemouth,2021/22,ingresos,53.226,salarysport.com
+Bournemouth,2021/22,resultado_antes_impuestos,-56,salarysport.com
+Sunderland,2024/25,ingresos,39.422,salarysport.com
+Sunderland,2024/25,resultado_antes_impuestos,-3.3,salarysport.com
+Coventry,2024/25,ingresos,34.145359,salarysport.com
+Coventry,2024/25,resultado_antes_impuestos,-22,salarysport.com
+Hull,2024/25,ingresos,25.821819,salarysport.com
+Hull,2024/25,resultado_antes_impuestos,-10,salarysport.com
+Man City,2021/22,ingresos,619.1,Deloitte Football Money League 2023
+Liverpool,2021/22,ingresos,594.3,Deloitte Football Money League 2023
+Man United,2021/22,ingresos,583.2,Deloitte Football Money League 2023
+Chelsea,2021/22,ingresos,481.3,Deloitte Football Money League 2023
+Tottenham,2021/22,ingresos,442.8,Deloitte Football Money League 2023
+Arsenal,2021/22,ingresos,367.1,Deloitte Football Money League 2023
+West Ham,2021/22,ingresos,255.1,Deloitte Football Money League 2023
+Leicester,2021/22,ingresos,213.6,Deloitte Football Money League 2023
+Leeds,2021/22,ingresos,189.2,Deloitte Football Money League 2023
+Everton,2021/22,ingresos,181.0,Deloitte Football Money League 2023
+Newcastle,2021/22,ingresos,179.8,Deloitte Football Money League 2023
+Man City,2022/23,ingresos,718.2,Deloitte Football Money League 2024
+Man United,2022/23,ingresos,648.5,Deloitte Football Money League 2024
+Liverpool,2022/23,ingresos,593.8,Deloitte Football Money League 2024
+Tottenham,2022/23,ingresos,549.2,Deloitte Football Money League 2024
+Chelsea,2022/23,ingresos,512.5,Deloitte Football Money League 2024
+Arsenal,2022/23,ingresos,463.1,Deloitte Football Money League 2024
+Tottenham,2018/19,ingresos,461,Swiss Ramble (hilo 2018/19)
+Tottenham,2018/19,resultado_antes_impuestos,87,Swiss Ramble (hilo 2018/19)
+Man United,2018/19,ingresos,627,Swiss Ramble (hilo 2018/19)
+Man United,2018/19,resultado_antes_impuestos,27,Swiss Ramble / Inside World Football
+Liverpool,2018/19,resultado_antes_impuestos,42,Swiss Ramble / Inside World Football
+Chelsea,2018/19,resultado_antes_impuestos,-102,Swiss Ramble (hilo 2018/19)
+Man City,2018/19,resultado_antes_impuestos,10,Swiss Ramble (hilo 2018/19)
+Tottenham,2017/18,ingresos,381,The Guardian (D. Conn) via This Is Anfield
+Everton,2017/18,ingresos,189,The Guardian (D. Conn) via This Is Anfield
+Liverpool,2017/18,resultado_antes_impuestos,125,The Guardian / Liverpool FC

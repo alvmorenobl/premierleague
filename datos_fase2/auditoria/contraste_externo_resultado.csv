@@ -1,0 +1,67 @@
+club,temporada,variable,externo,panel,rol,dif,dif_pct,fuente
+Liverpool,2024/25,ingresos,702.722,702.722,club,0.0,0.0,salarysport.com (cuentas depositadas)
+Liverpool,2024/25,resultado_antes_impuestos,15.0,15.212,club,0.21,1.4,salarysport.com
+Man City,2024/25,ingresos,694.094,694.094,club,0.0,0.0,salarysport.com
+Man City,2024/25,resultado_antes_impuestos,-9.9,-9.916,club,-0.02,-0.2,salarysport.com
+Arsenal,2024/25,ingresos,690.998,643.289,club,-47.71,-6.9,salarysport.com
+Arsenal,2024/25,resultado_antes_impuestos,-1.3,25.198,club,26.5,2038.3,salarysport.com
+Man United,2024/25,ingresos,600.652,600.652,club,0.0,0.0,salarysport.com
+Man United,2024/25,resultado_antes_impuestos,-33.0,-32.747,club,0.25,0.8,salarysport.com
+Tottenham,2024/25,ingresos,564.881,564.881,grupo,0.0,0.0,salarysport.com
+Tottenham,2024/25,resultado_antes_impuestos,-121.0,-120.628,grupo,0.37,0.3,salarysport.com
+Chelsea,2024/25,ingresos,490.857,442.466,club,-48.39,-9.9,salarysport.com
+Aston Villa,2024/25,ingresos,359.277,359.277,club,0.0,0.0,salarysport.com
+Aston Villa,2024/25,resultado_antes_impuestos,-74.0,-74.476,club,-0.48,-0.6,salarysport.com
+Newcastle,2023/24,ingresos,320.313,320.313,grupo,0.0,0.0,salarysport.com
+Newcastle,2023/24,resultado_antes_impuestos,-11.0,-10.925,club,0.07,0.7,salarysport.com
+Brighton,2023/24,ingresos,260.849,260.849,grupo,0.0,0.0,salarysport.com
+Brighton,2023/24,resultado_antes_impuestos,3.9,75.126,grupo,71.23,1826.3,salarysport.com
+Nott'm Forest,2024/25,ingresos,221.746,221.746,club,0.0,0.0,salarysport.com
+Nott'm Forest,2024/25,resultado_antes_impuestos,-79.0,-78.921,club,0.08,0.1,salarysport.com
+Everton,2024/25,ingresos,196.697,,,,,salarysport.com
+Everton,2024/25,resultado_antes_impuestos,-8.6,,,,,salarysport.com
+Crystal Palace,2024/25,ingresos,195.304,195.304,club,0.0,0.0,salarysport.com
+Crystal Palace,2024/25,resultado_antes_impuestos,8.1,8.07,club,-0.03,-0.4,salarysport.com
+Leeds,2022/23,ingresos,189.683547,189.684,club,0.0,0.0,salarysport.com
+Leeds,2022/23,resultado_antes_impuestos,-34.0,-33.704,club,0.3,0.9,salarysport.com
+Fulham,2022/23,ingresos,182.325,182.325,club,0.0,0.0,salarysport.com
+Fulham,2022/23,resultado_antes_impuestos,-27.0,-26.615,club,0.39,1.4,salarysport.com
+Brentford,2024/25,ingresos,173.076,173.076,club,0.0,0.0,salarysport.com
+Brentford,2024/25,resultado_antes_impuestos,-21.0,-20.527,club,0.47,2.3,salarysport.com
+Ipswich,2024/25,ingresos,155.418,155.418,club,0.0,0.0,salarysport.com
+Ipswich,2024/25,resultado_antes_impuestos,4.0,4.011,club,0.01,0.3,salarysport.com
+Bournemouth,2021/22,ingresos,53.226,53.226,club,0.0,0.0,salarysport.com
+Bournemouth,2021/22,resultado_antes_impuestos,-56.0,-55.51,club,0.49,0.9,salarysport.com
+Sunderland,2024/25,ingresos,39.422,39.422,club,0.0,0.0,salarysport.com
+Sunderland,2024/25,resultado_antes_impuestos,-3.3,-3.279,club,0.02,0.6,salarysport.com
+Coventry,2024/25,ingresos,34.145359,34.145,club,0.0,0.0,salarysport.com
+Coventry,2024/25,resultado_antes_impuestos,-22.0,-21.601,club,0.4,1.8,salarysport.com
+Hull,2024/25,ingresos,25.821819,25.822,club,-0.0,-0.0,salarysport.com
+Hull,2024/25,resultado_antes_impuestos,-10.0,-10.224,club,-0.22,-2.2,salarysport.com
+Man City,2021/22,ingresos,619.1,613.014,club,-6.09,-1.0,Deloitte Football Money League 2023
+Liverpool,2021/22,ingresos,594.3,594.271,club,-0.03,-0.0,Deloitte Football Money League 2023
+Man United,2021/22,ingresos,583.2,539.937,club,-43.26,-7.4,Deloitte Football Money League 2023
+Chelsea,2021/22,ingresos,481.3,453.056,club,-28.24,-5.9,Deloitte Football Money League 2023
+Tottenham,2021/22,ingresos,442.8,443.415,grupo,0.62,0.1,Deloitte Football Money League 2023
+Arsenal,2021/22,ingresos,367.1,342.249,club,-24.85,-6.8,Deloitte Football Money League 2023
+West Ham,2021/22,ingresos,255.1,251.791,club,-3.31,-1.3,Deloitte Football Money League 2023
+Leicester,2021/22,ingresos,213.6,214.59,club,0.99,0.5,Deloitte Football Money League 2023
+Leeds,2021/22,ingresos,189.2,189.207,club,0.01,0.0,Deloitte Football Money League 2023
+Everton,2021/22,ingresos,181.0,,,,,Deloitte Football Money League 2023
+Newcastle,2021/22,ingresos,179.8,179.986,club,0.19,0.1,Deloitte Football Money League 2023
+Man City,2022/23,ingresos,718.2,712.768,club,-5.43,-0.8,Deloitte Football Money League 2024
+Man United,2022/23,ingresos,648.5,601.313,club,-47.19,-7.3,Deloitte Football Money League 2024
+Liverpool,2022/23,ingresos,593.8,593.836,club,0.04,0.0,Deloitte Football Money League 2024
+Tottenham,2022/23,ingresos,549.2,549.633,grupo,0.43,0.1,Deloitte Football Money League 2024
+Chelsea,2022/23,ingresos,512.5,474.847,club,-37.65,-7.3,Deloitte Football Money League 2024
+Arsenal,2022/23,ingresos,463.1,429.91,club,-33.19,-7.2,Deloitte Football Money League 2024
+Tottenham,2018/19,ingresos,461.0,460.695,grupo,-0.31,-0.1,Swiss Ramble (hilo 2018/19)
+Tottenham,2018/19,resultado_antes_impuestos,87.0,87.356,grupo,0.36,0.4,Swiss Ramble (hilo 2018/19)
+Man United,2018/19,ingresos,627.0,601.935,club,-25.07,-4.0,Swiss Ramble (hilo 2018/19)
+Man United,2018/19,resultado_antes_impuestos,27.0,28.379,club,1.38,5.1,Swiss Ramble / Inside World Football
+Liverpool,2018/19,resultado_antes_impuestos,42.0,41.905,club,-0.09,-0.2,Swiss Ramble / Inside World Football
+Chelsea,2018/19,resultado_antes_impuestos,-102.0,-101.196,club,0.8,0.8,Swiss Ramble (hilo 2018/19)
+Man City,2018/19,resultado_antes_impuestos,10.0,10.079,club,0.08,0.8,Swiss Ramble (hilo 2018/19)
+Tottenham,2017/18,ingresos,381.0,380.697,grupo,-0.3,-0.1,The Guardian (D. Conn) via This Is Anfield
+Everton,2017/18,ingresos,189.0,189.159,club,0.16,0.1,The Guardian (D. Conn) via This Is Anfield
+Liverpool,2017/18,resultado_antes_impuestos,125.0,125.135,club,0.14,0.1,The Guardian / Liverpool FC

@@ -56,7 +56,8 @@ PER = [
     ("pensiones", r"^(other )?pension"),
 ]
 # exclusiones propias de una partida
-EXCL_VAR = {"sueldos_salarios": r"normal|exceptional|director|included|excluding"}
+EXCL_VAR = {"sueldos_salarios": r"normal|exceptional|director|included|excluding",
+            "patrimonio": r"\bopening\b|brought forward|at (the )?(start|beginning)"}
 MESES = r"january|february|march|april|may|june|july|august|september|october|november|december"
 
 TOK = re.compile(r"\(?-?\d{1,3}(?:[,.;:]\d{3})+\)?|\(?-?\d+\)?|(?<!\S)[-–—](?!\S)")   # "=" es ruido de subrayado, no cero
@@ -209,6 +210,8 @@ def lineas(texto):
         m = next((x for x in TOK.finditer(s) if not (x.group() in "-–—" and re.match(r"\s*[A-Za-z]", s[x.end():]))), None)
         etiq = re.sub(r"^(?:[a-z] )+(?=[a-z]{3,})", "", limpiar(s[:m.start()] if m else s))   # 'i wages ...' (ruido OCR)
         nums = numeros(s[m.start():]) if m else []
+        if nums and all(1990 <= abs(x) <= 2035 and x == int(x) for x in nums) and not re.search(r"\d,\d{3}", s[m.start():]):
+            nums = []
         if not nums:
             if pendiente:
                 e, u, n = pendiente
@@ -291,7 +294,9 @@ def main():
                     continue
                 res = extraer(t, reglas, u)
                 minimo = 2 if bloque == "personal" else 3
-                if len(res) < minimo and not (bloque == "personal" and res):
+                con_titulo = bloque == "balance" and bool(re.search(TIT_BAL, " ".join(t.lower().split()[:60])))
+                basta = con_titulo and bool({"patrimonio", "activos_netos"} & set(res))
+                if len(res) < minimo and not (bloque == "personal" and res) and not basta:
                     continue          # la pagina no es el estado buscado: se prueba la siguiente candidata
                 if bloque != "personal":
                     sig = leer(doc, p + 1)
@@ -303,11 +308,14 @@ def main():
                     if sig and res:
                         for var, val in extraer(sig, reglas, u).items():
                             res.setdefault(var, val)
-                if len(res) >= (2 if bloque == "personal" else 3) or (bloque == "personal" and res):
+                if len(res) >= (2 if bloque == "personal" else 3) or (bloque == "personal" and res) or basta:
+                    # 4. la cuenta avisa de que reexpresa las cifras del ano anterior
+                    reexp = bool(re.search(r"restated|re-?presented|reclassified", (t + " " + (sig or "") if bloque != "personal" else t).lower()))
                     for var, (a, b, et) in res.items():
                         filas.append({"numero": doc.parent.name, "cierre": doc.name[:10], "documento": doc.name,
                                       "bloque": bloque, "variable": var, "actual": a, "anterior": b,
-                                      "pagina": p, "etiqueta_ocr": et, "unidad": u, "localizacion": version})
+                                      "pagina": p, "etiqueta_ocr": et, "unidad": u, "localizacion": version,
+                                      "reexpresado": reexp})
                     hecho = bloque != "personal" or "sueldos_salarios" in res or "gastos_personal" in res
                     if hecho:
                         break
@@ -332,7 +340,8 @@ def main():
                             if var not in ya:
                                 filas.append({"numero": doc.parent.name, "cierre": doc.name[:10], "documento": doc.name,
                                               "bloque": bloque, "variable": var, "actual": a, "anterior": b,
-                                              "pagina": p, "etiqueta_ocr": et, "unidad": u, "localizacion": "busqueda_personal"})
+                                              "pagina": p, "etiqueta_ocr": et, "unidad": u, "localizacion": "busqueda_personal",
+                                              "reexpresado": bool(re.search(r"restated|re-?presented|reclassified", fp.read_text(encoding="utf-8", errors="replace").lower()))})
         if i % 250 == 0:
             print(f"{i}/{len(docs)}")
     with open(OUT, "w", newline="", encoding="utf-8") as f:

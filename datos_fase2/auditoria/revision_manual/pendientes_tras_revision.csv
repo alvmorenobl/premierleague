@@ -1,0 +1,39 @@
+club,rol,temporada,division,numero,cierre,variable,tipo_cuenta,motivo
+Doncaster,club,2010/11,Championship,00170192,2011-05-31,ingresos,total-exemption-small,cuenta abreviada (sin cuenta de resultados)
+Doncaster,club,2010/11,Championship,00170192,2011-05-31,resultado_antes_impuestos,total-exemption-small,cuenta abreviada (sin cuenta de resultados)
+Doncaster,club,2010/11,Championship,00170192,2011-05-31,sueldos_salarios,total-exemption-small,cuenta abreviada (sin cuenta de resultados)
+Doncaster,club,2011/12,Championship,00170192,2012-05-31,ingresos,total-exemption-small,cuenta abreviada (sin cuenta de resultados)
+Doncaster,club,2011/12,Championship,00170192,2012-05-31,resultado_antes_impuestos,total-exemption-small,cuenta abreviada (sin cuenta de resultados)
+Doncaster,club,2011/12,Championship,00170192,2012-05-31,sueldos_salarios,total-exemption-small,cuenta abreviada (sin cuenta de resultados)
+Doncaster,club,2013/14,Championship,00170192,2014-05-31,ingresos,total-exemption-small,cuenta abreviada (sin cuenta de resultados)
+Doncaster,club,2013/14,Championship,00170192,2014-05-31,resultado_antes_impuestos,total-exemption-small,cuenta abreviada (sin cuenta de resultados)
+Doncaster,club,2013/14,Championship,00170192,2014-05-31,sueldos_salarios,total-exemption-small,cuenta abreviada (sin cuenta de resultados)
+Everton,club,2017/18,Premier League,00036624,2018-06-30,ingresos,,sin cuenta depositada
+Everton,club,2017/18,Premier League,00036624,2018-06-30,resultado_antes_impuestos,,sin cuenta depositada
+Everton,club,2017/18,Premier League,00036624,2018-06-30,activos_netos,,sin cuenta depositada
+Huddersfield,club,2014/15,Championship,01771361,2015-06-30,ingresos,,sin cuenta depositada
+Huddersfield,club,2014/15,Championship,01771361,2015-06-30,resultado_antes_impuestos,,sin cuenta depositada
+Huddersfield,club,2014/15,Championship,01771361,2015-06-30,activos_netos,,sin cuenta depositada
+Huddersfield,club,2014/15,Championship,01771361,2015-06-30,sueldos_salarios,,sin cuenta depositada
+Leicester,club,2021/22,Premier League,04593477,2022-06-30,ingresos,,sin cuenta depositada
+Leicester,club,2021/22,Premier League,04593477,2022-06-30,resultado_antes_impuestos,,sin cuenta depositada
+Leicester,club,2021/22,Premier League,04593477,2022-06-30,activos_netos,,sin cuenta depositada
+Leicester,club,2021/22,Premier League,04593477,2022-06-30,sueldos_salarios,,sin cuenta depositada
+Luton,club,2019/20,Championship,06133975,2020-06-30,sueldos_salarios,small,cuenta abreviada (sin cuenta de resultados)
+Middlesbrough,grupo,2023/24,Championship,03912084,2024-06-30,sueldos_salarios,audit-exemption-subsiduary,no fijada con seguridad: revisar
+Middlesbrough,grupo,2024/25,Championship,03912084,2025-06-30,sueldos_salarios,audit-exemption-subsiduary,no fijada con seguridad: revisar
+West Brom,club,2018/19,Championship,03295063,2019-07-31,sueldos_salarios,,sin cuenta depositada
+West Brom,club,2019/20,Championship,03295063,2020-06-30,sueldos_salarios,,sin cuenta depositada
+West Brom,grupo,2019/20,Championship,07230595,2020-06-30,activos_netos,,sin cuenta depositada
+Wycombe,club,2020/21,Championship,05132509,2021-06-30,ingresos,,sin cuenta depositada
+Wycombe,club,2020/21,Championship,05132509,2021-06-30,resultado_antes_impuestos,,sin cuenta depositada
+Wycombe,club,2020/21,Championship,05132509,2021-06-30,sueldos_salarios,,sin cuenta depositada
+Wycombe,club,2020/21,Championship,05132509,2021-07-31,ingresos,small,cuenta abreviada (sin cuenta de resultados)
+Wycombe,club,2020/21,Championship,05132509,2021-07-31,resultado_antes_impuestos,small,cuenta abreviada (sin cuenta de resultados)
+Wycombe,club,2020/21,Championship,05132509,2021-07-31,sueldos_salarios,small,cuenta abreviada (sin cuenta de resultados)
+Yeovil,club,2013/14,Championship,00189754,2014-06-30,ingresos,small,cuenta abreviada (sin cuenta de resultados)
+Yeovil,club,2013/14,Championship,00189754,2014-06-30,resultado_antes_impuestos,small,cuenta abreviada (sin cuenta de resultados)
+Yeovil,club,2013/14,Championship,00189754,2014-06-30,sueldos_salarios,small,cuenta abreviada (sin cuenta de resultados)
+Yeovil,grupo,2013/14,Championship,07113379,2014-06-30,ingresos,total-exemption-small,cuenta abreviada (sin cuenta de resultados)
+Yeovil,grupo,2013/14,Championship,07113379,2014-06-30,resultado_antes_impuestos,total-exemption-small,cuenta abreviada (sin cuenta de resultados)
+Yeovil,grupo,2013/14,Championship,07113379,2014-06-30,sueldos_salarios,total-exemption-small,cuenta abreviada (sin cuenta de resultados)

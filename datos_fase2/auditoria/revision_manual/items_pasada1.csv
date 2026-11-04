@@ -1,0 +1,298 @@
+item,numero,cierre,club,rol,variable,documento,pagina,lecturas
+0,03375789,2013-05-31,Aston Villa,club,activos_netos,2013-05-31_MzA5NTYwMTc3MmFkaXF6a2N4,10.0,"leido -139,683.179 | comparativo t+1 -0.079"
+1,03375789,2022-05-31,Aston Villa,club,ingresos,2022-05-31_MzM3MTAxNzIxNWFkaXF6a2N4,12.0,"leido 0.001 | comparativo t+1 163,743.904"
+2,00027318,2015-06-30,Birmingham,club,resultado_antes_impuestos,2015-06-30_MzEzNzQ3Mzg3OGFkaXF6a2N4,11.0,"leido 1,342.936 | comparativo t+1 1,320.217"
+3,00027318,2015-06-30,Birmingham,club,activos_netos,2015-06-30_MzEzNzQ3Mzg3OGFkaXF6a2N4,12.0,"leido 1,873.524 | comparativo t+1 1,841.805"
+4,00027318,2020-06-30,Birmingham,club,resultado_antes_impuestos,2020-06-30_MzI5NzU3ODQwMGFkaXF6a2N4,12.0,"leido 0.000 | comparativo t+1 -18,335.459"
+5,00027318,2024-06-30,Birmingham,club,resultado_antes_impuestos,2024-06-30_MzQ2MTAxNjcwNWFkaXF6a2N4,12.0,"leido -0.826 | comparativo t+1 -16,081.826"
+6,00053482,2019-06-30,Blackburn,club,ingresos,2019-06-30_MzI2MDg3NTU4NWFkaXF6a2N4,14.0,"leido 16,673.961 | comparativo t+1 0.007"
+7,00053482,2022-06-30,Blackburn,club,sueldos_salarios,2022-06-30_MzM3NTE1MTg3NGFkaXF6a2N4,26.0,"leido 24,368.017 | comparativo t+1 21,368.017"
+8,00053482,2025-06-30,Blackburn,club,activos_netos,2025-06-30_MzUxMjU3MjYyOWFkaXF6a2N4,16.0,"leido -128,553.760 | comparativo t+1 nan"
+9,00048409,2011-05-31,Blackpool,club,sueldos_salarios,2011-05-31_MzA1MzI3Mzg0MWFkaXF6a2N4,14.0,"leido 23,233.202 | comparativo t+1 24,623.725"
+10,00048409,2012-05-31,Blackpool,club,sueldos_salarios,2012-05-31_MzA3MzcyODkxNWFkaXF6a2N4,14.0,"leido 12,350.617 | comparativo t+1 11,120.981"
+11,00043026,2011-06-30,Bolton,club,sueldos_salarios,2011-06-30_MzA0NTg2Nzk3OGFkaXF6a2N4,15.0,
+12,00043026,2012-06-30,Bolton,club,sueldos_salarios,2012-06-30_MzA2NzcxODI2N2FkaXF6a2N4,,
+13,00043026,2013-06-30,Bolton,club,sueldos_salarios,2013-06-30_MzA5NjkwMzM3MmFkaXF6a2N4,,
+14,00043026,2014-06-30,Bolton,club,sueldos_salarios,2014-06-30_MzEyMDg5MDYzOWFkaXF6a2N4,,
+15,00043026,2015-06-30,Bolton,club,activos_netos,2015-06-30_MzE2ODU4MDYyN2FkaXF6a2N4,13.0,"leido -0.001 | comparativo t+1 -180,070.882"
+16,06632170,2015-07-31,Bournemouth,club,sueldos_salarios,2015-07-31_MzE0NzA4MjgwNmFkaXF6a2N4,18.0,"leido 26,649.837 | comparativo t+1 25,818.000"
+17,06632170,2022-06-30,Bournemouth,club,sueldos_salarios,2022-06-30_MzM3MzU5MzQ3MWFkaXF6a2N4,28.0,"leido 0.000 | comparativo t+1 54,019.000"
+18,03642327,2015-06-30,Brentford,club,ingresos,2015-06-30_MzE0NDgzNTA4MGFkaXF6a2N4,,"leido nan | comparativo t+1 10,623.183"
+19,03642327,2015-06-30,Brentford,club,resultado_antes_impuestos,2015-06-30_MzE0NDgzNTA4MGFkaXF6a2N4,,"leido nan | comparativo t+1 -12,612.750"
+20,03642327,2015-06-30,Brentford,club,activos_netos,2015-06-30_MzE0NDgzNTA4MGFkaXF6a2N4,14.0,"leido nan | comparativo t+1 12,066.307"
+21,03642327,2018-06-30,Brentford,club,ingresos,2018-06-30_MzIzMDcyNzc3MGFkaXF6a2N4,12.0,"leido 12,742.163 | comparativo t+1 12,629.724"
+22,03642327,2018-06-30,Brentford,club,sueldos_salarios,2018-06-30_MzIzMDcyNzc3MGFkaXF6a2N4,25.0,"leido 15,263.052 | comparativo t+1 16,055.990"
+23,03642327,2019-06-30,Brentford,club,sueldos_salarios,2019-06-30_MzI2MzA4NzE3NGFkaXF6a2N4,31.0,"leido 16,722.950 | comparativo t+1 168,722.950"
+24,03642327,2020-06-30,Brentford,club,resultado_antes_impuestos,2020-06-30_MzI5NzU5NzY5NWFkaXF6a2N4,16.0,"leido 0.024 | comparativo t+1 -9,060.546"
+25,00081077,2012-06-30,Brighton,club,activos_netos,2012-06-30_MzA3NDcyNTkxMmFkaXF6a2N4,11.0,
+26,00081077,2013-06-30,Brighton,club,activos_netos,2013-06-30_MzA5NDI5ODI1OWFkaXF6a2N4,11.0,
+27,00081077,2014-06-30,Brighton,club,activos_netos,2014-06-30_MzExNTg1NzgxOGFkaXF6a2N4,17.0,
+28,00081077,2017-06-30,Brighton,club,activos_netos,2017-06-30_MzIwMTg1NjgzNWFkaXF6a2N4,13.0,"leido -0.682 | comparativo t+1 -127,338.000"
+29,00081077,2019-06-30,Brighton,club,ingresos,2019-06-30_MzI1NTQ3OTE4NmFkaXF6a2N4,12.0,"leido 143,132.000 | comparativo t+1 147,951.000"
+30,00081077,2024-06-30,Brighton,club,activos_netos,2024-06-30_MzQ1NzQxMDc5N2FkaXF6a2N4,17.0,"leido -23,665.000 | comparativo t+1 -768.000"
+31,02849319,2012-06-30,Brighton,grupo,activos_netos,2012-06-30_MzA3NDcyNTk4MWFkaXF6a2N4,12.0,
+32,02849319,2012-06-30,Brighton,grupo,sueldos_salarios,2012-06-30_MzA3NDcyNTk4MWFkaXF6a2N4,18.0,"leido 0.093 | comparativo t+1 13,227.093"
+33,02849319,2013-06-30,Brighton,grupo,activos_netos,2013-06-30_MzA5NDI5ODMyNmFkaXF6a2N4,11.0,
+34,02849319,2014-06-30,Brighton,grupo,activos_netos,2014-06-30_MzExNTg1NzgxN2FkaXF6a2N4,17.0,
+35,02849319,2015-06-30,Brighton,grupo,activos_netos,2015-06-30_MzE0MTcyOTI3NWFkaXF6a2N4,13.0,"leido nan | comparativo t+1 -13,202.969"
+36,02849319,2016-06-30,Brighton,grupo,sueldos_salarios,2016-06-30_MzE2ODY2NjM0NGFkaXF6a2N4,27.0,"leido 24,126.436 | comparativo t+1 24,982.272"
+37,02849319,2019-06-30,Brighton,grupo,ingresos,2019-06-30_MzI1NTQ3OTE4MmFkaXF6a2N4,14.0,"leido 143,397.000 | comparativo t+1 148,216.000"
+38,02849319,2024-06-30,Brighton,grupo,activos_netos,2024-06-30_MzQ1NzQxMDc5NWFkaXF6a2N4,20.0,"leido 171,279.000 | comparativo t+1 194,176.000"
+39,00054222,2021-07-31,Burnley,club,resultado_antes_impuestos,2021-07-31_MzMzODIyMDc0OWFkaXF6a2N4,14.0,"leido -3,130.000 | comparativo t+1 -337.000"
+40,00054222,2024-07-31,Burnley,club,ingresos,2024-07-31_MzQ2NDYzNjMxNmFkaXF6a2N4,,
+41,00054222,2025-07-31,Burnley,club,ingresos,2025-07-31_MzUxOTAwMjEzOWFkaXF6a2N4,,
+42,00488096,2018-05-31,Burton,club,sueldos_salarios,2018-05-31_MzIyODMxMzY4MmFkaXF6a2N4,21.0,
+43,00109065,2011-05-31,Cardiff,club,activos_netos,2011-05-31_MzA1MzQyNzAxOWFkaXF6a2N4,10.0,
+44,00109065,2012-05-31,Cardiff,club,resultado_antes_impuestos,2012-05-31_MzA3MTY2ODY2OWFkaXF6a2N4,9.0,"leido -13,585.000 | comparativo t+1 -12,968.000"
+45,00109065,2016-05-31,Cardiff,club,ingresos,2016-05-31_MzE3MDI4OTIwMWFkaXF6a2N4,9.0,"leido 34,414.000 | comparativo t+1 31,411.000"
+46,00109065,2024-05-31,Cardiff,club,sueldos_salarios,2024-05-31_MzQ1NzM4NDEzMGFkaXF6a2N4,34.0,"leido 24,773.000 | comparativo t+1 26,777.000"
+47,04044254,2012-05-31,Cardiff,grupo,resultado_antes_impuestos,2012-05-31_MzA3MTY3MzI3NWFkaXF6a2N4,9.0,"leido -13,605.000 | comparativo t+1 -12,987.000"
+48,04044254,2012-05-31,Cardiff,grupo,activos_netos,2012-05-31_MzA3MTY3MzI3NWFkaXF6a2N4,10.0,"leido -28,691.000 | comparativo t+1 -28,074.000"
+49,04044254,2019-05-31,Cardiff,grupo,activos_netos,2019-05-31_MzI1ODgyMzQ3MWFkaXF6a2N4,14.0,"leido -11,474.000 | comparativo t+1 110,271.000"
+50,04044254,2024-05-31,Cardiff,grupo,sueldos_salarios,2024-05-31_MzQ1NzA0ODAwMWFkaXF6a2N4,42.0,"leido 24,773.000 | comparativo t+1 26,777.000"
+51,01788466,2015-06-30,Charlton,club,resultado_antes_impuestos,2015-06-30_MzE0MzUxODkyMGFkaXF6a2N4,11.0,"leido -3,869.000 | comparativo t+1 -4,040.000"
+52,01788466,2015-06-30,Charlton,club,activos_netos,2015-06-30_MzE0MzUxODkyMGFkaXF6a2N4,12.0,"leido -18,886.000 | comparativo t+1 -20,214.000"
+53,01965149,2015-06-30,Chelsea,club,resultado_antes_impuestos,2015-06-30_MzE0NTI5NzIyOGFkaXF6a2N4,10.0,"leido -26,978.000 | comparativo t+1 -26,036.000"
+54,07612487,2012-05-31,Coventry,club,ingresos,2012-05-31_MzA4NjQ4MjM5NmFkaXF6a2N4,7.0,
+55,07612487,2012-05-31,Coventry,club,sueldos_salarios,2012-05-31_MzA4NjQ4MjM5NmFkaXF6a2N4,,
+56,07612487,2023-05-31,Coventry,club,sueldos_salarios,2023-05-31_MzQxMzAzMTM3N2FkaXF6a2N4,,"leido 16,632.550 | comparativo t+1 16,087.093"
+57,07270793,2011-06-30,Crystal Palace,club,resultado_antes_impuestos,2011-06-30_MzA1MzQ3NjMzN2FkaXF6a2N4,9.0,"leido -5,291.421 | comparativo t+1 -0.535"
+58,07270793,2011-06-30,Crystal Palace,club,activos_netos,2011-06-30_MzA1MzQ3NjMzN2FkaXF6a2N4,10.0,"leido nan | comparativo t+1 -10,600.070"
+59,07270793,2011-06-30,Crystal Palace,club,sueldos_salarios,2011-06-30_MzA1MzQ3NjMzN2FkaXF6a2N4,20.0,"leido 8,188.809 | comparativo t+1 8,365.200"
+60,07270793,2012-06-30,Crystal Palace,club,resultado_antes_impuestos,2012-06-30_MzA3NTcyOTMzN2FkaXF6a2N4,7.0,"leido 9.483 | comparativo t+1 -2,116.535"
+61,07270793,2013-06-30,Crystal Palace,club,ingresos,2013-06-30_MzA5MTM3Nzk0NmFkaXF6a2N4,9.0,"leido 14,512.758 | comparativo t+1 3.758"
+62,07270793,2014-06-30,Crystal Palace,club,ingresos,2014-06-30_MzEyMTAxNTY3OGFkaXF6a2N4,10.0,"leido -14.512 | comparativo t+1 90,401.306"
+63,07270793,2015-06-30,Crystal Palace,club,ingresos,2015-06-30_MzE0MDcxMzcwM2FkaXF6a2N4,9.0,"leido 102,395.970 | comparativo t+1 104,306.000"
+64,07206409,2011-06-30,Crystal Palace,grupo,resultado_antes_impuestos,2011-06-30_MzA1MzQ3NjU5OWFkaXF6a2N4,9.0,"leido -5,290.590 | comparativo t+1 -9,482.704"
+65,07206409,2011-06-30,Crystal Palace,grupo,activos_netos,2011-06-30_MzA1MzQ3NjU5OWFkaXF6a2N4,10.0,"leido nan | comparativo t+1 -5,960.935"
+66,07206409,2011-06-30,Crystal Palace,grupo,sueldos_salarios,2011-06-30_MzA1MzQ3NjU5OWFkaXF6a2N4,24.0,"leido 8,188.809 | comparativo t+1 8,363.200"
+67,07206409,2015-06-30,Crystal Palace,grupo,ingresos,2015-06-30_MzE0MDcxMzcwNmFkaXF6a2N4,9.0,"leido 102,395.970 | comparativo t+1 104,306.000"
+68,07206409,2018-06-30,Crystal Palace,grupo,ingresos,2018-06-30_MzIzMTI1MTU0MGFkaXF6a2N4,11.0,"leido 160,346.000 | comparativo t+1 150,346.000"
+69,00049139,2018-06-30,Derby,club,sueldos_salarios,2018-06-30_MzIzMTE4MzE2M2FkaXF6a2N4,25.0,leido 0.283 | comparativo t+1 nan
+70,00170192,2011-05-31,Doncaster,club,ingresos,2011-05-31_MzA1MzI1MDA4NmFkaXF6a2N4,,
+71,00170192,2011-05-31,Doncaster,club,resultado_antes_impuestos,2011-05-31_MzA1MzI1MDA4NmFkaXF6a2N4,,
+72,00170192,2011-05-31,Doncaster,club,sueldos_salarios,2011-05-31_MzA1MzI1MDA4NmFkaXF6a2N4,,
+73,00170192,2012-05-31,Doncaster,club,ingresos,2012-05-31_MzA3Mzg2OTQzMGFkaXF6a2N4,,
+74,00170192,2012-05-31,Doncaster,club,resultado_antes_impuestos,2012-05-31_MzA3Mzg2OTQzMGFkaXF6a2N4,,
+75,00170192,2012-05-31,Doncaster,club,sueldos_salarios,2012-05-31_MzA3Mzg2OTQzMGFkaXF6a2N4,,
+76,00170192,2014-05-31,Doncaster,club,ingresos,2014-05-31_MzExODY3ODAxMGFkaXF6a2N4,,
+77,00170192,2014-05-31,Doncaster,club,resultado_antes_impuestos,2014-05-31_MzExODY3ODAxMGFkaXF6a2N4,,
+78,00170192,2014-05-31,Doncaster,club,sueldos_salarios,2014-05-31_MzExODY3ODAxMGFkaXF6a2N4,,
+79,00036624,2011-05-31,Everton,club,resultado_antes_impuestos,2011-05-31_MzA0OTgxNDY4MGFkaXF6a2N4,12.0,
+80,00036624,2011-05-31,Everton,club,activos_netos,2011-05-31_MzA0OTgxNDY4MGFkaXF6a2N4,14.0,
+81,00036624,2015-05-31,Everton,club,resultado_antes_impuestos,2015-05-31_MzEzNjkxMTg4MGFkaXF6a2N4,11.0,"leido -4,054.000 | comparativo t+1 -4,593.000"
+82,00036624,2015-05-31,Everton,club,activos_netos,2015-05-31_MzEzNjkxMTg4MGFkaXF6a2N4,12.0,"leido -18,532.000 | comparativo t+1 -19,071.000"
+83,00036624,2018-05-31,Everton,club,ingresos,2018-05-31_MzIyODY5ODQ4NmFkaXF6a2N4,16.0,"leido 12.000 | comparativo t+1 187,664.000"
+84,00036624,2018-05-31,Everton,club,sueldos_salarios,2018-05-31_MzIyODY5ODQ4NmFkaXF6a2N4,27.0,"leido 4.000 | comparativo t+1 127,377.000"
+85,00036624,2018-06-30,Everton,club,ingresos,,,
+86,00036624,2018-06-30,Everton,club,resultado_antes_impuestos,,,
+87,00036624,2018-06-30,Everton,club,activos_netos,,,
+88,00036624,2020-06-30,Everton,club,resultado_antes_impuestos,2020-06-30_MzI5Mjk5NzE5OGFkaXF6a2N4,23.0,"leido -139,863.000 | comparativo t+1 -438,863.000"
+89,00036624,2021-06-30,Everton,club,sueldos_salarios,2021-06-30_MzMzNDg2MTYxN2FkaXF6a2N4,35.0,"leido 159,221.000 | comparativo t+1 157,691.000"
+90,00036624,2022-06-30,Everton,club,ingresos,2022-06-30_MzM3NTAzMzU2MWFkaXF6a2N4,,
+91,00036624,2022-06-30,Everton,club,resultado_antes_impuestos,2022-06-30_MzM3NTAzMzU2MWFkaXF6a2N4,,
+92,00036624,2022-06-30,Everton,club,activos_netos,2022-06-30_MzM3NTAzMzU2MWFkaXF6a2N4,16.0,"leido 234,365.000 | comparativo t+1 301,932.000"
+93,00036624,2023-06-30,Everton,club,ingresos,2023-06-30_MzQxNjg3ODY3NmFkaXF6a2N4,,
+94,00036624,2023-06-30,Everton,club,resultado_antes_impuestos,2023-06-30_MzQxNjg3ODY3NmFkaXF6a2N4,,
+95,00036624,2024-06-30,Everton,club,ingresos,2024-06-30_MzQ2MTAzMDcwMmFkaXF6a2N4,,
+96,00036624,2024-06-30,Everton,club,resultado_antes_impuestos,2024-06-30_MzQ2MTAzMDcwMmFkaXF6a2N4,,
+97,00036624,2024-06-30,Everton,club,activos_netos,2024-06-30_MzQ2MTAzMDcwMmFkaXF6a2N4,16.0,"leido 302,387.000 | comparativo t+1 168,506.000"
+98,00036624,2025-06-30,Everton,club,ingresos,2025-06-30_MzUxMzk1MTE2NGFkaXF6a2N4,,
+99,00036624,2025-06-30,Everton,club,resultado_antes_impuestos,2025-06-30_MzUxMzk1MTE2NGFkaXF6a2N4,,
+100,02114486,2015-06-30,Fulham,club,ingresos,2015-06-30_MzE0NTQwNjY4NGFkaXF6a2N4,10.0,"leido 41,990.000 | comparativo t+1 43,342.000"
+101,03374347,2015-06-30,Fulham,grupo,ingresos,2015-06-30_MzE0NTQwNjY4OWFkaXF6a2N4,10.0,"leido 41,990.000 | comparativo t+1 43,342.000"
+102,03374347,2015-06-30,Fulham,grupo,activos_netos,2015-06-30_MzE0NTQwNjY4OWFkaXF6a2N4,11.0,"leido 2,940.000 | comparativo t+1 96,178.000"
+103,03374347,2021-06-30,Fulham,grupo,activos_netos,2021-06-30_MzMzNDMxMjI3N2FkaXF6a2N4,15.0,"leido 245,351.000 | comparativo t+1 153,427.000"
+104,01771361,2015-06-30,Huddersfield,club,ingresos,,,"leido nan | comparativo t+1 11,291.300"
+105,01771361,2015-06-30,Huddersfield,club,resultado_antes_impuestos,,,"leido nan | comparativo t+1 -1,596.310"
+106,01771361,2015-06-30,Huddersfield,club,activos_netos,,,"leido nan | comparativo t+1 -32,170.981"
+107,01771361,2015-06-30,Huddersfield,club,sueldos_salarios,,,"leido nan | comparativo t+1 11,090.194"
+108,01771361,2016-06-30,Huddersfield,club,resultado_antes_impuestos,2016-06-30_MzE3Mjk2NzcwMmFkaXF6a2N4,11.0,"leido -1,576.146 | comparativo t+1 -1,596.310"
+109,01771361,2019-06-30,Huddersfield,club,resultado_antes_impuestos,2019-06-30_MzI2MDM1ODc2MmFkaXF6a2N4,14.0,"leido 3,858.314 | comparativo t+1 3,326.498"
+110,01771361,2019-06-30,Huddersfield,club,activos_netos,2019-06-30_MzI2MDM1ODc2MmFkaXF6a2N4,15.0,"leido -20,172.870 | comparativo t+1 -25,251.299"
+111,01771361,2019-06-30,Huddersfield,club,sueldos_salarios,2019-06-30_MzI2MDM1ODc2MmFkaXF6a2N4,25.0,"leido 55,974.452 | comparativo t+1 55,534.051"
+112,01771361,2020-06-30,Huddersfield,club,resultado_antes_impuestos,2020-06-30_MzMwMjM1OTMxN2FkaXF6a2N4,13.0,"leido -8,221.877 | comparativo t+1 -8,496.976"
+113,01771361,2020-06-30,Huddersfield,club,activos_netos,2020-06-30_MzMwMjM1OTMxN2FkaXF6a2N4,14.0,"leido -26,894.451 | comparativo t+1 -22,091.123"
+114,04032392,2011-07-31,Hull,club,ingresos,2011-07-31_MzA1MDM0MDkxMWFkaXF6a2N4,7.0,"leido 27,011.262 | comparativo t+1 11,448.066"
+115,04032392,2012-07-31,Hull,club,ingresos,2012-07-31_MzA3MDUzMjQ4NmFkaXF6a2N4,7.0,"leido 44,042.457 | comparativo t+1 11,042.457"
+116,04032392,2013-07-31,Hull,club,ingresos,2013-07-31_MzA4OTczOTM0OWFkaXF6a2N4,7.0,"leido 11,075.152 | comparativo t+1 41,075.152"
+117,04032392,2018-06-30,Hull,club,ingresos,2018-06-30_MzIxNDMzMDQwNWFkaXF6a2N4,9.0,"leido 55,679.963 | comparativo t+1 12,300.164"
+118,04032392,2020-06-30,Hull,club,resultado_antes_impuestos,2020-06-30_MzI3OTg5NDcxNWFkaXF6a2N4,9.0,"leido 0.455 | comparativo t+1 2,838.455"
+119,00315421,2017-06-30,Ipswich,club,activos_netos,2017-06-30_MzE5OTU1NTI0NWFkaXF6a2N4,11.0,"leido -77,452.000 | comparativo t+1 -69,308.000"
+120,06233875,2011-06-30,Leeds,club,resultado_antes_impuestos,2011-06-30_MzA1NTE5MTIyMmFkaXF6a2N4,8.0,leido 859.000 | comparativo t+1 2.000
+121,06233875,2012-06-30,Leeds,club,resultado_antes_impuestos,2012-06-30_MzA3MDIxMDA0MmFkaXF6a2N4,8.0,"leido 2,525.000 | comparativo t+1 272.000"
+122,06233875,2012-06-30,Leeds,club,sueldos_salarios,2012-06-30_MzA3MDIxMDA0MmFkaXF6a2N4,12.0,"leido 45,903.000 | comparativo t+1 15,903.000"
+123,06233875,2015-06-30,Leeds,club,resultado_antes_impuestos,2015-06-30_MzE0MjgxNTc1MWFkaXF6a2N4,8.0,"leido -2,012.342 | comparativo t+1 -2,278.473"
+124,06233875,2020-07-31,Leeds,club,activos_netos,2020-07-31_MzI5NjIxODMwMWFkaXF6a2N4,11.0,"leido -69,401.899 | comparativo t+1 -73,509.859"
+125,06233875,2021-06-30,Leeds,club,resultado_antes_impuestos,2021-06-30_MzMzNTI5MTIxMWFkaXF6a2N4,13.0,"leido 25,919.909 | comparativo t+1 -11,944.846"
+126,06233875,2021-06-30,Leeds,club,activos_netos,2021-06-30_MzMzNTI5MTIxMWFkaXF6a2N4,15.0,"leido -16,499.527 | comparativo t+1 -29,240.249"
+127,06233875,2022-06-30,Leeds,club,activos_netos,2022-06-30_MzM3NTEzOTY5M2FkaXF6a2N4,14.0,"leido -59,950.676 | comparativo t+1 -66,256.201"
+128,06233875,2023-06-30,Leeds,club,activos_netos,2023-06-30_MzQxNjYyMTc5OGFkaXF6a2N4,15.0,"leido -103,247.755 | comparativo t+1 -93,654.806"
+129,04593477,2022-05-31,Leicester,club,sueldos_salarios,2022-05-31_MzM3MTc1MzY2NmFkaXF6a2N4,44.0,"leido 448,403.000 | comparativo t+1 148,403.000"
+130,04593477,2022-06-30,Leicester,club,ingresos,,,"leido nan | comparativo t+1 177,326.000"
+131,04593477,2022-06-30,Leicester,club,resultado_antes_impuestos,,,"leido nan | comparativo t+1 -89,530.000"
+132,04593477,2022-06-30,Leicester,club,activos_netos,,,"leido nan | comparativo t+1 69,378.000"
+133,04593477,2022-06-30,Leicester,club,sueldos_salarios,,,"leido nan | comparativo t+1 180,045.000"
+134,04593477,2023-06-30,Leicester,club,sueldos_salarios,2023-06-30_MzQxNzI4MDQ2N2FkaXF6a2N4,45.0,"leido 171,950.000 | comparativo t+1 180,045.000"
+135,00035668,2017-05-31,Liverpool,club,activos_netos,2017-05-31_MzE5OTQ1MTcyM2FkaXF6a2N4,12.0,"leido 98,542.000 | comparativo t+1 102,183.000"
+136,06133975,2020-06-30,Luton,club,sueldos_salarios,2020-06-30_MzMwMDI2NjI4M2FkaXF6a2N4,,"leido nan | comparativo t+1 12,493.142"
+137,06133975,2024-06-30,Luton,club,ingresos,2024-06-30_MzQ2MDgwMDg0M2FkaXF6a2N4,14.0,"leido 132,321.856 | comparativo t+1 132,321.856"
+138,06133975,2025-06-30,Luton,club,ingresos,2025-06-30_MzUxMjIzNDM5M2FkaXF6a2N4,14.0,leido 0.068 | comparativo t+1 nan
+139,00040946,2015-05-31,Man City,club,activos_netos,2015-05-31_MzE0MjcyMTk5MmFkaXF6a2N4,12.0,"leido 676,247.000 | comparativo t+1 656,633.000"
+140,00040946,2022-06-30,Man City,club,activos_netos,2022-06-30_MzM3NDk5MzUyNmFkaXF6a2N4,14.0,"leido 698,029.000 | comparativo t+1 709,200.000"
+141,00095489,2015-06-30,Man United,club,activos_netos,2015-06-30_MzEzNzc2Mjk3M2FkaXF6a2N4,11.0,
+142,03912084,2012-06-30,Middlesbrough,grupo,ingresos,2012-06-30_MzA3NDY0ODQyN2FkaXF6a2N4,8.0,
+143,03912084,2012-06-30,Middlesbrough,grupo,activos_netos,2012-06-30_MzA3NDY0ODQyN2FkaXF6a2N4,,
+144,03912084,2012-06-30,Middlesbrough,grupo,sueldos_salarios,2012-06-30_MzA3NDY0ODQyN2FkaXF6a2N4,,
+145,03912084,2016-06-30,Middlesbrough,grupo,ingresos,2016-06-30_MzE3MTYwNDE1MWFkaXF6a2N4,9.0,
+146,03912084,2016-06-30,Middlesbrough,grupo,activos_netos,2016-06-30_MzE3MTYwNDE1MWFkaXF6a2N4,,
+147,03912084,2016-06-30,Middlesbrough,grupo,sueldos_salarios,2016-06-30_MzE3MTYwNDE1MWFkaXF6a2N4,,
+148,03912084,2024-06-30,Middlesbrough,grupo,ingresos,2024-06-30_MzQ1NTk5Njg5OWFkaXF6a2N4,6.0,
+149,03912084,2024-06-30,Middlesbrough,grupo,resultado_antes_impuestos,2024-06-30_MzQ1NTk5Njg5OWFkaXF6a2N4,6.0,
+150,03912084,2024-06-30,Middlesbrough,grupo,sueldos_salarios,2024-06-30_MzQ1NTk5Njg5OWFkaXF6a2N4,,
+151,03912084,2025-06-30,Middlesbrough,grupo,ingresos,2025-06-30_MzUxMTg3OTQ4NWFkaXF6a2N4,6.0,
+152,03912084,2025-06-30,Middlesbrough,grupo,resultado_antes_impuestos,2025-06-30_MzUxMTg3OTQ4NWFkaXF6a2N4,6.0,
+153,03912084,2025-06-30,Middlesbrough,grupo,sueldos_salarios,2025-06-30_MzUxMTg3OTQ4NWFkaXF6a2N4,,
+154,01924222,2011-06-30,Millwall,club,ingresos,2011-06-30_MzA0OTQwMDg3OGFkaXF6a2N4,7.0,"leido 7.000 | comparativo t+1 11,464.000"
+155,00031014,2015-06-30,Newcastle,club,ingresos,2015-06-30_MzE0NTg0ODg3MWFkaXF6a2N4,7.0,"leido 128,830.000 | comparativo t+1 129,725.000"
+156,02529667,2015-06-30,Newcastle,grupo,ingresos,2015-06-30_MzE0NTg0ODg3MmFkaXF6a2N4,7.0,"leido 128,830.000 | comparativo t+1 129,725.000"
+157,02529667,2016-06-30,Newcastle,grupo,ingresos,2016-06-30_MzE3Mjk5NTc0NWFkaXF6a2N4,11.0,"leido 128,755.000 | comparativo t+1 125,755.000"
+158,00154044,2015-06-30,Norwich,club,resultado_antes_impuestos,2015-06-30_MzEzNDk2NDk2NmFkaXF6a2N4,10.0,"leido -7,891.000 | comparativo t+1 -8,079.000"
+159,00154044,2015-06-30,Norwich,club,activos_netos,2015-06-30_MzEzNDk2NDk2NmFkaXF6a2N4,11.0,"leido 16,600.000 | comparativo t+1 16,446.000"
+160,00154044,2018-06-30,Norwich,club,activos_netos,2018-06-30_MzIyNDk2MjAyOGFkaXF6a2N4,13.0,"leido 37,752.000 | comparativo t+1 35,884.000"
+161,00154044,2022-06-30,Norwich,club,activos_netos,2022-06-30_MzM1ODU3MzcwNWFkaXF6a2N4,33.0,"leido 2,705.000 | comparativo t+1 5,583.000"
+162,01630402,2013-05-31,Nott'm Forest,club,resultado_antes_impuestos,2013-05-31_MzA5NTYwMjkxMmFkaXF6a2N4,7.0,"leido -57,052.000 | comparativo t+1 -17,052.000"
+163,01630402,2014-05-31,Nott'm Forest,club,ingresos,2014-05-31_MzExODA3Mzg4MWFkaXF6a2N4,9.0,"leido 16,457.000 | comparativo t+1 15,357.000"
+164,01630402,2014-05-31,Nott'm Forest,club,activos_netos,2014-05-31_MzExODA3Mzg4MWFkaXF6a2N4,10.0,
+165,01630402,2015-05-31,Nott'm Forest,club,activos_netos,2015-05-31_MzE0MjA5ODczNmFkaXF6a2N4,11.0,"leido nan | comparativo t+1 -70,859.000"
+166,01630402,2015-05-31,Nott'm Forest,club,sueldos_salarios,2015-05-31_MzE0MjA5ODczNmFkaXF6a2N4,25.0,"leido 26,017.000 | comparativo t+1 26,244.000"
+167,01630402,2017-05-31,Nott'm Forest,club,sueldos_salarios,2017-05-31_MzE5OTM1MDM5MmFkaXF6a2N4,20.0,"leido 25,085.000 | comparativo t+1 25,742.000"
+168,01630402,2018-05-31,Nott'm Forest,club,sueldos_salarios,2018-05-31_MzIyODIxOTE4NmFkaXF6a2N4,22.0,"leido 25,181.000 | comparativo t+1 24,849.000"
+169,01630402,2020-05-31,Nott'm Forest,club,ingresos,2020-05-31_MzI5MzM3NTE1OWFkaXF6a2N4,13.0,"leido 25,688.000 | comparativo t+1 25,297.000"
+170,01630402,2025-06-30,Nott'm Forest,club,ingresos,2025-06-30_MzUxMjc1NzU2N2FkaXF6a2N4,,
+171,00470509,2025-06-30,Oxford,club,activos_netos,2025-06-30_MzUxMTY3OTg4N2FkaXF6a2N4,,"leido -59,488.154 | comparativo t+1 nan"
+172,00290803,2012-05-31,Peterboro,club,sueldos_salarios,2012-05-31_MzA3NTI3NzU4MGFkaXF6a2N4,20.0,"leido 5,245.615 | comparativo t+1 5,084.705"
+173,01621060,2025-06-30,Preston,grupo,activos_netos,2025-06-30_MzQ5NTY1NzcyNGFkaXF6a2N4,,
+174,00060094,2011-05-31,QPR,club,sueldos_salarios,2011-05-31_MzA1MzYzNzIwMmFkaXF6a2N4,,
+175,00060094,2015-05-31,QPR,club,ingresos,2015-05-31_MzE0NDg0NDA0MWFkaXF6a2N4,8.0,"leido 97,557.000 | comparativo t+1 111,971.000"
+176,00060094,2017-05-31,QPR,club,sueldos_salarios,2017-05-31_MzE5OTI3MzUwMWFkaXF6a2N4,13.0,"leido 26,697.000 | comparativo t+1 24,697.000"
+177,00060094,2021-05-31,QPR,club,sueldos_salarios,2021-05-31_MzMyOTMzODI5NGFkaXF6a2N4,15.0,"leido 49,303.000 | comparativo t+1 19,303.000"
+178,06550400,2014-12-31,Rotherham,club,resultado_antes_impuestos,2014-12-31_MzEyMDY4MjY2MmFkaXF6a2N4,10.0,
+179,06550400,2016-06-30,Rotherham,club,sueldos_salarios,2016-06-30_MzE3MDYyNjQ2OGFkaXF6a2N4,17.0,"leido 8,811.218 | comparativo t+1 8,315.931"
+180,06550400,2017-06-30,Rotherham,club,sueldos_salarios,2017-06-30_MzE5OTQ1MDQ5NGFkaXF6a2N4,18.0,leido 0.356 | comparativo t+1 0.356
+181,06550400,2021-06-30,Rotherham,club,ingresos,2021-06-30_MzMzNDg2OTE3OWFkaXF6a2N4,14.0,"leido 12,112.102 | comparativo t+1 42,412.100"
+182,06550400,2024-06-30,Rotherham,club,ingresos,2024-06-30_MzQ1ODg4ODcyMWFkaXF6a2N4,,"leido 19,172.906 | comparativo t+1 49,172.906"
+183,00123622,2011-06-30,Scunthorpe,club,sueldos_salarios,2011-06-30_MzA0ODAyNTg3MGFkaXF6a2N4,16.0,"leido 5,023.820 | comparativo t+1 23.820"
+184,00061564,2021-06-30,Sheffield United,club,ingresos,2021-06-30_MzMzNTEyNDAxMGFkaXF6a2N4,16.0,"leido 118,221.103 | comparativo t+1 115,221.103"
+185,00061564,2023-06-30,Sheffield United,club,activos_netos,2023-06-30_MzQxNDYzNjUzOGFkaXF6a2N4,19.0,"leido 9,001.940 | comparativo t+1 10,886.881"
+186,02509978,2014-05-31,Sheffield Weds,club,activos_netos,2014-05-31_MzExODY2OTQ4M2FkaXF6a2N4,23.0,
+187,02509978,2015-05-31,Sheffield Weds,club,activos_netos,2015-05-31_MzE0MjgyOTQ0MmFkaXF6a2N4,17.0,"leido nan | comparativo t+1 5,561.000"
+188,02509978,2018-07-31,Sheffield Weds,club,resultado_antes_impuestos,2018-07-31_MzIzOTM4OTU5M2FkaXF6a2N4,17.0,"leido 2,576.000 | comparativo t+1 -35,486.000"
+189,02509978,2018-07-31,Sheffield Weds,club,activos_netos,2018-07-31_MzIzOTM4OTU5M2FkaXF6a2N4,18.0,"leido -10,349.000 | comparativo t+1 -48,411.000"
+190,00053301,2012-06-30,Southampton,club,resultado_antes_impuestos,2012-06-30_MzA3NTUxMTg4MmFkaXF6a2N4,8.0,
+191,00053301,2012-06-30,Southampton,club,activos_netos,2012-06-30_MzA3NTUxMTg4MmFkaXF6a2N4,9.0,
+192,00053301,2013-06-30,Southampton,club,activos_netos,2013-06-30_MzA5Nzc5MTI0OGFkaXF6a2N4,10.0,
+193,00053301,2014-06-30,Southampton,club,activos_netos,2014-06-30_MzEyMTAyMjE5NWFkaXF6a2N4,,
+194,00053301,2015-06-30,Southampton,club,activos_netos,2015-06-30_MzEzMzU2NzkxOGFkaXF6a2N4,10.0,
+195,00053301,2015-06-30,Southampton,club,sueldos_salarios,2015-06-30_MzEzMzU2NzkxOGFkaXF6a2N4,16.0,"leido 68,865.924 | comparativo t+1 68,191.000"
+196,00053301,2019-06-30,Southampton,club,activos_netos,2019-06-30_MzI2MTQ4MDc1N2FkaXF6a2N4,14.0,"leido 93,928.000 | comparativo t+1 59,692.000"
+197,00099885,2015-05-31,Stoke,club,activos_netos,2015-05-31_MzEzNTIyMDkwOWFkaXF6a2N4,11.0,"leido -22,696.000 | comparativo t+1 -24,421.000"
+198,00099885,2015-05-31,Stoke,club,sueldos_salarios,2015-05-31_MzEzNTIyMDkwOWFkaXF6a2N4,20.0,"leido 58,253.000 | comparativo t+1 58,670.000"
+199,00099885,2021-05-31,Stoke,club,sueldos_salarios,2021-05-31_MzMzNTU1NzI2MmFkaXF6a2N4,26.0,"leido 41,737.000 | comparativo t+1 50,847.000"
+200,00049116,2011-07-31,Sunderland,club,ingresos,2011-07-31_MzA1NDkwMTcyMmFkaXF6a2N4,8.0,"leido 719,326.000 | comparativo t+1 79,326.000"
+201,00049116,2015-07-31,Sunderland,club,resultado_antes_impuestos,2015-07-31_MzE0NzEwNTEwOWFkaXF6a2N4,9.0,"leido -25,546.000 | comparativo t+1 -26,677.000"
+202,00049116,2015-07-31,Sunderland,club,activos_netos,2015-07-31_MzE0NzEwNTEwOWFkaXF6a2N4,10.0,"leido -78,279.000 | comparativo t+1 -72,710.000"
+203,00123414,2013-05-31,Swansea,club,resultado_antes_impuestos,2013-05-31_MzA5MDQyNDM5OGFkaXF6a2N4,9.0,"leido 0.017 | comparativo t+1 20,831.699"
+204,00123414,2014-05-31,Swansea,club,activos_netos,2014-05-31_MzExNjc1NjQ0OGFkaXF6a2N4,,
+205,00123414,2015-07-31,Swansea,club,resultado_antes_impuestos,2015-07-31_MzEzNzUwOTUxMWFkaXF6a2N4,9.0,"leido 1,682.274 | comparativo t+1 1,210.405"
+206,00123414,2015-07-31,Swansea,club,activos_netos,2015-07-31_MzEzNzUwOTUxMWFkaXF6a2N4,10.0,"leido 20,167.630 | comparativo t+1 19,790.135"
+207,00123414,2016-07-31,Swansea,club,activos_netos,2016-07-31_MzE3NTEyOTI4OGFkaXF6a2N4,11.0,"leido 6,708.962 | comparativo t+1 0.962"
+208,00123414,2017-07-31,Swansea,club,activos_netos,2017-07-31_MzE5OTYwMTU5NGFkaXF6a2N4,12.0,"leido 6.708 | comparativo t+1 19,704.504"
+209,00123414,2018-07-31,Swansea,club,sueldos_salarios,2018-07-31_MzIzMjg2MzU2MGFkaXF6a2N4,20.0,"leido 79,007.656 | comparativo t+1 81,271.571"
+210,00123414,2024-06-30,Swansea,club,ingresos,2024-06-30_MzQ2MTE1MDI2MmFkaXF6a2N4,13.0,"leido 21,541.219 | comparativo t+1 27,541.219"
+211,00123414,2024-06-30,Swansea,club,resultado_antes_impuestos,2024-06-30_MzQ2MTE1MDI2MmFkaXF6a2N4,13.0,"leido -15,190.972 | comparativo t+1 -75,190.972"
+212,04305508,2014-05-31,Swansea,grupo,ingresos,2014-05-31_MzExNjc1NjQ0OWFkaXF6a2N4,,
+213,04305508,2014-05-31,Swansea,grupo,resultado_antes_impuestos,2014-05-31_MzExNjc1NjQ0OWFkaXF6a2N4,,
+214,04305508,2015-07-31,Swansea,grupo,resultado_antes_impuestos,2015-07-31_MzEzNzUwOTUwOWFkaXF6a2N4,10.0,"leido 1,675.913 | comparativo t+1 1,204.044"
+215,04305508,2015-07-31,Swansea,grupo,activos_netos,2015-07-31_MzEzNzUwOTUwOWFkaXF6a2N4,11.0,"leido 21,087.371 | comparativo t+1 20,709.876"
+216,04305508,2019-07-31,Swansea,grupo,activos_netos,2019-07-31_MzI1NzA3NjQ0MmFkaXF6a2N4,13.0,"leido 12,109.039 | comparativo t+1 -1,760.307"
+217,04305508,2019-07-31,Swansea,grupo,sueldos_salarios,2019-07-31_MzI1NzA3NjQ0MmFkaXF6a2N4,31.0,"leido 44,344.066 | comparativo t+1 44,344.066"
+218,04305508,2020-07-31,Swansea,grupo,sueldos_salarios,2020-07-31_MzI5ODkxNTc3NGFkaXF6a2N4,31.0,"leido 36,033.048 | comparativo t+1 936,033.048"
+219,04305508,2021-07-31,Swansea,grupo,resultado_antes_impuestos,2021-07-31_MzMzODEwNzI1MmFkaXF6a2N4,14.0,"leido -4,609.570 | comparativo t+1 -4,509.570"
+220,04305508,2021-07-31,Swansea,grupo,sueldos_salarios,2021-07-31_MzMzODEwNzI1MmFkaXF6a2N4,33.0,"leido 25,289.735 | comparativo t+1 25,289.735"
+221,00057186,2015-06-30,Tottenham,club,activos_netos,2015-06-30_MzE0NzQ0OTQ4OWFkaXF6a2N4,11.0,"leido 93,865.000 | comparativo t+1 66,644.000"
+222,00057186,2017-06-30,Tottenham,club,resultado_antes_impuestos,2017-06-30_MzIwMTg0ODI4NmFkaXF6a2N4,11.0,"leido 35,193.000 | comparativo t+1 28,993.000"
+223,00057186,2017-06-30,Tottenham,club,activos_netos,2017-06-30_MzIwMTg0ODI4NmFkaXF6a2N4,12.0,"leido 29,758.000 | comparativo t+1 24,735.000"
+224,00057186,2020-06-30,Tottenham,club,resultado_antes_impuestos,2020-06-30_MzI4NTE2NTkzNmFkaXF6a2N4,13.0,"leido -113,176.000 | comparativo t+1 -413,176.000"
+225,00057186,2022-06-30,Tottenham,club,sueldos_salarios,2022-06-30_MzM2OTMyMjA1MmFkaXF6a2N4,23.0,
+226,01706358,2014-06-30,Tottenham,grupo,ingresos,2014-06-30_MzEyMTAxOTUyNmFkaXF6a2N4,9.0,"leido 147,392.000 | comparativo t+1 180,541.000"
+227,01706358,2019-06-30,Tottenham,grupo,sueldos_salarios,2019-06-30_MzI2MDc0Mzc4NWFkaXF6a2N4,,
+228,00104194,2012-06-30,Watford,club,ingresos,2012-06-30_MzA2OTUxMTc0OWFkaXF6a2N4,12.0,"leido 11,184.000 | comparativo t+1 41,184.000"
+229,00104194,2016-06-30,Watford,club,resultado_antes_impuestos,2016-06-30_MzE3MTI2MDg5MmFkaXF6a2N4,12.0,
+230,00104194,2017-06-30,Watford,club,resultado_antes_impuestos,2017-06-30_MzE5OTI5NDEyN2FkaXF6a2N4,12.0,"leido 3,612.913 | comparativo t+1 4,028.000"
+231,00104194,2018-06-30,Watford,club,ingresos,2018-06-30_MzIyOTE2Mjc3MGFkaXF6a2N4,,"leido 128,222.000 | comparativo t+1 128,885.000"
+232,00104194,2018-06-30,Watford,club,resultado_antes_impuestos,2018-06-30_MzIyOTE2Mjc3MGFkaXF6a2N4,,"leido -31,615.000 | comparativo t+1 -30,952.000"
+233,00104194,2018-06-30,Watford,club,activos_netos,2018-06-30_MzIyOTE2Mjc3MGFkaXF6a2N4,,"leido -27,867.000 | comparativo t+1 -27,204.000"
+234,00104194,2021-06-30,Watford,club,resultado_antes_impuestos,2021-06-30_MzMzNTAwMjg2MWFkaXF6a2N4,16.0,"leido -21,728.000 | comparativo t+1 -19,037.000"
+235,00104194,2021-06-30,Watford,club,activos_netos,2021-06-30_MzMzNTAwMjg2MWFkaXF6a2N4,18.0,"leido -12,770.000 | comparativo t+1 -18,046.000"
+236,00104194,2021-06-30,Watford,club,sueldos_salarios,2021-06-30_MzMzNTAwMjg2MWFkaXF6a2N4,30.0,"leido 60,008.000 | comparativo t+1 57,638.000"
+237,00104194,2023-06-30,Watford,club,ingresos,2023-06-30_MzQxMTkwNzQ4NWFkaXF6a2N4,15.0,"leido 66,198.000 | comparativo t+1 785.000"
+238,03295063,2011-06-30,West Brom,club,sueldos_salarios,2011-06-30_MzA1MzQ4MjM3M2FkaXF6a2N4,14.0,"leido 38,875.000 | comparativo t+1 39,333.000"
+239,03295063,2017-06-30,West Brom,club,sueldos_salarios,2017-06-30_MzIwMTI0NTk3NWFkaXF6a2N4,25.0,
+240,03295063,2018-06-30,West Brom,club,sueldos_salarios,2018-06-30_MzIzMTAwOTIzMGFkaXF6a2N4,23.0,
+241,03295063,2019-06-30,West Brom,club,sueldos_salarios,2019-06-30_MzI2MDc0ODgyNWFkaXF6a2N4,23.0,
+242,03295063,2019-07-31,West Brom,club,sueldos_salarios,,,
+243,03295063,2020-06-30,West Brom,club,sueldos_salarios,,,
+244,03295063,2020-07-31,West Brom,club,sueldos_salarios,2020-07-31_MzI5NzQ3ODI0OWFkaXF6a2N4,27.0,
+245,07230595,2011-06-30,West Brom,grupo,sueldos_salarios,2011-06-30_MzA1MTE3Njc1OWFkaXF6a2N4,18.0,"leido 33,161.000 | comparativo t+1 34,443.000"
+246,07230595,2012-06-30,West Brom,grupo,activos_netos,2012-06-30_MzA3NTY2OTQ5NGFkaXF6a2N4,11.0,"leido 19,502.000 | comparativo t+1 7,622.000"
+247,07230595,2013-06-30,West Brom,grupo,ingresos,2013-06-30_MzA5NzQwMjU1NWFkaXF6a2N4,,
+248,07230595,2013-06-30,West Brom,grupo,resultado_antes_impuestos,2013-06-30_MzA5NzQwMjU1NWFkaXF6a2N4,,
+249,07230595,2013-06-30,West Brom,grupo,sueldos_salarios,2013-06-30_MzA5NzQwMjU1NWFkaXF6a2N4,10.0,
+250,07230595,2014-06-30,West Brom,grupo,ingresos,2014-06-30_MzExODE0MTc2NmFkaXF6a2N4,,
+251,07230595,2014-06-30,West Brom,grupo,resultado_antes_impuestos,2014-06-30_MzExODE0MTc2NmFkaXF6a2N4,,
+252,07230595,2014-06-30,West Brom,grupo,sueldos_salarios,2014-06-30_MzExODE0MTc2NmFkaXF6a2N4,,
+253,07230595,2016-06-30,West Brom,grupo,resultado_antes_impuestos,2016-06-30_MzE2NzU2NDA5N2FkaXF6a2N4,8.0,"leido 1,180.000 | comparativo t+1 967.000"
+254,07230595,2019-06-30,West Brom,grupo,resultado_antes_impuestos,2019-06-30_MzI2MDc0ODgzNWFkaXF6a2N4,10.0,
+255,07230595,2019-06-30,West Brom,grupo,activos_netos,2019-06-30_MzI2MDc0ODgzNWFkaXF6a2N4,11.0,
+256,07230595,2019-06-30,West Brom,grupo,sueldos_salarios,2019-06-30_MzI2MDc0ODgzNWFkaXF6a2N4,25.0,"leido 0.000 | comparativo t+1 41,786.000"
+257,07230595,2020-06-30,West Brom,grupo,activos_netos,,,"leido nan | comparativo t+1 41,774.000"
+258,07230595,2022-06-30,West Brom,grupo,resultado_antes_impuestos,2022-06-30_MzM3NDc4ODcwMmFkaXF6a2N4,15.0,leido 1.000 | comparativo t+1 171.000
+259,00066516,2011-05-31,West Ham,club,resultado_antes_impuestos,2011-05-31_MzA1MTAwMDI1NmFkaXF6a2N4,10.0,
+260,00066516,2012-05-31,West Ham,club,ingresos,2012-05-31_MzA3MzcxNjM1MGFkaXF6a2N4,11.0,"leido 80,544.000 | comparativo t+1 46,165.000"
+261,00066516,2012-05-31,West Ham,club,resultado_antes_impuestos,2012-05-31_MzA3MzcxNjM1MGFkaXF6a2N4,11.0,"leido nan | comparativo t+1 10,345.000"
+262,00066516,2012-05-31,West Ham,club,activos_netos,2012-05-31_MzA3MzcxNjM1MGFkaXF6a2N4,12.0,"leido -77,367.000 | comparativo t+1 -117,547.000"
+263,00066516,2015-05-31,West Ham,club,ingresos,2015-05-31_MzEzNjg4NDEwOGFkaXF6a2N4,15.0,"leido 114,852.000 | comparativo t+1 120,747.000"
+264,00066516,2022-05-31,West Ham,club,activos_netos,2022-05-31_MzM2NDgxNDg4N2FkaXF6a2N4,25.0,"leido -153,387.000 | comparativo t+1 -87.000"
+265,00270043,2011-05-31,Wigan,club,sueldos_salarios,2011-05-31_MzA1MjgyMDQyNWFkaXF6a2N4,19.0,
+266,00270043,2012-05-31,Wigan,club,sueldos_salarios,2012-05-31_MzA3Mjg0NjkwNmFkaXF6a2N4,17.0,
+267,00270043,2013-05-31,Wigan,club,sueldos_salarios,2013-05-31_MzA5NTI4NDEyMGFkaXF6a2N4,18.0,
+268,00270043,2014-05-31,Wigan,club,sueldos_salarios,2014-05-31_MzExNjkyMTEwMGFkaXF6a2N4,18.0,
+269,00270043,2015-05-31,Wigan,club,resultado_antes_impuestos,2015-05-31_MzE0MjI2NTE1MWFkaXF6a2N4,12.0,"leido -3,911.537 | comparativo t+1 -4,283.418"
+270,00270043,2015-05-31,Wigan,club,activos_netos,2015-05-31_MzE0MjI2NTE1MWFkaXF6a2N4,13.0,"leido -13,335.916 | comparativo t+1 -13,707.797"
+271,00270043,2015-05-31,Wigan,club,sueldos_salarios,2015-05-31_MzE0MjI2NTE1MWFkaXF6a2N4,18.0,
+272,00270043,2017-05-31,Wigan,club,sueldos_salarios,2017-05-31_MzE5ODI3NTc1NmFkaXF6a2N4,,
+273,00270043,2019-06-30,Wigan,club,sueldos_salarios,2019-06-30_MzI2MDQ4NDc2MGFkaXF6a2N4,,
+274,07283993,2012-05-31,Wigan,grupo,sueldos_salarios,2012-05-31_MzA3Mzg3MzkwNWFkaXF6a2N4,18.0,
+275,07283993,2013-05-31,Wigan,grupo,sueldos_salarios,2013-05-31_MzA5NTI4NDA0M2FkaXF6a2N4,17.0,
+276,07283993,2014-05-31,Wigan,grupo,sueldos_salarios,2014-05-31_MzExNjkyMTA5OWFkaXF6a2N4,18.0,
+277,07283993,2015-05-31,Wigan,grupo,resultado_antes_impuestos,2015-05-31_MzE0MjgyODYzM2FkaXF6a2N4,10.0,"leido -14,531.060 | comparativo t+1 -14,971.613"
+278,07283993,2015-05-31,Wigan,grupo,activos_netos,2015-05-31_MzE0MjgyODYzM2FkaXF6a2N4,11.0,"leido 35,271.811 | comparativo t+1 34,882.429"
+279,07283993,2015-05-31,Wigan,grupo,sueldos_salarios,2015-05-31_MzE0MjgyODYzM2FkaXF6a2N4,18.0,
+280,07283993,2017-05-31,Wigan,grupo,resultado_antes_impuestos,2017-05-31_MzE5ODI3NTc1OWFkaXF6a2N4,11.0,"leido 0.000 | comparativo t+1 -1,625.312"
+281,07283993,2017-05-31,Wigan,grupo,activos_netos,2017-05-31_MzE5ODI3NTc1OWFkaXF6a2N4,13.0,"leido 30,073.669 | comparativo t+1 30,073.669"
+282,07283993,2017-05-31,Wigan,grupo,sueldos_salarios,2017-05-31_MzE5ODI3NTc1OWFkaXF6a2N4,,
+283,07283993,2019-06-30,Wigan,grupo,ingresos,2019-06-30_MzI2MDQ4NDc1NmFkaXF6a2N4,8.0,leido -0.065 | comparativo t+1 nan
+284,07283993,2019-06-30,Wigan,grupo,sueldos_salarios,2019-06-30_MzI2MDQ4NDc1NmFkaXF6a2N4,12.0,
+285,05132509,2021-06-30,Wycombe,club,ingresos,,,
+286,05132509,2021-06-30,Wycombe,club,resultado_antes_impuestos,,,
+287,05132509,2021-06-30,Wycombe,club,sueldos_salarios,,,
+288,05132509,2021-07-31,Wycombe,club,ingresos,2021-07-31_MzMyMjg1ODU1MGFkaXF6a2N4,,
+289,05132509,2021-07-31,Wycombe,club,resultado_antes_impuestos,2021-07-31_MzMyMjg1ODU1MGFkaXF6a2N4,,
+290,05132509,2021-07-31,Wycombe,club,sueldos_salarios,2021-07-31_MzMyMjg1ODU1MGFkaXF6a2N4,,
+291,00189754,2014-06-30,Yeovil,club,ingresos,2014-06-30_MzEyMDk0NjQwNmFkaXF6a2N4,,
+292,00189754,2014-06-30,Yeovil,club,resultado_antes_impuestos,2014-06-30_MzEyMDk0NjQwNmFkaXF6a2N4,,
+293,00189754,2014-06-30,Yeovil,club,sueldos_salarios,2014-06-30_MzEyMDk0NjQwNmFkaXF6a2N4,,
+294,07113379,2014-06-30,Yeovil,grupo,ingresos,2014-06-30_MzEyMDk0NjQwOGFkaXF6a2N4,,
+295,07113379,2014-06-30,Yeovil,grupo,resultado_antes_impuestos,2014-06-30_MzEyMDk0NjQwOGFkaXF6a2N4,,
+296,07113379,2014-06-30,Yeovil,grupo,sueldos_salarios,2014-06-30_MzEyMDk0NjQwOGFkaXF6a2N4,,

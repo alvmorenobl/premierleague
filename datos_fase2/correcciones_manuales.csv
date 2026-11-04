@@ -1,0 +1,337 @@
+numero,cierre,variable,valor,documento,pagina,motivo,club,rol
+00048409,2011-05-31,sueldos_salarios,23233.202,2011-05-31_MzA1MzI3Mzg0MWFkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Blackpool,club
+00123622,2011-06-30,sueldos_salarios,5023.82,2011-06-30_MzA0ODAyNTg3MGFkaXF6a2N4,16,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Scunthorpe,club
+01924222,2011-06-30,ingresos,11808.0,2011-06-30_MzA0OTQwMDg3OGFkaXF6a2N4,7,"revision manual 4/11/2026: OCR leyo 7; impreso 11,808",Millwall,club
+07230595,2011-06-30,sueldos_salarios,33161.0,2011-06-30_MzA1MTE3Njc1OWFkaXF6a2N4,18,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),West Brom,grupo
+07206409,2011-06-30,resultado_antes_impuestos,-5290.59,2011-06-30_MzA1MzQ3NjU5OWFkaXF6a2N4,9,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Crystal Palace,grupo
+07206409,2011-06-30,activos_netos,-3540.59,2011-06-30_MzA1MzQ3NjU5OWFkaXF6a2N4,10,"revision manual 4/11/2026: balance del grupo, columna grupo",Crystal Palace,grupo
+07206409,2011-06-30,patrimonio,-3540.59,2011-06-30_MzA1MzQ3NjU5OWFkaXF6a2N4,10,"revision manual 4/11/2026: balance del grupo, columna grupo",Crystal Palace,grupo
+07270793,2011-06-30,sueldos_salarios,8188.809,2011-06-30_MzA1MzQ3NjMzN2FkaXF6a2N4,20,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Crystal Palace,club
+07206409,2011-06-30,sueldos_salarios,8188.809,2011-06-30_MzA1MzQ3NjU5OWFkaXF6a2N4,24,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Crystal Palace,grupo
+03295063,2011-06-30,sueldos_salarios,38875.0,2011-06-30_MzA1MzQ4MjM3M2FkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),West Brom,club
+06233875,2011-06-30,resultado_antes_impuestos,859.0,2011-06-30_MzA1NTE5MTIyMmFkaXF6a2N4,8,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Leeds,club
+04032392,2011-07-31,ingresos,27011.262,2011-07-31_MzA1MDM0MDkxMWFkaXF6a2N4,7,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Hull,club
+00049116,2011-07-31,ingresos,79326.0,2011-07-31_MzA1NDkwMTcyMmFkaXF6a2N4,8,"revision manual 4/11/2026: OCR leyo 719,326",Sunderland,club
+00109065,2012-05-31,resultado_antes_impuestos,-13585.0,2012-05-31_MzA3MTY2ODY2OWFkaXF6a2N4,9,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Cardiff,club
+04044254,2012-05-31,resultado_antes_impuestos,-13605.0,2012-05-31_MzA3MTY3MzI3NWFkaXF6a2N4,9,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Cardiff,grupo
+04044254,2012-05-31,activos_netos,-28691.0,2012-05-31_MzA3MTY3MzI3NWFkaXF6a2N4,10,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Cardiff,grupo
+04044254,2012-05-31,patrimonio,-28691.0,2012-05-31_MzA3MTY3MzI3NWFkaXF6a2N4,10,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Cardiff,grupo
+00270043,2012-05-31,sueldos_salarios,33204.755,2012-05-31_MzA3Mjg0NjkwNmFkaXF6a2N4,17,revision manual 4/11/2026: etiqueta 'Salaries and wages',Wigan,club
+00066516,2012-05-31,ingresos,46165.0,2012-05-31_MzA3MzcxNjM1MGFkaXF6a2N4,11,revision manual 4/11/2026: formato 6 columnas: se leyo el ano anterior,West Ham,club
+00066516,2012-05-31,activos_netos,-77367.0,2012-05-31_MzA3MzcxNjM1MGFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),West Ham,club
+00066516,2012-05-31,patrimonio,-77367.0,2012-05-31_MzA3MzcxNjM1MGFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),West Ham,club
+00048409,2012-05-31,sueldos_salarios,12350.617,2012-05-31_MzA3MzcyODkxNWFkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Blackpool,club
+07283993,2012-05-31,sueldos_salarios,27015.315,2012-05-31_MzA3Mzg3MzkwNWFkaXF6a2N4,18,revision manual 4/11/2026: etiqueta 'Salaries and wages',Wigan,grupo
+00290803,2012-05-31,sueldos_salarios,5245.615,2012-05-31_MzA3NTI3NzU4MGFkaXF6a2N4,20,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Peterboro,club
+07612487,2012-05-31,ingresos,0.0,2012-05-31_MzA4NjQ4MjM5NmFkaXF6a2N4,7,revision manual 4/11/2026: primer ejercicio sin ingresos ('-'),Coventry,club
+00104194,2012-06-30,ingresos,11184.0,2012-06-30_MzA2OTUxMTc0OWFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Watford,club
+06233875,2012-06-30,resultado_antes_impuestos,272.0,2012-06-30_MzA3MDIxMDA0MmFkaXF6a2N4,8,revision manual 4/11/2026: formato 4 columnas: total,Leeds,club
+06233875,2012-06-30,sueldos_salarios,15903.0,2012-06-30_MzA3MDIxMDA0MmFkaXF6a2N4,12,"revision manual 4/11/2026: OCR leyo 45,903",Leeds,club
+02849319,2012-06-30,sueldos_salarios,13227.093,2012-06-30_MzA3NDcyNTk4MWFkaXF6a2N4,18,revision manual 4/11/2026: OCR leyo 0.093,Brighton,grupo
+07230595,2012-06-30,activos_netos,19502.0,2012-06-30_MzA3NTY2OTQ5NGFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),West Brom,grupo
+07230595,2012-06-30,patrimonio,19502.0,2012-06-30_MzA3NTY2OTQ5NGFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),West Brom,grupo
+07270793,2012-06-30,resultado_antes_impuestos,-2116.535,2012-06-30_MzA3NTcyOTMzN2FkaXF6a2N4,7,revision manual 4/11/2026: lectura erronea,Crystal Palace,club
+04032392,2012-07-31,ingresos,11042.457,2012-07-31_MzA3MDUzMjQ4NmFkaXF6a2N4,7,"revision manual 4/11/2026: OCR leyo 44,042,457",Hull,club
+00123414,2013-05-31,resultado_antes_impuestos,20831.699,2013-05-31_MzA5MDQyNDM5OGFkaXF6a2N4,9,revision manual 4/11/2026: lectura erronea,Swansea,club
+07283993,2013-05-31,sueldos_salarios,40031.142,2013-05-31_MzA5NTI4NDA0M2FkaXF6a2N4,17,revision manual 4/11/2026: etiqueta 'Salaries and wages',Wigan,grupo
+00270043,2013-05-31,sueldos_salarios,38501.292,2013-05-31_MzA5NTI4NDEyMGFkaXF6a2N4,18,revision manual 4/11/2026: etiqueta 'Salaries and wages',Wigan,club
+01630402,2013-05-31,resultado_antes_impuestos,-17052.0,2013-05-31_MzA5NTYwMjkxMmFkaXF6a2N4,7,"revision manual 4/11/2026: OCR leyo 57,052",Nott'm Forest,club
+03375789,2013-05-31,activos_netos,-139683.179,2013-05-31_MzA5NTYwMTc3MmFkaXF6a2N4,10,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Aston Villa,club
+03375789,2013-05-31,patrimonio,-139683.179,2013-05-31_MzA5NTYwMTc3MmFkaXF6a2N4,10,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Aston Villa,club
+07270793,2013-06-30,ingresos,14512.758,2013-06-30_MzA5MTM3Nzk0NmFkaXF6a2N4,9,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Crystal Palace,club
+04032392,2013-07-31,ingresos,11075.152,2013-07-31_MzA4OTczOTM0OWFkaXF6a2N4,7,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Hull,club
+00270043,2014-05-31,sueldos_salarios,26811.642,2014-05-31_MzExNjkyMTEwMGFkaXF6a2N4,18,revision manual 4/11/2026: etiqueta 'Salaries and wages',Wigan,club
+01630402,2014-05-31,ingresos,16457.0,2014-05-31_MzExODA3Mzg4MWFkaXF6a2N4,9,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Nott'm Forest,club
+01630402,2014-05-31,activos_netos,-54081.0,2014-05-31_MzExODA3Mzg4MWFkaXF6a2N4,10,revision manual 4/11/2026: shareholders' funds,Nott'm Forest,club
+01630402,2014-05-31,patrimonio,-54081.0,2014-05-31_MzExODA3Mzg4MWFkaXF6a2N4,10,revision manual 4/11/2026: shareholders' funds,Nott'm Forest,club
+02509978,2014-05-31,activos_netos,-220.0,2014-05-31_MzExODY2OTQ4M2FkaXF6a2N4,23,revision manual 4/11/2026: shareholders' funds,Sheffield Weds,club
+02509978,2014-05-31,patrimonio,-220.0,2014-05-31_MzExODY2OTQ4M2FkaXF6a2N4,23,revision manual 4/11/2026: shareholders' funds,Sheffield Weds,club
+01706358,2014-06-30,ingresos,180541.0,2014-06-30_MzEyMTAxOTUyNmFkaXF6a2N4,9,revision manual 4/11/2026: formato 6 columnas: se leyo el ano anterior,Tottenham,grupo
+07270793,2014-06-30,ingresos,90401.306,2014-06-30_MzEyMTAxNTY3OGFkaXF6a2N4,10,revision manual 4/11/2026: lectura erronea,Crystal Palace,club
+06550400,2014-12-31,resultado_antes_impuestos,167.212,2014-12-31_MzEyMDY4MjY2MmFkaXF6a2N4,10,revision manual 4/11/2026: lectura erronea,Rotherham,club
+01630402,2015-05-31,activos_netos,-76716.0,2015-05-31_MzE0MjA5ODczNmFkaXF6a2N4,11,revision manual 4/11/2026: shareholders' funds,Nott'm Forest,club
+01630402,2015-05-31,patrimonio,-76716.0,2015-05-31_MzE0MjA5ODczNmFkaXF6a2N4,11,revision manual 4/11/2026: shareholders' funds,Nott'm Forest,club
+01630402,2015-05-31,sueldos_salarios,26017.0,2015-05-31_MzE0MjA5ODczNmFkaXF6a2N4,25,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Nott'm Forest,club
+00270043,2015-05-31,resultado_antes_impuestos,-3911.537,2015-05-31_MzE0MjI2NTE1MWFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Wigan,club
+00270043,2015-05-31,activos_netos,-13335.916,2015-05-31_MzE0MjI2NTE1MWFkaXF6a2N4,13,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Wigan,club
+00270043,2015-05-31,patrimonio,-13335.916,2015-05-31_MzE0MjI2NTE1MWFkaXF6a2N4,13,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Wigan,club
+00270043,2015-05-31,sueldos_salarios,23056.799,2015-05-31_MzE0MjI2NTE1MWFkaXF6a2N4,18,revision manual 4/11/2026: etiqueta 'Salaries and wages',Wigan,club
+00040946,2015-05-31,activos_netos,676247.0,2015-05-31_MzE0MjcyMTk5MmFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Man City,club
+00040946,2015-05-31,patrimonio,676247.0,2015-05-31_MzE0MjcyMTk5MmFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Man City,club
+07283993,2015-05-31,resultado_antes_impuestos,-14531.06,2015-05-31_MzE0MjgyODYzM2FkaXF6a2N4,10,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Wigan,grupo
+07283993,2015-05-31,activos_netos,35271.811,2015-05-31_MzE0MjgyODYzM2FkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Wigan,grupo
+07283993,2015-05-31,patrimonio,35271.811,2015-05-31_MzE0MjgyODYzM2FkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Wigan,grupo
+02509978,2015-05-31,activos_netos,12618.0,2015-05-31_MzE0MjgyOTQ0MmFkaXF6a2N4,17,revision manual 4/11/2026: shareholders' funds,Sheffield Weds,club
+02509978,2015-05-31,patrimonio,12618.0,2015-05-31_MzE0MjgyOTQ0MmFkaXF6a2N4,17,revision manual 4/11/2026: shareholders' funds,Sheffield Weds,club
+07283993,2015-05-31,sueldos_salarios,24494.616,2015-05-31_MzE0MjgyODYzM2FkaXF6a2N4,18,revision manual 4/11/2026: etiqueta 'Salaries and wages',Wigan,grupo
+00060094,2015-05-31,ingresos,112072.0,2015-05-31_MzE0NDg0NDA0MWFkaXF6a2N4,8,"revision manual 4/11/2026: OCR leyo '0 412,072'",QPR,club
+00099885,2015-05-31,activos_netos,-22696.0,2015-05-31_MzEzNTIyMDkwOWFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Stoke,club
+00099885,2015-05-31,patrimonio,-22696.0,2015-05-31_MzEzNTIyMDkwOWFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Stoke,club
+00099885,2015-05-31,sueldos_salarios,58253.0,2015-05-31_MzEzNTIyMDkwOWFkaXF6a2N4,20,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Stoke,club
+00066516,2015-05-31,ingresos,120747.0,2015-05-31_MzEzNjg4NDEwOGFkaXF6a2N4,15,revision manual 4/11/2026: formato 6 columnas: se leyo el ano anterior,West Ham,club
+00036624,2015-05-31,resultado_antes_impuestos,-4054.0,2015-05-31_MzEzNjkxMTg4MGFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Everton,club
+00036624,2015-05-31,activos_netos,-18532.0,2015-05-31_MzEzNjkxMTg4MGFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Everton,club
+00036624,2015-05-31,patrimonio,-18532.0,2015-05-31_MzEzNjkxMTg4MGFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Everton,club
+07206409,2015-06-30,ingresos,102395.97,2015-06-30_MzE0MDcxMzcwNmFkaXF6a2N4,9,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Crystal Palace,grupo
+06233875,2015-06-30,resultado_antes_impuestos,-2012.342,2015-06-30_MzE0MjgxNTc1MWFkaXF6a2N4,8,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Leeds,club
+01788466,2015-06-30,activos_netos,-18886.0,2015-06-30_MzE0MzUxODkyMGFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Charlton,club
+01788466,2015-06-30,patrimonio,-18886.0,2015-06-30_MzE0MzUxODkyMGFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Charlton,club
+01965149,2015-06-30,resultado_antes_impuestos,-26978.0,2015-06-30_MzE0NTI5NzIyOGFkaXF6a2N4,10,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Chelsea,club
+03374347,2015-06-30,ingresos,41990.0,2015-06-30_MzE0NTQwNjY4OWFkaXF6a2N4,10,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Fulham,grupo
+03374347,2015-06-30,activos_netos,2940.0,2015-06-30_MzE0NTQwNjY4OWFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Fulham,grupo
+03374347,2015-06-30,patrimonio,2940.0,2015-06-30_MzE0NTQwNjY4OWFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Fulham,grupo
+02529667,2015-06-30,ingresos,128830.0,2015-06-30_MzE0NTg0ODg3MmFkaXF6a2N4,7,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Newcastle,grupo
+00057186,2015-06-30,activos_netos,93865.0,2015-06-30_MzE0NzQ0OTQ4OWFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Tottenham,club
+00057186,2015-06-30,patrimonio,93865.0,2015-06-30_MzE0NzQ0OTQ4OWFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Tottenham,club
+00043026,2015-06-30,activos_netos,-180070.882,2015-06-30_MzE2ODU4MDYyN2FkaXF6a2N4,13,revision manual 4/11/2026: lectura erronea,Bolton,club
+00043026,2015-06-30,patrimonio,-180070.882,2015-06-30_MzE2ODU4MDYyN2FkaXF6a2N4,13,revision manual 4/11/2026: lectura erronea,Bolton,club
+00095489,2015-06-30,activos_netos,-41022.0,2015-06-30_MzEzNzc2Mjk3M2FkaXF6a2N4,11,revision manual 4/11/2026: 'Net (liabilities)/assets',Man United,club
+00095489,2015-06-30,patrimonio,-41022.0,2015-06-30_MzEzNzc2Mjk3M2FkaXF6a2N4,11,revision manual 4/11/2026: 'Net (liabilities)/assets',Man United,club
+00053301,2015-06-30,sueldos_salarios,68865.924,2015-06-30_MzEzMzU2NzkxOGFkaXF6a2N4,16,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Southampton,club
+00154044,2015-06-30,resultado_antes_impuestos,-7891.0,2015-06-30_MzEzNDk2NDk2NmFkaXF6a2N4,10,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Norwich,club
+00154044,2015-06-30,activos_netos,16600.0,2015-06-30_MzEzNDk2NDk2NmFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Norwich,club
+00154044,2015-06-30,patrimonio,16600.0,2015-06-30_MzEzNDk2NDk2NmFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Norwich,club
+00027318,2015-06-30,resultado_antes_impuestos,1342.936,2015-06-30_MzEzNzQ3Mzg3OGFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Birmingham,club
+00027318,2015-06-30,activos_netos,1873.524,2015-06-30_MzEzNzQ3Mzg3OGFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Birmingham,club
+00027318,2015-06-30,patrimonio,1873.524,2015-06-30_MzEzNzQ3Mzg3OGFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Birmingham,club
+06632170,2015-07-31,sueldos_salarios,26649.837,2015-07-31_MzE0NzA4MjgwNmFkaXF6a2N4,18,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Bournemouth,club
+00049116,2015-07-31,resultado_antes_impuestos,-25546.0,2015-07-31_MzE0NzEwNTEwOWFkaXF6a2N4,9,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Sunderland,club
+00049116,2015-07-31,activos_netos,-78279.0,2015-07-31_MzE0NzEwNTEwOWFkaXF6a2N4,10,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Sunderland,club
+00049116,2015-07-31,patrimonio,-78279.0,2015-07-31_MzE0NzEwNTEwOWFkaXF6a2N4,10,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Sunderland,club
+00123414,2015-07-31,resultado_antes_impuestos,1682.274,2015-07-31_MzEzNzUwOTUxMWFkaXF6a2N4,9,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,club
+00123414,2015-07-31,activos_netos,20167.63,2015-07-31_MzEzNzUwOTUxMWFkaXF6a2N4,10,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,club
+00123414,2015-07-31,patrimonio,20167.63,2015-07-31_MzEzNzUwOTUxMWFkaXF6a2N4,10,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,club
+04305508,2015-07-31,activos_netos,21087.371,2015-07-31_MzEzNzUwOTUwOWFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,grupo
+04305508,2015-07-31,patrimonio,21087.371,2015-07-31_MzEzNzUwOTUwOWFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,grupo
+00109065,2016-05-31,ingresos,31411.0,2016-05-31_MzE3MDI4OTIwMWFkaXF6a2N4,9,"revision manual 4/11/2026: OCR leyo 34,414",Cardiff,club
+07230595,2016-06-30,resultado_antes_impuestos,1180.0,2016-06-30_MzE2NzU2NDA5N2FkaXF6a2N4,8,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),West Brom,grupo
+02849319,2016-06-30,sueldos_salarios,24126.436,2016-06-30_MzE2ODY2NjM0NGFkaXF6a2N4,27,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Brighton,grupo
+06550400,2016-06-30,sueldos_salarios,8811.218,2016-06-30_MzE3MDYyNjQ2OGFkaXF6a2N4,17,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Rotherham,club
+01771361,2016-06-30,resultado_antes_impuestos,-1576.146,2016-06-30_MzE3Mjk2NzcwMmFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Huddersfield,club
+02529667,2016-06-30,ingresos,125755.0,2016-06-30_MzE3Mjk5NTc0NWFkaXF6a2N4,11,"revision manual 4/11/2026: OCR leyo 128,755",Newcastle,grupo
+00123414,2016-07-31,activos_netos,6708.962,2016-07-31_MzE3NTEyOTI4OGFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,club
+00123414,2016-07-31,patrimonio,6708.962,2016-07-31_MzE3NTEyOTI4OGFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,club
+07283993,2017-05-31,resultado_antes_impuestos,-1625.312,2017-05-31_MzE5ODI3NTc1OWFkaXF6a2N4,11,revision manual 4/11/2026: lectura erronea,Wigan,grupo
+07283993,2017-05-31,activos_netos,30073.669,2017-05-31_MzE5ODI3NTc1OWFkaXF6a2N4,13,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Wigan,grupo
+07283993,2017-05-31,patrimonio,30073.669,2017-05-31_MzE5ODI3NTc1OWFkaXF6a2N4,13,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Wigan,grupo
+00060094,2017-05-31,sueldos_salarios,24697.0,2017-05-31_MzE5OTI3MzUwMWFkaXF6a2N4,13,"revision manual 4/11/2026: OCR leyo 26,697",QPR,club
+01630402,2017-05-31,sueldos_salarios,25085.0,2017-05-31_MzE5OTM1MDM5MmFkaXF6a2N4,20,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Nott'm Forest,club
+00035668,2017-05-31,activos_netos,98542.0,2017-05-31_MzE5OTQ1MTcyM2FkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Liverpool,club
+00035668,2017-05-31,patrimonio,98542.0,2017-05-31_MzE5OTQ1MTcyM2FkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Liverpool,club
+00104194,2017-06-30,resultado_antes_impuestos,4027.59,2017-06-30_MzE5OTI5NDEyN2FkaXF6a2N4,12,revision manual 4/11/2026: formato 6 columnas: se leyo el ano anterior,Watford,club
+06550400,2017-06-30,sueldos_salarios,7687.356,2017-06-30_MzE5OTQ1MDQ5NGFkaXF6a2N4,18,revision manual 4/11/2026: lectura erronea,Rotherham,club
+00315421,2017-06-30,activos_netos,-77452.0,2017-06-30_MzE5OTU1NTI0NWFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Ipswich,club
+00315421,2017-06-30,patrimonio,-77452.0,2017-06-30_MzE5OTU1NTI0NWFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Ipswich,club
+03295063,2017-06-30,sueldos_salarios,69779.0,2017-06-30_MzIwMTI0NTk3NWFkaXF6a2N4,25,revision manual 4/11/2026: etiqueta 'Wage and salaries',West Brom,club
+00057186,2017-06-30,resultado_antes_impuestos,35193.0,2017-06-30_MzIwMTg0ODI4NmFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Tottenham,club
+00057186,2017-06-30,activos_netos,29758.0,2017-06-30_MzIwMTg0ODI4NmFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Tottenham,club
+00057186,2017-06-30,patrimonio,29758.0,2017-06-30_MzIwMTg0ODI4NmFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Tottenham,club
+00123414,2017-07-31,activos_netos,19704.504,2017-07-31_MzE5OTYwMTU5NGFkaXF6a2N4,12,revision manual 4/11/2026: lectura erronea,Swansea,club
+00123414,2017-07-31,patrimonio,19704.504,2017-07-31_MzE5OTYwMTU5NGFkaXF6a2N4,12,revision manual 4/11/2026: lectura erronea,Swansea,club
+01630402,2018-05-31,sueldos_salarios,25181.0,2018-05-31_MzIyODIxOTE4NmFkaXF6a2N4,22,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Nott'm Forest,club
+00036624,2018-05-31,ingresos,189159.0,2018-05-31_MzIyODY5ODQ4NmFkaXF6a2N4,16,revision manual 4/11/2026: celdas sombreadas,Everton,club
+00036624,2018-05-31,sueldos_salarios,127827.0,2018-05-31_MzIyODY5ODQ4NmFkaXF6a2N4,27,revision manual 4/11/2026: celdas sombreadas,Everton,club
+04032392,2018-06-30,ingresos,55679.963,2018-06-30_MzIxNDMzMDQwNWFkaXF6a2N4,9,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Hull,club
+00154044,2018-06-30,activos_netos,37752.0,2018-06-30_MzIyNDk2MjAyOGFkaXF6a2N4,13,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Norwich,club
+00154044,2018-06-30,patrimonio,37752.0,2018-06-30_MzIyNDk2MjAyOGFkaXF6a2N4,13,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Norwich,club
+03642327,2018-06-30,ingresos,12742.163,2018-06-30_MzIzMDcyNzc3MGFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Brentford,club
+03642327,2018-06-30,sueldos_salarios,15263.052,2018-06-30_MzIzMDcyNzc3MGFkaXF6a2N4,25,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Brentford,club
+03295063,2018-06-30,sueldos_salarios,82613.0,2018-06-30_MzIzMTAwOTIzMGFkaXF6a2N4,23,revision manual 4/11/2026: etiqueta 'Wage and salaries',West Brom,club
+00049139,2018-06-30,sueldos_salarios,35249.283,2018-06-30_MzIzMTE4MzE2M2FkaXF6a2N4,25,revision manual 4/11/2026: lectura erronea,Derby,club
+07206409,2018-06-30,ingresos,150346.0,2018-06-30_MzIzMTI1MTU0MGFkaXF6a2N4,11,"revision manual 4/11/2026: OCR leyo 160,346",Crystal Palace,grupo
+00123414,2018-07-31,sueldos_salarios,79007.656,2018-07-31_MzIzMjg2MzU2MGFkaXF6a2N4,20,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,club
+02509978,2018-07-31,resultado_antes_impuestos,2576.0,2018-07-31_MzIzOTM4OTU5M2FkaXF6a2N4,17,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Sheffield Weds,club
+02509978,2018-07-31,activos_netos,-10349.0,2018-07-31_MzIzOTM4OTU5M2FkaXF6a2N4,18,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Sheffield Weds,club
+02509978,2018-07-31,patrimonio,-10349.0,2018-07-31_MzIzOTM4OTU5M2FkaXF6a2N4,18,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Sheffield Weds,club
+04044254,2019-05-31,activos_netos,-11474.0,2019-05-31_MzI1ODgyMzQ3MWFkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Cardiff,grupo
+04044254,2019-05-31,patrimonio,-11474.0,2019-05-31_MzI1ODgyMzQ3MWFkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Cardiff,grupo
+00081077,2019-06-30,ingresos,143132.0,2019-06-30_MzI1NTQ3OTE4NmFkaXF6a2N4,12,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Brighton,club
+02849319,2019-06-30,ingresos,143397.0,2019-06-30_MzI1NTQ3OTE4MmFkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Brighton,grupo
+01771361,2019-06-30,resultado_antes_impuestos,3858.314,2019-06-30_MzI2MDM1ODc2MmFkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Huddersfield,club
+01771361,2019-06-30,activos_netos,-20172.87,2019-06-30_MzI2MDM1ODc2MmFkaXF6a2N4,15,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Huddersfield,club
+01771361,2019-06-30,patrimonio,-20172.87,2019-06-30_MzI2MDM1ODc2MmFkaXF6a2N4,15,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Huddersfield,club
+01771361,2019-06-30,sueldos_salarios,55974.452000000005,2019-06-30_MzI2MDM1ODc2MmFkaXF6a2N4,25,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Huddersfield,club
+07283993,2019-06-30,ingresos,0.0,2019-06-30_MzI2MDQ4NDc1NmFkaXF6a2N4,8,revision manual 4/11/2026: sociedad holding sin ingresos ('-'),Wigan,grupo
+07283993,2019-06-30,sueldos_salarios,0.0,2019-06-30_MzI2MDQ4NDc1NmFkaXF6a2N4,12,revision manual 4/11/2026: 'There were no staff costs',Wigan,grupo
+07230595,2019-06-30,resultado_antes_impuestos,-6742.0,2019-06-30_MzI2MDc0ODgzNWFkaXF6a2N4,10,revision manual 4/11/2026: no leido,West Brom,grupo
+07230595,2019-06-30,activos_netos,62614.0,2019-06-30_MzI2MDc0ODgzNWFkaXF6a2N4,11,revision manual 4/11/2026: 'Total Equity',West Brom,grupo
+07230595,2019-06-30,patrimonio,62614.0,2019-06-30_MzI2MDc0ODgzNWFkaXF6a2N4,11,revision manual 4/11/2026: 'Total Equity',West Brom,grupo
+03295063,2019-06-30,sueldos_salarios,41786.0,2019-06-30_MzI2MDc0ODgyNWFkaXF6a2N4,23,revision manual 4/11/2026: etiqueta 'Wage and salaries',West Brom,club
+07230595,2019-06-30,sueldos_salarios,41786.0,2019-06-30_MzI2MDc0ODgzNWFkaXF6a2N4,25,revision manual 4/11/2026: lectura erronea,West Brom,grupo
+00053482,2019-06-30,ingresos,16673.961,2019-06-30_MzI2MDg3NTU4NWFkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Blackburn,club
+00053301,2019-06-30,activos_netos,59692.0,2019-06-30_MzI2MTQ4MDc1N2FkaXF6a2N4,14,revision manual 4/11/2026: se leyo el ano anterior,Southampton,club
+00053301,2019-06-30,patrimonio,59692.0,2019-06-30_MzI2MTQ4MDc1N2FkaXF6a2N4,14,revision manual 4/11/2026: se leyo el ano anterior,Southampton,club
+03642327,2019-06-30,sueldos_salarios,16722.95,2019-06-30_MzI2MzA4NzE3NGFkaXF6a2N4,31,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Brentford,club
+04305508,2019-07-31,activos_netos,12109.039,2019-07-31_MzI1NzA3NjQ0MmFkaXF6a2N4,13,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,grupo
+04305508,2019-07-31,patrimonio,12109.039,2019-07-31_MzI1NzA3NjQ0MmFkaXF6a2N4,13,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,grupo
+04305508,2019-07-31,sueldos_salarios,44344.066,2019-07-31_MzI1NzA3NjQ0MmFkaXF6a2N4,31,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,grupo
+01630402,2020-05-31,ingresos,25688.0,2020-05-31_MzI5MzM3NTE1OWFkaXF6a2N4,13,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Nott'm Forest,club
+04032392,2020-06-30,resultado_antes_impuestos,2838.455,2020-06-30_MzI3OTg5NDcxNWFkaXF6a2N4,9,revision manual 4/11/2026: lectura erronea,Hull,club
+00057186,2020-06-30,resultado_antes_impuestos,-113176.0,2020-06-30_MzI4NTE2NTkzNmFkaXF6a2N4,13,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Tottenham,club
+00036624,2020-06-30,resultado_antes_impuestos,-139863.0,2020-06-30_MzI5Mjk5NzE5OGFkaXF6a2N4,23,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Everton,club
+00027318,2020-06-30,resultado_antes_impuestos,-18335.459,2020-06-30_MzI5NzU3ODQwMGFkaXF6a2N4,12,revision manual 4/11/2026: lectura erronea,Birmingham,club
+03642327,2020-06-30,resultado_antes_impuestos,-9060.546,2020-06-30_MzI5NzU5NzY5NWFkaXF6a2N4,16,revision manual 4/11/2026: lectura erronea,Brentford,club
+01771361,2020-06-30,resultado_antes_impuestos,-8221.877,2020-06-30_MzMwMjM1OTMxN2FkaXF6a2N4,13,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Huddersfield,club
+01771361,2020-06-30,activos_netos,-26894.451,2020-06-30_MzMwMjM1OTMxN2FkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Huddersfield,club
+01771361,2020-06-30,patrimonio,-26894.451,2020-06-30_MzMwMjM1OTMxN2FkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Huddersfield,club
+06233875,2020-07-31,activos_netos,-69401.899,2020-07-31_MzI5NjIxODMwMWFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Leeds,club
+06233875,2020-07-31,patrimonio,-69401.899,2020-07-31_MzI5NjIxODMwMWFkaXF6a2N4,11,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Leeds,club
+03295063,2020-07-31,sueldos_salarios,59711.0,2020-07-31_MzI5NzQ3ODI0OWFkaXF6a2N4,27,revision manual 4/11/2026: etiqueta 'Wage and salaries' (periodo de 13 meses),West Brom,club
+04305508,2020-07-31,sueldos_salarios,36033.048,2020-07-31_MzI5ODkxNTc3NGFkaXF6a2N4,31,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,grupo
+00060094,2021-05-31,sueldos_salarios,19303.0,2021-05-31_MzMyOTMzODI5NGFkaXF6a2N4,15,"revision manual 4/11/2026: OCR leyo 49,303",QPR,club
+00099885,2021-05-31,sueldos_salarios,41737.0,2021-05-31_MzMzNTU1NzI2MmFkaXF6a2N4,26,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Stoke,club
+03374347,2021-06-30,activos_netos,245351.0,2021-06-30_MzMzNDMxMjI3N2FkaXF6a2N4,15,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Fulham,grupo
+03374347,2021-06-30,patrimonio,245351.0,2021-06-30_MzMzNDMxMjI3N2FkaXF6a2N4,15,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Fulham,grupo
+06550400,2021-06-30,ingresos,12112.102,2021-06-30_MzMzNDg2OTE3OWFkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Rotherham,club
+00036624,2021-06-30,sueldos_salarios,159221.0,2021-06-30_MzMzNDg2MTYxN2FkaXF6a2N4,35,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Everton,club
+00104194,2021-06-30,resultado_antes_impuestos,-21728.0,2021-06-30_MzMzNTAwMjg2MWFkaXF6a2N4,16,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Watford,club
+00104194,2021-06-30,activos_netos,-12770.0,2021-06-30_MzMzNTAwMjg2MWFkaXF6a2N4,18,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Watford,club
+00104194,2021-06-30,patrimonio,-12770.0,2021-06-30_MzMzNTAwMjg2MWFkaXF6a2N4,18,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Watford,club
+00104194,2021-06-30,sueldos_salarios,60008.0,2021-06-30_MzMzNTAwMjg2MWFkaXF6a2N4,30,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Watford,club
+00061564,2021-06-30,ingresos,115221.103,2021-06-30_MzMzNTEyNDAxMGFkaXF6a2N4,16,"revision manual 4/11/2026: OCR leyo 118,221,103",Sheffield United,club
+06233875,2021-06-30,resultado_antes_impuestos,25919.909,2021-06-30_MzMzNTI5MTIxMWFkaXF6a2N4,13,revision manual 4/11/2026: signo,Leeds,club
+06233875,2021-06-30,activos_netos,-16499.527000000002,2021-06-30_MzMzNTI5MTIxMWFkaXF6a2N4,15,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Leeds,club
+06233875,2021-06-30,patrimonio,-16499.527000000002,2021-06-30_MzMzNTI5MTIxMWFkaXF6a2N4,15,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Leeds,club
+04305508,2021-07-31,resultado_antes_impuestos,-4609.57,2021-07-31_MzMzODEwNzI1MmFkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,grupo
+04305508,2021-07-31,sueldos_salarios,25289.735,2021-07-31_MzMzODEwNzI1MmFkaXF6a2N4,33,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,grupo
+00054222,2021-07-31,resultado_antes_impuestos,-3130.0,2021-07-31_MzMzODIyMDc0OWFkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Burnley,club
+00066516,2022-05-31,activos_netos,-153387.0,2022-05-31_MzM2NDgxNDg4N2FkaXF6a2N4,25,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),West Ham,club
+00066516,2022-05-31,patrimonio,-153387.0,2022-05-31_MzM2NDgxNDg4N2FkaXF6a2N4,25,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),West Ham,club
+03375789,2022-05-31,ingresos,163743.904,2022-05-31_MzM3MTAxNzIxNWFkaXF6a2N4,12,revision manual 4/11/2026: lectura erronea,Aston Villa,club
+04593477,2022-05-31,sueldos_salarios,148403.0,2022-05-31_MzM3MTc1MzY2NmFkaXF6a2N4,44,"revision manual 4/11/2026: OCR leyo 448,403",Leicester,club
+00154044,2022-06-30,activos_netos,2705.0,2022-06-30_MzM1ODU3MzcwNWFkaXF6a2N4,33,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Norwich,club
+00154044,2022-06-30,patrimonio,2705.0,2022-06-30_MzM1ODU3MzcwNWFkaXF6a2N4,33,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Norwich,club
+00057186,2022-06-30,gastos_personal,186994.0,2022-06-30_MzM2OTMyMjA1MmFkaXF6a2N4,23,revision manual 4/11/2026: 'Staff costs (see note 5)': gasto de personal total,Tottenham,club
+06632170,2022-06-30,sueldos_salarios,54019.0,2022-06-30_MzM3MzU5MzQ3MWFkaXF6a2N4,28,revision manual 4/11/2026: lectura erronea,Bournemouth,club
+07230595,2022-06-30,resultado_antes_impuestos,171.0,2022-06-30_MzM3NDc4ODcwMmFkaXF6a2N4,15,revision manual 4/11/2026: lectura erronea,West Brom,grupo
+00040946,2022-06-30,activos_netos,698029.0,2022-06-30_MzM3NDk5MzUyNmFkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Man City,club
+00040946,2022-06-30,patrimonio,698029.0,2022-06-30_MzM3NDk5MzUyNmFkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Man City,club
+00036624,2022-06-30,activos_netos,234365.0,2022-06-30_MzM3NTAzMzU2MWFkaXF6a2N4,16,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Everton,club
+00036624,2022-06-30,patrimonio,234365.0,2022-06-30_MzM3NTAzMzU2MWFkaXF6a2N4,16,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Everton,club
+00053482,2022-06-30,sueldos_salarios,21368.017,2022-06-30_MzM3NTE1MTg3NGFkaXF6a2N4,26,"revision manual 4/11/2026: OCR leyo 24,368,017",Blackburn,club
+06233875,2022-06-30,activos_netos,-59950.676,2022-06-30_MzM3NTEzOTY5M2FkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Leeds,club
+06233875,2022-06-30,patrimonio,-59950.676,2022-06-30_MzM3NTEzOTY5M2FkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Leeds,club
+00104194,2023-06-30,ingresos,66198.0,2023-06-30_MzQxMTkwNzQ4NWFkaXF6a2N4,15,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Watford,club
+00061564,2023-06-30,activos_netos,9001.94,2023-06-30_MzQxNDYzNjUzOGFkaXF6a2N4,19,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Sheffield United,club
+00061564,2023-06-30,patrimonio,9001.94,2023-06-30_MzQxNDYzNjUzOGFkaXF6a2N4,19,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Sheffield United,club
+06233875,2023-06-30,activos_netos,-103247.755,2023-06-30_MzQxNjYyMTc5OGFkaXF6a2N4,15,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Leeds,club
+06233875,2023-06-30,patrimonio,-103247.755,2023-06-30_MzQxNjYyMTc5OGFkaXF6a2N4,15,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Leeds,club
+04593477,2023-06-30,sueldos_salarios,171950.0,2023-06-30_MzQxNzI4MDQ2N2FkaXF6a2N4,45,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Leicester,club
+04044254,2024-05-31,sueldos_salarios,24773.0,2024-05-31_MzQ1NzA0ODAwMWFkaXF6a2N4,42,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Cardiff,grupo
+00109065,2024-05-31,sueldos_salarios,24773.0,2024-05-31_MzQ1NzM4NDEzMGFkaXF6a2N4,34,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Cardiff,club
+03912084,2024-06-30,ingresos,0.0,2024-06-30_MzQ1NTk5Njg5OWFkaXF6a2N4,6,revision manual 4/11/2026: holding sin actividad ('-'),Middlesbrough,grupo
+03912084,2024-06-30,resultado_antes_impuestos,0.0,2024-06-30_MzQ1NTk5Njg5OWFkaXF6a2N4,6,revision manual 4/11/2026: holding sin actividad ('-'),Middlesbrough,grupo
+00081077,2024-06-30,activos_netos,-23665.0,2024-06-30_MzQ1NzQxMDc5N2FkaXF6a2N4,17,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Brighton,club
+00081077,2024-06-30,patrimonio,-23665.0,2024-06-30_MzQ1NzQxMDc5N2FkaXF6a2N4,17,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Brighton,club
+02849319,2024-06-30,activos_netos,171279.0,2024-06-30_MzQ1NzQxMDc5NWFkaXF6a2N4,20,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Brighton,grupo
+02849319,2024-06-30,patrimonio,171279.0,2024-06-30_MzQ1NzQxMDc5NWFkaXF6a2N4,20,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Brighton,grupo
+06133975,2024-06-30,ingresos,132321.856,2024-06-30_MzQ2MDgwMDg0M2FkaXF6a2N4,14,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Luton,club
+00027318,2024-06-30,resultado_antes_impuestos,-16081.826,2024-06-30_MzQ2MTAxNjcwNWFkaXF6a2N4,12,revision manual 4/11/2026: lectura erronea,Birmingham,club
+00036624,2024-06-30,activos_netos,302357.0,2024-06-30_MzQ2MTAzMDcwMmFkaXF6a2N4,16,"revision manual 4/11/2026: OCR leyo 302,387",Everton,club
+00036624,2024-06-30,patrimonio,302357.0,2024-06-30_MzQ2MTAzMDcwMmFkaXF6a2N4,16,"revision manual 4/11/2026: OCR leyo 302,387",Everton,club
+00123414,2024-06-30,ingresos,21541.219,2024-06-30_MzQ2MTE1MDI2MmFkaXF6a2N4,13,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,club
+00123414,2024-06-30,resultado_antes_impuestos,-15190.972,2024-06-30_MzQ2MTE1MDI2MmFkaXF6a2N4,13,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Swansea,club
+03912084,2025-06-30,ingresos,0.0,2025-06-30_MzUxMTg3OTQ4NWFkaXF6a2N4,6,revision manual 4/11/2026: holding sin actividad ('-'),Middlesbrough,grupo
+03912084,2025-06-30,resultado_antes_impuestos,0.0,2025-06-30_MzUxMTg3OTQ4NWFkaXF6a2N4,6,revision manual 4/11/2026: holding sin actividad ('-'),Middlesbrough,grupo
+06133975,2025-06-30,ingresos,66823.168,2025-06-30_MzUxMjIzNDM5M2FkaXF6a2N4,14,revision manual 4/11/2026: lectura erronea,Luton,club
+00053482,2025-06-30,activos_netos,-128553.76,2025-06-30_MzUxMjU3MjYyOWFkaXF6a2N4,16,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Blackburn,club
+00053482,2025-06-30,patrimonio,-128553.76,2025-06-30_MzUxMjU3MjYyOWFkaXF6a2N4,16,revision manual 4/11/2026: confirmada contra el PDF (la lectura era correcta; el contraste entre anos no coincidia),Blackburn,club
+00036624,2011-05-31,activos_netos,-35187.0,2011-05-31_MzA0OTgxNDY4MGFkaXF6a2N4,13,revision manual 4/11/2026 (2a pasada): Shareholders' deficit,Everton,club
+00036624,2011-05-31,patrimonio,-35187.0,2011-05-31_MzA0OTgxNDY4MGFkaXF6a2N4,13,revision manual 4/11/2026 (2a pasada): Shareholders' deficit,Everton,club
+00036624,2011-05-31,resultado_antes_impuestos,-5413.0,2011-05-31_MzA0OTgxNDY4MGFkaXF6a2N4,20,revision manual 4/11/2026 (2a pasada): nota de impuestos: Loss on ordinary activities before taxation,Everton,club
+00066516,2011-05-31,resultado_antes_impuestos,-18565.0,2011-05-31_MzA1MTAwMDI1NmFkaXF6a2N4,17,revision manual 4/11/2026 (2a pasada): nota de impuestos,West Ham,club
+00270043,2011-05-31,sueldos_salarios,35696.064,2011-05-31_MzA1MjgyMDQyNWFkaXF6a2N4,18,revision manual 4/11/2026 (2a pasada): 'Salaries and wages',Wigan,club
+00109065,2011-05-31,activos_netos,-25323.0,2011-05-31_MzA1MzQyNzAxOWFkaXF6a2N4,22,revision manual 4/11/2026 (2a pasada): Closing shareholders' deficit,Cardiff,club
+00109065,2011-05-31,patrimonio,-25323.0,2011-05-31_MzA1MzQyNzAxOWFkaXF6a2N4,22,revision manual 4/11/2026 (2a pasada): Closing shareholders' deficit,Cardiff,club
+00060094,2011-05-31,sueldos_salarios,24516.0,2011-05-31_MzA1MzYzNzIwMmFkaXF6a2N4,10,revision manual 4/11/2026 (2a pasada): Wages and salaries,QPR,club
+00043026,2011-06-30,gastos_personal,54694.713,2011-06-30_MzA0NTg2Nzk3OGFkaXF6a2N4,4,revision manual 4/11/2026 (2a pasada): KPI del informe: Staff costs (sin tabla de personal),Bolton,club
+07270793,2011-06-30,resultado_antes_impuestos,-5291.421,2011-06-30_MzA1MzQ3NjMzN2FkaXF6a2N4,9,revision manual 4/11/2026 (2a pasada): cuenta de resultados,Crystal Palace,club
+07270793,2011-06-30,activos_netos,-4291.421,2011-06-30_MzA1MzQ3NjMzN2FkaXF6a2N4,10,revision manual 4/11/2026 (2a pasada): Shareholders' funds,Crystal Palace,club
+07270793,2011-06-30,patrimonio,-4291.421,2011-06-30_MzA1MzQ3NjMzN2FkaXF6a2N4,10,revision manual 4/11/2026 (2a pasada): Shareholders' funds,Crystal Palace,club
+00066516,2012-05-31,resultado_antes_impuestos,-25480.0,2012-05-31_MzA3MzcxNjM1MGFkaXF6a2N4,18,revision manual 4/11/2026 (2a pasada): nota de impuestos,West Ham,club
+00043026,2012-06-30,gastos_personal,53738.939,2012-06-30_MzA2NzcxODI2N2FkaXF6a2N4,4,revision manual 4/11/2026 (2a pasada): KPI del informe: Staff costs,Bolton,club
+00081077,2012-06-30,activos_netos,-37450.617,2012-06-30_MzA3NDcyNTkxMmFkaXF6a2N4,21,revision manual 4/11/2026 (2a pasada): Closing shareholders' deficit,Brighton,club
+00081077,2012-06-30,patrimonio,-37450.617,2012-06-30_MzA3NDcyNTkxMmFkaXF6a2N4,21,revision manual 4/11/2026 (2a pasada): Closing shareholders' deficit,Brighton,club
+02849319,2012-06-30,activos_netos,-13309.896,2012-06-30_MzA3NDcyNTk4MWFkaXF6a2N4,26,revision manual 4/11/2026 (2a pasada): grupo: Closing shareholders' deficit,Brighton,grupo
+02849319,2012-06-30,patrimonio,-13309.896,2012-06-30_MzA3NDcyNTk4MWFkaXF6a2N4,26,revision manual 4/11/2026 (2a pasada): grupo: Closing shareholders' deficit,Brighton,grupo
+00053301,2012-06-30,resultado_antes_impuestos,-8357.168,2012-06-30_MzA3NTUxMTg4MmFkaXF6a2N4,15,revision manual 4/11/2026 (2a pasada): nota de impuestos,Southampton,club
+00081077,2013-06-30,activos_netos,-52207.606,2013-06-30_MzA5NDI5ODI1OWFkaXF6a2N4,19,revision manual 4/11/2026 (2a pasada): Closing shareholders' deficit,Brighton,club
+00081077,2013-06-30,patrimonio,-52207.606,2013-06-30_MzA5NDI5ODI1OWFkaXF6a2N4,19,revision manual 4/11/2026 (2a pasada): Closing shareholders' deficit,Brighton,club
+02849319,2013-06-30,activos_netos,11411.242,2013-06-30_MzA5NDI5ODMyNmFkaXF6a2N4,25,revision manual 4/11/2026 (2a pasada): grupo: Closing shareholders' funds,Brighton,grupo
+02849319,2013-06-30,patrimonio,11411.242,2013-06-30_MzA5NDI5ODMyNmFkaXF6a2N4,25,revision manual 4/11/2026 (2a pasada): grupo: Closing shareholders' funds,Brighton,grupo
+00043026,2013-06-30,gastos_personal,36518.162,2013-06-30_MzA5NjkwMzM3MmFkaXF6a2N4,4,revision manual 4/11/2026 (2a pasada): KPI del informe: Staff costs,Bolton,club
+00123414,2014-05-31,activos_netos,20104.668,2014-05-31_MzExNjc1NjQ0OGFkaXF6a2N4,10,revision manual 4/11/2026 (2a pasada): Net assets,Swansea,club
+00123414,2014-05-31,patrimonio,20104.668,2014-05-31_MzExNjc1NjQ0OGFkaXF6a2N4,10,revision manual 4/11/2026 (2a pasada): Net assets,Swansea,club
+07283993,2014-05-31,sueldos_salarios,28351.447,2014-05-31_MzExNjkyMTA5OWFkaXF6a2N4,18,revision manual 4/11/2026 (2a pasada): 'Salaries and wages',Wigan,grupo
+00081077,2014-06-30,activos_netos,-60714.743,2014-06-30_MzExNTg1NzgxOGFkaXF6a2N4,26,revision manual 4/11/2026 (2a pasada): Closing shareholders' deficit,Brighton,club
+00081077,2014-06-30,patrimonio,-60714.743,2014-06-30_MzExNTg1NzgxOGFkaXF6a2N4,26,revision manual 4/11/2026 (2a pasada): Closing shareholders' deficit,Brighton,club
+02849319,2014-06-30,activos_netos,12065.086,2014-06-30_MzExNTg1NzgxN2FkaXF6a2N4,32,revision manual 4/11/2026 (2a pasada): grupo: Closing shareholders' funds,Brighton,grupo
+02849319,2014-06-30,patrimonio,12065.086,2014-06-30_MzExNTg1NzgxN2FkaXF6a2N4,32,revision manual 4/11/2026 (2a pasada): grupo: Closing shareholders' funds,Brighton,grupo
+00043026,2014-06-30,gastos_personal,27551.318,2014-06-30_MzEyMDg5MDYzOWFkaXF6a2N4,4,revision manual 4/11/2026 (2a pasada): KPI del informe: Staff costs,Bolton,club
+07270793,2015-06-30,ingresos,102395.97,2015-06-30_MzE0MDcxMzcwM2FkaXF6a2N4,9,revision manual 4/11/2026 (2a pasada): cuenta de resultados,Crystal Palace,club
+02849319,2015-06-30,activos_netos,1660.531,2015-06-30_MzE0MTcyOTI3NWFkaXF6a2N4,27,revision manual 4/11/2026 (2a pasada): grupo: Closing shareholders' funds,Brighton,grupo
+02849319,2015-06-30,patrimonio,1660.531,2015-06-30_MzE0MTcyOTI3NWFkaXF6a2N4,27,revision manual 4/11/2026 (2a pasada): grupo: Closing shareholders' funds,Brighton,grupo
+01788466,2015-06-30,resultado_antes_impuestos,-3869.0,2015-06-30_MzE0MzUxODkyMGFkaXF6a2N4,18,revision manual 4/11/2026 (2a pasada): nota de impuestos,Charlton,club
+03642327,2015-06-30,ingresos,9954.979,2015-06-30_MzE0NDgzNTA4MGFkaXF6a2N4,7,revision manual 4/11/2026 (2a pasada): informe estrategico: Turnover,Brentford,club
+03642327,2015-06-30,resultado_antes_impuestos,-14675.089,2015-06-30_MzE0NDgzNTA4MGFkaXF6a2N4,26,revision manual 4/11/2026 (2a pasada): nota de impuestos,Brentford,club
+02114486,2015-06-30,ingresos,41990.0,2015-06-30_MzE0NTQwNjY4NGFkaXF6a2N4,10,revision manual 4/11/2026 (2a pasada): cuenta de resultados,Fulham,club
+00031014,2015-06-30,ingresos,128830.0,2015-06-30_MzE0NTg0ODg3MWFkaXF6a2N4,7,revision manual 4/11/2026 (2a pasada): cuenta de resultados,Newcastle,club
+04305508,2015-07-31,resultado_antes_impuestos,1675.913,2015-07-31_MzEzNzUwOTUwOWFkaXF6a2N4,10,revision manual 4/11/2026 (2a pasada): cuenta de resultados consolidada,Swansea,grupo
+00104194,2016-06-30,resultado_antes_impuestos,3613.0,2016-06-30_MzE3MTI2MDg5MmFkaXF6a2N4,7,"revision manual 4/11/2026 (2a pasada): informe de administradores: profit before taxation £3,613,000",Watford,club
+00270043,2017-05-31,sueldos_salarios,14981.916,2017-05-31_MzE5ODI3NTc1NmFkaXF6a2N4,24,revision manual 4/11/2026 (2a pasada): 'Salaries and wages',Wigan,club
+00081077,2017-06-30,activos_netos,-127337.682,2017-06-30_MzIwMTg1NjgzNWFkaXF6a2N4,13,revision manual 4/11/2026 (2a pasada): Net assets,Brighton,club
+00081077,2017-06-30,patrimonio,-127337.682,2017-06-30_MzIwMTg1NjgzNWFkaXF6a2N4,13,revision manual 4/11/2026 (2a pasada): Net assets,Brighton,club
+00488096,2018-05-31,sueldos_salarios,9052.899,2018-05-31_MzIyODMxMzY4MmFkaXF6a2N4,21,"revision manual 4/11/2026 (2a pasada): Direct + indirect wages and salaries (8,129,047 + 923,852)",Burton,club
+00270043,2019-06-30,sueldos_salarios,17523.131,2019-06-30_MzI2MDQ4NDc2MGFkaXF6a2N4,21,revision manual 4/11/2026 (2a pasada): 'Salaries and wages' (periodo 1/6/18-30/6/19),Wigan,club
+01706358,2019-06-30,sueldos_salarios,156135.0,2019-06-30_MzI2MDc0Mzc4NWFkaXF6a2N4,20,revision manual 4/11/2026 (2a pasada): 'Salaries and bonuses',Tottenham,grupo
+00054222,2024-07-31,ingresos,133565.0,2024-07-31_MzQ2NDYzNjMxNmFkaXF6a2N4,0,revision manual 4/11/2026 (2a pasada): iXBRL: Turnover,Burnley,club
+00054222,2025-07-31,ingresos,71746.0,2025-07-31_MzUxOTAwMjEzOWFkaXF6a2N4,0,revision manual 4/11/2026 (2a pasada): iXBRL: Turnover,Burnley,club
+01630402,2025-06-30,ingresos,221746.0,2025-06-30_MzUxMjc1NzU2N2FkaXF6a2N4,0,revision manual 4/11/2026 (2a pasada): iXBRL: Turnover,Nott'm Forest,club
+00470509,2025-06-30,activos_netos,-59488.154,2025-06-30_MzUxMTY3OTg4N2FkaXF6a2N4,0,"revision manual 4/11/2026 (2a pasada): iXBRL: Total equity (59,488,154)",Oxford,club
+00470509,2025-06-30,patrimonio,-59488.154,2025-06-30_MzUxMTY3OTg4N2FkaXF6a2N4,0,"revision manual 4/11/2026 (2a pasada): iXBRL: Total equity (59,488,154)",Oxford,club
+00104194,2018-06-30,ingresos,128222.0,2018-06-30_MzIyOTE2Mjc3MGFkaXF6a2N4,0,revision manual 4/11/2026 (2a pasada): iXBRL: Turnover,Watford,club
+00104194,2018-06-30,resultado_antes_impuestos,-31615.0,2018-06-30_MzIyOTE2Mjc3MGFkaXF6a2N4,0,revision manual 4/11/2026 (2a pasada): iXBRL: (Loss) on ordinary activities before taxation,Watford,club
+00104194,2018-06-30,activos_netos,27867.0,2018-06-30_MzIyOTE2Mjc3MGFkaXF6a2N4,0,revision manual 4/11/2026 (2a pasada): iXBRL: Total equity,Watford,club
+00104194,2018-06-30,patrimonio,27867.0,2018-06-30_MzIyOTE2Mjc3MGFkaXF6a2N4,0,revision manual 4/11/2026 (2a pasada): iXBRL: Total equity,Watford,club
+00036624,2022-06-30,ingresos,181007.0,2022-06-30_MzM3NTAzMzU2MWFkaXF6a2N4,15,"revision manual 4/11/2026 (3a pasada): cuenta de resultados consolidada (celdas sombreadas), vista en imagen",Everton,club
+00036624,2022-06-30,resultado_antes_impuestos,-44732.0,2022-06-30_MzM3NTAzMzU2MWFkaXF6a2N4,15,"revision manual 4/11/2026 (3a pasada): imagen; cifra original (la cuenta 2023 la reexpresa a -38,413)",Everton,club
+00036624,2023-06-30,ingresos,172155.0,2023-06-30_MzQxNjg3ODY3NmFkaXF6a2N4,13,revision manual 4/11/2026 (3a pasada): imagen,Everton,club
+00036624,2023-06-30,resultado_antes_impuestos,-89090.0,2023-06-30_MzQxNjg3ODY3NmFkaXF6a2N4,13,revision manual 4/11/2026 (3a pasada): imagen,Everton,club
+00036624,2024-06-30,ingresos,186902.0,2024-06-30_MzQ2MTAzMDcwMmFkaXF6a2N4,14,revision manual 4/11/2026 (3a pasada): imagen,Everton,club
+00036624,2024-06-30,resultado_antes_impuestos,-53222.0,2024-06-30_MzQ2MTAzMDcwMmFkaXF6a2N4,14,revision manual 4/11/2026 (3a pasada): imagen,Everton,club
+00036624,2025-06-30,ingresos,196697.0,2025-06-30_MzUxMzk1MTE2NGFkaXF6a2N4,17,revision manual 4/11/2026 (3a pasada): imagen,Everton,club
+00036624,2025-06-30,resultado_antes_impuestos,-8609.0,2025-06-30_MzUxMzk1MTE2NGFkaXF6a2N4,17,revision manual 4/11/2026 (3a pasada): imagen,Everton,club
+03912084,2012-06-30,ingresos,0.0,2012-06-30_MzA3NDY0ODQyN2FkaXF6a2N4,8,"revision manual 4/11/2026 (3a pasada): holding sin consolidar: solo gastos de administracion, sin cifra de negocio",Middlesbrough,grupo
+03912084,2012-06-30,activos_netos,0.0,2012-06-30_MzA3NDY0ODQyN2FkaXF6a2N4,9,revision manual 4/11/2026 (3a pasada): holding sin consolidar: Net assets '-',Middlesbrough,grupo
+03912084,2012-06-30,patrimonio,0.0,2012-06-30_MzA3NDY0ODQyN2FkaXF6a2N4,9,revision manual 4/11/2026 (3a pasada): holding sin consolidar: Total shareholder's funds '-',Middlesbrough,grupo
+03912084,2012-06-30,sueldos_salarios,0.0,2012-06-30_MzA3NDY0ODQyN2FkaXF6a2N4,8,revision manual 4/11/2026 (3a pasada): holding sin consolidar sin personal (sin coste de personal en la cuenta),Middlesbrough,grupo
+03912084,2016-06-30,ingresos,0.0,2016-06-30_MzE3MTYwNDE1MWFkaXF6a2N4,9,revision manual 4/11/2026 (3a pasada): holding sin consolidar: solo gastos de administracion,Middlesbrough,grupo
+03912084,2016-06-30,activos_netos,0.0,2016-06-30_MzE3MTYwNDE1MWFkaXF6a2N4,10,revision manual 4/11/2026 (3a pasada): holding sin consolidar: Total shareholder's funds '-',Middlesbrough,grupo
+03912084,2016-06-30,patrimonio,0.0,2016-06-30_MzE3MTYwNDE1MWFkaXF6a2N4,10,revision manual 4/11/2026 (3a pasada): holding sin consolidar,Middlesbrough,grupo
+03912084,2016-06-30,sueldos_salarios,0.0,2016-06-30_MzE3MTYwNDE1MWFkaXF6a2N4,9,revision manual 4/11/2026 (3a pasada): holding sin consolidar sin personal,Middlesbrough,grupo
+07230595,2013-06-30,ingresos,0.0,2013-06-30_MzA5NzQwMjU1NWFkaXF6a2N4,7,revision manual 4/11/2026 (3a pasada): holding sin consolidar (cuenta solo de la sociedad): sin cifra de negocio,West Brom,grupo
+07230595,2013-06-30,resultado_antes_impuestos,0.0,2013-06-30_MzA5NzQwMjU1NWFkaXF6a2N4,7,revision manual 4/11/2026 (3a pasada): holding sin consolidar: resultado '-',West Brom,grupo
+07230595,2013-06-30,sueldos_salarios,0.0,2013-06-30_MzA5NzQwMjU1NWFkaXF6a2N4,7,revision manual 4/11/2026 (3a pasada): holding sin consolidar sin personal,West Brom,grupo
+07230595,2014-06-30,ingresos,0.0,2014-06-30_MzExODE0MTc2NmFkaXF6a2N4,7,revision manual 4/11/2026 (3a pasada): 'The company has not traded during the year',West Brom,grupo
+07230595,2014-06-30,resultado_antes_impuestos,0.0,2014-06-30_MzExODE0MTc2NmFkaXF6a2N4,7,revision manual 4/11/2026 (3a pasada): 'neither profit or loss',West Brom,grupo
+07230595,2014-06-30,sueldos_salarios,0.0,2014-06-30_MzExODE0MTc2NmFkaXF6a2N4,7,revision manual 4/11/2026 (3a pasada): sociedad sin actividad,West Brom,grupo
+04305508,2014-05-31,ingresos,98691.997,2014-05-31_MzExNjc1NjQ0OWFkaXF6a2N4,10,"revision manual 4/11/2026 (3a pasada): cuenta consolidada, imagen",Swansea,grupo
+04305508,2014-05-31,resultado_antes_impuestos,1325.873,2014-05-31_MzExNjc1NjQ0OWFkaXF6a2N4,10,"revision manual 4/11/2026 (3a pasada): cuenta consolidada, imagen",Swansea,grupo
+03642327,2015-06-30,activos_netos,-5663.478,2015-06-30_MzE0NDgzNTA4MGFkaXF6a2N4,14,"revision manual 4/11/2026 (3a pasada): balance consolidado: total sin etiqueta (activos netos), imagen",Brentford,club
+03642327,2015-06-30,patrimonio,-5663.478,2015-06-30_MzE0NDgzNTA4MGFkaXF6a2N4,14,revision manual 4/11/2026 (3a pasada): por identidad con el total del balance consolidado,Brentford,club
+00053301,2012-06-30,activos_netos,-33340.566,2012-06-30_MzA3NTUxMTg4MmFkaXF6a2N4,10,"revision manual 4/11/2026 (3a pasada): Shareholder's deficit, imagen",Southampton,club
+00053301,2012-06-30,patrimonio,-33340.566,2012-06-30_MzA3NTUxMTg4MmFkaXF6a2N4,10,"revision manual 4/11/2026 (3a pasada): Shareholder's deficit, imagen",Southampton,club
+00053301,2013-06-30,activos_netos,-12653.889,2013-06-30_MzA5Nzc5MTI0OGFkaXF6a2N4,11,"revision manual 4/11/2026 (3a pasada): Shareholder's deficit, imagen",Southampton,club
+00053301,2013-06-30,patrimonio,-12653.889,2013-06-30_MzA5Nzc5MTI0OGFkaXF6a2N4,11,"revision manual 4/11/2026 (3a pasada): Shareholder's deficit, imagen",Southampton,club
+00053301,2014-06-30,activos_netos,18319.413,2014-06-30_MzEyMTAyMjE5NWFkaXF6a2N4,23,revision manual 4/11/2026 (3a pasada): texto OCR: conciliacion de fondos propios (cierre) = apertura de la cuenta 2015,Southampton,club
+00053301,2014-06-30,patrimonio,18319.413,2014-06-30_MzEyMTAyMjE5NWFkaXF6a2N4,23,revision manual 4/11/2026 (3a pasada): texto OCR: conciliacion de fondos propios,Southampton,club
+00053301,2015-06-30,activos_netos,30471.057,2015-06-30_MzEzMzU2NzkxOGFkaXF6a2N4,11,revision manual 4/11/2026 (3a pasada): texto OCR: balance y conciliacion coinciden,Southampton,club
+00053301,2015-06-30,patrimonio,30471.057,2015-06-30_MzEzMzU2NzkxOGFkaXF6a2N4,11,revision manual 4/11/2026 (3a pasada): texto OCR: balance y conciliacion coinciden,Southampton,club
+07283993,2017-05-31,sueldos_salarios,16409.661,2017-05-31_MzE5ODI3NTc1OWFkaXF6a2N4,22,revision manual 4/11/2026 (3a pasada): texto OCR (pasada rapida y fina coinciden): 'Salaries and wages',Wigan,grupo
+07612487,2012-05-31,sueldos_salarios,0.0,2012-05-31_MzA4NjQ4MjM5NmFkaXF6a2N4,11,"revision manual 4/11/2026 (3a pasada): 'During the period, the company had no employees'",Coventry,club
+07612487,2023-05-31,sueldos_salarios,16632.55,2023-05-31_MzQxMzAzMTM3N2FkaXF6a2N4,0,revision manual 4/11/2026 (3a pasada): iXBRL: texto de la nota Employees,Coventry,club
+06550400,2024-06-30,ingresos,19172.906,2024-06-30_MzQ1ODg4ODcyMWFkaXF6a2N4,0,revision manual 4/11/2026 (3a pasada): iXBRL: linea Turnover de la cuenta de resultados (nota 3),Rotherham,club
+03912084,2024-06-30,sueldos_salarios,0.0,2024-06-30_MzQ1NTk5Njg5OWFkaXF6a2N4,6,revision manual 4/11/2026 (3a pasada): holding sin actividad: cuenta de resultados con todas las lineas '-' (sin gastos de administracion ni personal),Middlesbrough,grupo
+03912084,2025-06-30,sueldos_salarios,0.0,2025-06-30_MzUxMTg3OTQ4NWFkaXF6a2N4,6,revision manual 4/11/2026 (3a pasada): holding sin actividad: cuenta de resultados con todas las lineas '-',Middlesbrough,grupo
+01621060,2025-06-30,activos_netos,30676.0,2025-06-30_MzQ5NTY1NzcyNGFkaXF6a2N4,11,"revision manual 4/11/2026 (3a pasada): balance consolidado (el de la sociedad, pag 12, es 54,406)",Preston,grupo
+01621060,2025-06-30,patrimonio,30676.0,2025-06-30_MzQ5NTY1NzcyNGFkaXF6a2N4,11,revision manual 4/11/2026 (3a pasada): Equity shareholders' funds del balance consolidado,Preston,grupo

@@ -1,8 +1,8 @@
-# Auditoría y validación de la fase 2 (actualizado el 4 nov 2026)
+# Auditoría y validación de la fase 2 (actualizado el 4 nov 2026) — FASE 2 CERRADA
 
 ## 1. Auditoría inicial: qué estaba mal
 - **Fase 1 (clubes y temporadas):** correcta. Hay 6 descensos causados por sanciones: Portsmouth 11/12, Wigan 19/20, Sheffield Wednesday 20/21, Derby 21/22, Reading 22/23 y Leicester 25/26.
-- **Cobertura:** 651 de 660 club-temporadas tienen cuentas. Los 9 huecos son cuentas **nunca depositadas** por clubes en crisis, y se tratan como señal del modelo.
+- **Cobertura:** 650 de 660 club-temporadas vencidas tienen cuenta. Los 10 huecos son cuentas **nunca depositadas** por clubes en crisis, y se tratan como señal del modelo. (Corregido el 4 nov 2026: antes ponía 651 y 9; faltaba Bolton 2018/19.)
 - **Errores encontrados y corregidos:**
   - 5 cuentas de Tottenham de los años 1920 colocadas en 2020-26; se excluyen por fecha imposible.
   - Aston Villa Ltd no consolida al club; se retira como grupo.
@@ -126,12 +126,85 @@ Errores del extractor que el panel retuvo: dígitos mal leídos por el OCR ("{2,
 
 **Conclusión:** cada validación nueva encuentra tipos de error nuevos, cada vez menos frecuentes. La precisión del panel se acerca al 99 %, pero la exhaustividad (~90 %) está lejos del 97 %. Con reglas automáticas por sí solas no se llega a los criterios en un plazo razonable.
 
-## 6. Próximos pasos (propuesta)
-1. Endurecer la reexpresión: una diferencia < 15 % solo se acepta si hay evidencia (identidad contable, o el año siguiente marca "restated"); si no, conflicto.
-2. Corregir los tipos de error de la validación 4: "opening/closing", años como importe, "Net deficit", "Total equity", etc.
-3. **Revisión manual dirigida** de las cifras clave en conflicto o ausentes de las club-temporadas del estudio, contra el PDF, documentada en `correcciones_manuales.csv`. Es lo que más sube la exhaustividad sin sacrificar precisión.
-4. **Validación 5**, medida una sola vez, sobre el panel final (automático + revisión manual).
-5. Contraste externo con ≥ 30 club-años publicados.
+## 6. Cierre de la fase 2 (4 nov 2026)
+
+### 6.1 Reglas más estrictas en el panel y en el extractor
+- **Reexpresión solo con evidencia:** una diferencia menor del 15 % con el comparativo del año siguiente solo se acepta como reexpresión si la cuenta siguiente dice "restated", "re-presented" o "reclassified". Si no lo dice, queda en conflicto. Así se corrigen Watford 2010 y QPR 2015.
+- **Huecos rellenados con comparativos reexpresados:** se marcan como sospechosos, porque no son la cifra original publicada.
+- **Activos netos = patrimonio neto:** si falta una de las dos, se deriva de la otra cuando esta es fiable (estado `derivada_identidad`).
+- **Extractor:**
+  - se descarta el "opening shareholders' deficit";
+  - una línea cuyas únicas cifras son años no tiene importes;
+  - se acepta el balance NIIF que solo muestra "Total equity";
+  - cada cifra lleva una marca `reexpresado` si su página avisa de una reexpresión.
+
+### 6.2 Revisión manual dirigida
+Objetivo: las cifras clave (ingresos, resultado antes de impuestos, activos netos/patrimonio, sueldos o gasto de personal) de **todas las club-temporadas del estudio** que seguían en conflicto o vacías. Cada una se comprobó contra la imagen de la página del PDF, o contra el texto del iXBRL.
+
+- **Primera pasada:** 184 cifras. Hojas `C:\datos_premier\revision\R00-R28.png`; decisiones en `revision_manual/decisiones_revision1.py`.
+- **Segunda pasada:** 43 cifras. La página se buscó en todo el documento (`S00-S11.png`) y se usó el iXBRL para 7 cuentas; decisiones en `revision_manual/decisiones_revision2.py`.
+- **Resultado:** 294 filas en `datos_fase2/correcciones_manuales.csv`, cada una con documento, página y motivo. En unas 110 se confirmó la lectura; en el resto se corrigió o se completó.
+- **Tipos de error encontrados en la revisión:**
+  - dígitos mal leídos por el OCR ("448,403" por 148,403; "719,326" por 79,326…);
+  - formato de 6 columnas leído en la columna del año anterior (West Ham, Tottenham, Watford, Southampton);
+  - etiquetas no reconocidas ("Salaries and wages", "Wage and salaries", "Net deficit");
+  - celdas sombreadas (Everton);
+  - cifras solo en el informe estratégico (KPI de Bolton).
+
+**Qué queda sin valor fiable:** 70 de 3.332 cifras clave (`revision_manual/pendientes_tras_revision.csv`).
+- 17 son cuentas nunca depositadas, que son una señal de riesgo en sí mismas.
+- 19 son cuentas abreviadas, que no publican cuenta de resultados.
+- 34 no se pudieron fijar con seguridad; quedan vacías, sin adivinar:
+  - Everton 2022-2025: cuenta de resultados en celdas sombreadas o solo en millones;
+  - Middlesbrough Holdings;
+  - Southampton: balance de la sociedad;
+  - West Brom Holdings 2013-14;
+  - otras sueltas.
+
+### 6.3 Validación 5: prueba de aceptación del panel final — SUPERADA
+Muestra nueva de 40 cuentas (semilla 31) de club-temporadas del estudio, que excluye las cinco muestras anteriores. Se midió una sola vez.
+
+| | Precisión | Exhaustividad | Criterio |
+|---|---|---|---|
+| Extractor automático | 99,4 % (168/169) | 92,3 % (168/182) | – |
+| **Panel fiable final** | **100 % (175/175)** | **99,4 % (175/176)** | ≥ 99 % / ≥ 97 % ✔ |
+
+Corrección de la referencia, no del sistema: en Birmingham 2012 se había anotado mal la verdad del resultado antes de impuestos. La cuenta imprime dos líneas con la misma etiqueta: 15.713.587 antes del impuesto y 15.712.560 después. El extractor tenía la cifra correcta. Se comprobó en la página completa (`w01.png`).
+
+Las validaciones anteriores con el panel final (ya contaminadas, solo como control):
+
+| Validación | Precisión | Exhaustividad |
+|---|---|---|
+| Validación 2 | 100 % | 98,2 % |
+| Validación 3 | 99,4 % | 97,6 % |
+| Validación 4 | 100 % | 95,4 % |
+
+### 6.4 Contraste externo (≥ 30 club-años) — SUPERADO
+`contraste_externo.csv` recoge 66 cifras publicadas de ingresos y de resultado antes de impuestos. Las fuentes son la Deloitte Football Money League 2023 y 2024, los hilos de Swiss Ramble, The Guardian e Inside World Football, y salarysport.com. Los resultados están en `contraste_externo_resultado.csv`.
+
+- El panel tiene valor para **63 de las 66**.
+- **46 coinciden con una diferencia menor del 2,5 %**; la mayoría con diferencia 0 o de redondeo.
+- **Diferencias sistemáticas del 4-10 % en Arsenal, Chelsea y Man United.** El panel recoge la sociedad del club; Deloitte y la prensa usan la matriz del grupo (Arsenal Holdings, Chelsea FC Holdings, Manchester United plc). Es un tema de entidad, no un error de lectura; se comprobó Arsenal 2025 en el texto de la cuenta. **Para la fase 3 conviene añadir esas matrices al mapa de sociedades.**
+- **Brighton 2023/24:** la web externa dice 3,9 M£ de resultado. El panel tiene 75,1 M£, que es la cifra que la propia cuenta de 2025 publica como comparativo de 2024. Se da por error de la fuente externa.
+- **Everton 2021/22 y 2024/25:** sin valor en el panel (es una de las 34 pendientes).
+- **Ningún error de unidades ni de año.**
+
+### 6.5 Criterios de aceptación: estado final
+| Criterio | Estado |
+|---|---|
+| Precisión ≥ 99 % en una muestra ciega | ✔ 100 % (validación 5) |
+| Exhaustividad ≥ 97 % | ✔ 99,4 % |
+| 0 errores de unidades | ✔ (validaciones 3-5 y contraste externo) |
+| Identidades contables | ✔ (activos netos = patrimonio, aplicada sobre los valores finales) |
+| Contraste entre años ≥ 98 % | ✔ (las cifras sin contraste o en conflicto quedan fuera del panel fiable o se revisaron a mano) |
+| Contraste externo ≥ 30 club-años | ✔ 63 comparaciones; sin errores de lectura |
+| Trazabilidad | ✔ (cada cifra con documento y página; cada corrección manual con motivo) |
+
+**La fase 2 queda cerrada.** Limitaciones que hay que tener en cuenta en la fase 3:
+1. Las 70 cifras clave sin valor fiable de la sección 6.2.
+2. Arsenal y Chelsea están sin matriz de grupo.
+3. La variable `impuesto` y las partidas secundarias (acreedores, caja, provisiones) no se validaron con el mismo rigor. Antes de usarlas en un modelo hay que validarlas o limitarse a las cifras clave.
+4. El panel fiable excluye las cifras en conflicto; el modelo debe tratar esos huecos explícitamente.
 
 ## 7. Archivos de esta carpeta (`datos_fase2/auditoria/`)
 | Archivo | Contenido |
@@ -142,6 +215,9 @@ Errores del extractor que el panel retuvo: dígitos mal leídos por el OCR ("{2,
 | `muestra_validacion2_docs.csv` / `validacion2_referencia.csv` | Validación 2: 40 cuentas y sus cifras verdaderas |
 | `muestra_validacion3_docs.csv` / `validacion3_referencia.csv` / `validacion3_resultado.csv` | Validación 3 (aceptación): 40 cuentas, cifras verdaderas y resultado cifra a cifra |
 | `muestra_validacion4_docs.csv` / `validacion4_referencia.csv` / `validacion4_resultado.csv` | Validación 4: 40 cuentas, cifras verdaderas y resultado cifra a cifra |
-| `registrar_validacion.py` … `registrar_validacion4.py` | Scripts que vuelven a medir precisión y exhaustividad contra esas referencias |
+| `muestra_validacion5_docs.csv` / `validacion5_referencia.csv` / `validacion5_resultado.csv` | Validación 5 (aceptación del panel final) |
+| `contraste_externo.csv` / `contraste_externo_resultado.csv` | Contraste con cifras publicadas |
+| `revision_manual/` | Scripts de la revisión manual, decisiones, listas de cifras revisadas y pendientes |
+| `registrar_validacion.py` … `registrar_validacion5.py` | Scripts que vuelven a medir precisión y exhaustividad contra esas referencias |
 
-Las imágenes de las páginas revisadas están en `C:\datos_premier\muestra_revision`, `C:\datos_premier\validacion`, `C:\datos_premier\validacion2`, `C:\datos_premier\validacion3` y `C:\datos_premier\validacion4`. No se suben a GitHub porque se pueden regenerar a partir de los PDF.
+Las imágenes de las páginas revisadas están en `C:\datos_premier\muestra_revision`, `C:\datos_premier\validacion`, `C:\datos_premier\validacion2`, `C:\datos_premier\validacion3` `C:\datos_premier\validacion4`, `C:\datos_premier\validacion5`, `C:\datos_premier\revision` y `C:\datos_premier\revision2`. No se suben a GitHub porque se pueden regenerar a partir de los PDF.

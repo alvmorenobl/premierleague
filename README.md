@@ -2,7 +2,7 @@
 
 ### Un test de estrés para la era del regulador
 
-> **Estado:** en desarrollo, fase 2 de 5 (recopilación de cuentas).
+> **Estado:** en desarrollo. Fases 0-2 completadas (panel financiero validado); siguiente: fase 3 (modelos de riesgo).
 > **Última actualización:** noviembre de 2026.
 > **Datos:** solo fuentes públicas (Companies House, football-data.co.uk).
 
@@ -70,8 +70,8 @@ Un análisis que compare **cómo habrían funcionado las normas antiguas y las n
 ```
 Fase 0  Viabilidad                 ██████████  100 %  ✅ completada
 Fase 1  Universo de clubes         ██████████  100 %  ✅ completada
-Fase 2  Recopilación de cuentas    █░░░░░░░░░   10 %  🔄 en curso
-Fase 3  Modelos de riesgo          ░░░░░░░░░░    0 %  ⏳ pendiente
+Fase 2  Recopilación de cuentas    ██████████  100 %  ✅ completada
+Fase 3  Modelos de riesgo          ░░░░░░░░░░    0 %  🔄 siguiente
 Fase 4  Red de contagio y estrés   ░░░░░░░░░░    0 %  ⏳ pendiente
 Fase 5  Evaluación y publicación   ░░░░░░░░░░    0 %  ⏳ pendiente
 ```
@@ -107,17 +107,35 @@ Fase 5  Evaluación y publicación   ░░░░░░░░░░    0 %  ⏳ 
 
 **Resultado:** **84 sociedades** (club y grupo) asignadas a los 62 clubes; 61 filas con confianza alta y 6 con confianza media.
 
-### Fase 2: Recopilación de cuentas 🔄 (fase actual)
+### Fase 2: Recopilación de cuentas ✅
 
-**Objetivo:** construir un **panel financiero**, una tabla con las principales cifras de cada club en cada año: ingresos, salarios, amortizaciones, resultado, deuda, deudas por traspasos, patrimonio, etc.
+**Objetivo:** construir un **panel financiero**, una tabla con las principales cifras de cada club en cada año (ingresos, salarios, resultado, patrimonio, deuda, etc.), con una fiabilidad demostrada.
 
-**Pasos:**
-- [x] Script de inventario de cuentas preparado (`fase2_inventario_cuentas.py`).
-- [ ] Ejecutar el inventario: cuántas cuentas hay y en qué formato (iXBRL o PDF).
-- [ ] Descargar las cuentas.
-- [ ] Extraer las cifras: iXBRL automático; PDF con OCR más reglas de localización.
-- [ ] Validar con identidades contables (activo = pasivo + patrimonio, etc.) y con cifras publicadas.
-- [ ] Calcular los retrasos en el depósito de cuentas (señal de problemas).
+**Qué se hizo:**
+1. **Inventario y descarga.** Se identificaron 1.259 cuentas anuales válidas de las 84 sociedades y se descargaron todas: unas 1.120 en PDF escaneado y 143 en iXBRL. Se calculó además el retraso en el depósito de cada cuenta: 63 se depositaron claramente fuera de plazo.
+2. **OCR.** Una pasada rápida (110 ppp) recorrió 31.848 páginas para localizar los estados financieros, y una pasada fina (300 ppp) leyó esas páginas, con un complemento de 2.381 páginas más.
+3. **Extracción por reglas** (`fase2_extraer_cifras.py`) e **iXBRL** (`fase2_extraer_ixbrl.py`): etiquetas, columnas, unidades y formatos de 1 a 6 columnas.
+4. **Panel validado** (`fase2_panel.py`):
+   - cada cifra del año *t* se contrasta con la que repite como comparativo la cuenta de *t+1*;
+   - las discrepancias se clasifican: unidades, signo, dígito, truncado, columna o reexpresión;
+   - se aplican identidades contables;
+   - **sin evidencia no se corrige nada**: la cifra queda en conflicto y fuera del panel fiable.
+5. **Revisión manual dirigida.** 227 cifras clave de las club-temporadas del estudio se comprobaron contra el PDF y quedaron documentadas una a una en `datos_fase2/correcciones_manuales.csv`.
+6. **Auditoría y validación ciega.** Se usaron cinco muestras de 30-60 cuentas, cada una revisada cifra a cifra contra la imagen del PDF; las que se usaron para ajustar reglas quedaron "contaminadas" y no cuentan como prueba. Todo está en `datos_fase2/auditoria/AUDITORIA_FASE2.md`.
+
+**Resultado (validación 5, muestra ciega nueva, medida una sola vez):**
+
+| | Precisión | Exhaustividad |
+|---|---|---|
+| Panel fiable final | **100 %** (175/175) | **99,4 %** (175/176) |
+
+- **Contraste con 63 cifras publicadas** (Deloitte, prensa): ningún error de lectura. Las diferencias del 4-10 % en Arsenal, Chelsea y Man United se deben a que el panel recoge la sociedad del club y no la matriz del grupo.
+- **Cifras clave sin valor fiable:** 70 de 3.332. De ellas, 17 son cuentas nunca depositadas, 19 cuentas abreviadas y 34 están documentadas como pendientes.
+
+**Limitaciones para la fase 3:**
+- Faltan las matrices de grupo de Arsenal y Chelsea.
+- Las partidas secundarias (impuesto, acreedores, caja) no tienen el mismo nivel de validación.
+- Los huecos del panel fiable deben tratarse explícitamente en los modelos.
 
 ### Fase 3: Modelos de riesgo individual ⏳
 

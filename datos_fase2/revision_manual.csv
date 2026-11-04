@@ -2,223 +2,223 @@ club,temporada,division,numero,cierre,variable,valor,valor_reexpresado,estado,so
 Arsenal,2011/12,Premier League,00109244,2012-05-31,acreedores_lp,-474217.0,,conflicto,,2012-05-31_MzA2ODA1ODg4OWFkaXF6a2N4,10.0
 Arsenal,2014/15,Premier League,00109244,2015-05-31,acreedores_cp,-479424.0,-328622.0,conflicto,,2015-05-31_MzEzNjMxNjY4M2FkaXF6a2N4,12.0
 Arsenal,2014/15,Premier League,00109244,2015-05-31,acreedores_lp,-195615.0,-33617.0,conflicto,,2015-05-31_MzEzNjMxNjY4M2FkaXF6a2N4,12.0
-Aston Villa,2012/13,Premier League,03375789,2013-05-31,activos_netos,-139683.179,-0.079,conflicto,,2013-05-31_MzA5NTYwMTc3MmFkaXF6a2N4,10.0
-Aston Villa,2021/22,Premier League,03375789,2022-05-31,ingresos,0.001,163743.904,conflicto,ingresos fuera de 3-1000 M£,2022-05-31_MzM3MTAxNzIxNWFkaXF6a2N4,12.0
-Birmingham,2014/15,Championship,00027318,2015-06-30,activos_netos,1873.524,,conflicto,,2015-06-30_MzEzNzQ3Mzg3OGFkaXF6a2N4,12.0
-Birmingham,2014/15,Championship,00027318,2015-06-30,resultado_antes_impuestos,1342.936,,conflicto,,2015-06-30_MzEzNzQ3Mzg3OGFkaXF6a2N4,11.0
-Birmingham,2019/20,Championship,00027318,2020-06-30,resultado_antes_impuestos,0.0,-18335.459,conflicto,,2020-06-30_MzI5NzU3ODQwMGFkaXF6a2N4,12.0
-Birmingham,2023/24,Championship,00027318,2024-06-30,resultado_antes_impuestos,-0.8260000000000001,-16081.826,conflicto,,2024-06-30_MzQ2MTAxNjcwNWFkaXF6a2N4,12.0
-Blackburn,2018/19,Championship,00053482,2019-06-30,ingresos,16673.961,0.007,conflicto,,2019-06-30_MzI2MDg3NTU4NWFkaXF6a2N4,14.0
-Blackburn,2024/25,Championship,00053482,2025-06-30,activos_netos,-128553.76,,conflicto,,2025-06-30_MzUxMjU3MjYyOWFkaXF6a2N4,16.0
-Blackburn,2024/25,Championship,00053482,2025-06-30,patrimonio,128553.76,,conflicto,,2025-06-30_MzUxMjU3MjYyOWFkaXF6a2N4,16.0
-Bolton,2014/15,Championship,00043026,2015-06-30,activos_netos,-0.001,-180070.882,conflicto,,2015-06-30_MzE2ODU4MDYyN2FkaXF6a2N4,13.0
+Aston Villa,2021/22,Premier League,03375789,2022-05-31,gastos_personal,9371.874,,desde_año_siguiente,comparativo de una cuenta que reexpresa: no es la cifra original,2023-05-31_MzQxMzIyMjkxMWFkaXF6a2N4,22.0
+Birmingham,2014/15,Championship,00027318,2015-06-30,patrimonio,1873.524,,corregida_manual,,2015-06-30_MzEzNzQ3Mzg3OGFkaXF6a2N4,12.0
+Birmingham,2020/21,Championship,00027318,2021-06-30,caja,1335.413,,desde_año_siguiente,comparativo de una cuenta que reexpresa: no es la cifra original,2022-06-30_MzM3MzQyMjU0NWFkaXF6a2N4,13.0
+Bolton,2010/11,Premier League,00043026,2011-06-30,gastos_personal,54694.713,,corregida_manual,,2011-06-30_MzA0NTg2Nzk3OGFkaXF6a2N4,4.0
+Bolton,2011/12,Premier League,00043026,2012-06-30,gastos_personal,53738.939,,corregida_manual,,2012-06-30_MzA2NzcxODI2N2FkaXF6a2N4,4.0
+Bolton,2012/13,Championship,00043026,2013-06-30,gastos_personal,36518.162,,corregida_manual,,2013-06-30_MzA5NjkwMzM3MmFkaXF6a2N4,4.0
+Bolton,2013/14,Championship,00043026,2014-06-30,gastos_personal,27551.318,,corregida_manual,,2014-06-30_MzEyMDg5MDYzOWFkaXF6a2N4,4.0
+Bournemouth,2016/17,Premier League,06632170,2017-06-30,acreedores_cp,-114493.0,,desde_año_siguiente,comparativo de una cuenta que reexpresa: no es la cifra original,2018-06-30_MzIzMDE5OTIwM2FkaXF6a2N4,13.0
 Bournemouth,2016/17,Premier League,06632170,2017-06-30,acreedores_lp,-5170.0,-9709.0,conflicto,,2017-06-30_MzIwMDc5MTA0OWFkaXF6a2N4,12.0
 Brentford,2014/15,Championship,03642327,2015-06-30,acreedores_lp,43463.525,-29971.895,conflicto,,2015-06-30_MzE0NDgzNTA4MGFkaXF6a2N4,14.0
-Brentford,2019/20,Championship,03642327,2020-06-30,resultado_antes_impuestos,0.024,-9060.546,conflicto,,2020-06-30_MzI5NzU5NzY5NWFkaXF6a2N4,16.0
+Brentford,2014/15,Championship,03642327,2015-06-30,patrimonio,-5663.478,,corregida_manual,,2015-06-30_MzE0NDgzNTA4MGFkaXF6a2N4,14.0
+Brentford,2015/16,Championship,03642327,2016-06-30,acreedores_lp,-40075.637,-37145.636,conflicto,,2016-06-30_MzE3Mjk4OTEyMWFkaXF6a2N4,14.0
+Brighton,2011/12,Championship,00081077,2012-06-30,activos_netos,-37450.617,,corregida_manual,,2012-06-30_MzA3NDcyNTkxMmFkaXF6a2N4,21.0
+Brighton,2011/12,Championship,00081077,2012-06-30,patrimonio,-37450.617,,corregida_manual,,2012-06-30_MzA3NDcyNTkxMmFkaXF6a2N4,21.0
+Brighton,2011/12,Championship,02849319,2012-06-30,activos_netos,-13309.896,,corregida_manual,,2012-06-30_MzA3NDcyNTk4MWFkaXF6a2N4,26.0
+Brighton,2011/12,Championship,02849319,2012-06-30,patrimonio,-13309.896,,corregida_manual,,2012-06-30_MzA3NDcyNTk4MWFkaXF6a2N4,26.0
+Brighton,2012/13,Championship,00081077,2013-06-30,activos_netos,-52207.606,,corregida_manual,,2013-06-30_MzA5NDI5ODI1OWFkaXF6a2N4,19.0
+Brighton,2012/13,Championship,00081077,2013-06-30,patrimonio,-52207.606,,corregida_manual,,2013-06-30_MzA5NDI5ODI1OWFkaXF6a2N4,19.0
+Brighton,2012/13,Championship,02849319,2013-06-30,activos_netos,11411.242,,corregida_manual,,2013-06-30_MzA5NDI5ODMyNmFkaXF6a2N4,25.0
+Brighton,2012/13,Championship,02849319,2013-06-30,patrimonio,11411.242,,corregida_manual,,2013-06-30_MzA5NDI5ODMyNmFkaXF6a2N4,25.0
+Brighton,2013/14,Championship,00081077,2014-06-30,activos_netos,-60714.743,,corregida_manual,,2014-06-30_MzExNTg1NzgxOGFkaXF6a2N4,26.0
+Brighton,2013/14,Championship,00081077,2014-06-30,patrimonio,-60714.743,,corregida_manual,,2014-06-30_MzExNTg1NzgxOGFkaXF6a2N4,26.0
+Brighton,2013/14,Championship,02849319,2014-06-30,activos_netos,12065.086,,corregida_manual,,2014-06-30_MzExNTg1NzgxN2FkaXF6a2N4,32.0
+Brighton,2013/14,Championship,02849319,2014-06-30,patrimonio,12065.086,,corregida_manual,,2014-06-30_MzExNTg1NzgxN2FkaXF6a2N4,32.0
 Brighton,2014/15,Championship,00081077,2015-06-30,acreedores_cp,-9688.818,-85078.065,conflicto,,2015-06-30_MzE0NTA2ODA4MmFkaXF6a2N4,11.0
 Brighton,2014/15,Championship,02849319,2015-06-30,acreedores_cp,-8156.651,-155636.702,conflicto,,2015-06-30_MzE0MTcyOTI3NWFkaXF6a2N4,13.0
 Brighton,2014/15,Championship,02849319,2015-06-30,acreedores_lp,151071.945,-3591.896,conflicto,,2015-06-30_MzE0MTcyOTI3NWFkaXF6a2N4,13.0
-Brighton,2016/17,Championship,00081077,2017-06-30,activos_netos,-0.682,-127338.0,conflicto,,2017-06-30_MzIwMTg1NjgzNWFkaXF6a2N4,13.0
+Brighton,2014/15,Championship,02849319,2015-06-30,patrimonio,1660.531,,corregida_manual,,2015-06-30_MzE0MTcyOTI3NWFkaXF6a2N4,27.0
+Brighton,2016/17,Championship,00081077,2017-06-30,patrimonio,-127337.682,,corregida_manual,,2017-06-30_MzIwMTg1NjgzNWFkaXF6a2N4,13.0
 Brighton,2017/18,Premier League,00081077,2018-06-30,acreedores_lp,17.0,-9086.0,conflicto,,2018-06-30_MzIyOTMyNDkxMmFkaXF6a2N4,12.0
-Brighton,2023/24,Premier League,00081077,2024-06-30,activos_netos,-23665.0,-768.0,conflicto,,2024-06-30_MzQ1NzQxMDc5N2FkaXF6a2N4,17.0
-Brighton,2023/24,Premier League,02849319,2024-06-30,activos_netos,171279.0,194176.0,conflicto,,2024-06-30_MzQ1NzQxMDc5NWFkaXF6a2N4,20.0
+Brighton,2023/24,Premier League,02849319,2024-06-30,acreedores_lp,-65078.0,,desde_año_siguiente,comparativo de una cuenta que reexpresa: no es la cifra original,2025-06-30_MzUxMTQ4Nzk1OGFkaXF6a2N4,23.0
 Bristol City,2016/17,Championship,03230871,2017-05-31,caja,0.235,28.235,conflicto,,2017-05-31_MzE5Mjc4MTMzNGFkaXF6a2N4,11.0
-Burnley,2020/21,Premier League,00054222,2021-07-31,resultado_antes_impuestos,-3130.0,-337.0,conflicto,,2021-07-31_MzMzODIyMDc0OWFkaXF6a2N4,14.0
+Burnley,2023/24,Premier League,00054222,2024-07-31,ingresos,133565.0,,corregida_manual,,2024-07-31_MzQ2NDYzNjMxNmFkaXF6a2N4,0.0
+Burnley,2024/25,Championship,00054222,2025-07-31,ingresos,71746.0,,corregida_manual,,2025-07-31_MzUxOTAwMjEzOWFkaXF6a2N4,0.0
+Cardiff,2010/11,Championship,00109065,2011-05-31,activos_netos,-25323.0,,corregida_manual,,2011-05-31_MzA1MzQyNzAxOWFkaXF6a2N4,22.0
+Cardiff,2010/11,Championship,00109065,2011-05-31,patrimonio,-25323.0,,corregida_manual,,2011-05-31_MzA1MzQyNzAxOWFkaXF6a2N4,22.0
+Cardiff,2011/12,Championship,00109065,2012-05-31,acreedores_cp,-44702.0,-45820.0,conflicto,,2012-05-31_MzA3MTY2ODY2OWFkaXF6a2N4,10.0
+Cardiff,2011/12,Championship,04044254,2012-05-31,acreedores_cp,-51920.0,-53039.0,conflicto,,2012-05-31_MzA3MTY3MzI3NWFkaXF6a2N4,10.0
+Cardiff,2011/12,Championship,04044254,2012-05-31,patrimonio,-28691.0,,corregida_manual,,2012-05-31_MzA3MTY3MzI3NWFkaXF6a2N4,10.0
 Cardiff,2012/13,Championship,04044254,2013-05-31,acreedores_cp,-142693.0,,conflicto,,2013-05-31_MzA5MjE1NjE4NGFkaXF6a2N4,10.0
 Cardiff,2012/13,Championship,04044254,2013-05-31,caja,4175.0,,conflicto,,2013-05-31_MzA5MjE1NjE4NGFkaXF6a2N4,10.0
+Cardiff,2013/14,Premier League,04044254,2014-05-31,acreedores_cp,-152627.0,-151021.0,conflicto,,2014-05-31_MzExNzQzNzExMmFkaXF6a2N4,10.0
 Cardiff,2013/14,Premier League,04044254,2014-05-31,acreedores_lp,-4564.0,-6170.0,conflicto,,2014-05-31_MzExNzQzNzExMmFkaXF6a2N4,10.0
-Cardiff,2015/16,Championship,00109065,2016-05-31,ingresos,34414.0,,conflicto,,2016-05-31_MzE3MDI4OTIwMWFkaXF6a2N4,9.0
 Cardiff,2016/17,Championship,04044254,2017-05-31,caja,9274.0,1618.0,conflicto,,2017-05-31_MzIwMDIwMTkwN2FkaXF6a2N4,11.0
 Cardiff,2017/18,Championship,04044254,2018-05-31,acreedores_cp,14.0,-115629.0,conflicto,,2018-05-31_MzIyNzU4NTQ4MGFkaXF6a2N4,13.0
 Cardiff,2017/18,Championship,04044254,2018-05-31,caja,9274.0,2942.0,conflicto,,2018-05-31_MzIyNzU4NTQ4MGFkaXF6a2N4,13.0
-Cardiff,2018/19,Premier League,04044254,2019-05-31,activos_netos,-11474.0,110271.0,conflicto,,2019-05-31_MzI1ODgyMzQ3MWFkaXF6a2N4,14.0
+Cardiff,2018/19,Premier League,04044254,2019-05-31,patrimonio,-11474.0,,corregida_manual,,2019-05-31_MzI1ODgyMzQ3MWFkaXF6a2N4,14.0
 Cardiff,2019/20,Championship,00109065,2020-05-31,acreedores_lp,18.0,-5883.0,conflicto,,2020-05-31_MzMwMjQ4MzgyMGFkaXF6a2N4,19.0
 Cardiff,2023/24,Championship,00109065,2024-05-31,acreedores_lp,-678.0,-831.0,conflicto,,2024-05-31_MzQ1NzM4NDEzMGFkaXF6a2N4,21.0
+Cardiff,2023/24,Championship,00109065,2024-05-31,caja,2563.0,,desde_año_siguiente,comparativo de una cuenta que reexpresa: no es la cifra original,2025-05-31_MzUwNzE0NDk5NmFkaXF6a2N4,18.0
 Cardiff,2023/24,Championship,04044254,2024-05-31,acreedores_lp,-678.0,-831.0,conflicto,,2024-05-31_MzQ1NzA0ODAwMWFkaXF6a2N4,23.0
+Charlton,2014/15,Championship,01788466,2015-06-30,acreedores_cp,-6948.0,-8052.0,conflicto,,2015-06-30_MzE0MzUxODkyMGFkaXF6a2N4,12.0
+Charlton,2014/15,Championship,01788466,2015-06-30,acreedores_lp,-52030.0,-49667.0,conflicto,,2015-06-30_MzE0MzUxODkyMGFkaXF6a2N4,12.0
 Chelsea,2022/23,Premier League,01965149,2023-06-30,acreedores_cp,-388170.0,-1661777.0,conflicto,,2023-06-30_MzQxNzE0MTU2NmFkaXF6a2N4,19.0
 Chelsea,2022/23,Premier League,01965149,2023-06-30,acreedores_lp,-1533375.0,-259768.0,conflicto,,2023-06-30_MzQxNzE0MTU2NmFkaXF6a2N4,19.0
-Crystal Palace,2010/11,Championship,07206409,2011-06-30,gastos_personal,2.011,,sin_contraste,gasto de personal incoherente con sueldos,2011-06-30_MzA1MzQ3NjU5OWFkaXF6a2N4,24.0
-Crystal Palace,2010/11,Championship,07206409,2011-06-30,patrimonio,-3540.59,-7732.704,conflicto,,2011-06-30_MzA1MzQ3NjU5OWFkaXF6a2N4,10.0
-Crystal Palace,2010/11,Championship,07206409,2011-06-30,resultado_antes_impuestos,-5290.59,-9482.704,conflicto,,2011-06-30_MzA1MzQ3NjU5OWFkaXF6a2N4,9.0
-Crystal Palace,2010/11,Championship,07270793,2011-06-30,gastos_personal,2.011,,sin_contraste,gasto de personal incoherente con sueldos,2011-06-30_MzA1MzQ3NjMzN2FkaXF6a2N4,20.0
-Crystal Palace,2010/11,Championship,07270793,2011-06-30,patrimonio,-4291.421,-8483.535,conflicto,,2011-06-30_MzA1MzQ3NjMzN2FkaXF6a2N4,10.0
-Crystal Palace,2010/11,Championship,07270793,2011-06-30,resultado_antes_impuestos,-5291.421,-0.535,conflicto,,2011-06-30_MzA1MzQ3NjMzN2FkaXF6a2N4,9.0
-Crystal Palace,2011/12,Championship,07270793,2012-06-30,resultado_antes_impuestos,9.483,-2116.535,conflicto,,2012-06-30_MzA3NTcyOTMzN2FkaXF6a2N4,7.0
-Crystal Palace,2012/13,Championship,07270793,2013-06-30,ingresos,14512.758,3.758,conflicto,,2013-06-30_MzA5MTM3Nzk0NmFkaXF6a2N4,9.0
-Crystal Palace,2013/14,Premier League,07270793,2014-06-30,ingresos,-14.512,90401.306,conflicto,ingresos fuera de 3-1000 M£,2014-06-30_MzEyMTAxNTY3OGFkaXF6a2N4,10.0
-Crystal Palace,2014/15,Premier League,07206409,2015-06-30,ingresos,102395.97,,conflicto,,2015-06-30_MzE0MDcxMzcwNmFkaXF6a2N4,9.0
-Crystal Palace,2014/15,Premier League,07270793,2015-06-30,ingresos,102395.97,,conflicto,,2015-06-30_MzE0MDcxMzcwM2FkaXF6a2N4,9.0
+Coventry,2011/12,Championship,07612487,2012-05-31,ingresos,0.0,,corregida_manual,,2012-05-31_MzA4NjQ4MjM5NmFkaXF6a2N4,7.0
+Coventry,2022/23,Championship,07612487,2023-05-31,gastos_personal,18459.53,17914.073,conflicto,,2023-05-31_MzQxMzAzMTM3N2FkaXF6a2N4,
 Crystal Palace,2017/18,Premier League,07206409,2018-06-30,caja,17862.0,,conflicto,,2018-06-30_MzIzMTI1MTU0MGFkaXF6a2N4,12.0
-Crystal Palace,2017/18,Premier League,07206409,2018-06-30,ingresos,160346.0,,conflicto,,2018-06-30_MzIzMTI1MTU0MGFkaXF6a2N4,11.0
 Derby,2016/17,Championship,00049139,2017-06-30,acreedores_cp,0.0,-22826.346,conflicto,,2017-06-30_MzIwMTk2NTQ2MmFkaXF6a2N4,13.0
-Everton,2017/18,Premier League,00036624,2018-05-31,ingresos,12.0,,sin_contraste,ingresos fuera de 3-1000 M£,2018-05-31_MzIyODY5ODQ4NmFkaXF6a2N4,16.0
-Everton,2019/20,Premier League,00036624,2020-06-30,resultado_antes_impuestos,-139863.0,,conflicto,,2020-06-30_MzI5Mjk5NzE5OGFkaXF6a2N4,23.0
-Everton,2021/22,Premier League,00036624,2022-06-30,activos_netos,234365.0,301932.0,conflicto,,2022-06-30_MzM3NTAzMzU2MWFkaXF6a2N4,16.0
-Everton,2021/22,Premier League,00036624,2022-06-30,patrimonio,234365.0,301932.0,conflicto,,2022-06-30_MzM3NTAzMzU2MWFkaXF6a2N4,16.0
+Everton,2010/11,Premier League,00036624,2011-05-31,activos_netos,-35187.0,,corregida_manual,,2011-05-31_MzA0OTgxNDY4MGFkaXF6a2N4,13.0
+Everton,2010/11,Premier League,00036624,2011-05-31,patrimonio,-35187.0,,corregida_manual,,2011-05-31_MzA0OTgxNDY4MGFkaXF6a2N4,13.0
+Everton,2010/11,Premier League,00036624,2011-05-31,resultado_antes_impuestos,-5413.0,,corregida_manual,,2011-05-31_MzA0OTgxNDY4MGFkaXF6a2N4,20.0
+Everton,2014/15,Premier League,00036624,2015-05-31,acreedores_cp,-69289.0,-68364.0,conflicto,,2015-05-31_MzEzNjkxMTg4MGFkaXF6a2N4,12.0
+Everton,2014/15,Premier League,00036624,2015-05-31,acreedores_lp,-34316.0,-34102.0,conflicto,,2015-05-31_MzEzNjkxMTg4MGFkaXF6a2N4,12.0
+Everton,2021/22,Premier League,00036624,2022-06-30,ingresos,181007.0,,corregida_manual,,2022-06-30_MzM3NTAzMzU2MWFkaXF6a2N4,15.0
+Everton,2021/22,Premier League,00036624,2022-06-30,resultado_antes_impuestos,-44732.0,,corregida_manual,,2022-06-30_MzM3NTAzMzU2MWFkaXF6a2N4,15.0
+Everton,2022/23,Premier League,00036624,2023-06-30,ingresos,172155.0,,corregida_manual,,2023-06-30_MzQxNjg3ODY3NmFkaXF6a2N4,13.0
+Everton,2022/23,Premier League,00036624,2023-06-30,resultado_antes_impuestos,-89090.0,,corregida_manual,,2023-06-30_MzQxNjg3ODY3NmFkaXF6a2N4,13.0
 Everton,2023/24,Premier League,00036624,2024-06-30,acreedores_cp,-140986.0,-361995.0,conflicto,,2024-06-30_MzQ2MTAzMDcwMmFkaXF6a2N4,16.0
-Everton,2023/24,Premier League,00036624,2024-06-30,activos_netos,302387.0,168506.0,conflicto,,2024-06-30_MzQ2MTAzMDcwMmFkaXF6a2N4,16.0
+Everton,2023/24,Premier League,00036624,2024-06-30,acreedores_lp,-425461.0,,desde_año_siguiente,comparativo de una cuenta que reexpresa: no es la cifra original,2025-06-30_MzUxMzk1MTE2NGFkaXF6a2N4,18.0
 Everton,2023/24,Premier League,00036624,2024-06-30,caja,7.0,26423.0,conflicto,,2024-06-30_MzQ2MTAzMDcwMmFkaXF6a2N4,16.0
-Everton,2023/24,Premier League,00036624,2024-06-30,patrimonio,302357.0,168506.0,conflicto,,2024-06-30_MzQ2MTAzMDcwMmFkaXF6a2N4,16.0
+Everton,2023/24,Premier League,00036624,2024-06-30,ingresos,186902.0,,corregida_manual,,2024-06-30_MzQ2MTAzMDcwMmFkaXF6a2N4,14.0
+Everton,2023/24,Premier League,00036624,2024-06-30,resultado_antes_impuestos,-53222.0,,corregida_manual,,2024-06-30_MzQ2MTAzMDcwMmFkaXF6a2N4,14.0
+Everton,2024/25,Premier League,00036624,2025-06-30,ingresos,196697.0,,corregida_manual,,2025-06-30_MzUxMzk1MTE2NGFkaXF6a2N4,17.0
+Everton,2024/25,Premier League,00036624,2025-06-30,resultado_antes_impuestos,-8609.0,,corregida_manual,,2025-06-30_MzUxMzk1MTE2NGFkaXF6a2N4,17.0
 Fulham,2010/11,Premier League,02114486,2011-06-30,acreedores_cp,-0.916,-25091.916,conflicto,,2011-06-30_MzA1MjA4MzY0OGFkaXF6a2N4,12.0
 Fulham,2012/13,Premier League,03374347,2013-06-30,acreedores_lp,-5520.0,,conflicto,,2013-06-30_MzA5NzMxNTU0NmFkaXF6a2N4,10.0
 Fulham,2013/14,Premier League,03374347,2014-06-30,caja,14020.0,1900.0,conflicto,,2014-06-30_MzEyMDQzNTM0OGFkaXF6a2N4,11.0
 Fulham,2014/15,Championship,02114486,2015-06-30,acreedores_cp,-17755.0,-35563.0,conflicto,,2015-06-30_MzE0NTQwNjY4NGFkaXF6a2N4,11.0
 Fulham,2014/15,Championship,02114486,2015-06-30,acreedores_lp,-17771.0,-488.0,conflicto,,2015-06-30_MzE0NTQwNjY4NGFkaXF6a2N4,11.0
-Fulham,2014/15,Championship,03374347,2015-06-30,activos_netos,2940.0,96178.0,conflicto,,2015-06-30_MzE0NTQwNjY4OWFkaXF6a2N4,11.0
-Fulham,2014/15,Championship,03374347,2015-06-30,patrimonio,2940.0,96178.0,conflicto,,2015-06-30_MzE0NTQwNjY4OWFkaXF6a2N4,11.0
-Fulham,2020/21,Premier League,03374347,2021-06-30,activos_netos,245351.0,153427.0,conflicto,,2021-06-30_MzMzNDMxMjI3N2FkaXF6a2N4,15.0
-Fulham,2020/21,Premier League,03374347,2021-06-30,patrimonio,245351.0,153427.0,conflicto,,2021-06-30_MzMzNDMxMjI3N2FkaXF6a2N4,15.0
-Huddersfield,2015/16,Championship,01771361,2016-06-30,resultado_antes_impuestos,-1576.146,,conflicto,,2016-06-30_MzE3Mjk2NzcwMmFkaXF6a2N4,11.0
-Huddersfield,2018/19,Premier League,01771361,2019-06-30,activos_netos,-20172.87,-25251.299,conflicto,,2019-06-30_MzI2MDM1ODc2MmFkaXF6a2N4,15.0
-Huddersfield,2018/19,Premier League,01771361,2019-06-30,patrimonio,-20247.871,-25251.299,conflicto,,2019-06-30_MzI2MDM1ODc2MmFkaXF6a2N4,15.0
-Huddersfield,2019/20,Championship,01771361,2020-06-30,activos_netos,-26894.451,-22091.123,conflicto,,2020-06-30_MzMwMjM1OTMxN2FkaXF6a2N4,14.0
-Huddersfield,2019/20,Championship,01771361,2020-06-30,patrimonio,-26894.451,-22091.123,conflicto,,2020-06-30_MzMwMjM1OTMxN2FkaXF6a2N4,14.0
-Hull,2010/11,Championship,04032392,2011-07-31,ingresos,27011.262,11448.066,conflicto,,2011-07-31_MzA1MDM0MDkxMWFkaXF6a2N4,7.0
-Hull,2011/12,Championship,04032392,2012-07-31,ingresos,44042.457,,conflicto,,2012-07-31_MzA3MDUzMjQ4NmFkaXF6a2N4,7.0
-Hull,2012/13,Championship,04032392,2013-07-31,ingresos,11075.152,,conflicto,,2013-07-31_MzA4OTczOTM0OWFkaXF6a2N4,7.0
+Fulham,2014/15,Championship,03374347,2015-06-30,acreedores_cp,-29921.0,-30446.0,conflicto,,2015-06-30_MzE0NTQwNjY4OWFkaXF6a2N4,11.0
+Huddersfield,2022/23,Championship,01771361,2023-06-30,acreedores_cp,-44249.565,,desde_año_siguiente,comparativo de una cuenta que reexpresa: no es la cifra original,2024-06-30_MzQ2MDk2NTUzOGFkaXF6a2N4,14.0
+Huddersfield,2022/23,Championship,01771361,2023-06-30,acreedores_lp,-18484.978,,desde_año_siguiente,comparativo de una cuenta que reexpresa: no es la cifra original,2024-06-30_MzQ2MDk2NTUzOGFkaXF6a2N4,14.0
 Hull,2014/15,Premier League,04032392,2015-06-30,acreedores_cp,-29387.749,-107807.974,conflicto,,2015-06-30_MzEzMzAyNTk3NmFkaXF6a2N4,9.0
-Hull,2017/18,Championship,04032392,2018-06-30,ingresos,55679.963,12300.164,conflicto,,2018-06-30_MzIxNDMzMDQwNWFkaXF6a2N4,9.0
-Hull,2019/20,Championship,04032392,2020-06-30,resultado_antes_impuestos,0.455,2838.455,conflicto,,2020-06-30_MzI3OTg5NDcxNWFkaXF6a2N4,9.0
 Ipswich,2010/11,Championship,00315421,2011-06-30,caja,68.0,,conflicto,,2011-06-30_MzA1NDkxMjQ2MGFkaXF6a2N4,9.0
 Ipswich,2011/12,Championship,00315421,2012-06-30,caja,42.0,,conflicto,,2012-06-30_MzA3NTYxNjA2NmFkaXF6a2N4,9.0
 Ipswich,2014/15,Championship,00315421,2015-06-30,acreedores_cp,-12097.0,-47471.0,conflicto,,2015-06-30_MzE0MTgwMTgyMWFkaXF6a2N4,10.0
 Ipswich,2014/15,Championship,00315421,2015-06-30,acreedores_lp,-94227.0,-58853.0,conflicto,,2015-06-30_MzE0MTgwMTgyMWFkaXF6a2N4,10.0
 Ipswich,2016/17,Championship,00315421,2017-06-30,acreedores_cp,-44662.0,-55750.0,conflicto,,2017-06-30_MzE5OTU1NTI0NWFkaXF6a2N4,11.0
 Ipswich,2016/17,Championship,00315421,2017-06-30,acreedores_lp,-60134.0,-20528.0,conflicto,,2017-06-30_MzE5OTU1NTI0NWFkaXF6a2N4,11.0
-Ipswich,2016/17,Championship,00315421,2017-06-30,activos_netos,-77452.0,-69308.0,conflicto,,2017-06-30_MzE5OTU1NTI0NWFkaXF6a2N4,11.0
 Ipswich,2017/18,Championship,00315421,2018-06-30,acreedores_lp,-20991.0,-55552.0,conflicto,,2018-06-30_MzIyODg2ODk2N2FkaXF6a2N4,11.0
-Leeds,2010/11,Championship,06233875,2011-06-30,resultado_antes_impuestos,859.0,2.0,conflicto,,2011-06-30_MzA1NTE5MTIyMmFkaXF6a2N4,8.0
-Leeds,2011/12,Championship,06233875,2012-06-30,resultado_antes_impuestos,2525.0,272.0,conflicto,,2012-06-30_MzA3MDIxMDA0MmFkaXF6a2N4,8.0
 Leeds,2014/15,Championship,06233875,2015-06-30,acreedores_cp,-19797.406,-23939.521,conflicto,,2015-06-30_MzE0MjgxNTc1MWFkaXF6a2N4,9.0
 Leeds,2014/15,Championship,06233875,2015-06-30,acreedores_lp,-24040.965,-12289.49,conflicto,,2015-06-30_MzE0MjgxNTc1MWFkaXF6a2N4,9.0
 Leeds,2014/15,Championship,06233875,2015-06-30,patrimonio,1009.875,8619.236,conflicto,,2015-06-30_MzE0MjgxNTc1MWFkaXF6a2N4,9.0
 Leeds,2018/19,Championship,06233875,2019-06-30,acreedores_lp,-28171.981,-71.981,conflicto,,2019-06-30_MzI2MTM1NjMxOGFkaXF6a2N4,11.0
+Leeds,2019/20,Championship,06233875,2020-07-31,acreedores_cp,-158515.736,-160826.749,conflicto,,2020-07-31_MzI5NjIxODMwMWFkaXF6a2N4,11.0
 Leeds,2019/20,Championship,06233875,2020-07-31,acreedores_lp,0.001,-38564.591,conflicto,,2020-07-31_MzI5NjIxODMwMWFkaXF6a2N4,11.0
+Leeds,2020/21,Premier League,06233875,2021-06-30,acreedores_cp,-147893.092,-145322.514,conflicto,,2021-06-30_MzMzNTI5MTIxMWFkaXF6a2N4,15.0
 Leeds,2020/21,Premier League,06233875,2021-06-30,acreedores_lp,-64173.865,-80748.379,conflicto,,2021-06-30_MzMzNTI5MTIxMWFkaXF6a2N4,15.0
-Leeds,2020/21,Premier League,06233875,2021-06-30,activos_netos,-16499.527000000002,-29240.249,conflicto,,2021-06-30_MzMzNTI5MTIxMWFkaXF6a2N4,15.0
-Leeds,2020/21,Premier League,06233875,2021-06-30,resultado_antes_impuestos,25919.909,-11944.846,conflicto,,2021-06-30_MzMzNTI5MTIxMWFkaXF6a2N4,13.0
-Leeds,2021/22,Premier League,06233875,2022-06-30,activos_netos,-59950.676,-66256.201,conflicto,,2022-06-30_MzM3NTEzOTY5M2FkaXF6a2N4,14.0
+Leeds,2020/21,Premier League,06233875,2021-06-30,caja,28832.872,29115.809,conflicto,,2021-06-30_MzMzNTI5MTIxMWFkaXF6a2N4,15.0
+Leeds,2021/22,Premier League,06233875,2022-06-30,acreedores_cp,-163919.204,-169027.764,conflicto,,2022-06-30_MzM3NTEzOTY5M2FkaXF6a2N4,14.0
 Leeds,2021/22,Premier League,06233875,2022-06-30,caja,4596.553,,conflicto,,2022-06-30_MzM3NTEzOTY5M2FkaXF6a2N4,14.0
+Leeds,2022/23,Premier League,06233875,2023-06-30,acreedores_cp,-213105.924,-204441.679,conflicto,,2023-06-30_MzQxNjYyMTc5OGFkaXF6a2N4,15.0
 Leeds,2022/23,Premier League,06233875,2023-06-30,caja,1539.522,,conflicto,,2023-06-30_MzQxNjYyMTc5OGFkaXF6a2N4,15.0
 Leicester,2019/20,Premier League,04593477,2020-05-31,acreedores_cp,-286230.0,-234374.0,conflicto,,2020-05-31_MzI5NjE4NTczOGFkaXF6a2N4,23.0
+Liverpool,2014/15,Premier League,00035668,2015-05-31,acreedores_cp,-233246.0,,desde_año_siguiente,comparativo de una cuenta que reexpresa: no es la cifra original,2016-05-31_MzE3MDI4NzMxOWFkaXF6a2N4,12.0
 Liverpool,2016/17,Premier League,00035668,2017-05-31,caja,4012.0,,conflicto,,2017-05-31_MzE5OTQ1MTcyM2FkaXF6a2N4,12.0
 Luton,2019/20,Championship,06133975,2020-06-30,caja,4221.967,,conflicto,,2020-06-30_MzMwMDI2NjI4M2FkaXF6a2N4,9.0
 Luton,2021/22,Championship,06133975,2022-06-30,caja,0.0,2233.327,conflicto,,2022-06-30_MzM3MTMzNjU2NGFkaXF6a2N4,13.0
-Luton,2023/24,Premier League,06133975,2024-06-30,ingresos,132321.856,,validada,salto x10 respecto a años vecinos,2024-06-30_MzQ2MDgwMDg0M2FkaXF6a2N4,14.0
-Luton,2024/25,Championship,06133975,2025-06-30,ingresos,0.068,,sin_contraste,ingresos fuera de 3-1000 M£,2025-06-30_MzUxMjIzNDM5M2FkaXF6a2N4,14.0
 Man City,2012/13,Premier League,00040946,2013-05-31,caja,12.0,14045.0,conflicto,,2013-05-31_MzA5NTYzMTUzOGFkaXF6a2N4,11.0
 Man United,2011/12,Premier League,00095489,2012-06-30,caja,53771.0,-77.0,conflicto,,2012-06-30_MzA3NDk2NTM5MWFkaXF6a2N4,13.0
 Man United,2012/13,Premier League,00095489,2013-06-30,caja,53.0,64777.0,conflicto,,2013-06-30_MzA4OTI1MTA0NGFkaXF6a2N4,13.0
 Man United,2013/14,Premier League,00095489,2014-06-30,acreedores_lp,-39497.0,,conflicto,,2014-06-30_MzExNTA3NTc1MGFkaXF6a2N4,11.0
+Man United,2014/15,Premier League,00095489,2015-06-30,activos_netos,-41022.0,,corregida_manual,,2015-06-30_MzEzNzc2Mjk3M2FkaXF6a2N4,11.0
+Man United,2014/15,Premier League,00095489,2015-06-30,patrimonio,-41022.0,,corregida_manual,,2015-06-30_MzEzNzc2Mjk3M2FkaXF6a2N4,11.0
+Middlesbrough,2011/12,Championship,03912084,2012-06-30,ingresos,0.0,,corregida_manual,,2012-06-30_MzA3NDY0ODQyN2FkaXF6a2N4,8.0
+Middlesbrough,2011/12,Championship,03912084,2012-06-30,activos_netos,0.0,,corregida_manual,,2012-06-30_MzA3NDY0ODQyN2FkaXF6a2N4,9.0
+Middlesbrough,2011/12,Championship,03912084,2012-06-30,patrimonio,0.0,,corregida_manual,,2012-06-30_MzA3NDY0ODQyN2FkaXF6a2N4,9.0
 Middlesbrough,2014/15,Championship,01947851,2015-06-30,acreedores_cp,-18689.0,-100814.0,conflicto,,2015-06-30_MzE0NTQyNTkwNmFkaXF6a2N4,12.0
 Middlesbrough,2014/15,Championship,01947851,2015-06-30,acreedores_lp,83650.0,1704.0,conflicto,,2015-06-30_MzE0NTQyNTkwNmFkaXF6a2N4,12.0
-Millwall,2010/11,Championship,01924222,2011-06-30,ingresos,7.0,,sin_contraste,ingresos fuera de 3-1000 M£,2011-06-30_MzA0OTQwMDg3OGFkaXF6a2N4,7.0
+Middlesbrough,2015/16,Championship,03912084,2016-06-30,ingresos,0.0,,corregida_manual,,2016-06-30_MzE3MTYwNDE1MWFkaXF6a2N4,9.0
+Middlesbrough,2015/16,Championship,03912084,2016-06-30,activos_netos,0.0,,corregida_manual,,2016-06-30_MzE3MTYwNDE1MWFkaXF6a2N4,10.0
+Middlesbrough,2015/16,Championship,03912084,2016-06-30,patrimonio,0.0,,corregida_manual,,2016-06-30_MzE3MTYwNDE1MWFkaXF6a2N4,10.0
+Middlesbrough,2023/24,Championship,03912084,2024-06-30,ingresos,0.0,,corregida_manual,,2024-06-30_MzQ1NTk5Njg5OWFkaXF6a2N4,6.0
+Middlesbrough,2023/24,Championship,03912084,2024-06-30,resultado_antes_impuestos,0.0,,corregida_manual,,2024-06-30_MzQ1NTk5Njg5OWFkaXF6a2N4,6.0
+Middlesbrough,2024/25,Championship,03912084,2025-06-30,ingresos,0.0,,corregida_manual,,2025-06-30_MzUxMTg3OTQ4NWFkaXF6a2N4,6.0
+Middlesbrough,2024/25,Championship,03912084,2025-06-30,resultado_antes_impuestos,0.0,,corregida_manual,,2025-06-30_MzUxMTg3OTQ4NWFkaXF6a2N4,6.0
 Millwall,2014/15,Championship,01924222,2015-06-30,acreedores_cp,4108.0,-82035.0,conflicto,,2015-06-30_MzEzODM2OTI1NmFkaXF6a2N4,9.0
 Millwall,2014/15,Championship,01924222,2015-06-30,acreedores_lp,78712.0,-3552.0,conflicto,,2015-06-30_MzEzODM2OTI1NmFkaXF6a2N4,9.0
 Millwall,2023/24,Championship,01924222,2024-06-30,acreedores_cp,-168572.0,172621.772,conflicto,,2024-06-30_MzQ1OTA3NDUyOGFkaXF6a2N4,18.0
 Newcastle,2011/12,Premier League,02529667,2012-06-30,caja,0.0,31093.0,conflicto,,2012-06-30_MzA3NTg0MDMwMmFkaXF6a2N4,9.0
 Newcastle,2013/14,Premier League,00031014,2014-06-30,acreedores_lp,8.0,-111811.0,conflicto,,2014-06-30_MzEyMDgwNTEzMmFkaXF6a2N4,10.0
-Newcastle,2015/16,Premier League,02529667,2016-06-30,ingresos,128755.0,,conflicto,,2016-06-30_MzE3Mjk5NTc0NWFkaXF6a2N4,11.0
 Newcastle,2016/17,Championship,00031014,2017-06-30,caja,16.0,29619.0,conflicto,,2017-06-30_MzIwNTQzNDU4MWFkaXF6a2N4,13.0
 Newcastle,2016/17,Championship,02529667,2017-06-30,caja,0.0,33831.0,conflicto,,2017-06-30_MzIwNTQzNDU4MGFkaXF6a2N4,13.0
 Newcastle,2017/18,Premier League,00031014,2018-06-30,caja,16.0,29619.0,conflicto,,2018-06-30_MzIzMjg0ODAzOWFkaXF6a2N4,13.0
 Newcastle,2017/18,Premier League,02529667,2018-06-30,acreedores_cp,-101066.0,,conflicto,,2018-06-30_MzIzMjg0ODA1OWFkaXF6a2N4,13.0
 Newcastle,2017/18,Premier League,02529667,2018-06-30,caja,17.0,33831.0,conflicto,,2018-06-30_MzIzMjg0ODA1OWFkaXF6a2N4,13.0
 Newcastle,2018/19,Premier League,00031014,2019-06-30,acreedores_cp,-38092.0,-51434.0,conflicto,,2019-06-30_MzI2Njc0MzEwOWFkaXF6a2N4,13.0
+Newcastle,2018/19,Premier League,00031014,2019-06-30,acreedores_lp,-112824.0,-117331.0,conflicto,,2019-06-30_MzI2Njc0MzEwOWFkaXF6a2N4,13.0
 Newcastle,2018/19,Premier League,02529667,2019-06-30,acreedores_cp,-38034.0,-51376.0,conflicto,,2019-06-30_MzI2Njc0MzEwOGFkaXF6a2N4,13.0
+Newcastle,2018/19,Premier League,02529667,2019-06-30,acreedores_lp,-112824.0,-117331.0,conflicto,,2019-06-30_MzI2Njc0MzEwOGFkaXF6a2N4,13.0
+Newcastle,2021/22,Premier League,00031014,2022-06-30,acreedores_cp,-145951.0,-147284.0,conflicto,,2022-06-30_MzM3NTAyMjMzNWFkaXF6a2N4,18.0
+Newcastle,2021/22,Premier League,00031014,2022-06-30,acreedores_lp,-29012.0,-27679.0,conflicto,,2022-06-30_MzM3NTAyMjMzNWFkaXF6a2N4,18.0
+Newcastle,2021/22,Premier League,02529667,2022-06-30,acreedores_cp,-137460.0,-138793.0,conflicto,,2022-06-30_MzM3NTAyMjMzM2FkaXF6a2N4,18.0
 Norwich,2010/11,Championship,00154044,2011-05-31,gastos_personal,14071.0,18445.0,conflicto,gasto de personal incoherente con sueldos,2011-05-31_MzA0ODAyNDc4N2FkaXF6a2N4,15.0
-Norwich,2021/22,Premier League,00154044,2022-06-30,activos_netos,2705.0,5583.0,conflicto,,2022-06-30_MzM1ODU3MzcwNWFkaXF6a2N4,33.0
-Norwich,2021/22,Premier League,00154044,2022-06-30,patrimonio,2705.0,5583.0,conflicto,,2022-06-30_MzM1ODU3MzcwNWFkaXF6a2N4,33.0
-Nott'm Forest,2012/13,Championship,01630402,2013-05-31,resultado_antes_impuestos,-57052.0,,conflicto,,2013-05-31_MzA5NTYwMjkxMmFkaXF6a2N4,7.0
+Norwich,2017/18,Championship,00154044,2018-06-30,acreedores_cp,-45485.0,-47353.0,conflicto,,2018-06-30_MzIyNDk2MjAyOGFkaXF6a2N4,13.0
 Nott'm Forest,2013/14,Championship,01630402,2014-05-31,acreedores_cp,-67573.0,,conflicto,,2014-05-31_MzExODA3Mzg4MWFkaXF6a2N4,10.0
 Nott'm Forest,2013/14,Championship,01630402,2014-05-31,acreedores_lp,12.0,-244.0,conflicto,,2014-05-31_MzExODA3Mzg4MWFkaXF6a2N4,10.0
-Nott'm Forest,2013/14,Championship,01630402,2014-05-31,ingresos,16457.0,,conflicto,,2014-05-31_MzExODA3Mzg4MWFkaXF6a2N4,9.0
-Nott'm Forest,2013/14,Championship,01630402,2014-05-31,patrimonio,-54081.0,,conflicto,,2014-05-31_MzExODA3Mzg4MWFkaXF6a2N4,10.0
-Oxford,2024/25,Championship,00470509,2025-06-30,activos_netos,-59488.154,,conflicto,,2025-06-30_MzUxMTY3OTg4N2FkaXF6a2N4,
-Oxford,2024/25,Championship,00470509,2025-06-30,patrimonio,7070.527,,conflicto,,2025-06-30_MzUxMTY3OTg4N2FkaXF6a2N4,
+Nott'm Forest,2013/14,Championship,01630402,2014-05-31,activos_netos,-54081.0,,corregida_manual,,2014-05-31_MzExODA3Mzg4MWFkaXF6a2N4,10.0
+Nott'm Forest,2024/25,Premier League,01630402,2025-06-30,ingresos,221746.0,,corregida_manual,,2025-06-30_MzUxMjc1NzU2N2FkaXF6a2N4,0.0
 Preston,2010/11,Championship,00039494,2011-06-30,acreedores_lp,9.0,-500.0,conflicto,,2011-06-30_MzA1MTE4MjE1OWFkaXF6a2N4,9.0
 Preston,2023/24,Championship,00039494,2024-06-30,caja,0.0,1653.0,conflicto,,2024-06-30_MzQ0NjM4MDMyNGFkaXF6a2N4,11.0
+Preston,2024/25,Championship,01621060,2025-06-30,activos_netos,30676.0,,corregida_manual,,2025-06-30_MzQ5NTY1NzcyNGFkaXF6a2N4,11.0
+Preston,2024/25,Championship,01621060,2025-06-30,patrimonio,30676.0,,corregida_manual,,2025-06-30_MzQ5NTY1NzcyNGFkaXF6a2N4,11.0
 QPR,2012/13,Premier League,00060094,2013-05-31,acreedores_lp,11.0,-2472.0,conflicto,,2013-05-31_MzA5NTYwNzY3NGFkaXF6a2N4,8.0
 QPR,2014/15,Premier League,00060094,2015-05-31,acreedores_cp,-1.0,-32163.0,conflicto,,2015-05-31_MzE0NDg0NDA0MWFkaXF6a2N4,9.0
+QPR,2014/15,Premier League,00060094,2015-05-31,acreedores_lp,-3946.0,-3632.0,conflicto,,2015-05-31_MzE0NDg0NDA0MWFkaXF6a2N4,9.0
 QPR,2015/16,Championship,00060094,2016-05-31,acreedores_lp,-197.0,,conflicto,,2016-05-31_MzE3MDIwOTIxNGFkaXF6a2N4,8.0
 QPR,2016/17,Championship,00060094,2017-05-31,acreedores_lp,-1.0,-241.0,conflicto,,2017-05-31_MzE5OTI3MzUwMWFkaXF6a2N4,8.0
 QPR,2017/18,Championship,00060094,2018-05-31,caja,0.0,430.0,conflicto,,2018-05-31_MzIyNjgwNzQ5MmFkaXF6a2N4,10.0
 Reading,2011/12,Championship,00053703,2012-06-30,acreedores_lp,-39717.724,-28318.524,conflicto,,2012-06-30_MzA3NDQwMTY4NmFkaXF6a2N4,11.0
-Rotherham,2020/21,Championship,06550400,2021-06-30,ingresos,12112.102,,conflicto,,2021-06-30_MzMzNDg2OTE3OWFkaXF6a2N4,14.0
-Rotherham,2023/24,Championship,06550400,2024-06-30,ingresos,19172.906,,conflicto,,2024-06-30_MzQ1ODg4ODcyMWFkaXF6a2N4,
+Rotherham,2014/15,Championship,06550400,2014-12-31,resultado_antes_impuestos,167.212,,corregida_manual,,2014-12-31_MzEyMDY4MjY2MmFkaXF6a2N4,10.0
 Sheffield United,2019/20,Premier League,00061564,2020-07-31,caja,885.207,7055.975,conflicto,,2020-07-31_MzMwMDQzMzcyOGFkaXF6a2N4,15.0
-Sheffield United,2020/21,Premier League,00061564,2021-06-30,ingresos,118221.103,,conflicto,,2021-06-30_MzMzNTEyNDAxMGFkaXF6a2N4,16.0
-Sheffield United,2022/23,Championship,00061564,2023-06-30,activos_netos,9001.94,10886.881,conflicto,,2023-06-30_MzQxNDYzNjUzOGFkaXF6a2N4,19.0
+Sheffield United,2022/23,Championship,00061564,2023-06-30,patrimonio,9001.94,,corregida_manual,,2023-06-30_MzQxNDYzNjUzOGFkaXF6a2N4,19.0
 Sheffield Weds,2012/13,Championship,02509978,2013-05-31,acreedores_cp,-18330.0,-7192.0,conflicto,,2013-05-31_MzA5NTM2NzMyOGFkaXF6a2N4,23.0
 Sheffield Weds,2012/13,Championship,02509978,2013-05-31,acreedores_lp,-4331.0,-15469.0,conflicto,,2013-05-31_MzA5NTM2NzMyOGFkaXF6a2N4,23.0
 Sheffield Weds,2013/14,Championship,02509978,2014-05-31,acreedores_lp,-14569.0,-20558.0,conflicto,,2014-05-31_MzExODY2OTQ4M2FkaXF6a2N4,23.0
-Sheffield Weds,2013/14,Championship,02509978,2014-05-31,patrimonio,-220.0,-6209.0,conflicto,,2014-05-31_MzExODY2OTQ4M2FkaXF6a2N4,23.0
-Sheffield Weds,2014/15,Championship,02509978,2015-05-31,patrimonio,12618.0,15316.0,conflicto,,2015-05-31_MzE0MjgyOTQ0MmFkaXF6a2N4,17.0
-Sheffield Weds,2017/18,Championship,02509978,2018-07-31,activos_netos,-10349.0,-48411.0,conflicto,,2018-07-31_MzIzOTM4OTU5M2FkaXF6a2N4,18.0
-Sheffield Weds,2017/18,Championship,02509978,2018-07-31,patrimonio,-10349.0,-48411.0,conflicto,,2018-07-31_MzIzOTM4OTU5M2FkaXF6a2N4,18.0
-Sheffield Weds,2017/18,Championship,02509978,2018-07-31,resultado_antes_impuestos,2576.0,-35486.0,conflicto,,2018-07-31_MzIzOTM4OTU5M2FkaXF6a2N4,17.0
+Sheffield Weds,2013/14,Championship,02509978,2014-05-31,activos_netos,-220.0,,corregida_manual,,2014-05-31_MzExODY2OTQ4M2FkaXF6a2N4,23.0
 Sheffield Weds,2020/21,Championship,02509978,2021-07-31,caja,3.0,503.0,conflicto,,2021-07-31_MzMzODI1MDM5N2FkaXF6a2N4,18.0
+Southampton,2011/12,Championship,00053301,2012-06-30,resultado_antes_impuestos,-8357.168,,corregida_manual,,2012-06-30_MzA3NTUxMTg4MmFkaXF6a2N4,15.0
+Southampton,2011/12,Championship,00053301,2012-06-30,activos_netos,-33340.566,,corregida_manual,,2012-06-30_MzA3NTUxMTg4MmFkaXF6a2N4,10.0
+Southampton,2011/12,Championship,00053301,2012-06-30,patrimonio,-33340.566,,corregida_manual,,2012-06-30_MzA3NTUxMTg4MmFkaXF6a2N4,10.0
+Southampton,2012/13,Premier League,00053301,2013-06-30,activos_netos,-12653.889,,corregida_manual,,2013-06-30_MzA5Nzc5MTI0OGFkaXF6a2N4,11.0
+Southampton,2012/13,Premier League,00053301,2013-06-30,patrimonio,-12653.889,,corregida_manual,,2013-06-30_MzA5Nzc5MTI0OGFkaXF6a2N4,11.0
+Southampton,2013/14,Premier League,00053301,2014-06-30,activos_netos,18319.413,,corregida_manual,,2014-06-30_MzEyMTAyMjE5NWFkaXF6a2N4,23.0
+Southampton,2013/14,Premier League,00053301,2014-06-30,patrimonio,18319.413,,corregida_manual,,2014-06-30_MzEyMTAyMjE5NWFkaXF6a2N4,23.0
 Southampton,2014/15,Premier League,00053301,2015-06-30,acreedores_cp,77549.888,-76845.0,conflicto,,2015-06-30_MzEzMzU2NzkxOGFkaXF6a2N4,10.0
 Southampton,2014/15,Premier League,00053301,2015-06-30,acreedores_lp,52357.405,-50825.0,conflicto,,2015-06-30_MzEzMzU2NzkxOGFkaXF6a2N4,10.0
-Southampton,2018/19,Premier League,00053301,2019-06-30,activos_netos,93928.0,59692.0,conflicto,,2019-06-30_MzI2MTQ4MDc1N2FkaXF6a2N4,14.0
+Southampton,2014/15,Premier League,00053301,2015-06-30,activos_netos,30471.057,,corregida_manual,,2015-06-30_MzEzMzU2NzkxOGFkaXF6a2N4,11.0
+Southampton,2014/15,Premier League,00053301,2015-06-30,patrimonio,30471.057,,corregida_manual,,2015-06-30_MzEzMzU2NzkxOGFkaXF6a2N4,11.0
+Southampton,2018/19,Premier League,00053301,2019-06-30,patrimonio,59692.0,,corregida_manual,,2019-06-30_MzI2MTQ4MDc1N2FkaXF6a2N4,14.0
 Southampton,2023/24,Championship,00053301,2024-06-30,acreedores_lp,-26981.0,-1.0,conflicto,,2024-06-30_MzQ2NDk0Nzg2OGFkaXF6a2N4,18.0
+Stoke,2014/15,Premier League,00099885,2015-05-31,acreedores_cp,-87323.0,-90844.0,conflicto,,2015-05-31_MzEzNTIyMDkwOWFkaXF6a2N4,11.0
 Stoke,2014/15,Premier League,00099885,2015-05-31,acreedores_lp,-1797.0,-1.0,conflicto,,2015-05-31_MzEzNTIyMDkwOWFkaXF6a2N4,11.0
 Stoke,2016/17,Premier League,00099885,2017-05-31,acreedores_cp,-428149.0,,conflicto,,2017-05-31_MzE4OTc0NzkwOWFkaXF6a2N4,12.0
 Stoke,2017/18,Premier League,00099885,2018-05-31,acreedores_lp,13.0,-5842.0,conflicto,,2018-05-31_MzIxOTY4MzEwOGFkaXF6a2N4,13.0
 Stoke,2022/23,Championship,00099885,2023-05-31,acreedores_lp,13.0,,conflicto,,2023-05-31_MzQwOTI5MjY1NWFkaXF6a2N4,16.0
-Sunderland,2010/11,Premier League,00049116,2011-07-31,ingresos,719326.0,,conflicto,salto x10 respecto a años vecinos,2011-07-31_MzA1NDkwMTcyMmFkaXF6a2N4,8.0
-Swansea,2012/13,Premier League,00123414,2013-05-31,resultado_antes_impuestos,0.017,20831.699,conflicto,,2013-05-31_MzA5MDQyNDM5OGFkaXF6a2N4,9.0
 Swansea,2014/15,Premier League,00123414,2015-07-31,acreedores_cp,-65619.467,,conflicto,,2015-07-31_MzEzNzUwOTUxMWFkaXF6a2N4,10.0
 Swansea,2014/15,Premier League,00123414,2015-07-31,acreedores_lp,-7764.059,-6419.502,conflicto,,2015-07-31_MzEzNzUwOTUxMWFkaXF6a2N4,10.0
-Swansea,2014/15,Premier League,00123414,2015-07-31,resultado_antes_impuestos,1682.274,1210.405,conflicto,,2015-07-31_MzEzNzUwOTUxMWFkaXF6a2N4,9.0
-Swansea,2014/15,Premier League,04305508,2015-07-31,resultado_antes_impuestos,1675.913,1204.044,conflicto,,2015-07-31_MzEzNzUwOTUwOWFkaXF6a2N4,10.0
-Swansea,2015/16,Premier League,00123414,2016-07-31,activos_netos,6708.962,0.962,conflicto,,2016-07-31_MzE3NTEyOTI4OGFkaXF6a2N4,11.0
+Swansea,2014/15,Premier League,04305508,2015-07-31,acreedores_lp,-6776.662,-6419.502,conflicto,,2015-07-31_MzEzNzUwOTUwOWFkaXF6a2N4,11.0
 Swansea,2015/16,Premier League,04305508,2016-07-31,acreedores_cp,-78992.157,,conflicto,,2016-07-31_MzE3NTEyOTI4OWFkaXF6a2N4,11.0
-Swansea,2016/17,Premier League,00123414,2017-07-31,activos_netos,6.708,19704.504,conflicto,,2017-07-31_MzE5OTYwMTU5NGFkaXF6a2N4,12.0
-Swansea,2016/17,Premier League,00123414,2017-07-31,patrimonio,19704.504,,conflicto,,2017-07-31_MzE5OTYwMTU5NGFkaXF6a2N4,12.0
 Swansea,2018/19,Championship,04305508,2019-07-31,acreedores_cp,-57954.148,-470.032,conflicto,,2019-07-31_MzI1NzA3NjQ0MmFkaXF6a2N4,13.0
-Swansea,2018/19,Championship,04305508,2019-07-31,activos_netos,12109.039,,conflicto,,2019-07-31_MzI1NzA3NjQ0MmFkaXF6a2N4,13.0
 Swansea,2018/19,Championship,04305508,2019-07-31,caja,7598.727,9.299,conflicto,,2019-07-31_MzI1NzA3NjQ0MmFkaXF6a2N4,13.0
 Swansea,2020/21,Championship,00123414,2021-07-31,acreedores_cp,-16546.05,,conflicto,,2021-07-31_MzMzODEwNzI1NWFkaXF6a2N4,14.0
+Swansea,2020/21,Championship,00123414,2021-07-31,acreedores_lp,-18887.241,-19967.241,conflicto,,2021-07-31_MzMzODEwNzI1NWFkaXF6a2N4,14.0
 Swansea,2020/21,Championship,04305508,2021-07-31,acreedores_lp,-12780.184,-19132.337,conflicto,,2021-07-31_MzMzODEwNzI1MmFkaXF6a2N4,17.0
-Swansea,2020/21,Championship,04305508,2021-07-31,resultado_antes_impuestos,-4609.57,,conflicto,,2021-07-31_MzMzODEwNzI1MmFkaXF6a2N4,14.0
-Swansea,2023/24,Championship,00123414,2024-06-30,ingresos,21541.219,,conflicto,,2024-06-30_MzQ2MTE1MDI2MmFkaXF6a2N4,13.0
-Swansea,2023/24,Championship,00123414,2024-06-30,resultado_antes_impuestos,-15190.972,,conflicto,,2024-06-30_MzQ2MTE1MDI2MmFkaXF6a2N4,13.0
+Swansea,2021/22,Championship,04305508,2022-07-31,acreedores_cp,-28559.563,-24556.878,conflicto,,2022-07-31_MzM3ODE5NTE1NWFkaXF6a2N4,15.0
 Tottenham,2011/12,Premier League,01706358,2012-06-30,caja,15702.0,,conflicto,,2012-06-30_MzA3NTgyOTE2NmFkaXF6a2N4,10.0
-Tottenham,2013/14,Premier League,01706358,2014-06-30,ingresos,147392.0,180541.0,conflicto,,2014-06-30_MzEyMTAxOTUyNmFkaXF6a2N4,9.0
-Tottenham,2014/15,Premier League,00057186,2015-06-30,activos_netos,93865.0,66644.0,conflicto,,2015-06-30_MzE0NzQ0OTQ4OWFkaXF6a2N4,11.0
 Tottenham,2015/16,Premier League,00057186,2016-06-30,acreedores_lp,-201970.0,-58584.0,conflicto,,2016-06-30_MzE3Mjk1Mjk3MWFkaXF6a2N4,11.0
-Tottenham,2016/17,Premier League,00057186,2017-06-30,activos_netos,29758.0,24735.0,conflicto,,2017-06-30_MzIwMTg0ODI4NmFkaXF6a2N4,12.0
-Tottenham,2016/17,Premier League,00057186,2017-06-30,resultado_antes_impuestos,35193.0,28993.0,conflicto,,2017-06-30_MzIwMTg0ODI4NmFkaXF6a2N4,11.0
+Tottenham,2016/17,Premier League,00057186,2017-06-30,patrimonio,29758.0,,corregida_manual,,2017-06-30_MzIwMTg0ODI4NmFkaXF6a2N4,12.0
 Tottenham,2017/18,Premier League,01706358,2018-06-30,caja,100636.0,,conflicto,,2018-06-30_MzIzMTA1ODEzMmFkaXF6a2N4,11.0
 Tottenham,2018/19,Premier League,01706358,2019-06-30,caja,423484.0,,conflicto,,2019-06-30_MzI2MDc0Mzc4NWFkaXF6a2N4,11.0
-Tottenham,2019/20,Premier League,00057186,2020-06-30,resultado_antes_impuestos,-113176.0,,conflicto,,2020-06-30_MzI4NTE2NTkzNmFkaXF6a2N4,13.0
-Watford,2011/12,Championship,00104194,2012-06-30,ingresos,11184.0,,conflicto,,2012-06-30_MzA2OTUxMTc0OWFkaXF6a2N4,12.0
-Watford,2020/21,Championship,00104194,2021-06-30,activos_netos,-12770.0,-18046.0,conflicto,,2021-06-30_MzMzNTAwMjg2MWFkaXF6a2N4,18.0
-Watford,2020/21,Championship,00104194,2021-06-30,patrimonio,-12770.0,-18046.0,conflicto,,2021-06-30_MzMzNTAwMjg2MWFkaXF6a2N4,18.0
-Watford,2022/23,Championship,00104194,2023-06-30,ingresos,66198.0,785.0,conflicto,,2023-06-30_MzQxMTkwNzQ4NWFkaXF6a2N4,15.0
+Tottenham,2021/22,Premier League,00057186,2022-06-30,acreedores_lp,-229885.0,-263682.0,conflicto,,2022-06-30_MzM2OTMyMjA1MmFkaXF6a2N4,16.0
+Watford,2015/16,Premier League,00104194,2016-06-30,resultado_antes_impuestos,3613.0,,corregida_manual,,2016-06-30_MzE3MTI2MDg5MmFkaXF6a2N4,7.0
 West Brom,2011/12,Premier League,07230595,2012-06-30,acreedores_cp,-18162.0,-4919.0,conflicto,,2012-06-30_MzA3NTY2OTQ5NGFkaXF6a2N4,11.0
-West Brom,2011/12,Premier League,07230595,2012-06-30,activos_netos,19502.0,7622.0,conflicto,,2012-06-30_MzA3NTY2OTQ5NGFkaXF6a2N4,11.0
-West Brom,2011/12,Premier League,07230595,2012-06-30,patrimonio,19502.0,7622.0,conflicto,,2012-06-30_MzA3NTY2OTQ5NGFkaXF6a2N4,11.0
 West Brom,2012/13,Premier League,07230595,2013-06-30,acreedores_cp,-4919.0,,conflicto,,2013-06-30_MzA5NzQwMjU1NWFkaXF6a2N4,8.0
+West Brom,2012/13,Premier League,07230595,2013-06-30,ingresos,0.0,,corregida_manual,,2013-06-30_MzA5NzQwMjU1NWFkaXF6a2N4,7.0
+West Brom,2012/13,Premier League,07230595,2013-06-30,resultado_antes_impuestos,0.0,,corregida_manual,,2013-06-30_MzA5NzQwMjU1NWFkaXF6a2N4,7.0
+West Brom,2013/14,Premier League,07230595,2014-06-30,ingresos,0.0,,corregida_manual,,2014-06-30_MzExODE0MTc2NmFkaXF6a2N4,7.0
+West Brom,2013/14,Premier League,07230595,2014-06-30,resultado_antes_impuestos,0.0,,corregida_manual,,2014-06-30_MzExODE0MTc2NmFkaXF6a2N4,7.0
 West Brom,2014/15,Premier League,03295063,2015-06-30,acreedores_cp,0.0,-36251.0,conflicto,,2015-06-30_MzE0NTMxNjUyNmFkaXF6a2N4,10.0
 West Brom,2014/15,Premier League,07230595,2015-06-30,caja,0.0,3858.0,conflicto,,2015-06-30_MzE0NTMxNjUzMWFkaXF6a2N4,7.0
 West Brom,2014/15,Premier League,07230595,2015-06-30,patrimonio,7622.0,,conflicto,,2015-06-30_MzE0NTMxNjUzMWFkaXF6a2N4,7.0
-West Brom,2015/16,Premier League,07230595,2016-06-30,resultado_antes_impuestos,1180.0,967.0,conflicto,,2016-06-30_MzE2NzU2NDA5N2FkaXF6a2N4,8.0
-West Brom,2018/19,Championship,07230595,2019-06-30,patrimonio,82614.0,,conflicto,,2019-06-30_MzI2MDc0ODgzNWFkaXF6a2N4,11.0
-West Brom,2019/20,Championship,07230595,2020-06-30,activos_netos,41114.0,,conflicto,,2021-06-30_MzM0NDQzNzAzM2FkaXF6a2N4,15.0
-West Brom,2019/20,Championship,07230595,2020-06-30,patrimonio,41711.0,,conflicto,,2021-06-30_MzM0NDQzNzAzM2FkaXF6a2N4,15.0
 West Brom,2020/21,Premier League,07230595,2021-06-30,acreedores_lp,-16428.0,,conflicto,,2021-06-30_MzM0NDQzNzAzM2FkaXF6a2N4,15.0
-West Brom,2021/22,Championship,07230595,2022-06-30,resultado_antes_impuestos,1.0,171.0,conflicto,,2022-06-30_MzM3NDc4ODcwMmFkaXF6a2N4,15.0
-West Ham,2011/12,Championship,00066516,2012-05-31,activos_netos,-77367.0,-117547.0,conflicto,,2012-05-31_MzA3MzcxNjM1MGFkaXF6a2N4,12.0
-West Ham,2011/12,Championship,00066516,2012-05-31,ingresos,80544.0,46165.0,conflicto,,2012-05-31_MzA3MzcxNjM1MGFkaXF6a2N4,11.0
-West Ham,2011/12,Championship,00066516,2012-05-31,patrimonio,-77367.0,-117547.0,conflicto,,2012-05-31_MzA3MzcxNjM1MGFkaXF6a2N4,12.0
-West Ham,2021/22,Premier League,00066516,2022-05-31,activos_netos,-153387.0,-87.0,conflicto,,2022-05-31_MzM2NDgxNDg4N2FkaXF6a2N4,25.0
+West Ham,2010/11,Premier League,00066516,2011-05-31,resultado_antes_impuestos,-18565.0,,corregida_manual,,2011-05-31_MzA1MTAwMDI1NmFkaXF6a2N4,17.0
 Wigan,2014/15,Championship,00270043,2015-05-31,caja,14.329,,conflicto,,2015-05-31_MzE0MjI2NTE1MWFkaXF6a2N4,13.0
-Wigan,2016/17,Championship,07283993,2017-05-31,activos_netos,30073.669,,conflicto,,2017-05-31_MzE5ODI3NTc1OWFkaXF6a2N4,13.0
-Wigan,2016/17,Championship,07283993,2017-05-31,patrimonio,28004.509,,conflicto,,2017-05-31_MzE5ODI3NTc1OWFkaXF6a2N4,13.0
-Wigan,2016/17,Championship,07283993,2017-05-31,resultado_antes_impuestos,0.0,-1625.312,conflicto,,2017-05-31_MzE5ODI3NTc1OWFkaXF6a2N4,11.0
-Wigan,2018/19,Championship,07283993,2019-06-30,ingresos,-0.065,,sin_contraste,ingresos fuera de 3-1000 M£,2019-06-30_MzI2MDQ4NDc1NmFkaXF6a2N4,8.0
 Wolves,2014/15,Championship,01989823,2015-05-31,acreedores_cp,-6277.0,-38873.0,conflicto,,2015-05-31_MzE0MzEzNDMxMGFkaXF6a2N4,11.0
 Wolves,2014/15,Championship,01989823,2015-05-31,acreedores_lp,-32858.0,-262.0,conflicto,,2015-05-31_MzE0MzEzNDMxMGFkaXF6a2N4,11.0
+Wolves,2015/16,Championship,01989823,2016-05-31,acreedores_cp,-45328.0,-48851.0,conflicto,,2016-05-31_MzE3MDI4ODcyN2FkaXF6a2N4,11.0
 Yeovil,2013/14,Championship,00189754,2014-06-30,acreedores_cp,-941.357,2194.187,conflicto,,2014-06-30_MzEyMDk0NjQwNmFkaXF6a2N4,4.0

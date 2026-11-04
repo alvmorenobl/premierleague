@@ -1,0 +1,78 @@
+item,club,rol,temporada,numero,cierre,variable,tipo,documento,pagina
+0,Bolton,club,2010/11,00043026,2011-06-30,sueldos_salarios,full,2011-06-30_MzA0NTg2Nzk3OGFkaXF6a2N4,4.0
+1,Bolton,club,2011/12,00043026,2012-06-30,sueldos_salarios,full,2012-06-30_MzA2NzcxODI2N2FkaXF6a2N4,4.0
+2,Bolton,club,2012/13,00043026,2013-06-30,sueldos_salarios,full,2013-06-30_MzA5NjkwMzM3MmFkaXF6a2N4,4.0
+3,Bolton,club,2013/14,00043026,2014-06-30,sueldos_salarios,full,2014-06-30_MzEyMDg5MDYzOWFkaXF6a2N4,4.0
+4,Brentford,club,2014/15,03642327,2015-06-30,ingresos,group,2015-06-30_MzE0NDgzNTA4MGFkaXF6a2N4,7.0
+5,Brentford,club,2014/15,03642327,2015-06-30,resultado_antes_impuestos,group,2015-06-30_MzE0NDgzNTA4MGFkaXF6a2N4,26.0
+6,Brentford,club,2014/15,03642327,2015-06-30,activos_netos,group,2015-06-30_MzE0NDgzNTA4MGFkaXF6a2N4,
+7,Brighton,club,2011/12,00081077,2012-06-30,activos_netos,full,2012-06-30_MzA3NDcyNTkxMmFkaXF6a2N4,21.0
+8,Brighton,club,2012/13,00081077,2013-06-30,activos_netos,full,2013-06-30_MzA5NDI5ODI1OWFkaXF6a2N4,19.0
+9,Brighton,club,2013/14,00081077,2014-06-30,activos_netos,full,2014-06-30_MzExNTg1NzgxOGFkaXF6a2N4,26.0
+10,Brighton,club,2016/17,00081077,2017-06-30,activos_netos,full,2017-06-30_MzIwMTg1NjgzNWFkaXF6a2N4,13.0
+11,Brighton,grupo,2011/12,02849319,2012-06-30,activos_netos,group,2012-06-30_MzA3NDcyNTk4MWFkaXF6a2N4,26.0
+12,Brighton,grupo,2012/13,02849319,2013-06-30,activos_netos,group,2013-06-30_MzA5NDI5ODMyNmFkaXF6a2N4,25.0
+13,Brighton,grupo,2013/14,02849319,2014-06-30,activos_netos,group,2014-06-30_MzExNTg1NzgxN2FkaXF6a2N4,32.0
+14,Brighton,grupo,2014/15,02849319,2015-06-30,activos_netos,group,2015-06-30_MzE0MTcyOTI3NWFkaXF6a2N4,27.0
+15,Burnley,club,2023/24,00054222,2024-07-31,ingresos,full,2024-07-31_MzQ2NDYzNjMxNmFkaXF6a2N4,
+16,Burnley,club,2024/25,00054222,2025-07-31,ingresos,full,2025-07-31_MzUxOTAwMjEzOWFkaXF6a2N4,
+17,Burton,club,2017/18,00488096,2018-05-31,sueldos_salarios,full,2018-05-31_MzIyODMxMzY4MmFkaXF6a2N4,21.0
+18,Cardiff,club,2010/11,00109065,2011-05-31,activos_netos,full,2011-05-31_MzA1MzQyNzAxOWFkaXF6a2N4,22.0
+19,Charlton,club,2014/15,01788466,2015-06-30,resultado_antes_impuestos,full,2015-06-30_MzE0MzUxODkyMGFkaXF6a2N4,18.0
+20,Coventry,club,2011/12,07612487,2012-05-31,sueldos_salarios,full,2012-05-31_MzA4NjQ4MjM5NmFkaXF6a2N4,
+21,Coventry,club,2022/23,07612487,2023-05-31,sueldos_salarios,full,2023-05-31_MzQxMzAzMTM3N2FkaXF6a2N4,
+22,Crystal Palace,club,2010/11,07270793,2011-06-30,resultado_antes_impuestos,full,2011-06-30_MzA1MzQ3NjMzN2FkaXF6a2N4,9.0
+23,Crystal Palace,club,2010/11,07270793,2011-06-30,activos_netos,full,2011-06-30_MzA1MzQ3NjMzN2FkaXF6a2N4,10.0
+24,Crystal Palace,club,2014/15,07270793,2015-06-30,ingresos,full,2015-06-30_MzE0MDcxMzcwM2FkaXF6a2N4,9.0
+25,Everton,club,2010/11,00036624,2011-05-31,resultado_antes_impuestos,group,2011-05-31_MzA0OTgxNDY4MGFkaXF6a2N4,20.0
+26,Everton,club,2010/11,00036624,2011-05-31,activos_netos,group,2011-05-31_MzA0OTgxNDY4MGFkaXF6a2N4,13.0
+27,Everton,club,2021/22,00036624,2022-06-30,ingresos,group,2022-06-30_MzM3NTAzMzU2MWFkaXF6a2N4,7.0
+28,Everton,club,2021/22,00036624,2022-06-30,resultado_antes_impuestos,group,2022-06-30_MzM3NTAzMzU2MWFkaXF6a2N4,
+29,Everton,club,2022/23,00036624,2023-06-30,ingresos,group,2023-06-30_MzQxNjg3ODY3NmFkaXF6a2N4,
+30,Everton,club,2022/23,00036624,2023-06-30,resultado_antes_impuestos,group,2023-06-30_MzQxNjg3ODY3NmFkaXF6a2N4,
+31,Everton,club,2023/24,00036624,2024-06-30,ingresos,group,2024-06-30_MzQ2MTAzMDcwMmFkaXF6a2N4,
+32,Everton,club,2023/24,00036624,2024-06-30,resultado_antes_impuestos,group,2024-06-30_MzQ2MTAzMDcwMmFkaXF6a2N4,
+33,Everton,club,2024/25,00036624,2025-06-30,ingresos,group,2025-06-30_MzUxMzk1MTE2NGFkaXF6a2N4,
+34,Everton,club,2024/25,00036624,2025-06-30,resultado_antes_impuestos,group,2025-06-30_MzUxMzk1MTE2NGFkaXF6a2N4,
+35,Fulham,club,2014/15,02114486,2015-06-30,ingresos,full,2015-06-30_MzE0NTQwNjY4NGFkaXF6a2N4,10.0
+36,Middlesbrough,grupo,2011/12,03912084,2012-06-30,ingresos,full,2012-06-30_MzA3NDY0ODQyN2FkaXF6a2N4,
+37,Middlesbrough,grupo,2011/12,03912084,2012-06-30,activos_netos,full,2012-06-30_MzA3NDY0ODQyN2FkaXF6a2N4,
+38,Middlesbrough,grupo,2011/12,03912084,2012-06-30,sueldos_salarios,full,2012-06-30_MzA3NDY0ODQyN2FkaXF6a2N4,
+39,Middlesbrough,grupo,2015/16,03912084,2016-06-30,ingresos,full,2016-06-30_MzE3MTYwNDE1MWFkaXF6a2N4,
+40,Middlesbrough,grupo,2015/16,03912084,2016-06-30,activos_netos,full,2016-06-30_MzE3MTYwNDE1MWFkaXF6a2N4,
+41,Middlesbrough,grupo,2015/16,03912084,2016-06-30,sueldos_salarios,full,2016-06-30_MzE3MTYwNDE1MWFkaXF6a2N4,
+42,Middlesbrough,grupo,2023/24,03912084,2024-06-30,sueldos_salarios,audit-exemption-subsiduary,2024-06-30_MzQ1NTk5Njg5OWFkaXF6a2N4,
+43,Middlesbrough,grupo,2024/25,03912084,2025-06-30,sueldos_salarios,audit-exemption-subsiduary,2025-06-30_MzUxMTg3OTQ4NWFkaXF6a2N4,
+44,Newcastle,club,2014/15,00031014,2015-06-30,ingresos,full,2015-06-30_MzE0NTg0ODg3MWFkaXF6a2N4,7.0
+45,Nott'm Forest,club,2024/25,01630402,2025-06-30,ingresos,full,2025-06-30_MzUxMjc1NzU2N2FkaXF6a2N4,
+46,Oxford,club,2024/25,00470509,2025-06-30,activos_netos,full,2025-06-30_MzUxMTY3OTg4N2FkaXF6a2N4,
+47,Preston,grupo,2024/25,01621060,2025-06-30,activos_netos,group,2025-06-30_MzQ5NTY1NzcyNGFkaXF6a2N4,11.0
+48,QPR,club,2010/11,00060094,2011-05-31,sueldos_salarios,full,2011-05-31_MzA1MzYzNzIwMmFkaXF6a2N4,10.0
+49,Rotherham,club,2023/24,06550400,2024-06-30,ingresos,full,2024-06-30_MzQ1ODg4ODcyMWFkaXF6a2N4,
+50,Southampton,club,2011/12,00053301,2012-06-30,resultado_antes_impuestos,full,2012-06-30_MzA3NTUxMTg4MmFkaXF6a2N4,15.0
+51,Southampton,club,2011/12,00053301,2012-06-30,activos_netos,full,2012-06-30_MzA3NTUxMTg4MmFkaXF6a2N4,
+52,Southampton,club,2012/13,00053301,2013-06-30,activos_netos,full,2013-06-30_MzA5Nzc5MTI0OGFkaXF6a2N4,
+53,Southampton,club,2013/14,00053301,2014-06-30,activos_netos,full,2014-06-30_MzEyMTAyMjE5NWFkaXF6a2N4,
+54,Southampton,club,2014/15,00053301,2015-06-30,activos_netos,full,2015-06-30_MzEzMzU2NzkxOGFkaXF6a2N4,
+55,Swansea,club,2013/14,00123414,2014-05-31,activos_netos,full,2014-05-31_MzExNjc1NjQ0OGFkaXF6a2N4,10.0
+56,Swansea,grupo,2013/14,04305508,2014-05-31,ingresos,group,2014-05-31_MzExNjc1NjQ0OWFkaXF6a2N4,10.0
+57,Swansea,grupo,2013/14,04305508,2014-05-31,resultado_antes_impuestos,group,2014-05-31_MzExNjc1NjQ0OWFkaXF6a2N4,10.0
+58,Swansea,grupo,2014/15,04305508,2015-07-31,resultado_antes_impuestos,group,2015-07-31_MzEzNzUwOTUwOWFkaXF6a2N4,10.0
+59,Tottenham,grupo,2018/19,01706358,2019-06-30,sueldos_salarios,group,2019-06-30_MzI2MDc0Mzc4NWFkaXF6a2N4,20.0
+60,Watford,club,2015/16,00104194,2016-06-30,resultado_antes_impuestos,full,2016-06-30_MzE3MTI2MDg5MmFkaXF6a2N4,7.0
+61,Watford,club,2017/18,00104194,2018-06-30,ingresos,full,2018-06-30_MzIyOTE2Mjc3MGFkaXF6a2N4,
+62,Watford,club,2017/18,00104194,2018-06-30,resultado_antes_impuestos,full,2018-06-30_MzIyOTE2Mjc3MGFkaXF6a2N4,
+63,Watford,club,2017/18,00104194,2018-06-30,activos_netos,full,2018-06-30_MzIyOTE2Mjc3MGFkaXF6a2N4,
+64,West Brom,grupo,2012/13,07230595,2013-06-30,ingresos,full,2013-06-30_MzA5NzQwMjU1NWFkaXF6a2N4,
+65,West Brom,grupo,2012/13,07230595,2013-06-30,resultado_antes_impuestos,full,2013-06-30_MzA5NzQwMjU1NWFkaXF6a2N4,
+66,West Brom,grupo,2012/13,07230595,2013-06-30,sueldos_salarios,full,2013-06-30_MzA5NzQwMjU1NWFkaXF6a2N4,
+67,West Brom,grupo,2013/14,07230595,2014-06-30,ingresos,full,2014-06-30_MzExODE0MTc2NmFkaXF6a2N4,
+68,West Brom,grupo,2013/14,07230595,2014-06-30,resultado_antes_impuestos,full,2014-06-30_MzExODE0MTc2NmFkaXF6a2N4,
+69,West Brom,grupo,2013/14,07230595,2014-06-30,sueldos_salarios,full,2014-06-30_MzExODE0MTc2NmFkaXF6a2N4,
+70,West Ham,club,2010/11,00066516,2011-05-31,resultado_antes_impuestos,full,2011-05-31_MzA1MTAwMDI1NmFkaXF6a2N4,17.0
+71,West Ham,club,2011/12,00066516,2012-05-31,resultado_antes_impuestos,full,2012-05-31_MzA3MzcxNjM1MGFkaXF6a2N4,18.0
+72,Wigan,club,2010/11,00270043,2011-05-31,sueldos_salarios,full,2011-05-31_MzA1MjgyMDQyNWFkaXF6a2N4,18.0
+73,Wigan,club,2016/17,00270043,2017-05-31,sueldos_salarios,full,2017-05-31_MzE5ODI3NTc1NmFkaXF6a2N4,24.0
+74,Wigan,club,2018/19,00270043,2019-06-30,sueldos_salarios,full,2019-06-30_MzI2MDQ4NDc2MGFkaXF6a2N4,21.0
+75,Wigan,grupo,2013/14,07283993,2014-05-31,sueldos_salarios,group,2014-05-31_MzExNjkyMTA5OWFkaXF6a2N4,18.0
+76,Wigan,grupo,2016/17,07283993,2017-05-31,sueldos_salarios,group,2017-05-31_MzE5ODI3NTc1OWFkaXF6a2N4,4.0

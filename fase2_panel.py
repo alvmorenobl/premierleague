@@ -47,7 +47,8 @@ def main():
     # los gastos de personal son costes: unas cuentas los imprimen entre parentesis y otras no
     per = d.variable.isin(["gastos_personal", "sueldos_salarios", "seguridad_social", "pensiones"])
     d.loc[per, ["actual", "anterior"]] = d.loc[per, ["actual", "anterior"]].abs()
-    publicada = d[d.variable == "cuenta_resultados_publicada"][["numero", "cierre", "actual"]].rename(columns={"actual": "pyg_publicada"})
+    publicada = (d[d.variable == "cuenta_resultados_publicada"][["numero", "cierre", "actual"]]
+                 .drop_duplicates(["numero", "cierre"]).rename(columns={"actual": "pyg_publicada"}))
     d = d[d.variable != "cuenta_resultados_publicada"]
 
     n = d.groupby(["numero", "cierre", "documento"]).agg(n=("variable", "size"), ix=("fuente", lambda s: (s == "ixbrl").any())).reset_index()
@@ -62,6 +63,9 @@ def main():
     d = d.sort_values(["numero", "variable", "cie"]).reset_index(drop=True)
     g = d.groupby(["numero", "variable"])
     d["sig_anterior"] = g.anterior.shift(-1)
+    if "reexpresado" not in d:
+        d["reexpresado"] = np.nan
+    d["sig_reexp"] = g.reexpresado.shift(-1).fillna(False).astype(bool)
     d["sig_cie"] = g.cie.shift(-1)
     d["prev_actual"] = g.actual.shift(1)
     d["next_actual"] = g.actual.shift(-1)
@@ -125,8 +129,8 @@ def main():
             d.at[i, "valor"] = b                          # se leyo dos veces la columna del año anterior
             d.at[i, "estado"] = "corregida_columna"
             continue
-        if abs(a - b) <= 0.15 * max(abs(a), abs(b)):
-            d.at[i, "estado"] = "reexpresion"             # el club cambio la cifra del año anterior
+        if abs(a - b) <= 0.15 * max(abs(a), abs(b)) and d.at[i, "sig_reexp"]:
+            d.at[i, "estado"] = "reexpresion"             # el club cambio la cifra del año anterior y lo indica
             d.at[i, "valor_reexpresado"] = b
             continue
         # sin patron de error de lectura no se adivina: puede ser una reexpresion grande
@@ -135,11 +139,21 @@ def main():
         d.at[i, "valor_reexpresado"] = b
 
     # años que faltan pero aparecen como comparativo en t+1
+    # El comparativo de la cuenta de t+1 se refiere al ejercicio anterior. Si ese ejercicio tiene cuenta propia
+    # (aunque su fecha de cierre no sea exactamente un ano antes: cambios de fecha de cierre, ejercicios de 13
+    # meses), el hueco se asigna a ESA fecha de cierre; solo si no hay cuenta se crea el cierre t-1 ano.
+    # (Antes se creaba siempre t-1 ano y salian club-temporadas duplicadas.)
     extra = d[d.anterior.notna()].copy()
-    extra["cie"] = extra.cie - pd.DateOffset(years=1)
-    clave_existente = set(zip(d.numero, d.cie.dt.strftime("%Y-%m"), d.variable))
-    extra = extra[[(x, y, z) not in clave_existente for x, y, z in zip(extra.numero, extra.cie.dt.strftime("%Y-%m"), extra.variable)]]
+    cierres = d.groupby("numero").cie.apply(lambda s: sorted(set(s))).to_dict()
+    def destino(n, c):
+        # ejercicios cortos (6-7 meses) o largos (hasta 18 meses) por cambio de fecha de cierre
+        cand = [x for x in cierres.get(n, []) if 150 <= (c - x).days <= 560]
+        return min(cand, key=lambda x: abs((c - x).days - 365)) if cand else c - pd.DateOffset(years=1)
+    extra["cie"] = [destino(n, c) for n, c in zip(extra.numero, extra.cie)]
+    clave_existente = set(zip(d.numero, d.cie, d.variable))
+    extra = extra[[(x, y, z) not in clave_existente for x, y, z in zip(extra.numero, extra.cie, extra.variable)]]
     extra = extra[extra.anterior != 0]
+    extra["reexp_origen"] = extra.reexpresado.fillna(False).astype(bool)
     extra = extra.assign(valor=extra.anterior, actual=np.nan, estado="desde_año_siguiente",
                          cierre=extra.cie.dt.strftime("%Y-%m-%d"), valor_reexpresado=np.nan)
     d = pd.concat([d, extra], ignore_index=True)
@@ -164,6 +178,8 @@ def main():
 
     # --- plausibilidad
     d["sospechosa"] = ""
+    if "reexp_origen" in d:
+        d.loc[d.reexp_origen.fillna(False).astype(bool), "sospechosa"] = "comparativo de una cuenta que reexpresa: no es la cifra original"
     ing = d.variable.eq("ingresos")
     d.loc[ing & ~d.valor.abs().between(3000, 1_000_000), "sospechosa"] = "ingresos fuera de 3-1000 M£"
     d = d.sort_values(["numero", "variable", "cierre"])
@@ -207,6 +223,18 @@ def main():
             k = (d.numero == num) & (d.cierre == cie) & (d.variable == "gastos_personal")
             d.loc[k, "sospechosa"] = "gasto de personal incoherente con sueldos"
 
+    # --- derivadas por identidad (activos netos = total patrimonio neto)
+    fiable = ~d.estado.isin(["conflicto"]) & (d.sospechosa == "")
+    claves = set(zip(d.numero, d.cierre, d.variable))
+    nuevas = []
+    for origen, destino in (("activos_netos", "patrimonio"), ("patrimonio", "activos_netos")):
+        for _, r in d[fiable & (d.variable == origen)].iterrows():
+            if (r.numero, r.cierre, destino) not in claves:
+                nuevas.append({**r.to_dict(), "variable": destino, "actual": np.nan, "anterior": np.nan,
+                               "estado": "derivada_identidad", "etiqueta_ocr": f"= {origen}"})
+    if nuevas:
+        d = pd.concat([d, pd.DataFrame(nuevas)], ignore_index=True)
+
     # --- correcciones manuales
     fcm = D2 / "correcciones_manuales.csv"
     if fcm.exists():
@@ -235,7 +263,31 @@ def main():
     ini = np.where(c.dt.month <= 9, c.dt.year - 1, c.dt.year)
     panel["temporada"] = [f"{a}/{str(a + 1)[-2:]}" for a in ini]
     panel = panel.merge(publicada, on=["numero", "cierre"], how="left")
-    prim = ["club", "rol", "numero", "temporada", "cierre", "n_cifras_dudosas", "pyg_publicada"]
+    # duracion del ejercicio y cierre principal de cada temporada (si un cambio de fecha de cierre deja dos
+    # cierres en la misma temporada, el principal es el ultimo: el que cubre el final de la temporada)
+    panel = panel.sort_values(["numero", "cierre"])
+    cc = pd.to_datetime(panel.cierre)
+    panel["meses_ejercicio"] = (cc - cc.groupby(panel.numero).shift(1)).dt.days.div(30.44).round()
+    panel.loc[panel.meses_ejercicio > 24, "meses_ejercicio"] = np.nan     # hueco entre cuentas, no un ejercicio
+    panel["cierre_principal_temporada"] = ~panel.duplicated(["numero", "temporada"], keep="last")
+
+    # --- indicadores de la cuenta (para los modelos de la fase 3)
+    inv_aa = inv[inv.tipo == "AA"].copy()
+    inv_aa["tipo_cuenta"] = inv_aa.descripcion.str.replace("accounts-(amended-)?with-(accounts-type-)?", "", regex=True)
+    info = inv_aa.sort_values("depositada").drop_duplicates(["numero", "cierre"], keep="first")[
+        ["numero", "cierre", "tipo_cuenta", "depositada", "dias_fuera_plazo", "fuera_plazo_claro"]]
+    panel = panel.merge(info, on=["numero", "cierre"], how="left")
+    # sin cuenta propia: la fila solo existe por el comparativo de la cuenta siguiente
+    panel["cuenta_depositada"] = panel.tipo_cuenta.notna()
+    panel["cuenta_abreviada"] = panel.tipo_cuenta.fillna("").str.contains("small|micro|abridged|total-exemption")
+    panel["cuenta_inactiva"] = panel.tipo_cuenta.fillna("").eq("dormant")
+    # holdings que no consolidan al club (comprobado en la revision manual): sus cifras no representan al club
+    sin_consolidar = {"03912084": None, "07230595": {"2013-06-30", "2014-06-30"}}
+    panel["holding_sin_consolidar"] = [n in sin_consolidar and (sin_consolidar[n] is None or c in sin_consolidar[n])
+                                       for n, c in zip(panel.numero, panel.cierre)]
+    prim = ["club", "rol", "numero", "temporada", "cierre", "meses_ejercicio", "cierre_principal_temporada", "cuenta_depositada",
+            "tipo_cuenta", "cuenta_abreviada", "cuenta_inactiva", "holding_sin_consolidar", "depositada", "dias_fuera_plazo",
+            "fuera_plazo_claro", "n_cifras_dudosas", "pyg_publicada"]
     panel = panel[prim + [x for x in panel.columns if x not in prim]].sort_values(["club", "rol", "cierre"])
     panel.to_csv(D2 / "panel_financiero.csv", index=False)
 

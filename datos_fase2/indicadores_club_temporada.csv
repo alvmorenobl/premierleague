@@ -1,0 +1,749 @@
+temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_sanciones,division_siguiente,movimiento,numero,cierre,meses_ejercicio,cuenta_depositada,tipo_cuenta,cuenta_abreviada,cuenta_inactiva,depositada,dias_fuera_plazo,fuera_plazo_claro,numero_grupo,cuenta_grupo_depositada,holding_sin_consolidar,estado_cuenta
+2010/11,Premier League,Man United,38,80,41.0,1,Premier League,se_mantiene,00095489,2011-06-30,12.0,True,full,False,False,2011-12-21,-100.0,False,,,,depositada
+2010/11,Premier League,Chelsea,38,71,36.0,2,Premier League,se_mantiene,01965149,2011-06-30,12.0,True,full,False,False,2012-04-02,3.0,False,,,,depositada
+2010/11,Premier League,Man City,38,71,27.0,3,Premier League,se_mantiene,00040946,2011-05-31,12.0,True,full,False,False,2012-03-02,2.0,False,,,,depositada
+2010/11,Premier League,Arsenal,38,68,29.0,4,Premier League,se_mantiene,00109244,2011-05-31,12.0,True,full,False,False,2011-12-02,-89.0,False,,,,depositada
+2010/11,Premier League,Tottenham,38,62,9.0,5,Premier League,se_mantiene,00057186,2011-06-30,12.0,True,full,False,False,2012-03-01,-29.0,False,01706358,True,False,depositada
+2010/11,Premier League,Liverpool,38,58,15.0,6,Premier League,se_mantiene,00035668,2011-07-31,12.0,True,full,False,False,2012-05-02,2.0,False,,,,depositada
+2010/11,Premier League,Everton,38,54,6.0,7,Premier League,se_mantiene,00036624,2011-05-31,12.0,True,group,False,False,2011-12-29,-62.0,False,,,,depositada
+2010/11,Premier League,Fulham,38,49,6.0,8,Premier League,se_mantiene,02114486,2011-06-30,12.0,True,full,False,False,2012-02-08,-51.0,False,03374347,True,False,depositada
+2010/11,Premier League,Aston Villa,38,48,-11.0,9,Premier League,se_mantiene,03375789,2011-05-31,12.0,True,full,False,False,2012-02-29,0.0,False,,,,depositada
+2010/11,Premier League,Sunderland,38,47,-11.0,10,Premier League,se_mantiene,00049116,2011-07-31,12.0,True,full,False,False,2012-03-28,-33.0,False,,,,depositada
+2010/11,Premier League,West Brom,38,47,-15.0,11,Premier League,se_mantiene,03295063,2011-06-30,12.0,True,full,False,False,2012-03-02,-28.0,False,07230595,True,False,depositada
+2010/11,Premier League,Newcastle,38,46,-1.0,12,Premier League,se_mantiene,00031014,2011-06-30,12.0,True,full,False,False,2012-03-13,-17.0,False,02529667,True,False,depositada
+2010/11,Premier League,Stoke,38,46,-2.0,13,Premier League,se_mantiene,00099885,2011-05-31,12.0,True,full,False,False,2011-12-22,-69.0,False,,,,depositada
+2010/11,Premier League,Bolton,38,46,-4.0,14,Premier League,se_mantiene,00043026,2011-06-30,12.0,True,full,False,False,2011-10-21,-161.0,False,,,,depositada
+2010/11,Premier League,Blackburn,38,43,-13.0,15,Premier League,se_mantiene,00053482,2011-06-30,12.0,True,full,False,False,2012-01-06,-84.0,False,,,,depositada
+2010/11,Premier League,Wigan,38,42,-21.0,16,Premier League,se_mantiene,00270043,2011-05-31,12.0,True,full,False,False,2012-02-21,-8.0,False,07283993,True,False,depositada
+2010/11,Premier League,Wolves,38,40,-20.0,17,Premier League,se_mantiene,01989823,2011-05-31,12.0,True,full,False,False,2012-03-01,1.0,False,,,,depositada
+2010/11,Premier League,Birmingham,38,39,-21.0,18,Championship,descenso,00027318,2011-06-30,12.0,True,full,False,False,2012-06-07,69.0,True,,,,depositada
+2010/11,Premier League,Blackpool,38,39,-23.0,19,Championship,descenso,00048409,2011-05-31,12.0,True,full,False,False,2012-02-28,-1.0,False,,,,depositada
+2010/11,Premier League,West Ham,38,33,-27.0,20,Championship,descenso,00066516,2011-05-31,12.0,True,full,False,False,2012-01-19,-41.0,False,,,,depositada
+2010/11,Championship,QPR,46,88,39.0,1,Premier League,ascenso,00060094,2011-05-31,12.0,True,full,False,False,2012-03-06,6.0,False,,,,depositada
+2010/11,Championship,Norwich,46,84,25.0,2,Premier League,ascenso,00154044,2011-05-31,12.0,True,group,False,False,2011-11-29,-92.0,False,,,,depositada
+2010/11,Championship,Swansea,46,80,27.0,3,Premier League,ascenso,00123414,2011-05-31,12.0,True,full,False,False,2012-01-24,-36.0,False,04305508,True,False,depositada
+2010/11,Championship,Cardiff,46,80,22.0,4,Championship,se_mantiene,00109065,2011-05-31,12.0,True,full,False,False,2012-03-01,1.0,False,04044254,True,False,depositada
+2010/11,Championship,Reading,46,77,26.0,5,Championship,se_mantiene,00053703,2011-06-30,12.0,True,full,False,False,2011-12-30,-91.0,False,,,,depositada
+2010/11,Championship,Nott'm Forest,46,75,19.0,6,Championship,se_mantiene,01630402,2011-05-31,12.0,True,group,False,False,2012-01-24,-36.0,False,,,,depositada
+2010/11,Championship,Leeds,46,72,11.0,7,Championship,se_mantiene,06233875,2011-06-30,12.0,True,full,False,False,2012-04-02,3.0,False,,,,depositada
+2010/11,Championship,Burnley,46,68,4.0,8,Championship,se_mantiene,00054222,2011-06-30,12.0,True,full,False,False,2011-11-22,-129.0,False,,,,depositada
+2010/11,Championship,Millwall,46,67,14.0,9,Championship,se_mantiene,01924222,2011-06-30,12.0,True,full,False,False,2011-12-21,-100.0,False,,,,depositada
+2010/11,Championship,Leicester,46,67,5.0,10,Championship,se_mantiene,04593477,2011-05-31,12.0,True,full,False,False,2012-02-29,0.0,False,,,,depositada
+2010/11,Championship,Hull,46,65,1.0,11,Championship,se_mantiene,04032392,2011-07-31,12.0,True,full,False,False,2012-01-08,-113.0,False,,,,depositada
+2010/11,Championship,Middlesbrough,46,62,0.0,12,Championship,se_mantiene,01947851,2011-06-30,18.0,True,full,False,False,2012-03-15,-15.0,False,03912084,True,True,depositada
+2010/11,Championship,Ipswich,46,62,-6.0,13,Championship,se_mantiene,00315421,2011-06-30,12.0,True,group,False,False,2012-03-28,-2.0,False,,,,depositada
+2010/11,Championship,Watford,46,61,6.0,14,Championship,se_mantiene,00104194,2011-06-30,12.0,True,full,False,False,2011-12-21,-100.0,False,,,,depositada
+2010/11,Championship,Bristol City,46,60,-3.0,15,Championship,se_mantiene,03230871,2011-05-31,12.0,True,full,False,False,2011-12-15,-76.0,False,,,,depositada
+2010/11,Championship,Portsmouth,46,58,-7.0,16,Championship,se_mantiene,,,,False,,,,,,,,,,no_depositada
+2010/11,Championship,Barnsley,46,56,-11.0,17,Championship,se_mantiene,04573250,2011-05-31,12.0,True,medium,False,False,2012-02-28,-1.0,False,,,,depositada
+2010/11,Championship,Coventry,46,55,-4.0,18,Championship,se_mantiene,03056875,2011-05-31,12.0,True,full,False,False,2012-06-25,117.0,True,00094305,True,False,depositada
+2010/11,Championship,Derby,46,49,-13.0,19,Championship,se_mantiene,00049139,2011-06-30,12.0,True,full,False,False,2012-04-02,3.0,False,,,,depositada
+2010/11,Championship,Crystal Palace,46,48,-25.0,20,Championship,se_mantiene,07270793,2011-06-30,,True,full,False,False,2012-03-02,-28.0,False,07206409,True,False,depositada
+2010/11,Championship,Doncaster,46,48,-26.0,21,Championship,se_mantiene,00170192,2011-05-31,12.0,True,total-exemption-small,True,False,2012-02-28,-1.0,False,,,,depositada
+2010/11,Championship,Preston,46,42,-25.0,22,League One o inferior,descenso,00039494,2011-06-30,12.0,True,full,False,False,2012-01-23,-67.0,False,01621060,True,False,depositada
+2010/11,Championship,Sheffield United,46,42,-35.0,23,League One o inferior,descenso,00061564,2011-06-30,12.0,True,full,False,False,2012-03-30,0.0,False,,,,depositada
+2010/11,Championship,Scunthorpe,46,42,-44.0,24,League One o inferior,descenso,00123622,2011-06-30,12.0,True,full,False,False,2011-11-29,-122.0,False,,,,depositada
+2011/12,Premier League,Man City,38,89,64.0,1,Premier League,se_mantiene,00040946,2012-05-31,12.0,True,full,False,False,2013-03-05,5.0,False,,,,depositada
+2011/12,Premier League,Man United,38,89,56.0,2,Premier League,se_mantiene,00095489,2012-06-30,12.0,True,full,False,False,2013-03-22,-8.0,False,,,,depositada
+2011/12,Premier League,Arsenal,38,70,25.0,3,Premier League,se_mantiene,00109244,2012-05-31,12.0,True,full,False,False,2012-11-23,-97.0,False,,,,depositada
+2011/12,Premier League,Tottenham,38,69,25.0,4,Premier League,se_mantiene,00057186,2012-06-30,12.0,True,full,False,False,2013-04-08,9.0,False,01706358,True,False,depositada
+2011/12,Premier League,Newcastle,38,65,5.0,5,Premier League,se_mantiene,00031014,2012-06-30,12.0,True,full,False,False,2013-04-08,9.0,False,02529667,True,False,depositada
+2011/12,Premier League,Chelsea,38,64,19.0,6,Premier League,se_mantiene,01965149,2012-06-30,12.0,True,full,False,False,2013-04-08,9.0,False,,,,depositada
+2011/12,Premier League,Everton,38,56,10.0,7,Premier League,se_mantiene,00036624,2012-05-31,12.0,True,group,False,False,2013-01-25,-34.0,False,,,,depositada
+2011/12,Premier League,Liverpool,38,52,7.0,8,Premier League,se_mantiene,00035668,2012-05-31,10.0,True,full,False,False,2013-03-05,5.0,False,,,,depositada
+2011/12,Premier League,Fulham,38,52,-3.0,9,Premier League,se_mantiene,02114486,2012-06-30,12.0,True,full,False,False,2013-02-01,-57.0,False,03374347,True,False,depositada
+2011/12,Premier League,Swansea,38,47,-7.0,10,Premier League,se_mantiene,00123414,2012-05-31,12.0,True,full,False,False,2012-11-20,-100.0,False,04305508,True,False,depositada
+2011/12,Premier League,West Brom,38,47,-7.0,11,Premier League,se_mantiene,03295063,2012-06-30,12.0,True,full,False,False,2013-04-04,5.0,False,07230595,True,False,depositada
+2011/12,Premier League,Norwich,38,47,-14.0,12,Premier League,se_mantiene,00154044,2012-05-31,12.0,True,group,False,False,2012-11-20,-100.0,False,,,,depositada
+2011/12,Premier League,Sunderland,38,45,-1.0,13,Premier League,se_mantiene,00049116,2012-07-31,12.0,True,full,False,False,2013-04-11,-19.0,False,,,,depositada
+2011/12,Premier League,Stoke,38,45,-17.0,14,Premier League,se_mantiene,00099885,2012-05-31,12.0,True,full,False,False,2013-02-26,-2.0,False,,,,depositada
+2011/12,Premier League,Wigan,38,43,-20.0,15,Premier League,se_mantiene,00270043,2012-05-31,12.0,True,full,False,False,2013-02-14,-14.0,False,07283993,True,False,depositada
+2011/12,Premier League,Aston Villa,38,38,-16.0,16,Premier League,se_mantiene,03375789,2012-05-31,12.0,True,full,False,False,2013-03-05,5.0,False,,,,depositada
+2011/12,Premier League,QPR,38,37,-23.0,17,Premier League,se_mantiene,00060094,2012-05-31,12.0,True,full,False,False,2013-03-04,4.0,False,,,,depositada
+2011/12,Premier League,Bolton,38,36,-31.0,18,Championship,descenso,00043026,2012-06-30,12.0,True,full,False,False,2012-11-19,-131.0,False,,,,depositada
+2011/12,Premier League,Blackburn,38,31,-30.0,19,Championship,descenso,00053482,2012-06-30,12.0,True,full,False,False,2012-12-21,-99.0,False,,,,depositada
+2011/12,Premier League,Wolves,38,25,-42.0,20,Championship,descenso,01989823,2012-05-31,12.0,True,full,False,False,2013-02-19,-9.0,False,,,,depositada
+2011/12,Championship,Reading,46,89,28.0,1,Premier League,ascenso,00053703,2012-06-30,12.0,True,full,False,False,2013-03-13,-17.0,False,,,,depositada
+2011/12,Championship,Southampton,46,88,39.0,2,Premier League,ascenso,00053301,2012-06-30,12.0,True,full,False,False,2013-04-02,3.0,False,,,,depositada
+2011/12,Championship,West Ham,46,86,33.0,3,Premier League,ascenso,00066516,2012-05-31,12.0,True,full,False,False,2013-02-28,0.0,False,,,,depositada
+2011/12,Championship,Birmingham,46,76,27.0,4,Championship,se_mantiene,00027318,2012-06-30,12.0,True,full,False,False,2013-01-05,-84.0,False,,,,depositada
+2011/12,Championship,Blackpool,46,75,20.0,5,Championship,se_mantiene,00048409,2012-05-31,12.0,True,full,False,False,2013-02-28,0.0,False,,,,depositada
+2011/12,Championship,Cardiff,46,75,13.0,6,Championship,se_mantiene,00109065,2012-05-31,12.0,True,full,False,False,2013-01-24,-35.0,False,04044254,True,False,depositada
+2011/12,Championship,Middlesbrough,46,70,1.0,7,Championship,se_mantiene,01947851,2012-06-30,12.0,True,full,False,False,2013-03-18,-12.0,False,03912084,True,True,depositada
+2011/12,Championship,Hull,46,68,3.0,8,Championship,se_mantiene,04032392,2012-07-31,12.0,True,full,False,False,2013-01-05,-115.0,False,,,,depositada
+2011/12,Championship,Leicester,46,66,11.0,9,Championship,se_mantiene,04593477,2012-05-31,12.0,True,full,False,False,2013-03-05,5.0,False,,,,depositada
+2011/12,Championship,Brighton,46,66,0.0,10,Championship,se_mantiene,00081077,2012-06-30,12.0,True,full,False,False,2013-03-19,-11.0,False,02849319,True,False,depositada
+2011/12,Championship,Derby,46,64,-8.0,11,Championship,se_mantiene,00049139,2012-06-30,12.0,True,full,False,False,2013-01-18,-71.0,False,,,,depositada
+2011/12,Championship,Watford,46,64,-8.0,12,Championship,se_mantiene,00104194,2012-06-30,12.0,True,full,False,False,2012-12-17,-103.0,False,,,,depositada
+2011/12,Championship,Burnley,46,62,3.0,13,Championship,se_mantiene,00054222,2012-06-30,12.0,True,full,False,False,2013-01-21,-68.0,False,,,,depositada
+2011/12,Championship,Leeds,46,61,-3.0,14,Championship,se_mantiene,06233875,2012-06-30,12.0,True,full,False,False,2012-12-31,-89.0,False,,,,depositada
+2011/12,Championship,Ipswich,46,61,-8.0,15,Championship,se_mantiene,00315421,2012-06-30,12.0,True,group,False,False,2013-04-03,4.0,False,,,,depositada
+2011/12,Championship,Millwall,46,57,-2.0,16,Championship,se_mantiene,01924222,2012-06-30,12.0,True,full,False,False,2012-12-31,-89.0,False,,,,depositada
+2011/12,Championship,Crystal Palace,46,56,-5.0,17,Championship,se_mantiene,07270793,2012-06-30,12.0,True,full,False,False,2013-04-05,6.0,False,07206409,True,False,depositada
+2011/12,Championship,Portsmouth,46,50,-9.0,18,League One o inferior,descenso,,,,False,,,,,,,,,,no_depositada
+2011/12,Championship,Peterboro,46,50,-10.0,19,Championship,se_mantiene,00290803,2012-05-31,12.0,True,full,False,False,2013-03-27,27.0,False,,,,depositada
+2011/12,Championship,Nott'm Forest,46,50,-15.0,20,Championship,se_mantiene,01630402,2012-05-31,12.0,True,group,False,False,2013-02-25,-3.0,False,,,,depositada
+2011/12,Championship,Bristol City,46,49,-24.0,21,Championship,se_mantiene,03230871,2012-05-31,12.0,True,made-up-date,False,False,2013-02-27,-1.0,False,,,,depositada
+2011/12,Championship,Barnsley,46,48,-25.0,22,Championship,se_mantiene,04573250,2012-05-31,12.0,True,medium,False,False,2012-12-12,-78.0,False,,,,depositada
+2011/12,Championship,Coventry,46,40,-24.0,23,League One o inferior,descenso,07612487,2012-05-31,,True,full,False,False,2013-10-07,221.0,True,,,,depositada
+2011/12,Championship,Doncaster,46,36,-37.0,24,League One o inferior,descenso,00170192,2012-05-31,12.0,True,total-exemption-small,True,False,2013-03-04,4.0,False,,,,depositada
+2012/13,Premier League,Man United,38,89,43.0,1,Premier League,se_mantiene,00095489,2013-06-30,12.0,True,full,False,False,2013-11-22,-128.0,False,,,,depositada
+2012/13,Premier League,Man City,38,78,32.0,2,Premier League,se_mantiene,00040946,2013-05-31,12.0,True,full,False,False,2014-03-04,4.0,False,,,,depositada
+2012/13,Premier League,Chelsea,38,75,36.0,3,Premier League,se_mantiene,01965149,2013-06-30,12.0,True,full,False,False,2014-03-28,-2.0,False,,,,depositada
+2012/13,Premier League,Arsenal,38,73,35.0,4,Premier League,se_mantiene,00109244,2013-05-31,12.0,True,full,False,False,2013-12-03,-87.0,False,,,,depositada
+2012/13,Premier League,Tottenham,38,72,20.0,5,Premier League,se_mantiene,00057186,2013-06-30,12.0,True,full,False,False,2014-04-07,8.0,False,01706358,True,False,depositada
+2012/13,Premier League,Everton,38,63,15.0,6,Premier League,se_mantiene,00036624,2013-05-31,12.0,True,group,False,False,2014-02-26,-2.0,False,,,,depositada
+2012/13,Premier League,Liverpool,38,61,28.0,7,Premier League,se_mantiene,00035668,2013-05-31,12.0,True,full,False,False,2014-03-04,4.0,False,,,,depositada
+2012/13,Premier League,West Brom,38,49,-4.0,8,Premier League,se_mantiene,03295063,2013-06-30,12.0,True,full,False,False,2014-04-01,2.0,False,07230595,True,True,depositada
+2012/13,Premier League,Swansea,38,46,-4.0,9,Premier League,se_mantiene,00123414,2013-05-31,12.0,True,full,False,False,2013-12-10,-80.0,False,04305508,True,False,depositada
+2012/13,Premier League,West Ham,38,46,-8.0,10,Premier League,se_mantiene,00066516,2013-05-31,12.0,True,full,False,False,2014-01-21,-38.0,False,,,,depositada
+2012/13,Premier League,Norwich,38,44,-17.0,11,Premier League,se_mantiene,00154044,2013-06-30,13.0,True,group,False,False,2013-11-13,-137.0,False,,,,depositada
+2012/13,Premier League,Fulham,38,43,-10.0,12,Premier League,se_mantiene,02114486,2013-06-30,12.0,True,full,False,False,2014-03-31,1.0,False,03374347,True,False,depositada
+2012/13,Premier League,Stoke,38,42,-11.0,13,Premier League,se_mantiene,00099885,2013-05-31,12.0,True,full,False,False,2014-02-28,0.0,False,,,,depositada
+2012/13,Premier League,Southampton,38,41,-11.0,14,Premier League,se_mantiene,00053301,2013-06-30,12.0,True,full,False,False,2014-04-07,8.0,False,,,,depositada
+2012/13,Premier League,Aston Villa,38,41,-22.0,15,Premier League,se_mantiene,03375789,2013-05-31,12.0,True,full,False,False,2014-03-04,4.0,False,,,,depositada
+2012/13,Premier League,Newcastle,38,41,-23.0,16,Premier League,se_mantiene,00031014,2013-06-30,12.0,True,full,False,False,2014-03-11,-19.0,False,02529667,True,False,depositada
+2012/13,Premier League,Sunderland,38,39,-13.0,17,Premier League,se_mantiene,00049116,2013-07-31,12.0,True,full,False,False,2014-03-13,-48.0,False,,,,depositada
+2012/13,Premier League,Wigan,38,36,-26.0,18,Championship,descenso,00270043,2013-05-31,12.0,True,full,False,False,2014-02-26,-2.0,False,07283993,True,False,depositada
+2012/13,Premier League,Reading,38,28,-30.0,19,Championship,descenso,00053703,2013-06-30,12.0,True,full,False,False,2014-01-21,-68.0,False,,,,depositada
+2012/13,Premier League,QPR,38,25,-30.0,20,Championship,descenso,00060094,2013-05-31,12.0,True,full,False,False,2014-03-04,4.0,False,,,,depositada
+2012/13,Championship,Cardiff,46,87,27.0,1,Premier League,ascenso,00109065,2013-05-31,12.0,True,full,False,False,2014-01-07,-52.0,False,04044254,True,False,depositada
+2012/13,Championship,Hull,46,79,9.0,2,Premier League,ascenso,04032392,2013-07-31,12.0,True,full,False,False,2013-11-29,-152.0,False,,,,depositada
+2012/13,Championship,Watford,46,77,27.0,3,Championship,se_mantiene,00104194,2013-06-30,12.0,True,full,False,False,2013-11-26,-124.0,False,,,,depositada
+2012/13,Championship,Brighton,46,75,26.0,4,Championship,se_mantiene,00081077,2013-06-30,12.0,True,full,False,False,2014-02-11,-47.0,False,02849319,True,False,depositada
+2012/13,Championship,Crystal Palace,46,72,11.0,5,Premier League,ascenso,07270793,2013-06-30,12.0,True,full,False,False,2013-12-23,-97.0,False,07206409,True,False,depositada
+2012/13,Championship,Leicester,46,68,23.0,6,Championship,se_mantiene,04593477,2013-05-31,12.0,True,full,False,False,2014-03-04,4.0,False,,,,depositada
+2012/13,Championship,Bolton,46,68,8.0,7,Championship,se_mantiene,00043026,2013-06-30,12.0,True,full,False,False,2014-03-25,-5.0,False,,,,depositada
+2012/13,Championship,Nott'm Forest,46,67,4.0,8,Championship,se_mantiene,01630402,2013-05-31,12.0,True,group,False,False,2014-03-04,4.0,False,,,,depositada
+2012/13,Championship,Charlton,46,65,6.0,9,Championship,se_mantiene,01788466,2013-06-30,12.0,True,full,False,False,2014-03-28,-2.0,False,,,,depositada
+2012/13,Championship,Derby,46,61,3.0,10,Championship,se_mantiene,00049139,2013-06-30,12.0,True,full,False,False,2014-04-02,3.0,False,,,,depositada
+2012/13,Championship,Burnley,46,61,2.0,11,Championship,se_mantiene,00054222,2013-06-30,12.0,True,full,False,False,2013-12-12,-108.0,False,,,,depositada
+2012/13,Championship,Birmingham,46,61,-6.0,12,Championship,se_mantiene,00027318,2013-06-30,12.0,True,full,False,False,2013-12-13,-107.0,False,,,,depositada
+2012/13,Championship,Leeds,46,61,-9.0,13,Championship,se_mantiene,06233875,2013-06-30,12.0,True,full,False,False,2014-04-04,5.0,False,,,,depositada
+2012/13,Championship,Ipswich,46,60,-13.0,14,Championship,se_mantiene,00315421,2013-06-30,12.0,True,group,False,False,2013-12-30,-90.0,False,,,,depositada
+2012/13,Championship,Blackpool,46,59,-1.0,15,Championship,se_mantiene,00048409,2013-05-31,12.0,True,full,False,False,2014-02-28,0.0,False,,,,depositada
+2012/13,Championship,Middlesbrough,46,59,-9.0,16,Championship,se_mantiene,01947851,2013-06-30,12.0,True,full,False,False,2014-03-21,-9.0,False,03912084,True,True,depositada
+2012/13,Championship,Blackburn,46,58,-7.0,17,Championship,se_mantiene,00053482,2013-06-30,12.0,True,full,False,False,2013-10-31,-150.0,False,,,,depositada
+2012/13,Championship,Sheffield Weds,46,58,-8.0,18,Championship,se_mantiene,02509978,2013-05-31,12.0,True,full,False,False,2014-02-27,-1.0,False,,,,depositada
+2012/13,Championship,Huddersfield,46,58,-20.0,19,Championship,se_mantiene,01771361,2013-05-31,12.0,True,group,False,False,2014-01-08,-51.0,False,,,,depositada
+2012/13,Championship,Millwall,46,56,-11.0,20,Championship,se_mantiene,01924222,2013-06-30,12.0,True,full,False,False,2013-12-31,-89.0,False,,,,depositada
+2012/13,Championship,Barnsley,46,55,-14.0,21,Championship,se_mantiene,04573250,2013-05-31,12.0,True,medium,False,False,2014-01-15,-44.0,False,,,,depositada
+2012/13,Championship,Peterboro,46,54,-9.0,22,League One o inferior,descenso,00290803,2013-05-31,12.0,True,full,False,False,2014-03-04,4.0,False,,,,depositada
+2012/13,Championship,Wolves,46,51,-14.0,23,League One o inferior,descenso,01989823,2013-05-31,12.0,True,full,False,False,2014-03-04,4.0,False,,,,depositada
+2012/13,Championship,Bristol City,46,41,-25.0,24,League One o inferior,descenso,03230871,2013-05-31,12.0,True,full,False,False,2014-01-15,-44.0,False,,,,depositada
+2013/14,Premier League,Man City,38,86,65.0,1,Premier League,se_mantiene,00040946,2014-05-31,12.0,True,full,False,False,2014-12-24,-66.0,False,,,,depositada
+2013/14,Premier League,Liverpool,38,84,51.0,2,Premier League,se_mantiene,00035668,2014-05-31,12.0,True,full,False,False,2015-03-10,10.0,False,,,,depositada
+2013/14,Premier League,Chelsea,38,82,44.0,3,Premier League,se_mantiene,01965149,2014-06-30,12.0,True,full,False,False,2015-04-12,13.0,False,,,,depositada
+2013/14,Premier League,Arsenal,38,79,27.0,4,Premier League,se_mantiene,00109244,2014-05-31,12.0,True,full,False,False,2014-12-03,-87.0,False,,,,depositada
+2013/14,Premier League,Everton,38,72,22.0,5,Premier League,se_mantiene,00036624,2014-05-31,12.0,True,group,False,False,2014-11-12,-108.0,False,,,,depositada
+2013/14,Premier League,Tottenham,38,69,4.0,6,Premier League,se_mantiene,00057186,2014-06-30,12.0,True,full,False,False,2015-04-15,16.0,False,01706358,True,False,depositada
+2013/14,Premier League,Man United,38,64,21.0,7,Premier League,se_mantiene,00095489,2014-06-30,12.0,True,full,False,False,2015-01-14,-75.0,False,,,,depositada
+2013/14,Premier League,Southampton,38,56,8.0,8,Premier League,se_mantiene,00053301,2014-06-30,12.0,True,full,False,False,2015-04-16,17.0,False,,,,depositada
+2013/14,Premier League,Stoke,38,50,-7.0,9,Premier League,se_mantiene,00099885,2014-05-31,12.0,True,full,False,False,2014-12-15,-75.0,False,,,,depositada
+2013/14,Premier League,Newcastle,38,49,-16.0,10,Premier League,se_mantiene,00031014,2014-06-30,12.0,True,full,False,False,2015-04-14,15.0,False,02529667,True,False,depositada
+2013/14,Premier League,Crystal Palace,38,45,-15.0,11,Premier League,se_mantiene,07270793,2014-06-30,12.0,True,full,False,False,2015-04-15,16.0,False,07206409,True,False,depositada
+2013/14,Premier League,Swansea,38,42,0.0,12,Premier League,se_mantiene,00123414,2014-05-31,12.0,True,full,False,False,2015-02-18,-10.0,False,04305508,True,False,depositada
+2013/14,Premier League,West Ham,38,40,-11.0,13,Premier League,se_mantiene,00066516,2014-05-31,12.0,True,full,False,False,2015-01-23,-36.0,False,,,,depositada
+2013/14,Premier League,Sunderland,38,38,-19.0,14,Premier League,se_mantiene,00049116,2014-07-31,12.0,True,full,False,False,2015-03-17,-44.0,False,,,,depositada
+2013/14,Premier League,Aston Villa,38,38,-22.0,15,Premier League,se_mantiene,03375789,2014-05-31,12.0,True,full,False,False,2015-03-05,5.0,False,,,,depositada
+2013/14,Premier League,Hull,38,37,-15.0,16,Premier League,se_mantiene,04032392,2014-06-30,11.0,True,full,False,False,2014-10-14,-167.0,False,,,,depositada
+2013/14,Premier League,West Brom,38,36,-16.0,17,Premier League,se_mantiene,03295063,2014-06-30,12.0,True,full,False,False,2015-03-05,-25.0,False,07230595,True,True,depositada
+2013/14,Premier League,Norwich,38,33,-34.0,18,Championship,descenso,00154044,2014-06-30,12.0,True,group,False,False,2014-11-26,-124.0,False,,,,depositada
+2013/14,Premier League,Fulham,38,32,-45.0,19,Championship,descenso,02114486,2014-06-30,12.0,True,full,False,False,2015-04-12,13.0,False,03374347,True,False,depositada
+2013/14,Premier League,Cardiff,38,30,-42.0,20,Championship,descenso,00109065,2014-05-31,12.0,True,full,False,False,2015-02-25,-3.0,False,04044254,True,False,depositada
+2013/14,Championship,Leicester,46,102,40.0,1,Premier League,ascenso,04593477,2014-05-31,12.0,True,full,False,False,2015-03-10,10.0,False,,,,depositada
+2013/14,Championship,Burnley,46,93,35.0,2,Premier League,ascenso,00054222,2014-06-30,12.0,True,full,False,False,2014-12-22,-98.0,False,,,,depositada
+2013/14,Championship,Derby,46,85,32.0,3,Championship,se_mantiene,00049139,2014-06-30,12.0,True,full,False,False,2015-04-15,16.0,False,,,,depositada
+2013/14,Championship,QPR,46,80,16.0,4,Premier League,ascenso,00060094,2014-05-31,12.0,True,full,False,False,2015-03-11,11.0,False,,,,depositada
+2013/14,Championship,Wigan,46,73,13.0,5,Championship,se_mantiene,00270043,2014-05-31,12.0,True,full,False,False,2015-02-20,-8.0,False,07283993,True,False,depositada
+2013/14,Championship,Brighton,46,72,15.0,6,Championship,se_mantiene,00081077,2014-06-30,12.0,True,full,False,False,2015-01-28,-61.0,False,02849319,True,False,depositada
+2013/14,Championship,Reading,46,71,14.0,7,Championship,se_mantiene,00053703,2014-06-30,12.0,True,full,False,False,2014-12-18,-102.0,False,,,,depositada
+2013/14,Championship,Blackburn,46,70,8.0,8,Championship,se_mantiene,00053482,2014-06-30,12.0,True,full,False,False,2015-01-06,-83.0,False,,,,depositada
+2013/14,Championship,Ipswich,46,68,6.0,9,Championship,se_mantiene,00315421,2014-06-30,12.0,True,group,False,False,2015-01-15,-74.0,False,,,,depositada
+2013/14,Championship,Bournemouth,46,66,1.0,10,Championship,se_mantiene,06632170,2014-07-31,12.0,True,medium,False,False,2015-05-01,1.0,False,,,,depositada
+2013/14,Championship,Nott'm Forest,46,65,3.0,11,Championship,se_mantiene,01630402,2014-05-31,12.0,True,full,False,False,2015-03-04,4.0,False,,,,depositada
+2013/14,Championship,Middlesbrough,46,64,12.0,12,Championship,se_mantiene,01947851,2014-06-30,12.0,True,full,False,False,2015-04-14,15.0,False,03912084,True,True,depositada
+2013/14,Championship,Watford,46,60,10.0,13,Championship,se_mantiene,00104194,2014-06-30,12.0,True,full,False,False,2014-12-04,-116.0,False,,,,depositada
+2013/14,Championship,Bolton,46,59,-1.0,14,Championship,se_mantiene,00043026,2014-06-30,12.0,True,full,False,False,2015-04-15,16.0,False,,,,depositada
+2013/14,Championship,Leeds,46,57,-8.0,15,Championship,se_mantiene,06233875,2014-06-30,12.0,True,full,False,False,2015-04-13,14.0,False,,,,depositada
+2013/14,Championship,Sheffield Weds,46,53,-2.0,16,Championship,se_mantiene,02509978,2014-05-31,12.0,True,full,False,False,2015-03-11,11.0,False,,,,depositada
+2013/14,Championship,Huddersfield,46,53,-7.0,17,Championship,se_mantiene,01771361,2014-05-31,12.0,True,group,False,False,2015-01-21,-38.0,False,,,,depositada
+2013/14,Championship,Charlton,46,51,-20.0,18,Championship,se_mantiene,01788466,2014-06-30,12.0,True,full,False,False,2015-02-19,-39.0,False,,,,depositada
+2013/14,Championship,Millwall,46,48,-28.0,19,Championship,se_mantiene,01924222,2014-06-30,12.0,True,full,False,False,2015-01-06,-83.0,False,,,,depositada
+2013/14,Championship,Blackpool,46,46,-28.0,20,Championship,se_mantiene,00048409,2014-05-31,12.0,True,full,False,False,2015-03-06,6.0,False,,,,depositada
+2013/14,Championship,Birmingham,46,44,-16.0,21,Championship,se_mantiene,00027318,2014-06-30,12.0,True,full,False,False,2014-12-15,-105.0,False,,,,depositada
+2013/14,Championship,Doncaster,46,44,-31.0,22,League One o inferior,descenso,00170192,2014-05-31,12.0,True,total-exemption-small,True,False,2015-03-11,11.0,False,,,,depositada
+2013/14,Championship,Barnsley,46,39,-33.0,23,League One o inferior,descenso,04573250,2014-05-31,12.0,True,medium,False,False,2015-01-17,-42.0,False,,,,depositada
+2013/14,Championship,Yeovil,46,37,-31.0,24,League One o inferior,descenso,00189754,2014-06-30,12.0,True,small,True,False,2015-04-15,16.0,False,07113379,True,False,depositada
+2014/15,Premier League,Chelsea,38,87,41.0,1,Premier League,se_mantiene,01965149,2015-06-30,12.0,True,full,False,False,2016-04-05,6.0,False,,,,depositada
+2014/15,Premier League,Man City,38,79,45.0,2,Premier League,se_mantiene,00040946,2015-05-31,12.0,True,full,False,False,2016-03-01,1.0,False,,,,depositada
+2014/15,Premier League,Arsenal,38,75,35.0,3,Premier League,se_mantiene,00109244,2015-05-31,12.0,True,full,False,False,2015-12-02,-89.0,False,,,,depositada
+2014/15,Premier League,Man United,38,70,25.0,4,Premier League,se_mantiene,00095489,2015-06-30,12.0,True,full,False,False,2015-12-19,-102.0,False,,,,depositada
+2014/15,Premier League,Tottenham,38,64,5.0,5,Premier League,se_mantiene,00057186,2015-06-30,12.0,True,full,False,False,2016-04-28,29.0,False,01706358,True,False,depositada
+2014/15,Premier League,Liverpool,38,62,4.0,6,Premier League,se_mantiene,00035668,2015-05-31,12.0,True,full,False,False,2016-03-07,7.0,False,,,,depositada
+2014/15,Premier League,Southampton,38,60,21.0,7,Premier League,se_mantiene,00053301,2015-06-30,12.0,True,full,False,False,2015-10-28,-154.0,False,,,,depositada
+2014/15,Premier League,Swansea,38,56,-3.0,8,Premier League,se_mantiene,00123414,2015-07-31,14.0,True,full,False,False,2015-12-17,-135.0,False,04305508,True,False,depositada
+2014/15,Premier League,Stoke,38,54,3.0,9,Premier League,se_mantiene,00099885,2015-05-31,12.0,True,full,False,False,2015-11-20,-101.0,False,,,,depositada
+2014/15,Premier League,Crystal Palace,38,48,-4.0,10,Premier League,se_mantiene,07270793,2015-06-30,12.0,True,full,False,False,2016-02-04,-55.0,False,07206409,True,False,depositada
+2014/15,Premier League,Everton,38,47,-2.0,11,Premier League,se_mantiene,00036624,2015-05-31,12.0,True,group,False,False,2015-12-08,-83.0,False,,,,depositada
+2014/15,Premier League,West Ham,38,47,-3.0,12,Premier League,se_mantiene,00066516,2015-05-31,12.0,True,full,False,False,2015-12-11,-80.0,False,,,,depositada
+2014/15,Premier League,West Brom,38,44,-13.0,13,Premier League,se_mantiene,03295063,2015-06-30,12.0,True,full,False,False,2016-04-06,7.0,False,07230595,True,False,depositada
+2014/15,Premier League,Leicester,38,41,-9.0,14,Premier League,se_mantiene,04593477,2015-05-31,12.0,True,full,False,False,2016-03-07,7.0,False,,,,depositada
+2014/15,Premier League,Newcastle,38,39,-23.0,15,Premier League,se_mantiene,00031014,2015-06-30,12.0,True,full,False,False,2016-04-13,14.0,False,02529667,True,False,depositada
+2014/15,Premier League,Sunderland,38,38,-22.0,16,Premier League,se_mantiene,00049116,2015-07-31,12.0,True,full,False,False,2016-04-29,-1.0,False,,,,depositada
+2014/15,Premier League,Aston Villa,38,38,-26.0,17,Premier League,se_mantiene,03375789,2015-05-31,12.0,True,full,False,False,2016-03-08,8.0,False,,,,depositada
+2014/15,Premier League,Hull,38,35,-18.0,18,Championship,descenso,04032392,2015-06-30,12.0,True,full,False,False,2015-10-17,-165.0,False,,,,depositada
+2014/15,Premier League,Burnley,38,33,-25.0,19,Championship,descenso,00054222,2015-06-30,12.0,True,full,False,False,2016-04-11,12.0,False,,,,depositada
+2014/15,Premier League,QPR,38,30,-31.0,20,Championship,descenso,00060094,2015-05-31,12.0,True,full,False,False,2016-03-30,30.0,False,,,,depositada
+2014/15,Championship,Bournemouth,46,90,53.0,1,Premier League,ascenso,06632170,2015-07-31,12.0,True,full,False,False,2016-04-28,-2.0,False,,,,depositada
+2014/15,Championship,Watford,46,89,41.0,2,Premier League,ascenso,00104194,2015-06-30,12.0,True,full,False,False,2015-12-12,-109.0,False,,,,depositada
+2014/15,Championship,Norwich,46,86,40.0,3,Premier League,ascenso,00154044,2015-06-30,12.0,True,group,False,False,2015-11-15,-136.0,False,,,,depositada
+2014/15,Championship,Middlesbrough,46,85,31.0,4,Championship,se_mantiene,01947851,2015-06-30,12.0,True,full,False,False,2016-04-05,6.0,False,03912084,True,True,depositada
+2014/15,Championship,Brentford,46,78,19.0,5,Championship,se_mantiene,03642327,2015-06-30,12.0,True,group,False,False,2016-03-30,0.0,False,,,,depositada
+2014/15,Championship,Ipswich,46,78,18.0,6,Championship,se_mantiene,00315421,2015-06-30,12.0,True,group,False,False,2016-02-15,-44.0,False,,,,depositada
+2014/15,Championship,Wolves,46,78,14.0,7,Championship,se_mantiene,01989823,2015-05-31,12.0,True,full,False,False,2016-03-04,4.0,False,,,,depositada
+2014/15,Championship,Derby,46,77,29.0,8,Championship,se_mantiene,00049139,2015-06-30,12.0,True,full,False,False,2016-04-12,13.0,False,,,,depositada
+2014/15,Championship,Blackburn,46,67,7.0,9,Championship,se_mantiene,00053482,2015-06-30,12.0,True,full,False,False,2016-04-04,5.0,False,,,,depositada
+2014/15,Championship,Birmingham,46,63,-10.0,10,Championship,se_mantiene,00027318,2015-06-30,12.0,True,full,False,False,2015-12-16,-105.0,False,,,,depositada
+2014/15,Championship,Cardiff,46,62,-4.0,11,Championship,se_mantiene,00109065,2015-05-31,12.0,True,full,False,False,2016-02-22,-7.0,False,04044254,True,False,depositada
+2014/15,Championship,Charlton,46,60,-6.0,12,Championship,se_mantiene,01788466,2015-06-30,12.0,True,full,False,False,2016-03-09,-21.0,False,,,,depositada
+2014/15,Championship,Sheffield Weds,46,60,-6.0,13,Championship,se_mantiene,02509978,2015-05-31,12.0,True,full,False,False,2016-03-02,2.0,False,,,,depositada
+2014/15,Championship,Nott'm Forest,46,59,2.0,14,Championship,se_mantiene,01630402,2015-05-31,12.0,True,full,False,False,2016-02-23,-6.0,False,,,,depositada
+2014/15,Championship,Leeds,46,56,-11.0,15,Championship,se_mantiene,06233875,2015-06-30,12.0,True,full,False,False,2016-03-02,-28.0,False,,,,depositada
+2014/15,Championship,Huddersfield,46,55,-17.0,16,Championship,se_mantiene,01771361,2015-05-31,12.0,True,group,False,False,2016-03-02,2.0,False,,,,depositada
+2014/15,Championship,Fulham,46,52,-21.0,17,Championship,se_mantiene,02114486,2015-06-30,12.0,True,full,False,False,2016-04-06,7.0,False,03374347,True,False,depositada
+2014/15,Championship,Bolton,46,51,-13.0,18,Championship,se_mantiene,00043026,2015-06-30,12.0,True,full,False,False,2017-02-09,316.0,True,,,,depositada
+2014/15,Championship,Reading,46,50,-21.0,19,Championship,se_mantiene,00053703,2015-06-30,12.0,True,full,False,False,2016-02-23,-36.0,False,,,,depositada
+2014/15,Championship,Rotherham,46,49,-21.0,20,Championship,se_mantiene,06550400,2015-06-30,6.0,True,full,False,False,2015-12-21,-100.0,False,,,,depositada
+2014/15,Championship,Brighton,46,47,-10.0,21,Championship,se_mantiene,00081077,2015-06-30,12.0,True,full,False,False,2016-04-01,2.0,False,02849319,True,False,depositada
+2014/15,Championship,Millwall,46,41,-34.0,22,League One o inferior,descenso,01924222,2015-06-30,12.0,True,full,False,False,2016-01-05,-85.0,False,,,,depositada
+2014/15,Championship,Wigan,46,39,-25.0,23,League One o inferior,descenso,00270043,2015-05-31,12.0,True,full,False,False,2016-02-25,-4.0,False,07283993,True,False,depositada
+2014/15,Championship,Blackpool,46,26,-55.0,24,League One o inferior,descenso,00048409,2015-05-31,12.0,True,full,False,False,2016-07-18,140.0,True,,,,depositada
+2015/16,Premier League,Leicester,38,81,32.0,1,Premier League,se_mantiene,04593477,2016-05-31,12.0,True,full,False,False,2017-03-03,3.0,False,,,,depositada
+2015/16,Premier League,Arsenal,38,71,29.0,2,Premier League,se_mantiene,00109244,2016-05-31,12.0,True,full,False,False,2016-12-11,-79.0,False,,,,depositada
+2015/16,Premier League,Tottenham,38,70,34.0,3,Premier League,se_mantiene,00057186,2016-06-30,12.0,True,full,False,False,2017-04-06,7.0,False,01706358,True,False,depositada
+2015/16,Premier League,Man City,38,66,30.0,4,Premier League,se_mantiene,00040946,2016-05-31,12.0,True,full,False,False,2017-03-06,6.0,False,,,,depositada
+2015/16,Premier League,Man United,38,66,14.0,5,Premier League,se_mantiene,00095489,2016-06-30,12.0,True,full,False,False,2016-12-22,-98.0,False,,,,depositada
+2015/16,Premier League,Southampton,38,63,18.0,6,Premier League,se_mantiene,00053301,2016-06-30,12.0,True,full,False,False,2017-03-21,-9.0,False,,,,depositada
+2015/16,Premier League,West Ham,38,62,14.0,7,Premier League,se_mantiene,00066516,2016-05-31,12.0,True,full,False,False,2017-02-27,-1.0,False,,,,depositada
+2015/16,Premier League,Liverpool,38,60,13.0,8,Premier League,se_mantiene,00035668,2016-05-31,12.0,True,full,False,False,2017-03-03,3.0,False,,,,depositada
+2015/16,Premier League,Stoke,38,51,-14.0,9,Premier League,se_mantiene,00099885,2016-05-31,12.0,True,full,False,False,2016-09-27,-154.0,False,,,,depositada
+2015/16,Premier League,Chelsea,38,50,6.0,10,Premier League,se_mantiene,01965149,2016-06-30,12.0,True,full,False,False,2017-04-05,6.0,False,,,,depositada
+2015/16,Premier League,Everton,38,47,4.0,11,Premier League,se_mantiene,00036624,2016-05-31,12.0,True,group,False,False,2017-01-13,-46.0,False,,,,depositada
+2015/16,Premier League,Swansea,38,47,-10.0,12,Premier League,se_mantiene,00123414,2016-07-31,12.0,True,full,False,False,2017-05-05,5.0,False,04305508,True,False,depositada
+2015/16,Premier League,Watford,38,45,-10.0,13,Premier League,se_mantiene,00104194,2016-06-30,12.0,True,full,False,False,2017-03-16,-14.0,False,,,,depositada
+2015/16,Premier League,West Brom,38,43,-14.0,14,Premier League,se_mantiene,03295063,2016-06-30,12.0,True,full,False,False,2017-01-27,-62.0,False,07230595,True,False,depositada
+2015/16,Premier League,Crystal Palace,38,42,-12.0,15,Premier League,se_mantiene,07270793,2016-06-30,12.0,True,full,False,False,2017-03-21,-9.0,False,07206409,True,False,depositada
+2015/16,Premier League,Bournemouth,38,42,-22.0,16,Premier League,se_mantiene,06632170,2016-07-31,12.0,True,full,False,False,2017-04-25,-5.0,False,,,,depositada
+2015/16,Premier League,Sunderland,38,39,-14.0,17,Premier League,se_mantiene,00049116,2016-07-31,12.0,True,full,False,False,2017-05-30,30.0,False,,,,depositada
+2015/16,Premier League,Newcastle,38,37,-21.0,18,Championship,descenso,00031014,2016-06-30,12.0,True,full,False,False,2017-04-10,11.0,False,02529667,True,False,depositada
+2015/16,Premier League,Norwich,38,34,-28.0,19,Championship,descenso,00154044,2016-06-30,12.0,True,group,False,False,2016-12-14,-106.0,False,,,,depositada
+2015/16,Premier League,Aston Villa,38,17,-49.0,20,Championship,descenso,03375789,2016-05-31,12.0,True,full,False,False,2017-03-23,23.0,False,,,,depositada
+2015/16,Championship,Burnley,46,93,37.0,1,Premier League,ascenso,00054222,2016-06-30,12.0,True,full,False,False,2017-04-05,6.0,False,,,,depositada
+2015/16,Championship,Middlesbrough,46,89,32.0,2,Premier League,ascenso,01947851,2016-06-30,12.0,True,full,False,False,2017-03-23,-7.0,False,03912084,True,True,depositada
+2015/16,Championship,Brighton,46,89,30.0,3,Championship,se_mantiene,00081077,2016-06-30,12.0,True,full,False,False,2017-02-10,-48.0,False,02849319,True,False,depositada
+2015/16,Championship,Hull,46,83,34.0,4,Premier League,ascenso,04032392,2016-06-30,12.0,True,full,False,False,2016-10-02,-179.0,False,,,,depositada
+2015/16,Championship,Derby,46,78,23.0,5,Championship,se_mantiene,00049139,2016-06-30,12.0,True,full,False,False,2017-04-07,8.0,False,,,,depositada
+2015/16,Championship,Sheffield Weds,46,74,21.0,6,Championship,se_mantiene,02509978,2016-05-31,12.0,True,full,False,False,2017-03-01,1.0,False,,,,depositada
+2015/16,Championship,Ipswich,46,69,2.0,7,Championship,se_mantiene,00315421,2016-06-30,12.0,True,group,False,False,2017-01-09,-80.0,False,,,,depositada
+2015/16,Championship,Cardiff,46,68,5.0,8,Championship,se_mantiene,00109065,2016-05-31,12.0,True,full,False,False,2017-03-06,6.0,False,04044254,True,False,depositada
+2015/16,Championship,Brentford,46,65,5.0,9,Championship,se_mantiene,03642327,2016-06-30,12.0,True,group,False,False,2017-04-07,8.0,False,,,,depositada
+2015/16,Championship,Birmingham,46,63,4.0,10,Championship,se_mantiene,00027318,2016-06-30,12.0,True,full,False,False,2016-12-02,-118.0,False,,,,depositada
+2015/16,Championship,Preston,46,62,0.0,11,Championship,se_mantiene,00039494,2016-06-30,12.0,True,full,False,False,2016-12-13,-107.0,False,01621060,True,False,depositada
+2015/16,Championship,QPR,46,60,0.0,12,Championship,se_mantiene,00060094,2016-05-31,12.0,True,full,False,False,2017-03-03,3.0,False,,,,depositada
+2015/16,Championship,Leeds,46,59,-8.0,13,Championship,se_mantiene,06233875,2016-06-30,12.0,True,group,False,False,2017-03-30,0.0,False,,,,depositada
+2015/16,Championship,Wolves,46,58,-5.0,14,Championship,se_mantiene,01989823,2016-05-31,12.0,True,full,False,False,2017-03-03,3.0,False,,,,depositada
+2015/16,Championship,Blackburn,46,55,0.0,15,Championship,se_mantiene,00053482,2016-06-30,12.0,True,full,False,False,2017-02-17,-41.0,False,,,,depositada
+2015/16,Championship,Nott'm Forest,46,55,-4.0,16,Championship,se_mantiene,01630402,2016-05-31,12.0,True,full,False,False,2017-02-14,-14.0,False,,,,depositada
+2015/16,Championship,Reading,46,52,-7.0,17,Championship,se_mantiene,00053703,2016-06-30,12.0,True,full,False,False,2017-01-12,-77.0,False,,,,depositada
+2015/16,Championship,Bristol City,46,52,-17.0,18,Championship,se_mantiene,03230871,2016-05-31,12.0,True,full,False,False,2017-01-04,-55.0,False,,,,depositada
+2015/16,Championship,Huddersfield,46,51,-11.0,19,Championship,se_mantiene,01771361,2016-06-30,13.0,True,group,False,False,2017-04-06,7.0,False,,,,depositada
+2015/16,Championship,Fulham,46,51,-13.0,20,Championship,se_mantiene,02114486,2016-06-30,12.0,True,full,False,False,2017-04-05,6.0,False,03374347,True,False,depositada
+2015/16,Championship,Rotherham,46,49,-18.0,21,Championship,se_mantiene,06550400,2016-06-30,12.0,True,full,False,False,2017-03-08,-22.0,False,,,,depositada
+2015/16,Championship,Charlton,46,40,-40.0,22,League One o inferior,descenso,01788466,2016-06-30,12.0,True,full,False,False,2017-04-05,6.0,False,,,,depositada
+2015/16,Championship,Milton Keynes Dons,46,39,-30.0,23,League One o inferior,descenso,04787003,2016-06-30,12.0,True,full,False,False,2016-12-14,-106.0,False,,,,depositada
+2015/16,Championship,Bolton,46,30,-40.0,24,League One o inferior,descenso,00043026,2016-06-30,12.0,True,full,False,False,2017-07-25,117.0,True,,,,depositada
+2016/17,Premier League,Chelsea,38,93,52.0,1,Premier League,se_mantiene,01965149,2017-06-30,12.0,True,full,False,False,2018-04-05,6.0,False,,,,depositada
+2016/17,Premier League,Tottenham,38,86,60.0,2,Premier League,se_mantiene,00057186,2017-06-30,12.0,True,full,False,False,2018-04-05,6.0,False,01706358,True,False,depositada
+2016/17,Premier League,Man City,38,78,41.0,3,Premier League,se_mantiene,00040946,2017-06-30,13.0,True,full,False,False,2018-03-16,-14.0,False,,,,depositada
+2016/17,Premier League,Liverpool,38,76,36.0,4,Premier League,se_mantiene,00035668,2017-05-31,12.0,True,full,False,False,2018-03-07,7.0,False,,,,depositada
+2016/17,Premier League,Arsenal,38,75,33.0,5,Premier League,se_mantiene,00109244,2017-05-31,12.0,True,full,False,False,2017-12-05,-85.0,False,,,,depositada
+2016/17,Premier League,Man United,38,69,25.0,6,Premier League,se_mantiene,00095489,2017-06-30,12.0,True,full,False,False,2017-12-20,-100.0,False,,,,depositada
+2016/17,Premier League,Everton,38,61,18.0,7,Premier League,se_mantiene,00036624,2017-05-31,12.0,True,group,False,False,2018-02-16,-12.0,False,,,,depositada
+2016/17,Premier League,Southampton,38,46,-7.0,8,Premier League,se_mantiene,00053301,2017-06-30,12.0,True,full,False,False,2018-03-28,-2.0,False,,,,depositada
+2016/17,Premier League,Bournemouth,38,46,-12.0,9,Premier League,se_mantiene,06632170,2017-06-30,11.0,True,full,False,False,2018-03-26,-4.0,False,,,,depositada
+2016/17,Premier League,West Brom,38,45,-8.0,10,Premier League,se_mantiene,03295063,2017-06-30,12.0,True,full,False,False,2018-03-28,-2.0,False,07230595,True,False,depositada
+2016/17,Premier League,West Ham,38,45,-17.0,11,Premier League,se_mantiene,00066516,2017-05-31,12.0,True,full,False,False,2018-03-07,7.0,False,,,,depositada
+2016/17,Premier League,Leicester,38,44,-15.0,12,Premier League,se_mantiene,04593477,2017-05-31,12.0,True,full,False,False,2018-03-08,8.0,False,,,,depositada
+2016/17,Premier League,Stoke,38,44,-15.0,13,Premier League,se_mantiene,00099885,2017-05-31,12.0,True,full,False,False,2017-11-09,-111.0,False,,,,depositada
+2016/17,Premier League,Crystal Palace,38,41,-13.0,14,Premier League,se_mantiene,07270793,2017-06-30,12.0,True,full,False,False,2018-06-19,81.0,True,07206409,True,False,depositada
+2016/17,Premier League,Swansea,38,41,-25.0,15,Premier League,se_mantiene,00123414,2017-07-31,12.0,True,full,False,False,2018-03-12,-49.0,False,04305508,True,False,depositada
+2016/17,Premier League,Burnley,38,40,-16.0,16,Premier League,se_mantiene,00054222,2017-06-30,12.0,True,full,False,False,2018-04-06,7.0,False,,,,depositada
+2016/17,Premier League,Watford,38,40,-28.0,17,Premier League,se_mantiene,00104194,2017-06-30,12.0,True,full,False,False,2018-03-07,-23.0,False,,,,depositada
+2016/17,Premier League,Hull,38,34,-43.0,18,Championship,descenso,04032392,2017-06-30,12.0,True,full,False,False,2017-10-17,-164.0,False,,,,depositada
+2016/17,Premier League,Middlesbrough,38,28,-26.0,19,Championship,descenso,01947851,2017-06-30,12.0,True,full,False,False,2018-04-06,7.0,False,,,,depositada
+2016/17,Premier League,Sunderland,38,24,-40.0,20,Championship,descenso,00049116,2017-07-31,12.0,True,full,False,False,2018-05-11,11.0,False,,,,depositada
+2016/17,Championship,Newcastle,46,94,45.0,1,Premier League,ascenso,00031014,2017-06-30,12.0,True,full,False,False,2018-05-22,53.0,True,02529667,True,False,depositada
+2016/17,Championship,Brighton,46,93,34.0,2,Premier League,ascenso,00081077,2017-06-30,12.0,True,full,False,False,2018-04-06,7.0,False,02849319,True,False,depositada
+2016/17,Championship,Reading,46,85,4.0,3,Championship,se_mantiene,00053703,2017-06-30,12.0,True,full,False,False,2018-03-09,-21.0,False,,,,depositada
+2016/17,Championship,Sheffield Weds,46,81,15.0,4,Championship,se_mantiene,02509978,2017-05-31,12.0,True,full,False,False,2018-03-06,6.0,False,,,,depositada
+2016/17,Championship,Huddersfield,46,81,-2.0,5,Premier League,ascenso,01771361,2017-06-30,12.0,True,group,False,False,2018-03-28,-2.0,False,,,,depositada
+2016/17,Championship,Fulham,46,80,28.0,6,Championship,se_mantiene,02114486,2017-06-30,12.0,True,full,False,False,2018-04-05,6.0,False,03374347,True,False,depositada
+2016/17,Championship,Leeds,46,75,14.0,7,Championship,se_mantiene,06233875,2017-06-30,12.0,True,group,False,False,2018-04-06,7.0,False,,,,depositada
+2016/17,Championship,Norwich,46,70,16.0,8,Championship,se_mantiene,00154044,2017-06-30,12.0,True,group,False,False,2017-12-22,-98.0,False,,,,depositada
+2016/17,Championship,Derby,46,67,4.0,9,Championship,se_mantiene,00049139,2017-06-30,12.0,True,full,False,False,2018-04-06,7.0,False,,,,depositada
+2016/17,Championship,Brentford,46,64,10.0,10,Championship,se_mantiene,03642327,2017-06-30,12.0,True,group,False,False,2018-04-05,6.0,False,,,,depositada
+2016/17,Championship,Preston,46,62,1.0,11,Championship,se_mantiene,00039494,2017-06-30,12.0,True,full,False,False,2017-10-31,-150.0,False,01621060,True,False,depositada
+2016/17,Championship,Aston Villa,46,62,-1.0,12,Championship,se_mantiene,03375789,2017-05-31,12.0,True,full,False,False,2018-02-13,-15.0,False,,,,depositada
+2016/17,Championship,Cardiff,46,62,-1.0,13,Championship,se_mantiene,00109065,2017-05-31,12.0,True,full,False,False,2018-03-06,6.0,False,04044254,True,False,depositada
+2016/17,Championship,Barnsley,46,58,-3.0,14,Championship,se_mantiene,04573250,2017-05-31,12.0,True,small,True,False,2018-02-28,0.0,False,,,,depositada
+2016/17,Championship,Wolves,46,58,-4.0,15,Championship,se_mantiene,01989823,2017-05-31,12.0,True,full,False,False,2018-03-07,7.0,False,,,,depositada
+2016/17,Championship,Ipswich,46,55,-10.0,16,Championship,se_mantiene,00315421,2017-06-30,12.0,True,group,False,False,2018-03-08,-22.0,False,,,,depositada
+2016/17,Championship,Bristol City,46,54,-6.0,17,Championship,se_mantiene,03230871,2017-05-31,12.0,True,full,False,False,2017-12-14,-76.0,False,,,,depositada
+2016/17,Championship,QPR,46,53,-14.0,18,Championship,se_mantiene,00060094,2017-05-31,12.0,True,full,False,False,2018-03-07,7.0,False,,,,depositada
+2016/17,Championship,Birmingham,46,53,-19.0,19,Championship,se_mantiene,00027318,2017-06-30,12.0,True,full,False,False,2017-12-06,-114.0,False,,,,depositada
+2016/17,Championship,Burton,46,52,-14.0,20,Championship,se_mantiene,00488096,2017-05-31,12.0,True,full,False,False,2018-01-29,-30.0,False,,,,depositada
+2016/17,Championship,Nott'm Forest,46,51,-10.0,21,Championship,se_mantiene,01630402,2017-05-31,12.0,True,full,False,False,2018-03-06,6.0,False,,,,depositada
+2016/17,Championship,Blackburn,46,51,-12.0,22,League One o inferior,descenso,00053482,2017-06-30,12.0,True,full,False,False,2018-03-26,-4.0,False,,,,depositada
+2016/17,Championship,Wigan,46,42,-17.0,23,League One o inferior,descenso,00270043,2017-05-31,12.0,True,full,False,False,2018-02-21,-7.0,False,07283993,True,False,depositada
+2016/17,Championship,Rotherham,46,23,-58.0,24,League One o inferior,descenso,06550400,2017-06-30,12.0,True,full,False,False,2018-03-07,-23.0,False,,,,depositada
+2017/18,Premier League,Man City,38,100,79.0,1,Premier League,se_mantiene,00040946,2018-06-30,12.0,True,full,False,False,2019-04-02,3.0,False,,,,depositada
+2017/18,Premier League,Man United,38,81,40.0,2,Premier League,se_mantiene,00095489,2018-06-30,12.0,True,full,False,False,2019-02-21,-37.0,False,,,,depositada
+2017/18,Premier League,Tottenham,38,77,38.0,3,Premier League,se_mantiene,00057186,2018-06-30,12.0,True,full,False,False,2019-04-04,5.0,False,01706358,True,False,depositada
+2017/18,Premier League,Liverpool,38,75,46.0,4,Premier League,se_mantiene,00035668,2018-05-31,12.0,True,group,False,False,2019-02-14,-14.0,False,,,,depositada
+2017/18,Premier League,Chelsea,38,70,24.0,5,Premier League,se_mantiene,01965149,2018-06-30,12.0,True,full,False,False,2019-04-02,3.0,False,,,,depositada
+2017/18,Premier League,Arsenal,38,63,23.0,6,Premier League,se_mantiene,00109244,2018-05-31,12.0,True,full,False,False,2019-01-28,-31.0,False,,,,depositada
+2017/18,Premier League,Burnley,38,54,-3.0,7,Premier League,se_mantiene,00054222,2018-06-30,12.0,True,full,False,False,2019-04-05,6.0,False,,,,depositada
+2017/18,Premier League,Everton,38,49,-14.0,8,Premier League,se_mantiene,00036624,2018-05-31,12.0,True,group,False,False,2019-03-07,7.0,False,,,,depositada
+2017/18,Premier League,Leicester,38,47,-4.0,9,Premier League,se_mantiene,04593477,2018-05-31,12.0,True,full,False,False,2019-03-06,6.0,False,,,,depositada
+2017/18,Premier League,Newcastle,38,44,-8.0,10,Premier League,se_mantiene,00031014,2018-06-30,12.0,True,full,False,False,2019-04-29,30.0,False,02529667,True,False,depositada
+2017/18,Premier League,Crystal Palace,38,44,-10.0,11,Premier League,se_mantiene,07270793,2018-06-30,12.0,True,full,False,False,2019-04-04,5.0,False,07206409,True,False,depositada
+2017/18,Premier League,Bournemouth,38,44,-16.0,12,Premier League,se_mantiene,06632170,2018-06-30,12.0,True,full,False,False,2019-03-25,-5.0,False,,,,depositada
+2017/18,Premier League,West Ham,38,42,-20.0,13,Premier League,se_mantiene,00066516,2018-05-31,12.0,True,full,False,False,2018-12-28,-62.0,False,,,,depositada
+2017/18,Premier League,Watford,38,41,-20.0,14,Premier League,se_mantiene,00104194,2018-06-30,12.0,True,full,False,False,2019-03-12,-18.0,False,,,,depositada
+2017/18,Premier League,Brighton,38,40,-20.0,15,Premier League,se_mantiene,00081077,2018-06-30,12.0,True,full,False,False,2019-03-14,-16.0,False,02849319,True,False,depositada
+2017/18,Premier League,Huddersfield,38,37,-30.0,16,Premier League,se_mantiene,01771361,2018-06-30,12.0,True,group,False,False,2019-03-27,-3.0,False,,,,depositada
+2017/18,Premier League,Southampton,38,36,-19.0,17,Premier League,se_mantiene,00053301,2018-06-30,12.0,True,full,False,False,2019-03-12,-18.0,False,,,,depositada
+2017/18,Premier League,Swansea,38,33,-28.0,18,Championship,descenso,00123414,2018-07-31,12.0,True,full,False,False,2019-04-26,-4.0,False,04305508,True,False,depositada
+2017/18,Premier League,Stoke,38,33,-33.0,19,Championship,descenso,00099885,2018-05-31,12.0,True,full,False,False,2018-11-19,-101.0,False,,,,depositada
+2017/18,Premier League,West Brom,38,31,-25.0,20,Championship,descenso,03295063,2018-06-30,12.0,True,full,False,False,2019-04-02,3.0,False,07230595,True,False,depositada
+2017/18,Championship,Wolves,46,99,43.0,1,Premier League,ascenso,01989823,2018-05-31,12.0,True,full,False,False,2019-03-04,4.0,False,,,,depositada
+2017/18,Championship,Cardiff,46,90,30.0,2,Premier League,ascenso,00109065,2018-05-31,12.0,True,full,False,False,2019-02-25,-3.0,False,04044254,True,False,depositada
+2017/18,Championship,Fulham,46,88,33.0,3,Premier League,ascenso,02114486,2018-06-30,12.0,True,full,False,False,2019-03-28,-2.0,False,03374347,True,False,depositada
+2017/18,Championship,Aston Villa,46,83,30.0,4,Championship,se_mantiene,03375789,2018-05-31,12.0,True,full,False,False,2019-03-01,1.0,False,,,,depositada
+2017/18,Championship,Middlesbrough,46,76,22.0,5,Championship,se_mantiene,01947851,2018-06-30,12.0,True,full,False,False,2019-02-18,-40.0,False,,,,depositada
+2017/18,Championship,Derby,46,75,22.0,6,Championship,se_mantiene,00049139,2018-06-30,12.0,True,full,False,False,2019-04-05,6.0,False,,,,depositada
+2017/18,Championship,Preston,46,73,11.0,7,Championship,se_mantiene,00039494,2018-06-30,12.0,True,full,False,False,2019-03-05,-25.0,False,01621060,True,False,depositada
+2017/18,Championship,Millwall,46,72,11.0,8,Championship,se_mantiene,01924222,2018-06-30,12.0,True,full,False,False,2018-12-22,-98.0,False,,,,depositada
+2017/18,Championship,Brentford,46,69,10.0,9,Championship,se_mantiene,03642327,2018-06-30,12.0,True,made-up-date,False,False,2019-04-01,2.0,False,,,,depositada
+2017/18,Championship,Sheffield United,46,69,7.0,10,Championship,se_mantiene,00061564,2018-06-30,12.0,True,full,False,False,2019-02-11,-47.0,False,,,,depositada
+2017/18,Championship,Bristol City,46,67,9.0,11,Championship,se_mantiene,03230871,2018-05-31,12.0,True,full,False,False,2018-10-31,-120.0,False,,,,depositada
+2017/18,Championship,Ipswich,46,60,-3.0,12,Championship,se_mantiene,00315421,2018-06-30,12.0,True,group,False,False,2019-03-08,-22.0,False,,,,depositada
+2017/18,Championship,Leeds,46,60,-5.0,13,Championship,se_mantiene,06233875,2018-06-30,12.0,True,group,False,False,2019-04-03,4.0,False,,,,depositada
+2017/18,Championship,Norwich,46,60,-11.0,14,Championship,se_mantiene,00154044,2018-06-30,12.0,True,group,False,False,2019-01-22,-67.0,False,,,,depositada
+2017/18,Championship,Sheffield Weds,46,57,-1.0,15,Championship,se_mantiene,02509978,2018-07-31,14.0,True,full,False,False,2019-07-16,77.0,True,,,,depositada
+2017/18,Championship,QPR,46,56,-12.0,16,Championship,se_mantiene,00060094,2018-05-31,12.0,True,full,False,False,2019-02-13,-15.0,False,,,,depositada
+2017/18,Championship,Nott'm Forest,46,53,-14.0,17,Championship,se_mantiene,01630402,2018-05-31,12.0,True,full,False,False,2019-02-28,0.0,False,,,,depositada
+2017/18,Championship,Hull,46,49,0.0,18,Championship,se_mantiene,04032392,2018-06-30,12.0,True,full,False,False,2018-09-12,-199.0,False,,,,depositada
+2017/18,Championship,Birmingham,46,46,-30.0,19,Championship,se_mantiene,00027318,2018-06-30,12.0,True,full,False,False,2019-01-03,-86.0,False,,,,depositada
+2017/18,Championship,Reading,46,44,-22.0,20,Championship,se_mantiene,00053703,2018-06-30,12.0,True,full,False,False,2019-03-05,-25.0,False,,,,depositada
+2017/18,Championship,Bolton,46,43,-35.0,21,Championship,se_mantiene,,,,False,,,,,,,,,,no_depositada
+2017/18,Championship,Barnsley,46,41,-24.0,22,League One o inferior,descenso,04573250,2018-05-31,12.0,True,full,False,False,2019-02-28,0.0,False,,,,depositada
+2017/18,Championship,Burton,46,41,-43.0,23,League One o inferior,descenso,00488096,2018-05-31,12.0,True,full,False,False,2019-03-01,1.0,False,,,,depositada
+2017/18,Championship,Sunderland,46,37,-28.0,24,League One o inferior,descenso,00049116,2018-07-31,12.0,True,full,False,False,2019-04-29,-1.0,False,,,,depositada
+2018/19,Premier League,Man City,38,98,72.0,1,Premier League,se_mantiene,00040946,2019-06-30,12.0,True,full,False,False,2020-06-05,-25.0,False,,,,depositada
+2018/19,Premier League,Liverpool,38,97,67.0,2,Premier League,se_mantiene,00035668,2019-05-31,12.0,True,group,False,False,2020-03-04,4.0,False,,,,depositada
+2018/19,Premier League,Chelsea,38,72,24.0,3,Premier League,se_mantiene,01965149,2019-06-30,12.0,True,full,False,False,2020-01-06,-176.0,False,,,,depositada
+2018/19,Premier League,Tottenham,38,71,28.0,4,Premier League,se_mantiene,00057186,2019-06-30,12.0,True,full,False,False,2020-03-30,-92.0,False,01706358,True,False,depositada
+2018/19,Premier League,Arsenal,38,70,22.0,5,Premier League,se_mantiene,00109244,2019-05-31,12.0,True,full,False,False,2019-12-06,-85.0,False,,,,depositada
+2018/19,Premier League,Man United,38,66,11.0,6,Premier League,se_mantiene,00095489,2019-06-30,12.0,True,full,False,False,2020-01-09,-173.0,False,,,,depositada
+2018/19,Premier League,Wolves,38,57,1.0,7,Premier League,se_mantiene,01989823,2019-05-31,12.0,True,full,False,False,2020-02-17,-12.0,False,,,,depositada
+2018/19,Premier League,Everton,38,54,8.0,8,Premier League,se_mantiene,00036624,2019-06-30,13.0,True,group,False,False,2020-03-16,-106.0,False,,,,depositada
+2018/19,Premier League,Leicester,38,52,3.0,9,Premier League,se_mantiene,04593477,2019-05-31,12.0,True,full,False,False,2020-03-03,3.0,False,,,,depositada
+2018/19,Premier League,West Ham,38,52,-3.0,10,Premier League,se_mantiene,00066516,2019-05-31,12.0,True,full,False,False,2020-01-30,-30.0,False,,,,depositada
+2018/19,Premier League,Watford,38,50,-7.0,11,Premier League,se_mantiene,00104194,2019-06-30,12.0,True,full,False,False,2020-02-28,-123.0,False,,,,depositada
+2018/19,Premier League,Crystal Palace,38,49,-2.0,12,Premier League,se_mantiene,07270793,2019-06-30,12.0,True,full,False,False,2020-07-09,9.0,False,07206409,True,False,depositada
+2018/19,Premier League,Newcastle,38,45,-6.0,13,Premier League,se_mantiene,00031014,2019-06-30,12.0,True,full,False,False,2020-06-09,-21.0,False,02529667,True,False,depositada
+2018/19,Premier League,Bournemouth,38,45,-14.0,14,Premier League,se_mantiene,06632170,2019-06-30,12.0,True,full,False,False,2020-03-18,-104.0,False,,,,depositada
+2018/19,Premier League,Burnley,38,40,-23.0,15,Premier League,se_mantiene,00054222,2019-06-30,12.0,True,full,False,False,2020-04-06,-85.0,False,,,,depositada
+2018/19,Premier League,Southampton,38,39,-20.0,16,Premier League,se_mantiene,00053301,2019-06-30,12.0,True,full,False,False,2020-04-07,-84.0,False,,,,depositada
+2018/19,Premier League,Brighton,38,36,-25.0,17,Premier League,se_mantiene,00081077,2019-06-30,12.0,True,full,False,False,2020-01-27,-155.0,False,02849319,True,False,depositada
+2018/19,Premier League,Cardiff,38,34,-35.0,18,Championship,descenso,00109065,2019-05-31,12.0,True,full,False,False,2020-03-03,3.0,False,04044254,True,False,depositada
+2018/19,Premier League,Fulham,38,26,-47.0,19,Championship,descenso,02114486,2019-06-30,12.0,True,full,False,False,2020-03-20,-102.0,False,03374347,True,False,depositada
+2018/19,Premier League,Huddersfield,38,16,-54.0,20,Championship,descenso,01771361,2019-06-30,12.0,True,group,False,False,2020-03-25,-97.0,False,,,,depositada
+2018/19,Championship,Norwich,46,94,36.0,1,Premier League,ascenso,00154044,2019-06-30,12.0,True,group,False,False,2019-12-17,-196.0,False,,,,depositada
+2018/19,Championship,Sheffield United,46,89,37.0,2,Premier League,ascenso,00061564,2019-06-30,12.0,True,full,False,False,2020-03-27,-95.0,False,,,,depositada
+2018/19,Championship,Leeds,46,83,23.0,3,Championship,se_mantiene,06233875,2019-06-30,12.0,True,group,False,False,2020-04-07,-84.0,False,,,,depositada
+2018/19,Championship,West Brom,46,80,25.0,4,Championship,se_mantiene,03295063,2019-06-30,12.0,True,full,False,False,2020-04-02,-89.0,False,07230595,True,False,depositada
+2018/19,Championship,Aston Villa,46,76,21.0,5,Premier League,ascenso,03375789,2019-05-31,12.0,True,full,False,False,2020-03-03,3.0,False,,,,depositada
+2018/19,Championship,Derby,46,74,15.0,6,Championship,se_mantiene,,,,False,,,,,,,,,,no_depositada
+2018/19,Championship,Middlesbrough,46,73,8.0,7,Championship,se_mantiene,01947851,2019-06-30,12.0,True,full,False,False,2020-03-10,-112.0,False,,,,depositada
+2018/19,Championship,Bristol City,46,70,6.0,8,Championship,se_mantiene,03230871,2019-05-31,12.0,True,full,False,False,2019-11-01,-120.0,False,,,,depositada
+2018/19,Championship,Nott'm Forest,46,66,7.0,9,Championship,se_mantiene,01630402,2019-05-31,12.0,True,full,False,False,2020-03-02,2.0,False,,,,depositada
+2018/19,Championship,Swansea,46,65,3.0,10,Championship,se_mantiene,00123414,2019-07-31,12.0,True,full,False,False,2020-02-18,-164.0,False,04305508,True,False,depositada
+2018/19,Championship,Brentford,46,64,14.0,11,Championship,se_mantiene,03642327,2019-06-30,12.0,True,group,False,False,2020-04-24,-67.0,False,,,,depositada
+2018/19,Championship,Sheffield Weds,46,64,-2.0,12,Championship,se_mantiene,02509978,2019-07-31,12.0,True,full,False,False,2021-03-11,223.0,True,,,,depositada
+2018/19,Championship,Hull,46,62,-2.0,13,Championship,se_mantiene,04032392,2019-06-30,12.0,True,full,False,False,2019-09-13,-291.0,False,,,,depositada
+2018/19,Championship,Birmingham,46,61,6.0,14,Championship,se_mantiene,00027318,2019-06-30,12.0,True,full,False,False,2020-01-06,-176.0,False,,,,depositada
+2018/19,Championship,Preston,46,61,0.0,15,Championship,se_mantiene,00039494,2019-06-30,12.0,True,full,False,False,2020-02-21,-130.0,False,01621060,True,False,depositada
+2018/19,Championship,Blackburn,46,60,-5.0,16,Championship,se_mantiene,00053482,2019-06-30,12.0,True,full,False,False,2020-04-01,-90.0,False,,,,depositada
+2018/19,Championship,Stoke,46,55,-7.0,17,Championship,se_mantiene,00099885,2019-05-31,12.0,True,full,False,False,2019-12-17,-74.0,False,,,,depositada
+2018/19,Championship,Wigan,46,52,-13.0,18,Championship,se_mantiene,00270043,2019-06-30,13.0,True,full,False,False,2020-03-30,-92.0,False,07283993,True,False,depositada
+2018/19,Championship,QPR,46,51,-18.0,19,Championship,se_mantiene,00060094,2019-05-31,12.0,True,full,False,False,2020-02-25,-4.0,False,,,,depositada
+2018/19,Championship,Reading,46,47,-17.0,20,Championship,se_mantiene,00053703,2019-06-30,12.0,True,full,False,False,2020-04-02,-89.0,False,,,,depositada
+2018/19,Championship,Millwall,46,44,-16.0,21,Championship,se_mantiene,01924222,2019-06-30,12.0,True,full,False,False,2019-12-18,-195.0,False,,,,depositada
+2018/19,Championship,Rotherham,46,40,-31.0,22,League One o inferior,descenso,06550400,2019-06-30,12.0,True,full,False,False,2019-12-12,-201.0,False,,,,depositada
+2018/19,Championship,Bolton,46,32,-49.0,23,League One o inferior,descenso,,,,False,,,,,,,,,,no_depositada
+2018/19,Championship,Ipswich,46,31,-41.0,24,League One o inferior,descenso,00315421,2019-06-30,12.0,True,group,False,False,2020-11-26,149.0,True,,,,depositada
+2019/20,Premier League,Liverpool,38,99,52.0,1,Premier League,se_mantiene,00035668,2020-05-31,12.0,True,group,False,False,2021-05-07,-24.0,False,,,,depositada
+2019/20,Premier League,Man City,38,81,67.0,2,Premier League,se_mantiene,00040946,2020-06-30,12.0,True,full,False,False,2021-07-01,1.0,False,,,,depositada
+2019/20,Premier League,Man United,38,66,30.0,3,Premier League,se_mantiene,00095489,2020-06-30,12.0,True,full,False,False,2021-01-05,-176.0,False,,,,depositada
+2019/20,Premier League,Chelsea,38,66,15.0,4,Premier League,se_mantiene,01965149,2020-06-30,12.0,True,full,False,False,2021-02-10,-140.0,False,,,,depositada
+2019/20,Premier League,Leicester,38,62,26.0,5,Premier League,se_mantiene,04593477,2020-05-31,12.0,True,full,False,False,2021-04-02,-59.0,False,,,,depositada
+2019/20,Premier League,Tottenham,38,59,14.0,6,Premier League,se_mantiene,00057186,2020-06-30,12.0,True,full,False,False,2020-12-04,-208.0,False,01706358,True,False,depositada
+2019/20,Premier League,Wolves,38,59,11.0,7,Premier League,se_mantiene,01989823,2020-05-31,12.0,True,full,False,False,2021-03-18,-74.0,False,,,,depositada
+2019/20,Premier League,Arsenal,38,56,8.0,8,Premier League,se_mantiene,00109244,2020-05-31,12.0,True,full,False,False,2021-03-16,-76.0,False,,,,depositada
+2019/20,Premier League,Sheffield United,38,54,0.0,9,Premier League,se_mantiene,00061564,2020-07-31,13.0,True,full,False,False,2021-05-12,12.0,False,,,,depositada
+2019/20,Premier League,Burnley,38,54,-7.0,10,Premier League,se_mantiene,00054222,2020-07-31,13.0,True,full,False,False,2021-07-10,71.0,True,,,,depositada
+2019/20,Premier League,Southampton,38,52,-9.0,11,Premier League,se_mantiene,00053301,2020-06-30,12.0,True,full,False,False,2021-02-01,-149.0,False,,,,depositada
+2019/20,Premier League,Everton,38,49,-12.0,12,Premier League,se_mantiene,00036624,2020-06-30,12.0,True,group,False,False,2021-03-05,-117.0,False,,,,depositada
+2019/20,Premier League,Newcastle,38,44,-20.0,13,Premier League,se_mantiene,00031014,2020-07-31,13.0,True,full,False,False,2021-08-06,98.0,True,02529667,True,False,depositada
+2019/20,Premier League,Crystal Palace,38,43,-19.0,14,Premier League,se_mantiene,07270793,2020-07-31,13.0,True,full,False,False,2021-07-25,86.0,True,07206409,True,False,depositada
+2019/20,Premier League,Brighton,38,41,-15.0,15,Premier League,se_mantiene,00081077,2020-06-30,12.0,True,full,False,False,2021-02-26,-124.0,False,02849319,True,False,depositada
+2019/20,Premier League,West Ham,38,39,-13.0,16,Premier League,se_mantiene,00066516,2020-05-31,12.0,True,full,False,False,2021-04-26,-35.0,False,,,,depositada
+2019/20,Premier League,Aston Villa,38,35,-26.0,17,Premier League,se_mantiene,03375789,2020-05-31,12.0,True,full,False,False,2021-04-22,-39.0,False,,,,depositada
+2019/20,Premier League,Bournemouth,38,34,-25.0,18,Championship,descenso,06632170,2020-06-30,12.0,True,full,False,False,2021-04-09,-82.0,False,,,,depositada
+2019/20,Premier League,Watford,38,34,-28.0,19,Championship,descenso,00104194,2020-06-30,12.0,True,full,False,False,2021-07-11,11.0,False,,,,depositada
+2019/20,Premier League,Norwich,38,21,-49.0,20,Championship,descenso,00154044,2020-07-31,13.0,True,group,False,False,2020-11-04,-177.0,False,,,,depositada
+2019/20,Championship,Leeds,46,93,42.0,1,Premier League,ascenso,06233875,2020-07-31,13.0,True,group,False,False,2021-04-03,-27.0,False,,,,depositada
+2019/20,Championship,West Brom,46,83,32.0,2,Premier League,ascenso,03295063,2020-07-31,13.0,True,full,False,False,2021-04-15,-15.0,False,07230595,True,False,depositada
+2019/20,Championship,Brentford,46,81,42.0,3,Championship,se_mantiene,03642327,2020-06-30,12.0,True,group,False,False,2021-04-16,-75.0,False,,,,depositada
+2019/20,Championship,Fulham,46,81,16.0,4,Premier League,ascenso,02114486,2020-06-30,12.0,True,full,False,False,2021-07-06,6.0,False,03374347,True,False,depositada
+2019/20,Championship,Cardiff,46,73,10.0,5,Championship,se_mantiene,00109065,2020-05-31,12.0,True,full,False,False,2021-06-01,1.0,False,04044254,True,False,depositada
+2019/20,Championship,Swansea,46,70,9.0,6,Championship,se_mantiene,00123414,2020-07-31,12.0,True,full,False,False,2021-04-26,-4.0,False,04305508,True,False,depositada
+2019/20,Championship,Nott'm Forest,46,70,8.0,7,Championship,se_mantiene,01630402,2020-05-31,12.0,True,full,False,False,2021-03-10,-82.0,False,,,,depositada
+2019/20,Championship,Millwall,46,68,6.0,8,Championship,se_mantiene,01924222,2020-06-30,12.0,True,full,False,False,2021-03-03,-119.0,False,,,,depositada
+2019/20,Championship,Preston,46,66,5.0,9,Championship,se_mantiene,00039494,2020-06-30,12.0,True,full,False,False,2021-03-10,-112.0,False,01621060,True,False,depositada
+2019/20,Championship,Derby,46,64,-2.0,10,Championship,se_mantiene,,,,False,,,,,,,,,,no_depositada
+2019/20,Championship,Blackburn,46,63,3.0,11,Championship,se_mantiene,00053482,2020-06-30,12.0,True,full,False,False,2021-07-06,6.0,False,,,,depositada
+2019/20,Championship,Bristol City,46,63,-5.0,12,Championship,se_mantiene,03230871,2020-05-31,12.0,True,full,False,False,2021-01-28,-123.0,False,,,,depositada
+2019/20,Championship,Wigan,46,59,1.0,13,League One o inferior,descenso,,,,False,,,,,,,,,,no_depositada
+2019/20,Championship,QPR,46,58,-9.0,14,Championship,se_mantiene,00060094,2020-05-31,12.0,True,full,False,False,2021-05-21,-10.0,False,,,,depositada
+2019/20,Championship,Reading,46,56,1.0,15,Championship,se_mantiene,00053703,2020-06-30,12.0,True,full,False,False,2021-04-12,-79.0,False,,,,depositada
+2019/20,Championship,Stoke,46,56,-6.0,16,Championship,se_mantiene,00099885,2020-05-31,12.0,True,full,False,False,2021-05-25,-6.0,False,,,,depositada
+2019/20,Championship,Sheffield Weds,46,56,-8.0,17,Championship,se_mantiene,02509978,2020-07-31,12.0,True,full,False,False,2021-07-07,68.0,True,,,,depositada
+2019/20,Championship,Middlesbrough,46,53,-13.0,18,Championship,se_mantiene,01947851,2020-06-30,12.0,True,full,False,False,2021-03-17,-105.0,False,,,,depositada
+2019/20,Championship,Huddersfield,46,51,-18.0,19,Championship,se_mantiene,01771361,2020-06-30,12.0,True,full,False,False,2021-06-02,-28.0,False,,,,depositada
+2019/20,Championship,Luton,46,51,-28.0,20,Championship,se_mantiene,06133975,2020-06-30,13.0,True,small,True,False,2021-05-11,-50.0,False,,,,depositada
+2019/20,Championship,Birmingham,46,50,-21.0,21,Championship,se_mantiene,00027318,2020-06-30,12.0,True,full,False,False,2021-04-16,-75.0,False,,,,depositada
+2019/20,Championship,Barnsley,46,49,-20.0,22,Championship,se_mantiene,04573250,2020-05-31,12.0,True,full,False,False,2021-05-25,-6.0,False,,,,depositada
+2019/20,Championship,Charlton,46,48,-15.0,23,League One o inferior,descenso,01788466,2020-06-30,12.0,True,full,False,False,2021-07-14,14.0,False,,,,depositada
+2019/20,Championship,Hull,46,45,-30.0,24,League One o inferior,descenso,04032392,2020-06-30,12.0,True,full,False,False,2020-10-08,-265.0,False,,,,depositada
+2020/21,Premier League,Man City,38,86,51.0,1,Premier League,se_mantiene,00040946,2021-06-30,12.0,True,full,False,False,2022-03-04,-26.0,False,,,,depositada
+2020/21,Premier League,Man United,38,74,29.0,2,Premier League,se_mantiene,00095489,2021-06-30,12.0,True,full,False,False,2022-01-14,-75.0,False,,,,depositada
+2020/21,Premier League,Liverpool,38,69,26.0,3,Premier League,se_mantiene,00035668,2021-05-31,12.0,True,group,False,False,2022-03-02,2.0,False,,,,depositada
+2020/21,Premier League,Chelsea,38,67,22.0,4,Premier League,se_mantiene,01965149,2021-06-30,12.0,True,full,False,False,2021-12-29,-91.0,False,,,,depositada
+2020/21,Premier League,Leicester,38,66,18.0,5,Premier League,se_mantiene,04593477,2021-05-31,12.0,True,group,False,False,2022-02-18,-10.0,False,,,,depositada
+2020/21,Premier League,West Ham,38,65,15.0,6,Premier League,se_mantiene,00066516,2021-05-31,12.0,True,full,False,False,2022-01-04,-55.0,False,,,,depositada
+2020/21,Premier League,Tottenham,38,62,23.0,7,Premier League,se_mantiene,00057186,2021-06-30,12.0,True,full,False,False,2021-11-25,-125.0,False,01706358,True,False,depositada
+2020/21,Premier League,Arsenal,38,61,16.0,8,Premier League,se_mantiene,00109244,2021-05-31,12.0,True,full,False,False,2022-03-02,2.0,False,,,,depositada
+2020/21,Premier League,Leeds,38,59,8.0,9,Premier League,se_mantiene,06233875,2021-06-30,11.0,True,group,False,False,2022-04-06,7.0,False,,,,depositada
+2020/21,Premier League,Everton,38,59,-1.0,10,Premier League,se_mantiene,00036624,2021-06-30,12.0,True,group,False,False,2022-04-05,6.0,False,,,,depositada
+2020/21,Premier League,Aston Villa,38,55,9.0,11,Premier League,se_mantiene,03375789,2021-05-31,12.0,True,full,False,False,2022-03-01,1.0,False,,,,depositada
+2020/21,Premier League,Newcastle,38,45,-16.0,12,Premier League,se_mantiene,00031014,2021-06-30,11.0,True,full,False,False,2022-05-16,47.0,True,02529667,True,False,depositada
+2020/21,Premier League,Wolves,38,45,-16.0,13,Premier League,se_mantiene,01989823,2021-05-31,12.0,True,full,False,False,2022-03-02,2.0,False,,,,depositada
+2020/21,Premier League,Crystal Palace,38,44,-25.0,14,Premier League,se_mantiene,07270793,2021-06-30,11.0,True,full,False,False,2022-06-08,70.0,True,07206409,True,False,depositada
+2020/21,Premier League,Southampton,38,43,-21.0,15,Premier League,se_mantiene,00053301,2021-06-30,12.0,True,full,False,False,2022-03-24,-6.0,False,,,,depositada
+2020/21,Premier League,Brighton,38,41,-6.0,16,Premier League,se_mantiene,00081077,2021-06-30,12.0,True,full,False,False,2022-06-14,76.0,True,02849319,True,False,depositada
+2020/21,Premier League,Burnley,38,39,-22.0,17,Premier League,se_mantiene,00054222,2021-07-31,12.0,True,full,False,False,2022-05-04,4.0,False,,,,depositada
+2020/21,Premier League,Fulham,38,28,-26.0,18,Championship,descenso,02114486,2021-06-30,12.0,True,full,False,False,2022-03-29,-1.0,False,03374347,True,False,depositada
+2020/21,Premier League,West Brom,38,26,-41.0,19,Championship,descenso,03295063,2021-06-30,11.0,True,full,False,False,2022-07-07,99.0,True,07230595,True,False,depositada
+2020/21,Premier League,Sheffield United,38,23,-43.0,20,Championship,descenso,00061564,2021-06-30,11.0,True,full,False,False,2022-04-05,6.0,False,,,,depositada
+2020/21,Championship,Norwich,46,97,39.0,1,Premier League,ascenso,00154044,2021-06-30,11.0,True,group,False,False,2022-01-25,-64.0,False,,,,depositada
+2020/21,Championship,Watford,46,91,33.0,2,Premier League,ascenso,00104194,2021-06-30,12.0,True,full,False,False,2022-04-07,8.0,False,,,,depositada
+2020/21,Championship,Brentford,46,87,37.0,3,Premier League,ascenso,03642327,2021-06-30,12.0,True,group,False,False,2022-01-19,-70.0,False,,,,depositada
+2020/21,Championship,Swansea,46,80,17.0,4,Championship,se_mantiene,00123414,2021-07-31,12.0,True,full,False,False,2022-05-04,4.0,False,04305508,True,False,depositada
+2020/21,Championship,Barnsley,46,78,8.0,5,Championship,se_mantiene,04573250,2021-05-31,12.0,True,full,False,False,2022-03-01,1.0,False,,,,depositada
+2020/21,Championship,Bournemouth,46,77,27.0,6,Championship,se_mantiene,06632170,2021-06-30,12.0,True,full,False,False,2022-03-29,-1.0,False,,,,depositada
+2020/21,Championship,Reading,46,70,8.0,7,Championship,se_mantiene,00053703,2021-06-30,12.0,True,full,False,False,2022-02-25,-33.0,False,,,,depositada
+2020/21,Championship,Cardiff,46,68,17.0,8,Championship,se_mantiene,00109065,2021-05-31,12.0,True,full,False,False,2022-03-02,2.0,False,04044254,True,False,depositada
+2020/21,Championship,QPR,46,68,2.0,9,Championship,se_mantiene,00060094,2021-05-31,12.0,True,full,False,False,2022-02-10,-18.0,False,,,,depositada
+2020/21,Championship,Middlesbrough,46,64,2.0,10,Championship,se_mantiene,01947851,2021-06-30,12.0,True,full,False,False,2022-03-18,-12.0,False,,,,depositada
+2020/21,Championship,Millwall,46,62,-5.0,11,Championship,se_mantiene,01924222,2021-06-30,12.0,True,full,False,False,2022-02-07,-51.0,False,,,,depositada
+2020/21,Championship,Luton,46,62,-11.0,12,Championship,se_mantiene,06133975,2021-06-30,12.0,True,full,False,False,2022-03-03,-27.0,False,,,,depositada
+2020/21,Championship,Preston,46,61,-7.0,13,Championship,se_mantiene,00039494,2021-06-30,12.0,True,full,False,False,2022-02-22,-36.0,False,01621060,True,False,depositada
+2020/21,Championship,Stoke,46,60,-2.0,14,Championship,se_mantiene,00099885,2021-05-31,12.0,True,full,False,False,2022-04-07,38.0,True,,,,depositada
+2020/21,Championship,Blackburn,46,57,11.0,15,Championship,se_mantiene,00053482,2021-06-30,12.0,True,full,False,False,2022-04-01,2.0,False,,,,depositada
+2020/21,Championship,Coventry,46,55,-12.0,16,Championship,se_mantiene,07612487,2021-05-31,12.0,True,full,False,False,2022-02-25,-3.0,False,,,,depositada
+2020/21,Championship,Nott'm Forest,46,52,-8.0,17,Championship,se_mantiene,01630402,2021-06-30,13.0,True,full,False,False,2022-03-03,-27.0,False,,,,depositada
+2020/21,Championship,Birmingham,46,52,-24.0,18,Championship,se_mantiene,00027318,2021-06-30,12.0,True,full,False,False,2022-04-11,12.0,False,,,,depositada
+2020/21,Championship,Bristol City,46,51,-22.0,19,Championship,se_mantiene,03230871,2021-05-31,12.0,True,full,False,False,2022-01-10,-49.0,False,,,,depositada
+2020/21,Championship,Huddersfield,46,49,-21.0,20,Championship,se_mantiene,01771361,2021-06-30,12.0,True,group,False,False,2022-03-30,0.0,False,,,,depositada
+2020/21,Championship,Sheffield Weds,46,47,-21.0,21,League One o inferior,descenso,02509978,2021-07-31,12.0,True,full,False,False,2022-05-05,5.0,False,,,,depositada
+2020/21,Championship,Derby,46,44,-22.0,22,Championship,se_mantiene,,,,False,,,,,,,,,,no_depositada
+2020/21,Championship,Wycombe,46,43,-30.0,23,League One o inferior,descenso,05132509,2021-07-31,12.0,True,small,True,False,2021-12-08,-143.0,False,,,,depositada
+2020/21,Championship,Rotherham,46,42,-16.0,24,League One o inferior,descenso,06550400,2021-06-30,12.0,True,full,False,False,2022-04-05,6.0,False,,,,depositada
+2021/22,Premier League,Man City,38,93,73.0,1,Premier League,se_mantiene,00040946,2022-06-30,12.0,True,full,False,False,2023-04-05,6.0,False,,,,depositada
+2021/22,Premier League,Liverpool,38,92,68.0,2,Premier League,se_mantiene,00035668,2022-05-31,12.0,True,group,False,False,2023-03-02,2.0,False,,,,depositada
+2021/22,Premier League,Chelsea,38,74,43.0,3,Premier League,se_mantiene,01965149,2022-06-30,12.0,True,full,False,False,2023-04-08,9.0,False,,,,depositada
+2021/22,Premier League,Tottenham,38,71,29.0,4,Premier League,se_mantiene,00057186,2022-06-30,12.0,True,full,False,False,2023-02-16,-42.0,False,01706358,True,False,depositada
+2021/22,Premier League,Arsenal,38,69,13.0,5,Premier League,se_mantiene,00109244,2022-05-31,12.0,True,full,False,False,2022-12-01,-89.0,False,,,,depositada
+2021/22,Premier League,Man United,38,58,0.0,6,Premier League,se_mantiene,00095489,2022-06-30,12.0,True,full,False,False,2023-02-21,-37.0,False,,,,depositada
+2021/22,Premier League,West Ham,38,56,9.0,7,Premier League,se_mantiene,00066516,2022-05-31,12.0,True,full,False,False,2023-01-10,-49.0,False,,,,depositada
+2021/22,Premier League,Leicester,38,52,3.0,8,Premier League,se_mantiene,04593477,2022-05-31,12.0,True,group,False,False,2023-03-09,9.0,False,,,,depositada
+2021/22,Premier League,Brighton,38,51,-2.0,9,Premier League,se_mantiene,00081077,2022-06-30,12.0,True,full,False,False,2023-03-23,-7.0,False,02849319,True,False,depositada
+2021/22,Premier League,Wolves,38,51,-5.0,10,Premier League,se_mantiene,01989823,2022-05-31,12.0,True,full,False,False,2023-03-03,3.0,False,,,,depositada
+2021/22,Premier League,Newcastle,38,49,-18.0,11,Premier League,se_mantiene,00031014,2022-06-30,12.0,True,full,False,False,2023-04-12,13.0,False,02529667,True,False,depositada
+2021/22,Premier League,Crystal Palace,38,48,4.0,12,Premier League,se_mantiene,07270793,2022-06-30,12.0,True,full,False,False,2023-04-12,13.0,False,07206409,True,False,depositada
+2021/22,Premier League,Brentford,38,46,-8.0,13,Premier League,se_mantiene,03642327,2022-06-30,12.0,True,group,False,False,2023-04-05,6.0,False,,,,depositada
+2021/22,Premier League,Aston Villa,38,45,-2.0,14,Premier League,se_mantiene,03375789,2022-05-31,12.0,True,full,False,False,2023-03-03,3.0,False,,,,depositada
+2021/22,Premier League,Southampton,38,40,-24.0,15,Premier League,se_mantiene,00053301,2022-06-30,12.0,True,full,False,False,2023-04-08,9.0,False,,,,depositada
+2021/22,Premier League,Everton,38,39,-23.0,16,Premier League,se_mantiene,00036624,2022-06-30,12.0,True,group,False,False,2023-04-12,13.0,False,,,,depositada
+2021/22,Premier League,Leeds,38,38,-37.0,17,Premier League,se_mantiene,06233875,2022-06-30,12.0,True,group,False,False,2023-04-08,9.0,False,,,,depositada
+2021/22,Premier League,Burnley,38,35,-19.0,18,Championship,descenso,00054222,2022-07-31,12.0,True,full,False,False,2023-05-04,4.0,False,,,,depositada
+2021/22,Premier League,Watford,38,23,-43.0,19,Championship,descenso,00104194,2022-06-30,12.0,True,full,False,False,2023-03-31,1.0,False,,,,depositada
+2021/22,Premier League,Norwich,38,22,-61.0,20,Championship,descenso,00154044,2022-06-30,12.0,True,group,False,False,2022-11-16,-134.0,False,,,,depositada
+2021/22,Championship,Fulham,46,90,63.0,1,Premier League,ascenso,02114486,2022-06-30,12.0,True,full,False,False,2023-04-03,4.0,False,03374347,True,False,depositada
+2021/22,Championship,Bournemouth,46,88,35.0,2,Premier League,ascenso,06632170,2022-06-30,12.0,True,full,False,False,2023-03-23,-7.0,False,,,,depositada
+2021/22,Championship,Huddersfield,46,82,17.0,3,Championship,se_mantiene,01771361,2022-06-30,12.0,True,group,False,False,2023-07-10,102.0,True,,,,depositada
+2021/22,Championship,Nott'm Forest,46,80,33.0,4,Premier League,ascenso,01630402,2022-06-30,12.0,True,full,False,False,2023-03-31,1.0,False,,,,depositada
+2021/22,Championship,Sheffield United,46,75,18.0,5,Championship,se_mantiene,00061564,2022-06-30,12.0,True,full,False,False,2023-07-03,95.0,True,,,,depositada
+2021/22,Championship,Luton,46,75,8.0,6,Championship,se_mantiene,06133975,2022-06-30,12.0,True,full,False,False,2023-03-06,-24.0,False,,,,depositada
+2021/22,Championship,Middlesbrough,46,70,9.0,7,Championship,se_mantiene,01947851,2022-06-30,12.0,True,full,False,False,2022-12-05,-115.0,False,,,,depositada
+2021/22,Championship,Blackburn,46,69,9.0,8,Championship,se_mantiene,00053482,2022-06-30,12.0,True,full,False,False,2023-04-08,9.0,False,,,,depositada
+2021/22,Championship,Millwall,46,69,8.0,9,Championship,se_mantiene,01924222,2022-06-30,12.0,True,full,False,False,2023-01-04,-85.0,False,,,,depositada
+2021/22,Championship,West Brom,46,67,7.0,10,Championship,se_mantiene,03295063,2022-06-30,12.0,True,full,False,False,2023-04-04,5.0,False,07230595,True,False,depositada
+2021/22,Championship,QPR,46,66,1.0,11,Championship,se_mantiene,00060094,2022-05-31,12.0,True,full,False,False,2023-02-27,-1.0,False,,,,depositada
+2021/22,Championship,Coventry,46,64,1.0,12,Championship,se_mantiene,07612487,2022-05-31,12.0,True,full,False,False,2023-02-28,0.0,False,,,,depositada
+2021/22,Championship,Preston,46,64,-4.0,13,Championship,se_mantiene,00039494,2022-06-30,12.0,True,full,False,False,2023-01-18,-71.0,False,01621060,True,False,depositada
+2021/22,Championship,Stoke,46,62,5.0,14,Championship,se_mantiene,00099885,2022-05-31,12.0,True,full,False,False,2023-03-06,6.0,False,,,,depositada
+2021/22,Championship,Swansea,46,61,-10.0,15,Championship,se_mantiene,00123414,2022-07-31,12.0,True,full,False,False,2023-05-09,9.0,False,04305508,True,False,depositada
+2021/22,Championship,Blackpool,46,60,-4.0,16,Championship,se_mantiene,00048409,2022-06-30,12.0,True,full,False,False,2023-03-10,-20.0,False,12022161,True,False,depositada
+2021/22,Championship,Derby,46,55,-8.0,17,League One o inferior,descenso,,,,False,,,,,,,,,,no_depositada
+2021/22,Championship,Bristol City,46,55,-15.0,18,Championship,se_mantiene,03230871,2022-05-31,12.0,True,full,False,False,2022-11-25,-95.0,False,,,,depositada
+2021/22,Championship,Cardiff,46,53,-18.0,19,Championship,se_mantiene,00109065,2022-05-31,12.0,True,full,False,False,2023-03-06,6.0,False,04044254,True,False,depositada
+2021/22,Championship,Hull,46,51,-13.0,20,Championship,se_mantiene,04032392,2022-06-30,12.0,True,full,False,False,2023-03-30,0.0,False,,,,depositada
+2021/22,Championship,Birmingham,46,47,-25.0,21,Championship,se_mantiene,00027318,2022-06-30,12.0,True,full,False,False,2023-03-24,-6.0,False,,,,depositada
+2021/22,Championship,Reading,46,47,-33.0,22,Championship,se_mantiene,00053703,2022-06-30,12.0,True,full,False,False,2023-03-16,-14.0,False,,,,depositada
+2021/22,Championship,Peterboro,46,37,-44.0,23,League One o inferior,descenso,00290803,2022-06-30,12.0,True,full,False,False,2023-06-30,92.0,True,,,,depositada
+2021/22,Championship,Barnsley,46,30,-40.0,24,League One o inferior,descenso,04573250,2022-05-31,12.0,True,full,False,False,2023-02-28,0.0,False,,,,depositada
+2022/23,Premier League,Man City,38,89,61.0,1,Premier League,se_mantiene,00040946,2023-06-30,12.0,True,full,False,False,2024-04-04,5.0,False,,,,depositada
+2022/23,Premier League,Arsenal,38,84,45.0,2,Premier League,se_mantiene,00109244,2023-05-31,12.0,True,full,False,False,2024-03-03,3.0,False,,,,depositada
+2022/23,Premier League,Man United,38,75,15.0,3,Premier League,se_mantiene,00095489,2023-06-30,12.0,True,full,False,False,2024-02-16,-43.0,False,,,,depositada
+2022/23,Premier League,Newcastle,38,71,35.0,4,Premier League,se_mantiene,00031014,2023-06-30,12.0,True,full,False,False,2024-01-21,-69.0,False,02529667,True,False,depositada
+2022/23,Premier League,Liverpool,38,67,28.0,5,Premier League,se_mantiene,00035668,2023-05-31,12.0,True,group,False,False,2024-03-08,8.0,False,,,,depositada
+2022/23,Premier League,Brighton,38,62,19.0,6,Premier League,se_mantiene,00081077,2023-06-30,12.0,True,full,False,False,2024-04-11,12.0,False,02849319,True,False,depositada
+2022/23,Premier League,Aston Villa,38,61,5.0,7,Premier League,se_mantiene,03375789,2023-05-31,12.0,True,full,False,False,2024-03-05,5.0,False,,,,depositada
+2022/23,Premier League,Tottenham,38,60,7.0,8,Premier League,se_mantiene,00057186,2023-06-30,12.0,True,full,False,False,2024-04-13,14.0,False,01706358,True,False,depositada
+2022/23,Premier League,Brentford,38,59,12.0,9,Premier League,se_mantiene,03642327,2023-06-30,12.0,True,group,False,False,2024-03-20,-10.0,False,,,,depositada
+2022/23,Premier League,Fulham,38,52,2.0,10,Premier League,se_mantiene,02114486,2023-06-30,12.0,True,full,False,False,2024-04-04,5.0,False,03374347,True,False,depositada
+2022/23,Premier League,Crystal Palace,38,45,-9.0,11,Premier League,se_mantiene,07270793,2023-06-30,12.0,True,full,False,False,2024-04-12,13.0,False,07206409,True,False,depositada
+2022/23,Premier League,Chelsea,38,44,-9.0,12,Premier League,se_mantiene,01965149,2023-06-30,12.0,True,full,False,False,2024-04-12,13.0,False,,,,depositada
+2022/23,Premier League,Wolves,38,41,-27.0,13,Premier League,se_mantiene,01989823,2023-05-31,12.0,True,full,False,False,2024-03-01,1.0,False,,,,depositada
+2022/23,Premier League,West Ham,38,40,-13.0,14,Premier League,se_mantiene,00066516,2023-05-31,12.0,True,full,False,False,2024-01-15,-45.0,False,,,,depositada
+2022/23,Premier League,Bournemouth,38,39,-34.0,15,Premier League,se_mantiene,06632170,2023-06-30,12.0,True,full,False,False,2024-03-27,-3.0,False,,,,depositada
+2022/23,Premier League,Nott'm Forest,38,38,-30.0,16,Premier League,se_mantiene,01630402,2023-06-30,12.0,True,full,False,False,2024-03-28,-2.0,False,,,,depositada
+2022/23,Premier League,Everton,38,36,-23.0,17,Premier League,se_mantiene,00036624,2023-06-30,12.0,True,group,False,False,2024-04-10,11.0,False,,,,depositada
+2022/23,Premier League,Leicester,38,34,-17.0,18,Championship,descenso,04593477,2023-06-30,13.0,True,group,False,False,2024-04-15,16.0,False,,,,depositada
+2022/23,Premier League,Leeds,38,31,-30.0,19,Championship,descenso,06233875,2023-06-30,12.0,True,group,False,False,2024-04-09,10.0,False,,,,depositada
+2022/23,Premier League,Southampton,38,25,-37.0,20,Championship,descenso,00053301,2023-06-30,12.0,True,full,False,False,2024-03-03,-27.0,False,,,,depositada
+2022/23,Championship,Burnley,46,101,52.0,1,Premier League,ascenso,00054222,2023-07-31,12.0,True,full,False,False,2024-04-16,-14.0,False,,,,depositada
+2022/23,Championship,Sheffield United,46,91,34.0,2,Premier League,ascenso,00061564,2023-06-30,12.0,True,full,False,False,2024-03-19,-11.0,False,,,,depositada
+2022/23,Championship,Luton,46,80,18.0,3,Premier League,ascenso,06133975,2023-06-30,12.0,True,full,False,False,2024-01-15,-75.0,False,,,,depositada
+2022/23,Championship,Middlesbrough,46,75,28.0,4,Championship,se_mantiene,01947851,2023-06-30,12.0,True,full,False,False,2024-01-17,-73.0,False,,,,depositada
+2022/23,Championship,Coventry,46,70,12.0,5,Championship,se_mantiene,07612487,2023-05-31,12.0,True,full,False,False,2024-02-29,0.0,False,,,,depositada
+2022/23,Championship,Sunderland,46,69,13.0,6,Championship,se_mantiene,00049116,2023-07-31,12.0,True,full,False,False,2024-05-08,8.0,False,,,,depositada
+2022/23,Championship,Blackburn,46,69,-2.0,7,Championship,se_mantiene,00053482,2023-06-30,12.0,True,full,False,False,2024-04-08,9.0,False,,,,depositada
+2022/23,Championship,Millwall,46,68,7.0,8,Championship,se_mantiene,01924222,2023-06-30,12.0,True,full,False,False,2024-04-13,14.0,False,,,,depositada
+2022/23,Championship,West Brom,46,66,6.0,9,Championship,se_mantiene,03295063,2023-06-30,12.0,True,full,False,False,2024-04-12,13.0,False,07230595,True,False,depositada
+2022/23,Championship,Swansea,46,66,4.0,10,Championship,se_mantiene,00123414,2023-07-31,12.0,True,full,False,False,2024-05-05,5.0,False,04305508,True,False,depositada
+2022/23,Championship,Watford,46,63,3.0,11,Championship,se_mantiene,00104194,2023-06-30,12.0,True,full,False,False,2024-02-22,-37.0,False,,,,depositada
+2022/23,Championship,Preston,46,63,-14.0,12,Championship,se_mantiene,00039494,2023-06-30,12.0,True,full,False,False,2024-01-16,-74.0,False,01621060,True,False,depositada
+2022/23,Championship,Norwich,46,62,3.0,13,Championship,se_mantiene,00154044,2023-06-30,12.0,True,group,False,False,2023-12-13,-108.0,False,,,,depositada
+2022/23,Championship,Bristol City,46,59,-1.0,14,Championship,se_mantiene,03230871,2023-06-30,13.0,True,full,False,False,2024-01-11,-79.0,False,,,,depositada
+2022/23,Championship,Hull,46,58,-10.0,15,Championship,se_mantiene,04032392,2023-06-30,12.0,True,full,False,False,2024-02-05,-54.0,False,,,,depositada
+2022/23,Championship,Stoke,46,53,1.0,16,Championship,se_mantiene,00099885,2023-05-31,12.0,True,full,False,False,2024-01-30,-30.0,False,,,,depositada
+2022/23,Championship,Birmingham,46,53,-11.0,17,Championship,se_mantiene,00027318,2023-06-30,12.0,True,full,False,False,2024-04-02,3.0,False,,,,depositada
+2022/23,Championship,Huddersfield,46,53,-15.0,18,Championship,se_mantiene,01771361,2023-06-30,12.0,True,group,False,False,2024-03-27,-3.0,False,,,,depositada
+2022/23,Championship,Rotherham,46,50,-11.0,19,Championship,se_mantiene,06550400,2023-06-30,12.0,True,medium,False,False,2024-02-29,-30.0,False,,,,depositada
+2022/23,Championship,Reading,46,50,-22.0,20,League One o inferior,descenso,00053703,2023-06-30,12.0,True,full,False,False,2025-03-25,360.0,True,,,,depositada
+2022/23,Championship,QPR,46,50,-27.0,21,Championship,se_mantiene,00060094,2023-05-31,12.0,True,full,False,False,2024-02-21,-8.0,False,,,,depositada
+2022/23,Championship,Cardiff,46,49,-17.0,22,Championship,se_mantiene,00109065,2023-05-31,12.0,True,full,False,False,2024-03-05,5.0,False,04044254,True,False,depositada
+2022/23,Championship,Wigan,46,45,-27.0,23,League One o inferior,descenso,13161421,2023-06-30,12.0,True,full,False,False,2024-03-21,-9.0,False,,,,depositada
+2022/23,Championship,Blackpool,46,44,-24.0,24,League One o inferior,descenso,00048409,2023-06-30,12.0,True,full,False,False,2024-03-27,-3.0,False,12022161,True,False,depositada
+2023/24,Premier League,Man City,38,91,62.0,1,Premier League,se_mantiene,00040946,2024-06-30,12.0,True,full,False,False,2025-03-10,-20.0,False,,,,depositada
+2023/24,Premier League,Arsenal,38,89,62.0,2,Premier League,se_mantiene,00109244,2024-05-31,12.0,True,full,False,False,2025-03-03,3.0,False,,,,depositada
+2023/24,Premier League,Liverpool,38,82,45.0,3,Premier League,se_mantiene,00035668,2024-05-31,12.0,True,group,False,False,2025-03-03,3.0,False,,,,depositada
+2023/24,Premier League,Aston Villa,38,68,15.0,4,Premier League,se_mantiene,03375789,2024-06-30,13.0,True,full,False,False,2025-04-03,4.0,False,,,,depositada
+2023/24,Premier League,Tottenham,38,66,13.0,5,Premier League,se_mantiene,00057186,2024-06-30,12.0,True,full,False,False,2025-04-07,8.0,False,01706358,True,False,depositada
+2023/24,Premier League,Chelsea,38,63,14.0,6,Premier League,se_mantiene,01965149,2024-06-30,12.0,True,full,False,False,2025-04-04,5.0,False,,,,depositada
+2023/24,Premier League,Newcastle,38,60,23.0,7,Premier League,se_mantiene,00031014,2024-06-30,12.0,True,full,False,False,2025-04-25,26.0,False,02529667,True,False,depositada
+2023/24,Premier League,Man United,38,60,-1.0,8,Premier League,se_mantiene,00095489,2024-06-30,12.0,True,full,False,False,2025-03-31,1.0,False,,,,depositada
+2023/24,Premier League,West Ham,38,52,-14.0,9,Premier League,se_mantiene,00066516,2024-05-31,12.0,True,full,False,False,2025-01-08,-51.0,False,,,,depositada
+2023/24,Premier League,Crystal Palace,38,49,-1.0,10,Premier League,se_mantiene,07270793,2024-06-30,12.0,True,full,False,False,2025-04-02,3.0,False,07206409,True,False,depositada
+2023/24,Premier League,Brighton,38,48,-7.0,11,Premier League,se_mantiene,00081077,2024-06-30,12.0,True,full,False,False,2025-03-06,-24.0,False,02849319,True,False,depositada
+2023/24,Premier League,Everton,38,48,-11.0,12,Premier League,se_mantiene,00036624,2024-06-30,12.0,True,group,False,False,2025-04-02,3.0,False,,,,depositada
+2023/24,Premier League,Bournemouth,38,48,-13.0,13,Premier League,se_mantiene,06632170,2024-06-30,12.0,True,full,False,False,2025-03-26,-4.0,False,,,,depositada
+2023/24,Premier League,Fulham,38,47,-6.0,14,Premier League,se_mantiene,02114486,2024-06-30,12.0,True,full,False,False,2025-03-27,-3.0,False,03374347,True,False,depositada
+2023/24,Premier League,Wolves,38,46,-15.0,15,Premier League,se_mantiene,01989823,2024-05-31,12.0,True,full,False,False,2025-02-28,0.0,False,,,,depositada
+2023/24,Premier League,Brentford,38,39,-9.0,16,Premier League,se_mantiene,03642327,2024-06-30,12.0,True,group,False,False,2025-04-11,12.0,False,,,,depositada
+2023/24,Premier League,Nott'm Forest,38,36,-18.0,17,Premier League,se_mantiene,01630402,2024-06-30,12.0,True,full,False,False,2025-03-31,1.0,False,,,,depositada
+2023/24,Premier League,Luton,38,26,-33.0,18,Championship,descenso,06133975,2024-06-30,12.0,True,full,False,False,2025-04-02,3.0,False,,,,depositada
+2023/24,Premier League,Burnley,38,24,-37.0,19,Championship,descenso,00054222,2024-07-31,12.0,True,full,False,False,2025-04-30,0.0,False,,,,depositada
+2023/24,Premier League,Sheffield United,38,16,-69.0,20,Championship,descenso,00061564,2024-06-30,12.0,True,full,False,False,2025-04-04,5.0,False,,,,depositada
+2023/24,Championship,Leicester,46,97,48.0,1,Premier League,ascenso,04593477,2024-06-30,12.0,True,group,False,False,2025-04-04,5.0,False,,,,depositada
+2023/24,Championship,Ipswich,46,96,35.0,2,Premier League,ascenso,00315421,2024-06-30,12.0,True,full,False,False,2025-03-31,1.0,False,,,,depositada
+2023/24,Championship,Leeds,46,90,38.0,3,Championship,se_mantiene,06233875,2024-06-30,12.0,True,group,False,False,2025-04-02,3.0,False,,,,depositada
+2023/24,Championship,Southampton,46,87,24.0,4,Premier League,ascenso,00053301,2024-06-30,12.0,True,full,False,False,2025-05-02,33.0,True,,,,depositada
+2023/24,Championship,West Brom,46,75,23.0,5,Championship,se_mantiene,03295063,2024-06-30,12.0,True,full,False,False,2025-03-04,-26.0,False,07230595,True,False,depositada
+2023/24,Championship,Norwich,46,73,15.0,6,Championship,se_mantiene,00154044,2024-06-30,12.0,True,group,False,False,2024-11-25,-125.0,False,,,,depositada
+2023/24,Championship,Hull,46,70,8.0,7,Championship,se_mantiene,04032392,2024-06-30,12.0,True,full,False,False,2024-12-24,-96.0,False,,,,depositada
+2023/24,Championship,Middlesbrough,46,69,9.0,8,Championship,se_mantiene,01947851,2024-06-30,12.0,True,full,False,False,2025-01-09,-80.0,False,03912084,True,True,depositada
+2023/24,Championship,Coventry,46,64,11.0,9,Championship,se_mantiene,07612487,2024-05-31,12.0,True,full,False,False,2025-02-27,-1.0,False,,,,depositada
+2023/24,Championship,Preston,46,63,-11.0,10,Championship,se_mantiene,00039494,2024-06-30,12.0,True,full,False,False,2024-12-06,-114.0,False,01621060,True,False,depositada
+2023/24,Championship,Bristol City,46,62,2.0,11,Championship,se_mantiene,03230871,2024-06-30,12.0,True,full,False,False,2025-01-15,-74.0,False,,,,depositada
+2023/24,Championship,Cardiff,46,62,-17.0,12,Championship,se_mantiene,00109065,2024-05-31,12.0,True,full,False,False,2025-03-05,5.0,False,04044254,True,False,depositada
+2023/24,Championship,Millwall,46,59,-10.0,13,Championship,se_mantiene,01924222,2024-06-30,12.0,True,full,False,False,2025-03-19,-11.0,False,,,,depositada
+2023/24,Championship,Swansea,46,57,-6.0,14,Championship,se_mantiene,00123414,2024-06-30,11.0,True,full,False,False,2025-04-02,3.0,False,04305508,True,False,depositada
+2023/24,Championship,Watford,46,56,0.0,15,Championship,se_mantiene,00104194,2024-06-30,12.0,True,full,False,False,2025-01-16,-73.0,False,,,,depositada
+2023/24,Championship,Sunderland,46,56,-2.0,16,Championship,se_mantiene,00049116,2024-07-31,12.0,True,full,False,False,2025-03-17,-44.0,False,,,,depositada
+2023/24,Championship,QPR,46,56,-11.0,17,Championship,se_mantiene,00060094,2024-05-31,12.0,True,full,False,False,2025-02-24,-4.0,False,,,,depositada
+2023/24,Championship,Stoke,46,56,-11.0,18,Championship,se_mantiene,00099885,2024-05-31,12.0,True,full,False,False,2025-01-29,-30.0,False,,,,depositada
+2023/24,Championship,Blackburn,46,53,-14.0,19,Championship,se_mantiene,00053482,2024-06-30,12.0,True,full,False,False,2025-03-03,-27.0,False,,,,depositada
+2023/24,Championship,Sheffield Weds,46,53,-24.0,20,Championship,se_mantiene,02509978,2024-07-31,12.0,True,full,False,False,2024-12-30,-121.0,False,,,,depositada
+2023/24,Championship,Plymouth,46,51,-11.0,21,Championship,se_mantiene,07796376,2024-06-30,12.0,True,full,False,False,2024-12-11,-109.0,False,,,,depositada
+2023/24,Championship,Birmingham,46,50,-15.0,22,League One o inferior,descenso,00027318,2024-06-30,12.0,True,full,False,False,2025-04-01,2.0,False,,,,depositada
+2023/24,Championship,Huddersfield,46,45,-29.0,23,League One o inferior,descenso,01771361,2024-06-30,12.0,True,group,False,False,2025-04-02,3.0,False,,,,depositada
+2023/24,Championship,Rotherham,46,27,-52.0,24,League One o inferior,descenso,06550400,2024-06-30,12.0,True,full,False,False,2025-03-17,-13.0,False,,,,depositada
+2024/25,Premier League,Liverpool,38,84,45.0,1,Premier League,se_mantiene,00035668,2025-05-31,12.0,True,group,False,False,2026-03-04,4.0,False,,,,depositada
+2024/25,Premier League,Arsenal,38,74,35.0,2,Premier League,se_mantiene,00109244,2025-05-31,12.0,True,full,False,False,2026-02-27,-1.0,False,,,,depositada
+2024/25,Premier League,Man City,38,71,28.0,3,Premier League,se_mantiene,00040946,2025-06-30,12.0,True,full,False,False,2026-03-06,-24.0,False,,,,depositada
+2024/25,Premier League,Chelsea,38,69,21.0,4,Premier League,se_mantiene,01965149,2025-06-30,12.0,True,full,False,False,2026-04-12,13.0,False,,,,depositada
+2024/25,Premier League,Newcastle,38,66,21.0,5,Premier League,se_mantiene,00031014,2025-06-30,12.0,True,full,False,False,2026-04-13,14.0,False,02529667,True,False,depositada
+2024/25,Premier League,Aston Villa,38,66,7.0,6,Premier League,se_mantiene,03375789,2025-06-30,12.0,True,full,False,False,2026-04-12,13.0,False,,,,depositada
+2024/25,Premier League,Nott'm Forest,38,65,12.0,7,Premier League,se_mantiene,01630402,2025-06-30,12.0,True,full,False,False,2026-03-26,-4.0,False,,,,depositada
+2024/25,Premier League,Brighton,38,61,7.0,8,Premier League,se_mantiene,00081077,2025-06-30,12.0,True,full,False,False,2026-03-26,-4.0,False,02849319,True,False,depositada
+2024/25,Premier League,Bournemouth,38,56,12.0,9,Premier League,se_mantiene,06632170,2025-06-30,12.0,True,full,False,False,2026-03-29,-1.0,False,,,,depositada
+2024/25,Premier League,Brentford,38,56,9.0,10,Premier League,se_mantiene,03642327,2025-06-30,12.0,True,group,False,False,2026-03-16,-14.0,False,,,,depositada
+2024/25,Premier League,Fulham,38,54,0.0,11,Premier League,se_mantiene,02114486,2025-06-30,12.0,True,full,False,False,2026-04-14,15.0,False,03374347,True,False,depositada
+2024/25,Premier League,Crystal Palace,38,53,0.0,12,Premier League,se_mantiene,07270793,2025-06-30,12.0,True,full,False,False,2026-04-12,13.0,False,07206409,True,False,depositada
+2024/25,Premier League,Everton,38,48,-2.0,13,Premier League,se_mantiene,00036624,2025-06-30,12.0,True,group,False,False,2026-04-12,13.0,False,,,,depositada
+2024/25,Premier League,West Ham,38,43,-16.0,14,Premier League,se_mantiene,00066516,2025-05-31,12.0,True,full,False,False,2026-03-02,2.0,False,,,,depositada
+2024/25,Premier League,Man United,38,42,-10.0,15,Premier League,se_mantiene,00095489,2025-06-30,12.0,True,full,False,False,2026-03-15,-15.0,False,,,,depositada
+2024/25,Premier League,Wolves,38,42,-15.0,16,Premier League,se_mantiene,01989823,2025-06-30,13.0,True,full,False,False,2026-04-03,4.0,False,,,,depositada
+2024/25,Premier League,Tottenham,38,38,-1.0,17,Premier League,se_mantiene,00057186,2025-06-30,12.0,True,full,False,False,2026-04-09,10.0,False,01706358,True,False,depositada
+2024/25,Premier League,Leicester,38,25,-47.0,18,Championship,descenso,04593477,2025-06-30,12.0,True,group,False,False,2026-04-11,12.0,False,,,,depositada
+2024/25,Premier League,Ipswich,38,22,-46.0,19,Championship,descenso,00315421,2025-06-30,12.0,True,full,False,False,2026-03-31,1.0,False,,,,depositada
+2024/25,Premier League,Southampton,38,12,-60.0,20,Championship,descenso,00053301,2025-06-30,12.0,True,full,False,False,2026-04-04,5.0,False,,,,depositada
+2024/25,Championship,Leeds,46,100,65.0,1,Premier League,ascenso,06233875,2025-06-30,12.0,True,group,False,False,2026-04-12,13.0,False,,,,depositada
+2024/25,Championship,Burnley,46,100,53.0,2,Premier League,ascenso,00054222,2025-07-31,12.0,True,full,False,False,2026-04-29,-1.0,False,,,,depositada
+2024/25,Championship,Sheffield United,46,92,27.0,3,Championship,se_mantiene,00061564,2025-06-30,12.0,True,full,False,False,2026-03-29,-1.0,False,,,,depositada
+2024/25,Championship,Sunderland,46,76,14.0,4,Premier League,ascenso,00049116,2025-07-31,12.0,True,full,False,False,2026-03-27,-34.0,False,,,,depositada
+2024/25,Championship,Coventry,46,69,6.0,5,Championship,se_mantiene,07612487,2025-05-31,12.0,True,full,False,False,2026-02-27,-1.0,False,,,,depositada
+2024/25,Championship,Bristol City,46,68,4.0,6,Championship,se_mantiene,03230871,2025-06-30,12.0,True,full,False,False,2026-01-02,-87.0,False,,,,depositada
+2024/25,Championship,Blackburn,46,66,5.0,7,Championship,se_mantiene,00053482,2025-06-30,12.0,True,full,False,False,2026-04-03,4.0,False,,,,depositada
+2024/25,Championship,Millwall,46,66,-2.0,8,Championship,se_mantiene,01924222,2025-06-30,12.0,True,full,False,False,2026-03-11,-19.0,False,,,,depositada
+2024/25,Championship,West Brom,46,64,10.0,9,Championship,se_mantiene,03295063,2025-06-30,12.0,True,full,False,False,2026-03-29,-1.0,False,07230595,True,False,depositada
+2024/25,Championship,Middlesbrough,46,64,8.0,10,Championship,se_mantiene,01947851,2025-06-30,12.0,True,full,False,False,2026-02-26,-32.0,False,03912084,True,True,depositada
+2024/25,Championship,Swansea,46,61,-5.0,11,Championship,se_mantiene,00123414,2025-06-30,12.0,True,full,False,False,2026-04-17,18.0,False,04305508,True,False,depositada
+2024/25,Championship,Sheffield Weds,46,58,-9.0,12,Championship,se_mantiene,,,,False,,,,,,,,,,no_depositada
+2024/25,Championship,Norwich,46,57,3.0,13,Championship,se_mantiene,00154044,2025-06-30,12.0,True,group,False,False,2025-12-11,-109.0,False,,,,depositada
+2024/25,Championship,Watford,46,57,-8.0,14,Championship,se_mantiene,00104194,2025-06-30,12.0,True,full,False,False,2026-03-25,-5.0,False,,,,depositada
+2024/25,Championship,QPR,46,56,-10.0,15,Championship,se_mantiene,00060094,2025-05-31,12.0,True,full,False,False,2026-02-17,-11.0,False,,,,depositada
+2024/25,Championship,Portsmouth,46,54,-13.0,16,Championship,se_mantiene,07940335,2025-06-30,12.0,True,full,False,False,2026-03-18,-12.0,False,,,,depositada
+2024/25,Championship,Oxford,46,53,-16.0,17,Championship,se_mantiene,00470509,2025-06-30,12.0,True,full,False,False,2026-03-20,-10.0,False,,,,depositada
+2024/25,Championship,Stoke,46,51,-17.0,18,Championship,se_mantiene,00099885,2025-05-31,12.0,True,full,False,False,2026-03-02,2.0,False,,,,depositada
+2024/25,Championship,Derby,46,50,-8.0,19,Championship,se_mantiene,14190771,2025-06-30,12.0,True,full,False,False,2025-11-07,-143.0,False,,,,depositada
+2024/25,Championship,Preston,46,50,-11.0,20,Championship,se_mantiene,00039494,2025-06-30,12.0,True,full,False,False,2025-12-30,-90.0,False,01621060,True,False,depositada
+2024/25,Championship,Hull,46,49,-10.0,21,Championship,se_mantiene,04032392,2025-06-30,12.0,True,full,False,False,2025-12-23,-97.0,False,,,,depositada
+2024/25,Championship,Luton,46,49,-24.0,22,League One o inferior,descenso,06133975,2025-06-30,12.0,True,full,False,False,2026-03-28,-2.0,False,,,,depositada
+2024/25,Championship,Plymouth,46,46,-37.0,23,League One o inferior,descenso,07796376,2025-06-30,12.0,True,group,False,False,2025-12-23,-97.0,False,,,,depositada
+2024/25,Championship,Cardiff,46,44,-25.0,24,League One o inferior,descenso,00109065,2025-05-31,12.0,True,full,False,False,2026-02-26,-2.0,False,04044254,True,False,depositada
+2025/26,Premier League,Arsenal,38,85,44.0,1,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Man City,38,78,42.0,2,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Man United,38,71,19.0,3,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Aston Villa,38,65,7.0,4,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Liverpool,38,60,10.0,5,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Bournemouth,38,57,4.0,6,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Sunderland,38,54,-6.0,7,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Brighton,38,53,6.0,8,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Brentford,38,53,3.0,9,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Chelsea,38,52,6.0,10,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Fulham,38,52,-4.0,11,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Newcastle,38,49,-2.0,12,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Everton,38,49,-3.0,13,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Leeds,38,47,-7.0,14,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Crystal Palace,38,45,-10.0,15,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Nott'm Forest,38,44,-3.0,16,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Tottenham,38,41,-9.0,17,Premier League,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,West Ham,38,39,-19.0,18,Championship,descenso,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Burnley,38,22,-37.0,19,Championship,descenso,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Premier League,Wolves,38,20,-41.0,20,Championship,descenso,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Coventry,46,95,52.0,1,Premier League,ascenso,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Ipswich,46,84,33.0,2,Premier League,ascenso,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Millwall,46,83,15.0,3,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Southampton,46,80,26.0,4,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Middlesbrough,46,80,25.0,5,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Hull,46,73,4.0,6,Premier League,ascenso,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Wrexham,46,71,4.0,7,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Derby,46,69,8.0,8,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Norwich,46,65,7.0,9,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Birmingham,46,64,1.0,10,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Swansea,46,64,-2.0,11,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Bristol City,46,62,0.0,12,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Sheffield United,46,60,0.0,13,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Preston,46,60,-7.0,14,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,QPR,46,58,-12.0,15,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Watford,46,57,-12.0,16,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Stoke,46,55,-5.0,17,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Portsmouth,46,55,-15.0,18,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,West Brom,46,53,-10.0,19,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Charlton,46,53,-14.0,20,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Leicester,46,52,-10.0,21,League One o inferior,descenso,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Blackburn,46,52,-14.0,22,Championship,se_mantiene,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Oxford,46,47,-14.0,23,League One o inferior,descenso,,,,False,,,,,,,,,,aun_no_vencida
+2025/26,Championship,Sheffield Weds,46,18,-60.0,24,League One o inferior,descenso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Man City,8,21,11.0,1,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Arsenal,8,21,8.0,2,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Brighton,8,16,16.0,3,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Liverpool,8,15,3.0,4,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Chelsea,8,13,2.0,5,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Brentford,8,11,5.0,6,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Leeds,8,11,3.0,7,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Newcastle,8,11,-2.0,8,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Aston Villa,8,11,-3.0,9,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Hull,8,10,1.0,10,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Everton,8,10,-1.0,11,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Ipswich,8,10,-4.0,12,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Bournemouth,8,9,-1.0,13,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Tottenham,8,9,-2.0,14,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Fulham,8,8,-2.0,15,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Man United,8,7,-3.0,16,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Crystal Palace,8,7,-10.0,17,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Nott'm Forest,8,6,-4.0,18,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Coventry,8,6,-9.0,19,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Premier League,Sunderland,8,5,-8.0,20,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Middlesbrough,12,25,10.0,1,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Southampton,12,24,12.0,2,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Swansea,12,23,3.0,3,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,West Ham,12,22,17.0,4,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Wolves,12,21,4.0,5,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,West Brom,12,21,3.0,6,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Birmingham,12,20,8.0,7,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,QPR,12,20,8.0,8,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Stoke,12,20,2.0,9,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Blackburn,12,18,3.0,10,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Portsmouth,12,18,1.0,11,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Sheffield United,12,16,1.0,12,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Millwall,12,15,-1.0,13,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Bristol City,12,15,-3.0,14,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Lincoln,12,15,-7.0,15,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Cardiff,12,14,2.0,16,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Wrexham,12,14,-3.0,17,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Bolton,12,14,-7.0,18,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Charlton,12,14,-7.0,19,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Norwich,12,12,-2.0,20,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Watford,12,11,-10.0,21,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Burnley,12,8,-8.0,22,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Derby,12,7,-11.0,23,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
+2026/27,Championship,Preston,12,5,-15.0,24,en_curso,en_curso,,,,False,,,,,,,,,,aun_no_vencida
