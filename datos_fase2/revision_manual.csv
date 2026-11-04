@@ -1,7 +1,22 @@
 club,temporada,division,numero,cierre,variable,valor,valor_reexpresado,estado,sospechosa,documento,pagina
+Arsenal,2010/11,Premier League,04250459,2011-05-31,ingresos,255692.0,,corregida_manual,,2011-05-31_MzA0ODAzNDA0NmFkaXF6a2N4,
+Arsenal,2010/11,Premier League,04250459,2011-05-31,resultado_antes_impuestos,14776.0,,corregida_manual,,2011-05-31_MzA0ODAzNDA0NmFkaXF6a2N4,
 Arsenal,2011/12,Premier League,00109244,2012-05-31,acreedores_lp,-474217.0,,conflicto,,2012-05-31_MzA2ODA1ODg4OWFkaXF6a2N4,10.0
+Arsenal,2011/12,Premier League,04250459,2012-05-31,ingresos,243013.0,,corregida_manual,,2012-05-31_MzA2NzUwNTA2M2FkaXF6a2N4,
+Arsenal,2011/12,Premier League,04250459,2012-05-31,resultado_antes_impuestos,36588.0,,corregida_manual,,2012-05-31_MzA2NzUwNTA2M2FkaXF6a2N4,
+Arsenal,2012/13,Premier League,04250459,2013-05-31,ingresos,280374.0,,corregida_manual,,2013-05-31_MzA4ODY5MjM1MGFkaXF6a2N4,
+Arsenal,2012/13,Premier League,04250459,2013-05-31,resultado_antes_impuestos,6654.0,,corregida_manual,,2013-05-31_MzA4ODY5MjM1MGFkaXF6a2N4,
+Arsenal,2013/14,Premier League,04250459,2014-05-31,ingresos,301872.0,,corregida_manual,,2014-05-31_MzExMDUwMTE2MGFkaXF6a2N4,
+Arsenal,2013/14,Premier League,04250459,2014-05-31,gastos_personal,166403.0,,corregida_manual,,2014-05-31_MzExMDUwMTE2MGFkaXF6a2N4,
+Arsenal,2013/14,Premier League,04250459,2014-05-31,resultado_antes_impuestos,4668.0,,corregida_manual,,2014-05-31_MzExMDUwMTE2MGFkaXF6a2N4,
 Arsenal,2014/15,Premier League,00109244,2015-05-31,acreedores_cp,-479424.0,-328622.0,conflicto,,2015-05-31_MzEzNjMxNjY4M2FkaXF6a2N4,12.0
 Arsenal,2014/15,Premier League,00109244,2015-05-31,acreedores_lp,-195615.0,-33617.0,conflicto,,2015-05-31_MzEzNjMxNjY4M2FkaXF6a2N4,12.0
+Arsenal,2014/15,Premier League,04250459,2015-05-31,gastos_personal,192213.0,,corregida_manual,,2015-05-31_MzEzNTE5MDEzMWFkaXF6a2N4,
+Arsenal,2015/16,Premier League,04250459,2016-05-31,gastos_personal,195387.0,,corregida_manual,,2016-05-31_MzE2Njc3MDIwNGFkaXF6a2N4,
+Arsenal,2021/22,Premier League,04250459,2022-05-31,gastos_personal,212345.0,,corregida_manual,,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,
+Arsenal,2022/23,Premier League,04250459,2023-05-31,gastos_personal,234766.0,,corregida_manual,,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,
+Arsenal,2023/24,Premier League,04250459,2024-05-31,gastos_personal,327822.0,,corregida_manual,,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,
+Arsenal,2024/25,Premier League,04250459,2025-05-31,gastos_personal,346804.0,,corregida_manual,,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,
 Aston Villa,2021/22,Premier League,03375789,2022-05-31,gastos_personal,9371.874,,desde_año_siguiente,comparativo de una cuenta que reexpresa: no es la cifra original,2023-05-31_MzQxMzIyMjkxMWFkaXF6a2N4,22.0
 Birmingham,2014/15,Championship,00027318,2015-06-30,patrimonio,1873.524,,corregida_manual,,2015-06-30_MzEzNzQ3Mzg3OGFkaXF6a2N4,12.0
 Birmingham,2020/21,Championship,00027318,2021-06-30,caja,1335.413,,desde_año_siguiente,comparativo de una cuenta que reexpresa: no es la cifra original,2022-06-30_MzM3MzQyMjU0NWFkaXF6a2N4,13.0
@@ -55,8 +70,34 @@ Cardiff,2023/24,Championship,00109065,2024-05-31,caja,2563.0,,desde_año_siguien
 Cardiff,2023/24,Championship,04044254,2024-05-31,acreedores_lp,-678.0,-831.0,conflicto,,2024-05-31_MzQ1NzA0ODAwMWFkaXF6a2N4,23.0
 Charlton,2014/15,Championship,01788466,2015-06-30,acreedores_cp,-6948.0,-8052.0,conflicto,,2015-06-30_MzE0MzUxODkyMGFkaXF6a2N4,12.0
 Charlton,2014/15,Championship,01788466,2015-06-30,acreedores_lp,-52030.0,-49667.0,conflicto,,2015-06-30_MzE0MzUxODkyMGFkaXF6a2N4,12.0
+Chelsea,2010/11,Premier League,02536231,2011-06-30,acreedores_cp,-21040.0,-155508.0,conflicto,,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,11.0
+Chelsea,2010/11,Premier League,02536231,2011-06-30,acreedores_lp,-94770.0,-125408.0,conflicto,,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,11.0
+Chelsea,2010/11,Premier League,02536231,2011-06-30,gastos_personal,189539.0,,corregida_manual,,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,
+Chelsea,2011/12,Premier League,02536231,2012-06-30,acreedores_cp,-180082.0,,conflicto,,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,12.0
+Chelsea,2011/12,Premier League,02536231,2012-06-30,gastos_personal,171036.0,,corregida_manual,,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,
+Chelsea,2012/13,Premier League,02536231,2013-06-30,gastos_personal,176568.0,,corregida_manual,,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,
+Chelsea,2013/14,Premier League,02536231,2014-06-30,gastos_personal,190581.0,,corregida_manual,,2014-06-30_MzExNDY3NzI3MmFkaXF6a2N4,
+Chelsea,2014/15,Premier League,02536231,2015-06-30,gastos_personal,215647.0,,corregida_manual,,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,
+Chelsea,2015/16,Premier League,02536231,2016-06-30,ingresos,329122.0,,corregida_manual,,2016-06-30_MzE2NjMwNjg5MWFkaXF6a2N4,
+Chelsea,2015/16,Premier League,02536231,2016-06-30,gastos_personal,222406.0,,corregida_manual,,2016-06-30_MzE2NjMwNjg5MWFkaXF6a2N4,
+Chelsea,2015/16,Premier League,02536231,2016-06-30,resultado_antes_impuestos,-69789.0,,corregida_manual,,2016-06-30_MzE2NjMwNjg5MWFkaXF6a2N4,
+Chelsea,2016/17,Premier League,02536231,2017-06-30,ingresos,361308.0,,corregida_manual,,2017-06-30_MzE5NDY3NTc5NGFkaXF6a2N4,
+Chelsea,2016/17,Premier League,02536231,2017-06-30,gastos_personal,219659.0,,corregida_manual,,2017-06-30_MzE5NDY3NTc5NGFkaXF6a2N4,
+Chelsea,2016/17,Premier League,02536231,2017-06-30,resultado_antes_impuestos,15646.0,,corregida_manual,,2017-06-30_MzE5NDY3NTc5NGFkaXF6a2N4,
+Chelsea,2017/18,Premier League,02536231,2018-06-30,gastos_personal,244084.0,,corregida_manual,,2018-06-30_MzIyMzk3MDA5OGFkaXF6a2N4,
+Chelsea,2018/19,Premier League,02536231,2019-06-30,gastos_personal,285550.0,,corregida_manual,,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,
+Chelsea,2019/20,Premier League,02536231,2020-06-30,gastos_personal,283480.0,,corregida_manual,,2020-06-30_MzI5MTA2NDMxM2FkaXF6a2N4,
+Chelsea,2019/20,Premier League,02536231,2020-06-30,activos_netos,511255.0,,corregida_manual,,2020-06-30_MzI5MTA2NDMxM2FkaXF6a2N4,
+Chelsea,2019/20,Premier League,02536231,2020-06-30,patrimonio,511255.0,,corregida_manual,,2020-06-30_MzI5MTA2NDMxM2FkaXF6a2N4,
+Chelsea,2020/21,Premier League,02536231,2021-06-30,acreedores_cp,6.0,-362399.0,conflicto,,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,5.0
+Chelsea,2020/21,Premier League,02536231,2021-06-30,gastos_personal,332905.0,,corregida_manual,,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,
+Chelsea,2021/22,Premier League,02536231,2022-06-30,gastos_personal,340249.0,,corregida_manual,,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,
 Chelsea,2022/23,Premier League,01965149,2023-06-30,acreedores_cp,-388170.0,-1661777.0,conflicto,,2023-06-30_MzQxNzE0MTU2NmFkaXF6a2N4,19.0
 Chelsea,2022/23,Premier League,01965149,2023-06-30,acreedores_lp,-1533375.0,-259768.0,conflicto,,2023-06-30_MzQxNzE0MTU2NmFkaXF6a2N4,19.0
+Chelsea,2022/23,Premier League,02536231,2023-06-30,gastos_personal,403962.0,,corregida_manual,,2023-06-30_MzQxNzE0MTU2NWFkaXF6a2N4,
+Chelsea,2023/24,Premier League,02536231,2024-06-30,gastos_personal,338021.0,,corregida_manual,,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,
+Chelsea,2024/25,Premier League,02536231,2025-06-30,gastos_personal,359265.0,,corregida_manual,,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,
+Chelsea,2024/25,Premier League,02536231,2025-06-30,resultado_antes_impuestos,-262444.0,,corregida_manual,,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,
 Coventry,2011/12,Championship,07612487,2012-05-31,ingresos,0.0,,corregida_manual,,2012-05-31_MzA4NjQ4MjM5NmFkaXF6a2N4,7.0
 Coventry,2022/23,Championship,07612487,2023-05-31,gastos_personal,18459.53,17914.073,conflicto,,2023-05-31_MzQxMzAzMTM3N2FkaXF6a2N4,
 Crystal Palace,2017/18,Premier League,07206409,2018-06-30,caja,17862.0,,conflicto,,2018-06-30_MzIzMTI1MTU0MGFkaXF6a2N4,12.0

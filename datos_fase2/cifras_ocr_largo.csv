@@ -12184,6 +12184,276 @@ numero,cierre,documento,bloque,variable,actual,anterior,pagina,etiqueta_ocr,unid
 02529667,2025-06-30,2025-06-30_MzUxNDExODU4OWFkaXF6a2N4,balance,activos_netos,333000.0,248272.0,20,net assets,1.0,v2,False
 02529667,2025-06-30,2025-06-30_MzUxNDExODU4OWFkaXF6a2N4,personal,sueldos_salarios,213185.0,194522.0,36,wages and salaries,1.0,v2,False
 02529667,2025-06-30,2025-06-30_MzUxNDExODU4OWFkaXF6a2N4,personal,pensiones,1096.0,680.0,36,other pension costs,1.0,v2,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,pyg,ingresos,203304.0,210186.0,9,group turnover,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,pyg,resultado_explotacion,-73007.0,-87024.0,9,group operating loss,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,pyg,beneficio_traspasos,28555.0,22151.0,9,profit on disposal of player registrations,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,pyg,intereses_pagados,7.0,,9,interest payable and similar charges,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,pyg,resultado_antes_impuestos,-44308.0,-66403.0,9,loss on ordinary activities before taxation,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,pyg,impuesto,8.0,,9,taxation on loss on ordinary activities,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,pyg,resultado_neto,-44395.0,-65672.0,9,loss on ordinary activities after taxation,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,balance,intangibles,77834.0,143570.0,11,intangible assets,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,balance,inmovilizado_material,199471.0,204046.0,11,tangible assets il,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,balance,deudores,62264.0,56237.0,11,debtors due in one year,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,balance,caja,5702.0,5339.0,11,cash at bank and in hand,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,balance,acreedores_cp,-94519.0,-121592.0,11,creditors amounts falling due within one year,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,balance,activo_circulante_neto,-5929.0,-38718.0,11,net current (liabilities)/assets,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,balance,activo_menos_pasivo_cp,271376.0,308898.0,11,total assets less current liabilities,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,balance,acreedores_lp,-31234.0,-363932.0,11,creditors amounts falling due after one year,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,balance,provisiones,18.0,,11,provisions for liabilities and charges,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,balance,activos_netos,236605.0,-59000.0,11,net (liabilities)/assets,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,balance,patrimonio,236568.0,-59037.0,11,shareholders funds,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,personal,sueldos_salarios,148706.0,153896.0,17,wages and salaries,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,personal,seguridad_social,15907.0,17025.0,17,social security costs,1.0,v1,False
+02536231,2009-06-30,2009-06-30_MzAwNjc3NDMxNGFkaXF6a2N4,personal,pensiones,995.0,699.0,17,other pension costs,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,pyg,ingresos,205797.0,203304.0,9,group turnover,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,pyg,resultado_explotacion,-70148.0,-73007.0,9,group operating toss,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,pyg,beneficio_traspasos,-982.0,28555.0,9,(loss)/profit on disposal of player registrations,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,pyg,intereses_pagados,7.0,,9,interest payable and similar charges,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,pyg,resultado_antes_impuestos,-70393.0,-44308.0,9,loss on ordinary activities before taxation,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,pyg,impuesto,8.0,,9,taxation on loss on ordinary activities,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,pyg,resultado_neto,-70878.0,-44395.0,9,loss on ordinary activities after taxation,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,balance,intangibles,64039.0,77834.0,11,intangible assets,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,balance,inmovilizado_material,190121.0,199471.0,11,tangible assets li,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,balance,deudores,27313.0,62264.0,11,debtors due in one year,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,balance,caja,20558.0,5702.0,11,cash at bank and,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,balance,acreedores_cp,-99659.0,-94519.0,11,creditors- amounts falling due within one year,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,balance,activo_menos_pasivo_cp,212031.0,271376.0,11,total assets less current liabilities,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,balance,acreedores_lp,-47136.0,-31234.0,11,creditors amounts falling duc after one year,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,balance,activos_netos,162325.0,236605.0,11,net assets,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,balance,patrimonio,162288.0,236568.0,11,shareholders funds,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,personal,sueldos_salarios,147370.0,148706.0,17,wages and salanes,1.0,v1,False
+02536231,2010-06-30,2010-06-30_MzAzMTU0MDYzOGFkaXF6a2N4,personal,pensiones,9007.0,995.0,17,other pension costs,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,pyg,ingresos,222262.0,205797.0,9,group turnover,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,pyg,resultado_explotacion,-86204.0,-70148.0,9,group operating loss,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,pyg,beneficio_traspasos,18410.0,-982.0,9,profit/(loss) on disposal of player registrations,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,pyg,intereses_pagados,7.0,,9,interest payable and similar charges,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,pyg,resultado_antes_impuestos,-67418.0,-70393.0,9,loss on ordinary activities before taxation,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,pyg,impuesto,8.0,,9,taxation on loss on ordinary activities,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,pyg,resultado_neto,-67655.0,-70878.0,9,loss for the financial year,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,balance,intangibles,126415.0,64039.0,11,intangible assets,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,balance,inmovilizado_material,2413.0,2876.0,11,tangible assets il,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,balance,deudores,24.0,643.0,11,debtors due in one year lf,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,balance,caja,17526.0,20542.0,11,cash at bank and in hand,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,balance,acreedores_cp,-21040.0,-15750.0,11,creditors amounts falling due within one year,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,balance,activo_menos_pasivo_cp,800447.0,730909.0,11,total assets less current liabilities,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,balance,acreedores_lp,-94770.0,-25232.0,11,creditors amounts falling due after one year,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,balance,provisiones,18.0,,11,provisions for liabilities and charges,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,balance,activos_netos,705.0,677.0,11,net assets,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,balance,patrimonio,705677.0,705677.0,11,shareholders funds,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,personal,sueldos_salarios,156908.0,147370.0,17,wages and salaries,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,personal,seguridad_social,16053.0,16176.0,17,social security costs,1.0,v1,False
+02536231,2011-06-30,2011-06-30_MzA1MTk0NjQ0NmFkaXF6a2N4,personal,pensiones,9.0,7.0,17,other pension costs,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,pyg,ingresos,255738.0,222262.0,10,group turnover,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,pyg,resultado_explotacion,-45995.0,-86204.0,10,group operating profit/(loss),1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,pyg,beneficio_traspasos,28794.0,18410.0,10,profit on disposal of player registrations,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,pyg,intereses_pagados,7.0,,10,interest payable and similar charges,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,pyg,resultado_antes_impuestos,1378.0,-67418.0,10,profit/(less) on ordinary activities before taxation,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,pyg,impuesto,8.0,,10,taxation on profit/(loss) on ordinary activities,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,pyg,resultado_neto,1378.0,-67655.0,10,profit/(loss) for the financial year,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,balance,intangibles,201276.0,126415.0,12,intangible assets,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,balance,inmovilizado_material,184651.0,188310.0,12,tangible assets i,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,balance,deudores,34839.0,34821.0,12,debtors due in one year i,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,balance,caja,16986.0,17554.0,12,cash at bank and in hand,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,balance,acreedores_cp,-180082.0,-155508.0,12,creditors amounts falling due within one year,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,balance,activo_circulante_neto,-79123.0,-92102.0,12,net current (liabilities)/assets,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,balance,activo_menos_pasivo_cp,306804.0,222623.0,12,total assets less current liabilities,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,balance,acreedores_lp,-43623.0,-125408.0,12,creditors amounts falling due after one year,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,balance,provisiones,18.0,,12,provisions for habilities and charges,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,balance,activos_netos,263181.0,95403.0,12,net assets,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,balance,patrimonio,263144.0,95366.0,12,shareholders funds,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,personal,sueldos_salarios,138998.0,156908.0,18,wages and salaries,1.0,v1,False
+02536231,2012-06-30,2012-06-30_MzA3MDcyNjIxOGFkaXF6a2N4,personal,seguridad_social,18443.0,16053.0,18,social security costs,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,pyg,ingresos,255772.0,255738.0,10,group turnover,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,pyg,beneficio_traspasos,14452.0,28794.0,10,profit on disposal of player registrations,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,pyg,intereses_pagados,0.0,-1.0,10,interest payable and similar charges group,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,pyg,resultado_antes_impuestos,-50712.0,1378.0,10,(loss)/profit on ordinary activities before taxation,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,pyg,impuesto,1272.0,,10,taxation on (loss)/profit on ordinary activities group,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,pyg,resultado_neto,-49440.0,1378.0,10,(loss)/profit for the financial year,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,balance,intangibles,195674.0,201276.0,12,intangible assets,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,balance,inmovilizado_material,181339.0,184651.0,12,tangible assets il,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,balance,deudores,47526.0,34839.0,12,debtors due in one year,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,balance,caja,26107.0,16986.0,12,cash at bank and in hand,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,balance,acreedores_cp,-154299.0,-150082.0,12,creditors amounts falling due within one year,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,balance,acreedores_lp,-29050.0,-43623.0,12,creditors amounts falling due after one year,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,balance,activos_netos,298946.0,263181.0,12,net assets,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,balance,patrimonio,298909.0,263144.0,12,shareholders funds,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,personal,sueldos_salarios,151649.0,138998.0,18,wages and salanes,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,personal,seguridad_social,18579.0,18443.0,18,social security costs,1.0,v1,False
+02536231,2013-06-30,2013-06-30_MzA5MjAwODY1MmFkaXF6a2N4,personal,pensiones,6340.0,13595.0,18,other pension costs,1.0,v1,False
+02536231,2014-06-30,2014-06-30_MzExNDY3NzI3MmFkaXF6a2N4,balance,intangibles,195674.0,3557.0,12,intangible assets,1.0,v1,False
+02536231,2014-06-30,2014-06-30_MzExNDY3NzI3MmFkaXF6a2N4,balance,inmovilizado_material,183839.0,181339.0,12,tangible assets il,1.0,v1,False
+02536231,2014-06-30,2014-06-30_MzExNDY3NzI3MmFkaXF6a2N4,balance,deudores,82957.0,47526.0,12,debtors due in one year i,1.0,v1,False
+02536231,2014-06-30,2014-06-30_MzExNDY3NzI3MmFkaXF6a2N4,balance,caja,19902.0,26107.0,12,cash at bank and in hand,1.0,v1,False
+02536231,2014-06-30,2014-06-30_MzExNDY3NzI3MmFkaXF6a2N4,balance,acreedores_cp,-169546.0,-154299.0,12,creditors amounts falling due within one year,1.0,v1,False
+02536231,2014-06-30,2014-06-30_MzExNDY3NzI3MmFkaXF6a2N4,balance,activo_circulante_neto,-10547.0,-49017.0,12,net current (liabilities)/assets,1.0,v1,False
+02536231,2014-06-30,2014-06-30_MzExNDY3NzI3MmFkaXF6a2N4,balance,activo_menos_pasivo_cp,403485.0,327996.0,12,total assets less current liabilities,1.0,v1,False
+02536231,2014-06-30,2014-06-30_MzExNDY3NzI3MmFkaXF6a2N4,balance,acreedores_lp,-32876.0,-29050.0,12,creditors amounts falling due after one year,1.0,v1,False
+02536231,2014-06-30,2014-06-30_MzExNDY3NzI3MmFkaXF6a2N4,balance,activos_netos,370609.0,298946.0,12,net assets,1.0,v1,False
+02536231,2014-06-30,2014-06-30_MzExNDY3NzI3MmFkaXF6a2N4,balance,patrimonio,370572.0,298909.0,12,shareholders funds,1.0,v1,False
+02536231,2014-06-30,2014-06-30_MzExNDY3NzI3MmFkaXF6a2N4,personal,sueldos_salarios,167666.0,151649.0,18,wages and salaries,1.0,v1,False
+02536231,2014-06-30,2014-06-30_MzExNDY3NzI3MmFkaXF6a2N4,personal,seguridad_social,20412.0,18579.0,18,social security costs,1.0,v1,False
+02536231,2014-06-30,2014-06-30_MzExNDY3NzI3MmFkaXF6a2N4,personal,pensiones,2503.0,6340.0,18,other pension costs,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,pyg,ingresos,314287.0,319843.0,10,turnover,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,pyg,resultado_explotacion,-63717.0,-46166.0,10,group operating loss,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,pyg,beneficio_traspasos,42027.0,65072.0,10,profit on disposal of player registrations,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,pyg,intereses_pagados,-1.0,-1.0,10,interest payable and similar charges,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,pyg,resultado_antes_impuestos,-22656.0,19068.0,10,(loss)/profit on ordinary activities before taxation,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,pyg,impuesto,-412.0,-652.0,10,taxation on (loss)/profit on ordinary activities group,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,pyg,resultado_neto,-23068.0,18416.0,10,(loss)/profit for the financial year,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,balance,intangibles,226497.0,230193.0,12,intangible assets,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,balance,inmovilizado_material,187135.0,183839.0,12,tangible assets i,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,balance,deudores,101723.0,82050.0,12,debtors due in one year,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,balance,caja,830.0,19902.0,12,cash at bank and in hand,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,balance,acreedores_cp,-156796.0,-169546.0,12,creditors amounts falling due within one year,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,balance,activo_circulante_neto,-20750.0,-10547.0,12,net current (liabilities)/assets,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,balance,activo_menos_pasivo_cp,392882.0,403485.0,12,total assets less current liabilities,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,balance,acreedores_lp,-17335.0,-32876.0,12,creditors amounts falling due after one year,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,balance,activos_netos,375547.0,370609.0,12,net assets,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,balance,patrimonio,375547.0,370572.0,12,shareholders funds,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,personal,sueldos_salarios,191392.0,167666.0,19,wages and salaries,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,personal,seguridad_social,23044.0,20412.0,19,social security costs,1.0,v1,False
+02536231,2015-06-30,2015-06-30_MzEzODU4Mjg2MWFkaXF6a2N4,personal,pensiones,1211.0,2503.0,19,other pension costs,1.0,v1,False
+02536231,2016-06-30,2016-06-30_MzE2NjMwNjg5MWFkaXF6a2N4,balance,intangibles,244718.0,225140.0,13,intangible assets,1.0,v1,False
+02536231,2016-06-30,2016-06-30_MzE2NjMwNjg5MWFkaXF6a2N4,balance,inmovilizado_material,184775.0,183985.0,13,tangible assets,1.0,v1,False
+02536231,2016-06-30,2016-06-30_MzE2NjMwNjg5MWFkaXF6a2N4,balance,deudores,128934.0,131563.0,13,debtors,1.0,v1,False
+02536231,2016-06-30,2016-06-30_MzE2NjMwNjg5MWFkaXF6a2N4,balance,caja,27127.0,830.0,13,cash at bank and in hand,1.0,v1,False
+02536231,2016-06-30,2016-06-30_MzE2NjMwNjg5MWFkaXF6a2N4,balance,activo_circulante_neto,-95573.0,-23537.0,13,net current liabilities,1.0,v1,False
+02536231,2016-06-30,2016-06-30_MzE2NjMwNjg5MWFkaXF6a2N4,balance,activo_menos_pasivo_cp,337170.0,388738.0,13,total assets less current liabilities,1.0,v1,False
+02536231,2016-06-30,2016-06-30_MzE2NjMwNjg5MWFkaXF6a2N4,balance,provisiones,-638.0,-375.0,13,provisions for liabilities,1.0,v1,False
+02536231,2016-06-30,2016-06-30_MzE2NjMwNjg5MWFkaXF6a2N4,balance,activos_netos,285554.0,371608.0,13,net assets,1.0,v1,False
+02536231,2016-06-30,2016-06-30_MzE2NjMwNjg5MWFkaXF6a2N4,balance,patrimonio,285554.0,371608.0,13,total equity,1.0,v1,False
+02536231,2016-06-30,2016-06-30_MzE2NjMwNjg5MWFkaXF6a2N4,personal,sueldos_salarios,195846.0,191392.0,28,wages and salaries,1.0,v1,False
+02536231,2016-06-30,2016-06-30_MzE2NjMwNjg5MWFkaXF6a2N4,personal,seguridad_social,25321.0,23044.0,28,social security costs,1.0,v1,False
+02536231,2016-06-30,2016-06-30_MzE2NjMwNjg5MWFkaXF6a2N4,personal,pensiones,1239.0,1211.0,28,pension costs,1.0,v1,False
+02536231,2017-06-30,2017-06-30_MzE5NDY3NTc5NGFkaXF6a2N4,balance,intangibles,236096.0,244787.0,13,intangible assets,1.0,v1,False
+02536231,2017-06-30,2017-06-30_MzE5NDY3NTc5NGFkaXF6a2N4,balance,inmovilizado_material,179952.0,184706.0,13,tangible assets,1.0,v1,False
+02536231,2017-06-30,2017-06-30_MzE5NDY3NTc5NGFkaXF6a2N4,balance,deudores,212034.0,128934.0,13,debtors,1.0,v1,False
+02536231,2017-06-30,2017-06-30_MzE5NDY3NTc5NGFkaXF6a2N4,balance,caja,32986.0,27127.0,13,cash at bank and in hand,1.0,v1,False
+02536231,2017-06-30,2017-06-30_MzE5NDY3NTc5NGFkaXF6a2N4,balance,activo_circulante_neto,-82498.0,-95573.0,13,net current liabilities,1.0,v1,False
+02536231,2017-06-30,2017-06-30_MzE5NDY3NTc5NGFkaXF6a2N4,balance,activo_menos_pasivo_cp,336895.0,337170.0,13,total assets less current liabilities,1.0,v1,False
+02536231,2017-06-30,2017-06-30_MzE5NDY3NTc5NGFkaXF6a2N4,balance,provisiones,-880.0,-638.0,13,provisions for liabilities,1.0,v1,False
+02536231,2017-06-30,2017-06-30_MzE5NDY3NTc5NGFkaXF6a2N4,balance,activos_netos,305219.0,285554.0,13,net assets,1.0,v1,False
+02536231,2017-06-30,2017-06-30_MzE5NDY3NTc5NGFkaXF6a2N4,balance,patrimonio,305219.0,285554.0,13,total equity,1.0,v1,False
+02536231,2017-06-30,2017-06-30_MzE5NDY3NTc5NGFkaXF6a2N4,personal,sueldos_salarios,195290.0,195846.0,27,wages and salaries,1.0,v1,False
+02536231,2017-06-30,2017-06-30_MzE5NDY3NTc5NGFkaXF6a2N4,personal,seguridad_social,23072.0,25321.0,27,social security costs,1.0,v1,False
+02536231,2017-06-30,2017-06-30_MzE5NDY3NTc5NGFkaXF6a2N4,personal,pensiones,1297.0,1239.0,27,pension costs,1.0,v1,False
+02536231,2018-06-30,2018-06-30_MzIyMzk3MDA5OGFkaXF6a2N4,balance,intangibles,375656.0,236096.0,13,intangible assets,1.0,v1,False
+02536231,2018-06-30,2018-06-30_MzIyMzk3MDA5OGFkaXF6a2N4,balance,inmovilizado_material,176786.0,179952.0,13,tangible assets,1.0,v1,False
+02536231,2018-06-30,2018-06-30_MzIyMzk3MDA5OGFkaXF6a2N4,balance,deudores,167806.0,212034.0,13,debtors,1.0,v1,False
+02536231,2018-06-30,2018-06-30_MzIyMzk3MDA5OGFkaXF6a2N4,balance,caja,31679.0,32986.0,13,cash at bank and in hand,1.0,v1,False
+02536231,2018-06-30,2018-06-30_MzIyMzk3MDA5OGFkaXF6a2N4,balance,activo_circulante_neto,-117746.0,-82498.0,13,net current liabilities,1.0,v1,False
+02536231,2018-06-30,2018-06-30_MzIyMzk3MDA5OGFkaXF6a2N4,balance,activo_menos_pasivo_cp,438041.0,336895.0,13,total assets less current liabilities,1.0,v1,False
+02536231,2018-06-30,2018-06-30_MzIyMzk3MDA5OGFkaXF6a2N4,balance,provisiones,-1130.0,-880.0,13,provisions for liabilities,1.0,v1,False
+02536231,2018-06-30,2018-06-30_MzIyMzk3MDA5OGFkaXF6a2N4,balance,activos_netos,392623.0,305219.0,13,net assets,1.0,v1,False
+02536231,2018-06-30,2018-06-30_MzIyMzk3MDA5OGFkaXF6a2N4,balance,patrimonio,392623.0,305219.0,13,total equity,1.0,v1,False
+02536231,2018-06-30,2018-06-30_MzIyMzk3MDA5OGFkaXF6a2N4,personal,sueldos_salarios,216009.0,195290.0,27,wages and salaries,1.0,v1,False
+02536231,2018-06-30,2018-06-30_MzIyMzk3MDA5OGFkaXF6a2N4,personal,seguridad_social,26703.0,23072.0,27,social security costs,1.0,v1,False
+02536231,2018-06-30,2018-06-30_MzIyMzk3MDA5OGFkaXF6a2N4,personal,pensiones,1372.0,1297.0,27,pension costs,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,pyg,ingresos,446741.0,443449.0,11,turnover,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,pyg,resultado_explotacion,-162666.0,-47014.0,11,operating (loss)/profit,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,pyg,intereses_pagados,-2548.0,-1677.0,11,interest payable and similar charges,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,pyg,beneficio_traspasos,60459.0,112995.0,11,profit on disposal of player registrations,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,pyg,resultado_antes_impuestos,-101786.0,67461.0,11,(loss)/profit before taxation,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,pyg,impuesto,5215.0,-5428.0,11,taxation,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,pyg,resultado_neto,-96571.0,62033.0,11,(loss)/profit for the financial year,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,balance,intangibles,482102.0,375656.0,13,intangible assets,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,balance,inmovilizado_material,180098.0,176786.0,13,tangible assets,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,balance,deudores,174372.0,167806.0,13,debtors,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,balance,caja,36580.0,31679.0,13,cash at bank and in hand,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,balance,activo_circulante_neto,-162965.0,-117746.0,13,net current liabilities,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,balance,activo_menos_pasivo_cp,502495.0,438041.0,13,total assets less current liabilities,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,balance,provisiones,-976.0,-1130.0,13,provisions for liabilities,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,balance,activos_netos,463681.0,392623.0,13,net assets,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,balance,patrimonio,463681.0,392623.0,13,total equity,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,personal,sueldos_salarios,251135.0,216009.0,27,wages and salaries,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,personal,seguridad_social,32974.0,26703.0,27,social security costs,1.0,v1,False
+02536231,2019-06-30,2019-06-30_MzI1MzY5NTU2NWFkaXF6a2N4,personal,pensiones,1441.0,1372.0,27,pension costs,1.0,v1,False
+02536231,2020-06-30,2020-06-30_MzI5MTA2NDMxM2FkaXF6a2N4,balance,intangibles,7.0,,5,intangible assets have decreased to,1.0,v1,False
+02536231,2020-06-30,2020-06-30_MzI5MTA2NDMxM2FkaXF6a2N4,balance,inmovilizado_material,9.0,,5,tangible fixed assets are,1.0,v1,False
+02536231,2020-06-30,2020-06-30_MzI5MTA2NDMxM2FkaXF6a2N4,balance,activo_circulante_neto,6.0,,5,net current liabilities at,1.0,v1,False
+02536231,2020-06-30,2020-06-30_MzI5MTA2NDMxM2FkaXF6a2N4,balance,acreedores_lp,8.0,,5,creditors falling due after more than one year of,1.0,v1,False
+02536231,2020-06-30,2020-06-30_MzI5MTA2NDMxM2FkaXF6a2N4,personal,sueldos_salarios,249328.0,251135.0,30,wages and salaries ae,1.0,v1,False
+02536231,2020-06-30,2020-06-30_MzI5MTA2NDMxM2FkaXF6a2N4,personal,seguridad_social,32645.0,32974.0,30,social security costs,1.0,v1,False
+02536231,2020-06-30,2020-06-30_MzI5MTA2NDMxM2FkaXF6a2N4,personal,pensiones,1507.0,1441.0,30,pension costs,1.0,v1,False
+02536231,2021-06-30,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,pyg,ingresos,434863.0,407402.0,17,turnover,1.0,v1,False
+02536231,2021-06-30,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,pyg,resultado_explotacion,-182843.0,-111564.0,17,operating loss,1.0,v1,False
+02536231,2021-06-30,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,pyg,intereses_pagados,-5996.0,-3300.0,17,interest payable and similar charges,1.0,v1,False
+02536231,2021-06-30,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,pyg,beneficio_traspasos,27940.0,142645.0,17,profit on disposal of player registrations,1.0,v1,False
+02536231,2021-06-30,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,pyg,resultado_antes_impuestos,-155939.0,35652.0,17,(loss)/profit before taxation,1.0,v1,False
+02536231,2021-06-30,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,pyg,impuesto,2917.0,0.0,17,taxation,1.0,v1,False
+02536231,2021-06-30,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,pyg,resultado_neto,-153422.0,32473.0,17,(loss)/profit for the financial year,1.0,v1,False
+02536231,2021-06-30,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,balance,intangibles,2.0,,5,intangible assets have increased to,1.0,v1,False
+02536231,2021-06-30,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,balance,inmovilizado_material,4.0,,5,tangible fixed assets are,1.0,v1,False
+02536231,2021-06-30,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,balance,activo_circulante_neto,6.0,,5,net current liabilities at,1.0,v1,False
+02536231,2021-06-30,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,balance,acreedores_cp,6.0,,5,an increase in creditors falling due within one year of,1.0,v1,False
+02536231,2021-06-30,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,balance,acreedores_lp,0.0,,5,creditors falling due after more than one year of,1.0,v1,False
+02536231,2021-06-30,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,personal,sueldos_salarios,291595.0,249328.0,33,wages and salaries,1.0,v1,False
+02536231,2021-06-30,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,personal,seguridad_social,39671.0,32645.0,33,social security costs,1.0,v1,False
+02536231,2021-06-30,2021-06-30_MzMyNDMxMTA2NmFkaXF6a2N4,personal,pensiones,1639.0,1507.0,33,pension costs,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,pyg,ingresos,481278.0,434863.0,18,turnover,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,pyg,resultado_explotacion,-242429.0,-182843.0,18,operating loss,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,pyg,intereses_pagados,-7063.0,-5996.0,18,interest payable and similar charges,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,pyg,beneficio_traspasos,123213.0,27940.0,18,profit on disposal of player registrations,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,pyg,resultado_antes_impuestos,-121355.0,-155939.0,18,loss before taxation,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,pyg,impuesto,73.0,2517.0,18,taxation,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,pyg,resultado_neto,-121282.0,-153422.0,18,loss for the financial year,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,balance,intangibles,306898.0,437512.0,20,intangible assets,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,balance,inmovilizado_material,170118.0,174862.0,20,tangible assets,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,balance,deudores,339623.0,191385.0,20,debtors,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,balance,caja,54184.0,16366.0,20,cash at bank and in hand,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,balance,acreedores_cp,-352722.0,-362399.0,20,creditors amounts falling due within one year,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,balance,activo_circulante_neto,41133.0,-154540.0,20,net current assets/(liabilities),1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,balance,provisiones,-1549.0,-1629.0,20,provisions for liabilities,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,balance,activos_netos,440827.0,400689.0,20,net assets,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,balance,patrimonio,440827.0,400689.0,20,total equity,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,personal,sueldos_salarios,569.0,291595.0,34,wages and salaries,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,personal,seguridad_social,40974.0,39671.0,34,social security costs,1.0,v1,False
+02536231,2022-06-30,2022-06-30_MzM3NDg3MzQ5MGFkaXF6a2N4,personal,pensiones,1706.0,1639.0,34,pension costs,1.0,v1,False
+02536231,2023-06-30,2023-06-30_MzQxNzE0MTU2NWFkaXF6a2N4,balance,intangibles,8.0,,5,intangible assets have increased to,1.0,v1,False
+02536231,2023-06-30,2023-06-30_MzQxNzE0MTU2NWFkaXF6a2N4,balance,inmovilizado_material,7.0,,5,tangible fixed assets are,1.0,v1,False
+02536231,2023-06-30,2023-06-30_MzQxNzE0MTU2NWFkaXF6a2N4,balance,activo_circulante_neto,1.0,,5,net current liabilities of,1.0,v1,False
+02536231,2023-06-30,2023-06-30_MzQxNzE0MTU2NWFkaXF6a2N4,balance,acreedores_lp,9.0,,5,creditors falling due after more than one year of,1.0,v1,False
+02536231,2023-06-30,2023-06-30_MzQxNzE0MTU2NWFkaXF6a2N4,personal,sueldos_salarios,352355.0,297569.0,38,wages and salaries,1.0,v1,False
+02536231,2023-06-30,2023-06-30_MzQxNzE0MTU2NWFkaXF6a2N4,personal,seguridad_social,49831.0,40974.0,38,social security costs,1.0,v1,False
+02536231,2023-06-30,2023-06-30_MzQxNzE0MTU2NWFkaXF6a2N4,personal,pensiones,1776.0,1706.0,38,pension costs,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,pyg,ingresos,468486.0,512467.0,21,turnover,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,pyg,resultado_explotacion,-212959.0,-217982.0,21,operating loss,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,pyg,intereses_pagados,-19271.0,-16392.0,21,interest payable and similar charges,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,pyg,beneficio_traspasos,152463.0,62861.0,21,profit on disposal of player registrations,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,pyg,resultado_antes_impuestos,128400.0,-90100.0,21,profit/(loss) before taxation,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,pyg,impuesto,1206.0,0.0,21,taxation,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,pyg,resultado_neto,129606.0,-89769.0,21,profit/(loss) for the financial year,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,balance,intangibles,1035265.0,709754.0,23,intangible assets,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,balance,inmovilizado_material,154383.0,156308.0,23,tangible assets,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,balance,deudores,615118.0,277674.0,23,debtors,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,balance,caja,36025.0,87889.0,23,cash at bank and in hand,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,balance,acreedores_cp,-829484.0,-622387.0,23,creditors amounts falling due within one year,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,balance,activo_circulante_neto,-177430.0,-256796.0,23,net current liabilities,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,balance,activo_menos_pasivo_cp,1015004.0,612436.0,23,total assets less current liabilities,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,balance,provisiones,-3.0,-1214.0,23,provisions for liabilities,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,balance,activos_netos,795658.0,351055.0,23,net assets,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,balance,patrimonio,795658.0,351055.0,23,total equity,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,personal,sueldos_salarios,294629.0,352355.0,38,wages and salaries,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,personal,seguridad_social,41035.0,49831.0,38,social security costs,1.0,v1,False
+02536231,2024-06-30,2024-06-30_MzQ2MTE3NTE4OWFkaXF6a2N4,personal,pensiones,2357.0,1776.0,38,pension costs,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,pyg,ingresos,490857.0,468486.0,17,turnover,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,pyg,intereses_pagados,-20357.0,-19271.0,17,interest payable and similar expenses,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,pyg,beneficio_traspasos,57906.0,152463.0,17,profit on disposal of player registrations,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,pyg,resultado_neto,-262444.0,128400.0,17,(loss)/profit after taxation,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,pyg,impuesto,-203.0,4206.0,17,tax on (loss)/profit,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,balance,intangibles,1046815.0,1035265.0,19,intangible assets,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,balance,inmovilizado_material,140600.0,154383.0,19,tangible assets,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,balance,deudores,299268.0,615118.0,19,debtors,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,balance,caja,49009.0,36025.0,19,cash at bank and in hand,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,balance,acreedores_cp,-441552.0,-829484.0,19,creditors amounts falling due within one year,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,balance,activo_menos_pasivo_cp,856.0,1015004.0,19,total assets less current liabilities,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,balance,acreedores_lp,-202342.0,-219343.0,19,creditors amounts falling due after more than one year,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,balance,provisiones,24.0,-24000.0,19,provisions,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,balance,activos_netos,872302.0,795658.0,19,net assets,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,balance,patrimonio,872302.0,795658.0,19,total equity,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,personal,sueldos_salarios,312812.0,294629.0,34,wages and salaries,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,personal,seguridad_social,44041.0,41035.0,34,social security costs,1.0,v1,False
+02536231,2025-06-30,2025-06-30_MzUxNDEyMjMwN2FkaXF6a2N4,personal,pensiones,2412.0,2357.0,34,pension costs,1.0,v1,False
 02849319,2009-06-30,2009-06-30_MzAxMjkwMTc5MmFkaXF6a2N4,pyg,ingresos,4135.728,4055.578,12,turnover,0.001,v2,False
 02849319,2009-06-30,2009-06-30_MzAxMjkwMTc5MmFkaXF6a2N4,pyg,resultado_explotacion,-5764.151,-3150.188,12,operating loss,0.001,v2,False
 02849319,2009-06-30,2009-06-30_MzAxMjkwMTc5MmFkaXF6a2N4,pyg,intereses_pagados,-1.319,-4.623,12,interest payable,0.001,v2,False
@@ -14627,6 +14897,233 @@ numero,cierre,documento,bloque,variable,actual,anterior,pagina,etiqueta_ocr,unid
 04044254,2025-05-31,2025-05-31_MzUwNzE0NDk4OWFkaXF6a2N4,balance,activos_netos,-66116.0,-31041.0,19,net liabilities,1.0,v2,True
 04044254,2025-05-31,2025-05-31_MzUwNzE0NDk4OWFkaXF6a2N4,personal,sueldos_salarios,34669.0,26777.0,40,wages and salaries,1.0,v2,True
 04044254,2025-05-31,2025-05-31_MzUwNzE0NDk4OWFkaXF6a2N4,personal,seguridad_social,4126.0,2938.0,40,social security costs,1.0,v2,True
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,pyg,ingresos,222970000.0,313339000.0,56,group turnover,1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,pyg,resultado_explotacion_sin_traspasos,48018000.0,58800000.0,56,operating profit before player trading ae and exceptional co,1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,pyg,resultado_explotacion,26733000.0,38513000.0,56,operating profit / (loss),1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,pyg,beneficio_traspasos,26458000.0,23177000.0,56,profit on disposal of player registrations,1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,pyg,resultado_antes_impuestos,36668000.0,45512000.0,56,profit before tax,1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,pyg,resultado_neto,25726000.0,35230000.0,56,profit after tax,1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,balance,inmovilizado_material,440369000.0,449517000.0,32,tangible fixed assets,1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,balance,intangibles,68446000.0,55665000.0,32,intangible fixed assets,1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,balance,deudores,45981000.0,32340000.0,32,debtors - due within one year,1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,balance,acreedores_cp,-314096000.0,-334252000.0,32,creditors amounts falling due within one year,1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,balance,activo_circulante_neto,9768000.0,-5527000.0,32,net current assets/(liabilities),1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,balance,activo_menos_pasivo_cp,519313000.0,500061000.0,32,total assets less current liabilities,1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,balance,acreedores_lp,-292748000.0,-310203000.0,32,creditors amounts falling due after more than one year,1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,balance,provisiones,-32235000.0,-30758000.0,32,provisions for liabilities and charges,1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,balance,activos_netos,194330000.0,159100000.0,32,net assets,1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,balance,patrimonio,194330000.0,159100000.0,32,shareholders funds,1000.0,v1,False
+04250459,2009-05-31,2009-05-31_MzAwNDAyMzEzNWFkaXF6a2N4,personal,gastos_personal,103978000.0,101302000.0,38,staff costs (see note,1000.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,pyg,ingresos,313339.0,379856.0,57,group turnover,1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,pyg,resultado_explotacion_sin_traspasos,58800.0,60124.0,57,operating profit before player trading ot and exceptional co,1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,pyg,resultado_explotacion,38513.0,35551.0,57,operating profit / (loss),1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,pyg,beneficio_traspasos,23177.0,38137.0,57,profit on disposal of player registrations,1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,pyg,resultado_antes_impuestos,45512.0,55968.0,57,profit before tax,1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,pyg,resultado_neto,35230.0,60992.0,57,profit after tax,1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,balance,inmovilizado_material,434494.0,440369.0,33,tangible fixed assets,1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,balance,intangibles,60661.0,68446.0,33,intangible fixed assets,1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,balance,deudores,62289.0,45981.0,33,debtors due within one year,1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,balance,acreedores_cp,-154835.0,-314096.0,33,creditors amounts falling due within one year,1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,balance,activo_circulante_neto,85631.0,9768.0,33,net current assets,1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,balance,activo_menos_pasivo_cp,581839.0,519313.0,33,total assets less current liabilities,1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,balance,acreedores_lp,283883.0,-292748.0,33,creditors amounts falling due after more than one year,1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,balance,provisiones,-42634.0,-32235.0,33,provisions for liabilities and charges,1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,balance,activos_netos,255322.0,194330.0,33,net assets,1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,balance,patrimonio,255322.0,194330.0,33,shareholders funds,1.0,v1,False
+04250459,2010-05-31,2010-05-31_MzAyNzE0NjA3NmFkaXF6a2N4,personal,gastos_personal,110733.0,103978.0,39,staff costs (see note,1.0,v1,False
+04250459,2011-05-31,2011-05-31_MzA0ODAzNDA0NmFkaXF6a2N4,balance,intangibles,55717.0,60661.0,25,intangible fixed assets,1.0,v1,False
+04250459,2011-05-31,2011-05-31_MzA0ODAzNDA0NmFkaXF6a2N4,balance,acreedores_cp,-131104.0,-154835.0,25,creditors amounts falling due within one year,1.0,v1,False
+04250459,2011-05-31,2011-05-31_MzA0ODAzNDA0NmFkaXF6a2N4,balance,activo_circulante_neto,93348.0,85631.0,25,net current assets,1.0,v1,False
+04250459,2011-05-31,2011-05-31_MzA0ODAzNDA0NmFkaXF6a2N4,balance,provisiones,-38274.0,42634.0,25,provisions for liabilities and charges,1.0,v1,False
+04250459,2011-05-31,2011-05-31_MzA0ODAzNDA0NmFkaXF6a2N4,balance,activos_netos,267955.0,255322.0,25,net assets,1.0,v1,False
+04250459,2011-05-31,2011-05-31_MzA0ODAzNDA0NmFkaXF6a2N4,balance,patrimonio,267955.0,255322.0,25,shareholders funds,1.0,v1,False
+04250459,2011-05-31,2011-05-31_MzA0ODAzNDA0NmFkaXF6a2N4,personal,sueldos_salarios,109578.0,96652.0,34,wages and salaries,1.0,v1,False
+04250459,2011-05-31,2011-05-31_MzA0ODAzNDA0NmFkaXF6a2N4,personal,pensiones,1483.0,2135.0,34,other pension costs,1.0,v1,False
+04250459,2012-05-31,2012-05-31_MzA2NzUwNTA2M2FkaXF6a2N4,balance,inmovilizado_material,433076.0,429483.0,51,tangible fixed assets,1.0,v1,False
+04250459,2012-05-31,2012-05-31_MzA2NzUwNTA2M2FkaXF6a2N4,balance,intangibles,55717.0,85708.0,51,intangible fixed assets,1.0,v1,False
+04250459,2012-05-31,2012-05-31_MzA2NzUwNTA2M2FkaXF6a2N4,balance,activo_circulante_neto,93348.0,105275.0,51,net current assets/(liabilities),1.0,v1,False
+04250459,2012-05-31,2012-05-31_MzA2NzUwNTA2M2FkaXF6a2N4,balance,activos_netos,267955.0,297548.0,51,net assets,1.0,v1,False
+04250459,2012-05-31,2012-05-31_MzA2NzUwNTA2M2FkaXF6a2N4,personal,gastos_personal,143448.0,124401.0,31,staff costs (see note,1.0,v1,False
+04250459,2013-05-31,2013-05-31_MzA4ODY5MjM1MGFkaXF6a2N4,balance,inmovilizado_material,429483.0,424570.0,51,tangible fixed assets,1.0,v1,False
+04250459,2013-05-31,2013-05-31_MzA4ODY5MjM1MGFkaXF6a2N4,balance,intangibles,85708.0,98494.0,51,intangible fixed assets,1.0,v1,False
+04250459,2013-05-31,2013-05-31_MzA4ODY5MjM1MGFkaXF6a2N4,balance,activo_circulante_neto,105275.0,115415.0,51,net current assets,1.0,v1,False
+04250459,2013-05-31,2013-05-31_MzA4ODY5MjM1MGFkaXF6a2N4,balance,activos_netos,297548.0,303355.0,51,net assets,1.0,v1,False
+04250459,2013-05-31,2013-05-31_MzA4ODY5MjM1MGFkaXF6a2N4,balance,patrimonio,297548.0,303355.0,51,shareholders funds,1.0,v1,False
+04250459,2013-05-31,2013-05-31_MzA4ODY5MjM1MGFkaXF6a2N4,personal,gastos_personal,154490.0,143448.0,31,staff costs (see note,1.0,v1,False
+04250459,2014-05-31,2014-05-31_MzExMDUwMTE2MGFkaXF6a2N4,balance,inmovilizado_material,424570.0,424973.0,50,tangible fixed assets,1.0,v1,False
+04250459,2014-05-31,2014-05-31_MzExMDUwMTE2MGFkaXF6a2N4,balance,intangibles,98494.0,116484.0,50,intangible fixed assets,1.0,v1,False
+04250459,2014-05-31,2014-05-31_MzExMDUwMTE2MGFkaXF6a2N4,balance,activo_circulante_neto,115415.0,90133.0,50,net current assets,1.0,v1,False
+04250459,2014-05-31,2014-05-31_MzExMDUwMTE2MGFkaXF6a2N4,balance,activos_netos,303355.0,310618.0,50,net assets,1.0,v1,False
+04250459,2014-05-31,2014-05-31_MzExMDUwMTE2MGFkaXF6a2N4,balance,patrimonio,303355.0,310618.0,50,shareholders funds,1.0,v1,False
+04250459,2014-05-31,2014-05-31_MzExMDUwMTE2MGFkaXF6a2N4,personal,sueldos_salarios,145839.0,135483.0,31,wages and salaries,1.0,v1,False
+04250459,2014-05-31,2014-05-31_MzExMDUwMTE2MGFkaXF6a2N4,personal,pensiones,1840.0,1377.0,31,other pension costs,1.0,v1,False
+04250459,2015-05-31,2015-05-31_MzEzNTE5MDEzMWFkaXF6a2N4,balance,patrimonio,-5.0,,15,li jj debt finance balances the group monitors its decrease ,1.0,v1,False
+04250459,2015-05-31,2015-05-31_MzEzNTE5MDEzMWFkaXF6a2N4,personal,sueldos_salarios,168228.0,145839.0,33,wages and salaries,1.0,v1,False
+04250459,2015-05-31,2015-05-31_MzEzNTE5MDEzMWFkaXF6a2N4,personal,pensiones,3025.0,1840.0,33,other pension costs,1.0,v1,False
+04250459,2016-05-31,2016-05-31_MzE2Njc3MDIwNGFkaXF6a2N4,pyg,ingresos,344524000.0,353539000.0,54,group turnover,1000.0,v1,True
+04250459,2016-05-31,2016-05-31_MzE2Njc3MDIwNGFkaXF6a2N4,pyg,resultado_explotacion_sin_traspasos,62273000.0,69216000.0,54,operating profit before player trading and exceptional costs,1000.0,v1,True
+04250459,2016-05-31,2016-05-31_MzE2Njc3MDIwNGFkaXF6a2N4,pyg,resultado_explotacion,7713000.0,13189000.0,54,operating (loss)/profit,1000.0,v1,True
+04250459,2016-05-31,2016-05-31_MzE2Njc3MDIwNGFkaXF6a2N4,pyg,beneficio_traspasos,28944000.0,2047000.0,54,profit on disposal of player registrations,1000.0,v1,True
+04250459,2016-05-31,2016-05-31_MzE2Njc3MDIwNGFkaXF6a2N4,pyg,resultado_antes_impuestos,18192000.0,2867000.0,54,profit before tax,1000.0,v1,True
+04250459,2016-05-31,2016-05-31_MzE2Njc3MDIwNGFkaXF6a2N4,pyg,resultado_neto,14816000.0,1649000.0,54,) profit after tax,1000.0,v1,True
+04250459,2016-05-31,2016-05-31_MzE2Njc3MDIwNGFkaXF6a2N4,balance,inmovilizado_material,423354000.0,426036000.0,54,tangible fixed assets,1000.0,v1,True
+04250459,2016-05-31,2016-05-31_MzE2Njc3MDIwNGFkaXF6a2N4,balance,intangibles,172740000.0,146671000.0,54,intangible fixed assets,1000.0,v1,True
+04250459,2016-05-31,2016-05-31_MzE2Njc3MDIwNGFkaXF6a2N4,balance,activo_circulante_neto,47939000.0,64861000.0,54,net current assets,1000.0,v1,True
+04250459,2016-05-31,2016-05-31_MzE2Njc3MDIwNGFkaXF6a2N4,balance,activos_netos,325311000.0,328061000.0,54,net assets,1000.0,v1,True
+04250459,2016-05-31,2016-05-31_MzE2Njc3MDIwNGFkaXF6a2N4,balance,patrimonio,325311000.0,328061000.0,54,shareholders funds,1000.0,v1,True
+04250459,2016-05-31,2016-05-31_MzE2Njc3MDIwNGFkaXF6a2N4,personal,sueldos_salarios,172244000.0,168274000.0,35,wages and salaries,1000.0,v1,True
+04250459,2016-05-31,2016-05-31_MzE2Njc3MDIwNGFkaXF6a2N4,personal,pensiones,2277000.0,3025000.0,35,other pension costs,1000.0,v1,True
+04250459,2017-05-31,2017-05-31_MzE5MTg1NjI2OWFkaXF6a2N4,pyg,resultado_explotacion,13189.0,51986.0,56,operating (loss)/profit,1.0,v1,False
+04250459,2017-05-31,2017-05-31_MzE5MTg1NjI2OWFkaXF6a2N4,pyg,beneficio_traspasos,2047.0,6760.0,56,profit on disposal of player registrations,1.0,v1,False
+04250459,2017-05-31,2017-05-31_MzE5MTg1NjI2OWFkaXF6a2N4,pyg,resultado_antes_impuestos,2867.0,44607.0,56,me profit before tax,1.0,v1,False
+04250459,2017-05-31,2017-05-31_MzE5MTg1NjI2OWFkaXF6a2N4,pyg,resultado_neto,1649.0,35286.0,56,profit after tax,1.0,v1,False
+04250459,2017-05-31,2017-05-31_MzE5MTg1NjI2OWFkaXF6a2N4,balance,inmovilizado_material,426036.0,436417.0,56,tangible assets,1.0,v1,False
+04250459,2017-05-31,2017-05-31_MzE5MTg1NjI2OWFkaXF6a2N4,balance,intangibles,146671.0,182279.0,56,intangible assets,1.0,v1,False
+04250459,2017-05-31,2017-05-31_MzE5MTg1NjI2OWFkaXF6a2N4,balance,activos_netos,328061.0,363368.0,56,net assets,1.0,v1,False
+04250459,2017-05-31,2017-05-31_MzE5MTg1NjI2OWFkaXF6a2N4,balance,patrimonio,328061.0,363368.0,56,shareholders funds,1.0,v1,False
+04250459,2017-05-31,2017-05-31_MzE5MTg1NjI2OWFkaXF6a2N4,personal,sueldos_salarios,175730.0,172244.0,39,wages and salaries,1.0,v1,False
+04250459,2017-05-31,2017-05-31_MzE5MTg1NjI2OWFkaXF6a2N4,personal,seguridad_social,21454.0,20866.0,39,social security costs,1.0,v1,False
+04250459,2017-05-31,2017-05-31_MzE5MTg1NjI2OWFkaXF6a2N4,personal,pensiones,2214.0,2277.0,39,other pension costs,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,pyg,ingresos,403269.0,423957.0,12,group turnover,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,pyg,resultado_explotacion,-42009.0,51986.0,12,operating profit/(loss),1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,pyg,beneficio_traspasos,120047.0,6760.0,12,profit on disposal of player registrations,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,pyg,resultado_antes_impuestos,70214.0,44607.0,12,profit before taxation,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,pyg,impuesto,-13660.0,-9321.0,12,tax on profit,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,pyg,resultado_neto,56554.0,35286.0,12,profit for the financial year,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,balance,inmovilizado_material,424806.0,430973.0,13,tangible assets,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,balance,intangibles,238245.0,182029.0,13,intangible assets,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,balance,deudores,101220.0,63696.0,13,debtors - due within one year,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,balance,caja,231344.0,180116.0,13,cash at bank and in hand,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,balance,acreedores_cp,-245915.0,-213807.0,13,creditors amounts falling due within one year,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,balance,activo_circulante_neto,113896.0,51837.0,13,net current assets,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,balance,activo_menos_pasivo_cp,783141.0,670533.0,13,total assets less current liabilities,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,balance,acreedores_lp,-309991.0,-264162.0,13,creditors amounts falling due after more than one year,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,balance,provisiones,-53234.0,-43003.0,13,provisions for liabilities,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,balance,activos_netos,419916.0,363368.0,13,net assets,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,balance,patrimonio,419916.0,363368.0,13,shareholders funds,1.0,v1,False
+04250459,2018-05-31,2018-05-31_MzIyNTM1MjYxN2FkaXF6a2N4,personal,gastos_personal,240060.0,199395.0,22,staff costs (see note,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,pyg,ingresos,395559.0,403269.0,12,group turnover,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,pyg,resultado_explotacion,-32642.0,-42009.0,12,operating profit/(loss),1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,pyg,beneficio_traspasos,12243.0,120047.0,12,profit on disposal of player registrations,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,pyg,resultado_antes_impuestos,-32215.0,70214.0,12,(loss)/profit before taxation,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,pyg,impuesto,5141.0,-13660.0,12,tax on (loss)/profit,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,pyg,resultado_neto,-27074.0,56554.0,12,(loss)/profit for the financial year,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,balance,inmovilizado_material,424806.0,0.0,13,tangible assets,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,balance,intangibles,240293.0,238245.0,13,intangible assets,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,balance,deudores,70331.0,101220.0,13,debtors - due within one year,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,balance,caja,166957.0,231344.0,13,cash at bank and in hand,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,balance,acreedores_cp,-246313.0,-245915.0,13,creditors amounts falling due within one year bs),1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,balance,activo_circulante_neto,5295.0,113896.0,13,net current assets,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,balance,activo_menos_pasivo_cp,675777.0,783141.0,13,total assets less current liabilities,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,balance,acreedores_lp,-228283.0,-309991.0,13,creditors amounts falling due after more than one year,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,balance,provisiones,-54642.0,-53234.0,13,provisions for liabilities,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,balance,activos_netos,392852.0,419916.0,13,net assets,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,balance,patrimonio,392852.0,419916.0,13,shareholders funds,1.0,v1,False
+04250459,2019-05-31,2019-05-31_MzI1ODcyNTM1MWFkaXF6a2N4,personal,gastos_personal,234922.0,240060.0,22,staff costs (see note,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,pyg,ingresos,344527.0,395559.0,17,group turnover,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,pyg,resultado_explotacion,-98959.0,-32642.0,17,operating profit/(loss),1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,pyg,beneficio_traspasos,60050.0,12243.0,17,profit on disposal of player registrations,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,pyg,resultado_antes_impuestos,-54022.0,-32215.0,17,(loss) before taxation,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,pyg,impuesto,6244.0,5141.0,17,tax on loss,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,pyg,resultado_neto,-47778.0,-27074.0,17,(loss) for the financial year,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,balance,inmovilizado_material,416852.0,423817.0,18,tangible assets,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,balance,intangibles,303547.0,240293.0,18,intangible assets,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,balance,deudores,62609.0,70331.0,18,debtors - due within one year,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,balance,caja,109974.0,166957.0,18,cash at bank and in hand,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,balance,acreedores_cp,-235792.0,-246313.0,18,creditors amounts falling due within one year,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,balance,activo_circulante_neto,-24648.0,5295.0,18,net current (liabilities)/assets,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,balance,activo_menos_pasivo_cp,700631.0,675777.0,18,total assets less current liabilities,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,balance,acreedores_lp,-302954.0,-228283.0,18,creditors amounts falling due after more than one year,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,balance,provisiones,-52599.0,-54642.0,18,provisions for liabilities,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,balance,activos_netos,345078.0,392852.0,18,net assets,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,balance,patrimonio,345078.0,392852.0,18,shareholders funds,1.0,v1,False
+04250459,2020-05-31,2020-05-31_MzI5NDA2NjY3MWFkaXF6a2N4,personal,gastos_personal,234478.0,234922.0,27,staff costs (see note,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,pyg,ingresos,328222.0,344527.0,18,group turnover,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,pyg,resultado_explotacion,-97874.0,-98959.0,18,operating profit/(loss),1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,pyg,beneficio_traspasos,11770.0,60050.0,18,profit on disposal of player registrations,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,pyg,resultado_antes_impuestos,-127204.0,-54022.0,18,(loss) before taxation,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,pyg,impuesto,19913.0,6244.0,18,tax credit on loss,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,pyg,resultado_neto,-107291.0,-47778.0,18,(loss) for the financial year,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,balance,inmovilizado_material,401477.0,416852.0,19,tangible assets,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,balance,intangibles,294241.0,303547.0,19,intangible assets,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,balance,deudores,48712.0,62609.0,19,debtors - due within one year,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,balance,caja,18777.0,109974.0,19,cash at bank and in hand,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,balance,acreedores_cp,-221008.0,-235792.0,19,creditors amounts falling due within one year,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,balance,activo_circulante_neto,-132512.0,-24648.0,19,net current (liabilities)/assets,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,balance,activo_menos_pasivo_cp,566870.0,700631.0,19,total assets less current liabilities,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,balance,acreedores_lp,-290023.0,-302954.0,19,creditors amounts falling due after more than one year,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,balance,provisiones,-39092.0,-52599.0,19,provisions for liabilities,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,balance,activos_netos,237755.0,345078.0,19,net assets,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,balance,patrimonio,237755.0,345078.0,19,shareholders funds,1.0,v1,False
+04250459,2021-05-31,2021-05-31_MzMzMjQ0NzAzOGFkaXF6a2N4,personal,gastos_personal,244438.0,234478.0,28,staff costs (see note,1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,pyg,ingresos,371907.0,328222.0,18,group turnover,1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,pyg,resultado_explotacion,-60985.0,-97874.0,18,operating profit/(loss),1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,pyg,beneficio_traspasos,22238.0,11770.0,18,profit on disposal of player registrations,1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,pyg,resultado_antes_impuestos,-45481.0,-127204.0,18,(loss) before taxation,1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,pyg,impuesto,-1.0,19913.0,18,tax (charge)/credit on loss,1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,pyg,resultado_neto,-45482.0,-107291.0,18,(loss) for the financial year,1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,balance,inmovilizado_material,389041.0,401477.0,19,tangible assets,1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,balance,intangibles,333490.0,294241.0,19,intangible assets,1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,balance,deudores,53758.0,48712.0,19,debtors - due within one year,1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,balance,caja,29956.0,18777.0,19,cash at bank and in hand,1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,balance,acreedores_cp,-271589.0,-221008.0,19,creditors amounts falling due within one year i),1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,balance,activo_circulante_neto,-163174.0,-132512.0,19,net current (liabilities)/assets,1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,balance,activo_menos_pasivo_cp,61497.0,566870.0,19,total assets less current liabilities,1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,balance,acreedores_lp,-323069.0,-290023.0,19,creditors amounts falling due after more than one year,1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,balance,provisiones,-46135.0,-39092.0,19,provisions for liabilities,1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,balance,activos_netos,192293.0,237755.0,19,net assets,1.0,v1,False
+04250459,2022-05-31,2022-05-31_MzM2OTcwMjYwNWFkaXF6a2N4,balance,patrimonio,192293.0,237755.0,19,shareholders funds,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,pyg,ingresos,466685.0,371907.0,18,group turnover,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,pyg,resultado_explotacion,-55244.0,-60985.0,18,operating profit/(loss),1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,pyg,beneficio_traspasos,10732.0,22238.0,18,profit on disposal of player registrations,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,pyg,resultado_antes_impuestos,-52124.0,-45481.0,18,(loss) before taxation,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,pyg,impuesto,0.0,-1.0,18,tax on loss,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,pyg,resultado_neto,-52124.0,-45482.0,18,(loss) for the financial year,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,balance,inmovilizado_material,388644.0,389041.0,19,tangible assets,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,balance,intangibles,417044.0,333490.0,19,intangible assets,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,balance,deudores,72207.0,53758.0,19,debtors - due within one year,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,balance,caja,42769.0,29956.0,19,cash at bank and in hand,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,balance,acreedores_cp,-374135.0,-271589.0,19,creditors amounts falling due within one year,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,balance,activo_circulante_neto,-225677.0,-163174.0,19,net current (liabilities)/assets,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,balance,activo_menos_pasivo_cp,580761.0,561497.0,19,total assets less current liabilities,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,balance,acreedores_lp,-374361.0,-323069.0,19,creditors amounts falling due after more than one year,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,balance,provisiones,-60860.0,-46135.0,19,provisions for liabilities,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,balance,activos_netos,145540.0,192293.0,19,net assets,1.0,v1,False
+04250459,2023-05-31,2023-05-31_MzQxMjE5NjQ0MGFkaXF6a2N4,balance,patrimonio,145540.0,192293.0,19,shareholders funds,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,pyg,ingresos,616580.0,466685.0,22,group turnover,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,pyg,resultado_explotacion,-48394.0,-55244.0,22,operating profit/(loss),1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,pyg,beneficio_traspasos,51073.0,10732.0,22,profit on disposal of player registrations,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,pyg,resultado_antes_impuestos,-17687.0,-52124.0,22,(loss) before taxation,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,pyg,impuesto,8.0,,22,tax on loss,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,pyg,resultado_neto,-17687.0,-52124.0,22,(loss) for the financial year,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,balance,inmovilizado_material,388874.0,388644.0,23,tangible assets,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,balance,intangibles,486643.0,417044.0,23,intangible assets,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,balance,deudores,71314.0,72207.0,23,debtors - due within one year,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,balance,caja,66819.0,42769.0,23,cash at bank and in hand,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,balance,acreedores_cp,-418041.0,-374135.0,23,creditors amounts falling due within one year,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,balance,activo_circulante_neto,-243961.0,-225677.0,23,net current (liabilities)/assets,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,balance,activo_menos_pasivo_cp,631556.0,580761.0,23,total assets less current liabilities,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,balance,acreedores_lp,-455772.0,-374361.0,23,creditors amounts falling due after more than one year,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,balance,provisiones,-47932.0,-60860.0,23,provisions for liabilities,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,balance,activos_netos,127852.0,145540.0,23,net assets,1.0,v1,False
+04250459,2024-05-31,2024-05-31_MzQ1NTk1NjAxMGFkaXF6a2N4,balance,patrimonio,127852.0,145540.0,23,shareholders funds,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,pyg,ingresos,690998.0,616580.0,23,group turnover,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,pyg,resultado_explotacion,-63208.0,-48394.0,23,operating profit/(loss),1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,pyg,beneficio_traspasos,81237.0,51073.0,23,profit on disposal of player registrations,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,pyg,resultado_antes_impuestos,-1348.0,-17687.0,23,(loss) before taxation,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,pyg,impuesto,8.0,-29.0,23,tax on loss,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,pyg,resultado_neto,-1377.0,-17687.0,23,(loss) for the financial year,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,balance,inmovilizado_material,387801.0,388874.0,24,tangible assets,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,balance,intangibles,399008.0,486643.0,24,intangible assets,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,balance,deudores,114633.0,71314.0,24,debtors - due within one year,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,balance,caja,55994.0,66819.0,24,cash at bank and in hand,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,balance,acreedores_cp,-402591.0,-418041.0,24,creditors amounts falling due within one year,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,balance,activo_circulante_neto,-159898.0,-243961.0,24,net current (liabilities)/assets,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,balance,activo_menos_pasivo_cp,626911.0,631556.0,24,total assets less current liabilities,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,balance,acreedores_lp,-442506.0,-455772.0,24,creditors amounts falling due after more than one year,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,balance,provisiones,-57940.0,-47932.0,24,provisions for liabilities,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,balance,activos_netos,126465.0,127852.0,24,net assets,1.0,v1,False
+04250459,2025-05-31,2025-05-31_MzUwNzE0ODU1NmFkaXF6a2N4,balance,patrimonio,127852.0,0.0,24,shareholders funds,1.0,v1,False
 04305508,2009-05-31,2009-05-31_MzAxMDQ1MTQ2NmFkaXF6a2N4,pyg,ingresos,9287.158,6026.138,8,group turnover,0.001,v2,False
 04305508,2009-05-31,2009-05-31_MzAxMDQ1MTQ2NmFkaXF6a2N4,pyg,resultado_explotacion,-550.117,-104.363,8,operating loss,0.001,v2,False
 04305508,2009-05-31,2009-05-31_MzAxMDQ1MTQ2NmFkaXF6a2N4,pyg,intereses_pagados,1.726,0.603,8,interest payable and similar charges,0.001,v2,False

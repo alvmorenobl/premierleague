@@ -1,5 +1,5 @@
 club,numero_club,sociedad_club,numero_grupo,sociedad_grupo,temporadas,confianza,nota
-Arsenal,00109244,THE ARSENAL FOOTBALL CLUB LIMITED,,,todas,alta,Matriz Arsenal Holdings / KSE fuera de la búsqueda; añadir si hace falta grupo
+Arsenal,00109244,THE ARSENAL FOOTBALL CLUB LIMITED,04250459,ARSENAL HOLDINGS LIMITED,todas,alta,"Grupo: Arsenal Holdings Ltd (04250459, antes plc), cabecera consolidada de todo el periodo (23 cuentas de grupo 2002-2025). Cadena PSC: club -> Arsenal (AFC Holdings) 05659803 (no consolida) -> 04250459 -> E. S. Kroenke. Añadido 2026-11-04 (fase2_matrices.py)"
 Aston Villa,03375789,ASTON VILLA FOOTBALL CLUB LIMITED,,,todas,alta,"Club: 03375789. Aston Villa Ltd (00046572, antigua plc) es solo patrimonial (ingresos ~£1 m, sin consolidar): NO se usa como grupo. Cadena PSC: club -> 00046572 -> NSWE Sports"
 Barnsley,04573250,BARNSLEY FOOTBALL CLUB LIMITED,,,todas,alta,
 Birmingham,00027318,BIRMINGHAM CITY FOOTBALL CLUB LIMITED,,,todas,alta,Matriz cotizada en Hong Kong (BSHL/BCP) no está en Companies House
@@ -15,7 +15,7 @@ Burnley,00054222,"BURNLEY FOOTBALL & ATHLETIC COMPANY,LIMITED(THE)",,,todas,alta
 Burton,00488096,ALBION FOOTBALL CLUB(BURTON-ON-TRENT)LIMITED(THE),,,2016/17-2017/18,alta,PSC: Ben Robinson (presidente histórico) hasta 2024; luego Nordic Football Group UK
 Cardiff,00109065,CARDIFF CITY FOOTBALL CLUB LIMITED,04044254,CARDIFF CITY FOOTBALL CLUB (HOLDINGS) LIMITED,todas,alta,
 Charlton,01788466,CHARLTON ATHLETIC FOOTBALL COMPANY LIMITED,,,todas,alta,
-Chelsea,01965149,CHELSEA FOOTBALL CLUB LIMITED,,,todas,alta,Matriz (Chelsea FC Holdings / Blueco 22) no buscada
+Chelsea,01965149,CHELSEA FOOTBALL CLUB LIMITED,02536231,CHELSEA FC HOLDINGS LIMITED,todas,alta,"Grupo: Chelsea FC Holdings Ltd (02536231), consolidada continua 1991-2025 a través del cambio de propiedad de 2022. Por encima: Fordstam (04784127, Abramovich, hasta 30-5-2022) y Blueco 22 (13949552, desde 2022; solo cuentas 2023-25): no se usan para mantener una serie homogénea. Añadido 2026-11-04 (fase2_matrices.py)"
 Coventry,03056875,"COVENTRY CITY FOOTBALL CLUB LIMITED (1995, liquidada)",00094305,COVENTRY CITY FOOTBALL CLUB (HOLDINGS) LIMITED,2010/11-2011/12,media,Sociedad antigua con insolvencia; datos 2010-12
 Coventry,07612487,COVENTRY CITY FOOTBALL CLUB LIMITED (2011),,,2020/21-2026/27,alta,Sociedad actual
 Crystal Palace,07270793,CPFC LIMITED,07206409,CPFC 2010 LIMITED,todas,alta,Estadio en CPFC Selhurst Park Ltd (07334675)

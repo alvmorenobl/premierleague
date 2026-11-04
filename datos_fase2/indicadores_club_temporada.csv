@@ -1,8 +1,8 @@
 temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_sanciones,division_siguiente,movimiento,numero,cierre,meses_ejercicio,cuenta_depositada,tipo_cuenta,cuenta_abreviada,cuenta_inactiva,depositada,dias_fuera_plazo,fuera_plazo_claro,numero_grupo,cuenta_grupo_depositada,holding_sin_consolidar,estado_cuenta
 2010/11,Premier League,Man United,38,80,41.0,1,Premier League,se_mantiene,00095489,2011-06-30,12.0,True,full,False,False,2011-12-21,-100.0,False,,,,depositada
-2010/11,Premier League,Chelsea,38,71,36.0,2,Premier League,se_mantiene,01965149,2011-06-30,12.0,True,full,False,False,2012-04-02,3.0,False,,,,depositada
+2010/11,Premier League,Chelsea,38,71,36.0,2,Premier League,se_mantiene,01965149,2011-06-30,12.0,True,full,False,False,2012-04-02,3.0,False,02536231,True,False,depositada
 2010/11,Premier League,Man City,38,71,27.0,3,Premier League,se_mantiene,00040946,2011-05-31,12.0,True,full,False,False,2012-03-02,2.0,False,,,,depositada
-2010/11,Premier League,Arsenal,38,68,29.0,4,Premier League,se_mantiene,00109244,2011-05-31,12.0,True,full,False,False,2011-12-02,-89.0,False,,,,depositada
+2010/11,Premier League,Arsenal,38,68,29.0,4,Premier League,se_mantiene,00109244,2011-05-31,12.0,True,full,False,False,2011-12-02,-89.0,False,04250459,True,False,depositada
 2010/11,Premier League,Tottenham,38,62,9.0,5,Premier League,se_mantiene,00057186,2011-06-30,12.0,True,full,False,False,2012-03-01,-29.0,False,01706358,True,False,depositada
 2010/11,Premier League,Liverpool,38,58,15.0,6,Premier League,se_mantiene,00035668,2011-07-31,12.0,True,full,False,False,2012-05-02,2.0,False,,,,depositada
 2010/11,Premier League,Everton,38,54,6.0,7,Premier League,se_mantiene,00036624,2011-05-31,12.0,True,group,False,False,2011-12-29,-62.0,False,,,,depositada
@@ -45,10 +45,10 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2010/11,Championship,Scunthorpe,46,42,-44.0,24,League One o inferior,descenso,00123622,2011-06-30,12.0,True,full,False,False,2011-11-29,-122.0,False,,,,depositada
 2011/12,Premier League,Man City,38,89,64.0,1,Premier League,se_mantiene,00040946,2012-05-31,12.0,True,full,False,False,2013-03-05,5.0,False,,,,depositada
 2011/12,Premier League,Man United,38,89,56.0,2,Premier League,se_mantiene,00095489,2012-06-30,12.0,True,full,False,False,2013-03-22,-8.0,False,,,,depositada
-2011/12,Premier League,Arsenal,38,70,25.0,3,Premier League,se_mantiene,00109244,2012-05-31,12.0,True,full,False,False,2012-11-23,-97.0,False,,,,depositada
+2011/12,Premier League,Arsenal,38,70,25.0,3,Premier League,se_mantiene,00109244,2012-05-31,12.0,True,full,False,False,2012-11-23,-97.0,False,04250459,True,False,depositada
 2011/12,Premier League,Tottenham,38,69,25.0,4,Premier League,se_mantiene,00057186,2012-06-30,12.0,True,full,False,False,2013-04-08,9.0,False,01706358,True,False,depositada
 2011/12,Premier League,Newcastle,38,65,5.0,5,Premier League,se_mantiene,00031014,2012-06-30,12.0,True,full,False,False,2013-04-08,9.0,False,02529667,True,False,depositada
-2011/12,Premier League,Chelsea,38,64,19.0,6,Premier League,se_mantiene,01965149,2012-06-30,12.0,True,full,False,False,2013-04-08,9.0,False,,,,depositada
+2011/12,Premier League,Chelsea,38,64,19.0,6,Premier League,se_mantiene,01965149,2012-06-30,12.0,True,full,False,False,2013-04-08,9.0,False,02536231,True,False,depositada
 2011/12,Premier League,Everton,38,56,10.0,7,Premier League,se_mantiene,00036624,2012-05-31,12.0,True,group,False,False,2013-01-25,-34.0,False,,,,depositada
 2011/12,Premier League,Liverpool,38,52,7.0,8,Premier League,se_mantiene,00035668,2012-05-31,10.0,True,full,False,False,2013-03-05,5.0,False,,,,depositada
 2011/12,Premier League,Fulham,38,52,-3.0,9,Premier League,se_mantiene,02114486,2012-06-30,12.0,True,full,False,False,2013-02-01,-57.0,False,03374347,True,False,depositada
@@ -89,8 +89,8 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2011/12,Championship,Doncaster,46,36,-37.0,24,League One o inferior,descenso,00170192,2012-05-31,12.0,True,total-exemption-small,True,False,2013-03-04,4.0,False,,,,depositada
 2012/13,Premier League,Man United,38,89,43.0,1,Premier League,se_mantiene,00095489,2013-06-30,12.0,True,full,False,False,2013-11-22,-128.0,False,,,,depositada
 2012/13,Premier League,Man City,38,78,32.0,2,Premier League,se_mantiene,00040946,2013-05-31,12.0,True,full,False,False,2014-03-04,4.0,False,,,,depositada
-2012/13,Premier League,Chelsea,38,75,36.0,3,Premier League,se_mantiene,01965149,2013-06-30,12.0,True,full,False,False,2014-03-28,-2.0,False,,,,depositada
-2012/13,Premier League,Arsenal,38,73,35.0,4,Premier League,se_mantiene,00109244,2013-05-31,12.0,True,full,False,False,2013-12-03,-87.0,False,,,,depositada
+2012/13,Premier League,Chelsea,38,75,36.0,3,Premier League,se_mantiene,01965149,2013-06-30,12.0,True,full,False,False,2014-03-28,-2.0,False,02536231,True,False,depositada
+2012/13,Premier League,Arsenal,38,73,35.0,4,Premier League,se_mantiene,00109244,2013-05-31,12.0,True,full,False,False,2013-12-03,-87.0,False,04250459,True,False,depositada
 2012/13,Premier League,Tottenham,38,72,20.0,5,Premier League,se_mantiene,00057186,2013-06-30,12.0,True,full,False,False,2014-04-07,8.0,False,01706358,True,False,depositada
 2012/13,Premier League,Everton,38,63,15.0,6,Premier League,se_mantiene,00036624,2013-05-31,12.0,True,group,False,False,2014-02-26,-2.0,False,,,,depositada
 2012/13,Premier League,Liverpool,38,61,28.0,7,Premier League,se_mantiene,00035668,2013-05-31,12.0,True,full,False,False,2014-03-04,4.0,False,,,,depositada
@@ -133,8 +133,8 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2012/13,Championship,Bristol City,46,41,-25.0,24,League One o inferior,descenso,03230871,2013-05-31,12.0,True,full,False,False,2014-01-15,-44.0,False,,,,depositada
 2013/14,Premier League,Man City,38,86,65.0,1,Premier League,se_mantiene,00040946,2014-05-31,12.0,True,full,False,False,2014-12-24,-66.0,False,,,,depositada
 2013/14,Premier League,Liverpool,38,84,51.0,2,Premier League,se_mantiene,00035668,2014-05-31,12.0,True,full,False,False,2015-03-10,10.0,False,,,,depositada
-2013/14,Premier League,Chelsea,38,82,44.0,3,Premier League,se_mantiene,01965149,2014-06-30,12.0,True,full,False,False,2015-04-12,13.0,False,,,,depositada
-2013/14,Premier League,Arsenal,38,79,27.0,4,Premier League,se_mantiene,00109244,2014-05-31,12.0,True,full,False,False,2014-12-03,-87.0,False,,,,depositada
+2013/14,Premier League,Chelsea,38,82,44.0,3,Premier League,se_mantiene,01965149,2014-06-30,12.0,True,full,False,False,2015-04-12,13.0,False,02536231,True,False,depositada
+2013/14,Premier League,Arsenal,38,79,27.0,4,Premier League,se_mantiene,00109244,2014-05-31,12.0,True,full,False,False,2014-12-03,-87.0,False,04250459,True,False,depositada
 2013/14,Premier League,Everton,38,72,22.0,5,Premier League,se_mantiene,00036624,2014-05-31,12.0,True,group,False,False,2014-11-12,-108.0,False,,,,depositada
 2013/14,Premier League,Tottenham,38,69,4.0,6,Premier League,se_mantiene,00057186,2014-06-30,12.0,True,full,False,False,2015-04-15,16.0,False,01706358,True,False,depositada
 2013/14,Premier League,Man United,38,64,21.0,7,Premier League,se_mantiene,00095489,2014-06-30,12.0,True,full,False,False,2015-01-14,-75.0,False,,,,depositada
@@ -175,9 +175,9 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2013/14,Championship,Doncaster,46,44,-31.0,22,League One o inferior,descenso,00170192,2014-05-31,12.0,True,total-exemption-small,True,False,2015-03-11,11.0,False,,,,depositada
 2013/14,Championship,Barnsley,46,39,-33.0,23,League One o inferior,descenso,04573250,2014-05-31,12.0,True,medium,False,False,2015-01-17,-42.0,False,,,,depositada
 2013/14,Championship,Yeovil,46,37,-31.0,24,League One o inferior,descenso,00189754,2014-06-30,12.0,True,small,True,False,2015-04-15,16.0,False,07113379,True,False,depositada
-2014/15,Premier League,Chelsea,38,87,41.0,1,Premier League,se_mantiene,01965149,2015-06-30,12.0,True,full,False,False,2016-04-05,6.0,False,,,,depositada
+2014/15,Premier League,Chelsea,38,87,41.0,1,Premier League,se_mantiene,01965149,2015-06-30,12.0,True,full,False,False,2016-04-05,6.0,False,02536231,True,False,depositada
 2014/15,Premier League,Man City,38,79,45.0,2,Premier League,se_mantiene,00040946,2015-05-31,12.0,True,full,False,False,2016-03-01,1.0,False,,,,depositada
-2014/15,Premier League,Arsenal,38,75,35.0,3,Premier League,se_mantiene,00109244,2015-05-31,12.0,True,full,False,False,2015-12-02,-89.0,False,,,,depositada
+2014/15,Premier League,Arsenal,38,75,35.0,3,Premier League,se_mantiene,00109244,2015-05-31,12.0,True,full,False,False,2015-12-02,-89.0,False,04250459,True,False,depositada
 2014/15,Premier League,Man United,38,70,25.0,4,Premier League,se_mantiene,00095489,2015-06-30,12.0,True,full,False,False,2015-12-19,-102.0,False,,,,depositada
 2014/15,Premier League,Tottenham,38,64,5.0,5,Premier League,se_mantiene,00057186,2015-06-30,12.0,True,full,False,False,2016-04-28,29.0,False,01706358,True,False,depositada
 2014/15,Premier League,Liverpool,38,62,4.0,6,Premier League,se_mantiene,00035668,2015-05-31,12.0,True,full,False,False,2016-03-07,7.0,False,,,,depositada
@@ -220,7 +220,7 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2014/15,Championship,Wigan,46,39,-25.0,23,League One o inferior,descenso,00270043,2015-05-31,12.0,True,full,False,False,2016-02-25,-4.0,False,07283993,True,False,depositada
 2014/15,Championship,Blackpool,46,26,-55.0,24,League One o inferior,descenso,00048409,2015-05-31,12.0,True,full,False,False,2016-07-18,140.0,True,,,,depositada
 2015/16,Premier League,Leicester,38,81,32.0,1,Premier League,se_mantiene,04593477,2016-05-31,12.0,True,full,False,False,2017-03-03,3.0,False,,,,depositada
-2015/16,Premier League,Arsenal,38,71,29.0,2,Premier League,se_mantiene,00109244,2016-05-31,12.0,True,full,False,False,2016-12-11,-79.0,False,,,,depositada
+2015/16,Premier League,Arsenal,38,71,29.0,2,Premier League,se_mantiene,00109244,2016-05-31,12.0,True,full,False,False,2016-12-11,-79.0,False,04250459,True,False,depositada
 2015/16,Premier League,Tottenham,38,70,34.0,3,Premier League,se_mantiene,00057186,2016-06-30,12.0,True,full,False,False,2017-04-06,7.0,False,01706358,True,False,depositada
 2015/16,Premier League,Man City,38,66,30.0,4,Premier League,se_mantiene,00040946,2016-05-31,12.0,True,full,False,False,2017-03-06,6.0,False,,,,depositada
 2015/16,Premier League,Man United,38,66,14.0,5,Premier League,se_mantiene,00095489,2016-06-30,12.0,True,full,False,False,2016-12-22,-98.0,False,,,,depositada
@@ -228,7 +228,7 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2015/16,Premier League,West Ham,38,62,14.0,7,Premier League,se_mantiene,00066516,2016-05-31,12.0,True,full,False,False,2017-02-27,-1.0,False,,,,depositada
 2015/16,Premier League,Liverpool,38,60,13.0,8,Premier League,se_mantiene,00035668,2016-05-31,12.0,True,full,False,False,2017-03-03,3.0,False,,,,depositada
 2015/16,Premier League,Stoke,38,51,-14.0,9,Premier League,se_mantiene,00099885,2016-05-31,12.0,True,full,False,False,2016-09-27,-154.0,False,,,,depositada
-2015/16,Premier League,Chelsea,38,50,6.0,10,Premier League,se_mantiene,01965149,2016-06-30,12.0,True,full,False,False,2017-04-05,6.0,False,,,,depositada
+2015/16,Premier League,Chelsea,38,50,6.0,10,Premier League,se_mantiene,01965149,2016-06-30,12.0,True,full,False,False,2017-04-05,6.0,False,02536231,True,False,depositada
 2015/16,Premier League,Everton,38,47,4.0,11,Premier League,se_mantiene,00036624,2016-05-31,12.0,True,group,False,False,2017-01-13,-46.0,False,,,,depositada
 2015/16,Premier League,Swansea,38,47,-10.0,12,Premier League,se_mantiene,00123414,2016-07-31,12.0,True,full,False,False,2017-05-05,5.0,False,04305508,True,False,depositada
 2015/16,Premier League,Watford,38,45,-10.0,13,Premier League,se_mantiene,00104194,2016-06-30,12.0,True,full,False,False,2017-03-16,-14.0,False,,,,depositada
@@ -263,11 +263,11 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2015/16,Championship,Charlton,46,40,-40.0,22,League One o inferior,descenso,01788466,2016-06-30,12.0,True,full,False,False,2017-04-05,6.0,False,,,,depositada
 2015/16,Championship,Milton Keynes Dons,46,39,-30.0,23,League One o inferior,descenso,04787003,2016-06-30,12.0,True,full,False,False,2016-12-14,-106.0,False,,,,depositada
 2015/16,Championship,Bolton,46,30,-40.0,24,League One o inferior,descenso,00043026,2016-06-30,12.0,True,full,False,False,2017-07-25,117.0,True,,,,depositada
-2016/17,Premier League,Chelsea,38,93,52.0,1,Premier League,se_mantiene,01965149,2017-06-30,12.0,True,full,False,False,2018-04-05,6.0,False,,,,depositada
+2016/17,Premier League,Chelsea,38,93,52.0,1,Premier League,se_mantiene,01965149,2017-06-30,12.0,True,full,False,False,2018-04-05,6.0,False,02536231,True,False,depositada
 2016/17,Premier League,Tottenham,38,86,60.0,2,Premier League,se_mantiene,00057186,2017-06-30,12.0,True,full,False,False,2018-04-05,6.0,False,01706358,True,False,depositada
 2016/17,Premier League,Man City,38,78,41.0,3,Premier League,se_mantiene,00040946,2017-06-30,13.0,True,full,False,False,2018-03-16,-14.0,False,,,,depositada
 2016/17,Premier League,Liverpool,38,76,36.0,4,Premier League,se_mantiene,00035668,2017-05-31,12.0,True,full,False,False,2018-03-07,7.0,False,,,,depositada
-2016/17,Premier League,Arsenal,38,75,33.0,5,Premier League,se_mantiene,00109244,2017-05-31,12.0,True,full,False,False,2017-12-05,-85.0,False,,,,depositada
+2016/17,Premier League,Arsenal,38,75,33.0,5,Premier League,se_mantiene,00109244,2017-05-31,12.0,True,full,False,False,2017-12-05,-85.0,False,04250459,True,False,depositada
 2016/17,Premier League,Man United,38,69,25.0,6,Premier League,se_mantiene,00095489,2017-06-30,12.0,True,full,False,False,2017-12-20,-100.0,False,,,,depositada
 2016/17,Premier League,Everton,38,61,18.0,7,Premier League,se_mantiene,00036624,2017-05-31,12.0,True,group,False,False,2018-02-16,-12.0,False,,,,depositada
 2016/17,Premier League,Southampton,38,46,-7.0,8,Premier League,se_mantiene,00053301,2017-06-30,12.0,True,full,False,False,2018-03-28,-2.0,False,,,,depositada
@@ -311,8 +311,8 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2017/18,Premier League,Man United,38,81,40.0,2,Premier League,se_mantiene,00095489,2018-06-30,12.0,True,full,False,False,2019-02-21,-37.0,False,,,,depositada
 2017/18,Premier League,Tottenham,38,77,38.0,3,Premier League,se_mantiene,00057186,2018-06-30,12.0,True,full,False,False,2019-04-04,5.0,False,01706358,True,False,depositada
 2017/18,Premier League,Liverpool,38,75,46.0,4,Premier League,se_mantiene,00035668,2018-05-31,12.0,True,group,False,False,2019-02-14,-14.0,False,,,,depositada
-2017/18,Premier League,Chelsea,38,70,24.0,5,Premier League,se_mantiene,01965149,2018-06-30,12.0,True,full,False,False,2019-04-02,3.0,False,,,,depositada
-2017/18,Premier League,Arsenal,38,63,23.0,6,Premier League,se_mantiene,00109244,2018-05-31,12.0,True,full,False,False,2019-01-28,-31.0,False,,,,depositada
+2017/18,Premier League,Chelsea,38,70,24.0,5,Premier League,se_mantiene,01965149,2018-06-30,12.0,True,full,False,False,2019-04-02,3.0,False,02536231,True,False,depositada
+2017/18,Premier League,Arsenal,38,63,23.0,6,Premier League,se_mantiene,00109244,2018-05-31,12.0,True,full,False,False,2019-01-28,-31.0,False,04250459,True,False,depositada
 2017/18,Premier League,Burnley,38,54,-3.0,7,Premier League,se_mantiene,00054222,2018-06-30,12.0,True,full,False,False,2019-04-05,6.0,False,,,,depositada
 2017/18,Premier League,Everton,38,49,-14.0,8,Premier League,se_mantiene,00036624,2018-05-31,12.0,True,group,False,False,2019-03-07,7.0,False,,,,depositada
 2017/18,Premier League,Leicester,38,47,-4.0,9,Premier League,se_mantiene,04593477,2018-05-31,12.0,True,full,False,False,2019-03-06,6.0,False,,,,depositada
@@ -353,9 +353,9 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2017/18,Championship,Sunderland,46,37,-28.0,24,League One o inferior,descenso,00049116,2018-07-31,12.0,True,full,False,False,2019-04-29,-1.0,False,,,,depositada
 2018/19,Premier League,Man City,38,98,72.0,1,Premier League,se_mantiene,00040946,2019-06-30,12.0,True,full,False,False,2020-06-05,-25.0,False,,,,depositada
 2018/19,Premier League,Liverpool,38,97,67.0,2,Premier League,se_mantiene,00035668,2019-05-31,12.0,True,group,False,False,2020-03-04,4.0,False,,,,depositada
-2018/19,Premier League,Chelsea,38,72,24.0,3,Premier League,se_mantiene,01965149,2019-06-30,12.0,True,full,False,False,2020-01-06,-176.0,False,,,,depositada
+2018/19,Premier League,Chelsea,38,72,24.0,3,Premier League,se_mantiene,01965149,2019-06-30,12.0,True,full,False,False,2020-01-06,-176.0,False,02536231,True,False,depositada
 2018/19,Premier League,Tottenham,38,71,28.0,4,Premier League,se_mantiene,00057186,2019-06-30,12.0,True,full,False,False,2020-03-30,-92.0,False,01706358,True,False,depositada
-2018/19,Premier League,Arsenal,38,70,22.0,5,Premier League,se_mantiene,00109244,2019-05-31,12.0,True,full,False,False,2019-12-06,-85.0,False,,,,depositada
+2018/19,Premier League,Arsenal,38,70,22.0,5,Premier League,se_mantiene,00109244,2019-05-31,12.0,True,full,False,False,2019-12-06,-85.0,False,04250459,True,False,depositada
 2018/19,Premier League,Man United,38,66,11.0,6,Premier League,se_mantiene,00095489,2019-06-30,12.0,True,full,False,False,2020-01-09,-173.0,False,,,,depositada
 2018/19,Premier League,Wolves,38,57,1.0,7,Premier League,se_mantiene,01989823,2019-05-31,12.0,True,full,False,False,2020-02-17,-12.0,False,,,,depositada
 2018/19,Premier League,Everton,38,54,8.0,8,Premier League,se_mantiene,00036624,2019-06-30,13.0,True,group,False,False,2020-03-16,-106.0,False,,,,depositada
@@ -398,11 +398,11 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2019/20,Premier League,Liverpool,38,99,52.0,1,Premier League,se_mantiene,00035668,2020-05-31,12.0,True,group,False,False,2021-05-07,-24.0,False,,,,depositada
 2019/20,Premier League,Man City,38,81,67.0,2,Premier League,se_mantiene,00040946,2020-06-30,12.0,True,full,False,False,2021-07-01,1.0,False,,,,depositada
 2019/20,Premier League,Man United,38,66,30.0,3,Premier League,se_mantiene,00095489,2020-06-30,12.0,True,full,False,False,2021-01-05,-176.0,False,,,,depositada
-2019/20,Premier League,Chelsea,38,66,15.0,4,Premier League,se_mantiene,01965149,2020-06-30,12.0,True,full,False,False,2021-02-10,-140.0,False,,,,depositada
+2019/20,Premier League,Chelsea,38,66,15.0,4,Premier League,se_mantiene,01965149,2020-06-30,12.0,True,full,False,False,2021-02-10,-140.0,False,02536231,True,False,depositada
 2019/20,Premier League,Leicester,38,62,26.0,5,Premier League,se_mantiene,04593477,2020-05-31,12.0,True,full,False,False,2021-04-02,-59.0,False,,,,depositada
 2019/20,Premier League,Tottenham,38,59,14.0,6,Premier League,se_mantiene,00057186,2020-06-30,12.0,True,full,False,False,2020-12-04,-208.0,False,01706358,True,False,depositada
 2019/20,Premier League,Wolves,38,59,11.0,7,Premier League,se_mantiene,01989823,2020-05-31,12.0,True,full,False,False,2021-03-18,-74.0,False,,,,depositada
-2019/20,Premier League,Arsenal,38,56,8.0,8,Premier League,se_mantiene,00109244,2020-05-31,12.0,True,full,False,False,2021-03-16,-76.0,False,,,,depositada
+2019/20,Premier League,Arsenal,38,56,8.0,8,Premier League,se_mantiene,00109244,2020-05-31,12.0,True,full,False,False,2021-03-16,-76.0,False,04250459,True,False,depositada
 2019/20,Premier League,Sheffield United,38,54,0.0,9,Premier League,se_mantiene,00061564,2020-07-31,13.0,True,full,False,False,2021-05-12,12.0,False,,,,depositada
 2019/20,Premier League,Burnley,38,54,-7.0,10,Premier League,se_mantiene,00054222,2020-07-31,13.0,True,full,False,False,2021-07-10,71.0,True,,,,depositada
 2019/20,Premier League,Southampton,38,52,-9.0,11,Premier League,se_mantiene,00053301,2020-06-30,12.0,True,full,False,False,2021-02-01,-149.0,False,,,,depositada
@@ -442,11 +442,11 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2020/21,Premier League,Man City,38,86,51.0,1,Premier League,se_mantiene,00040946,2021-06-30,12.0,True,full,False,False,2022-03-04,-26.0,False,,,,depositada
 2020/21,Premier League,Man United,38,74,29.0,2,Premier League,se_mantiene,00095489,2021-06-30,12.0,True,full,False,False,2022-01-14,-75.0,False,,,,depositada
 2020/21,Premier League,Liverpool,38,69,26.0,3,Premier League,se_mantiene,00035668,2021-05-31,12.0,True,group,False,False,2022-03-02,2.0,False,,,,depositada
-2020/21,Premier League,Chelsea,38,67,22.0,4,Premier League,se_mantiene,01965149,2021-06-30,12.0,True,full,False,False,2021-12-29,-91.0,False,,,,depositada
+2020/21,Premier League,Chelsea,38,67,22.0,4,Premier League,se_mantiene,01965149,2021-06-30,12.0,True,full,False,False,2021-12-29,-91.0,False,02536231,True,False,depositada
 2020/21,Premier League,Leicester,38,66,18.0,5,Premier League,se_mantiene,04593477,2021-05-31,12.0,True,group,False,False,2022-02-18,-10.0,False,,,,depositada
 2020/21,Premier League,West Ham,38,65,15.0,6,Premier League,se_mantiene,00066516,2021-05-31,12.0,True,full,False,False,2022-01-04,-55.0,False,,,,depositada
 2020/21,Premier League,Tottenham,38,62,23.0,7,Premier League,se_mantiene,00057186,2021-06-30,12.0,True,full,False,False,2021-11-25,-125.0,False,01706358,True,False,depositada
-2020/21,Premier League,Arsenal,38,61,16.0,8,Premier League,se_mantiene,00109244,2021-05-31,12.0,True,full,False,False,2022-03-02,2.0,False,,,,depositada
+2020/21,Premier League,Arsenal,38,61,16.0,8,Premier League,se_mantiene,00109244,2021-05-31,12.0,True,full,False,False,2022-03-02,2.0,False,04250459,True,False,depositada
 2020/21,Premier League,Leeds,38,59,8.0,9,Premier League,se_mantiene,06233875,2021-06-30,11.0,True,group,False,False,2022-04-06,7.0,False,,,,depositada
 2020/21,Premier League,Everton,38,59,-1.0,10,Premier League,se_mantiene,00036624,2021-06-30,12.0,True,group,False,False,2022-04-05,6.0,False,,,,depositada
 2020/21,Premier League,Aston Villa,38,55,9.0,11,Premier League,se_mantiene,03375789,2021-05-31,12.0,True,full,False,False,2022-03-01,1.0,False,,,,depositada
@@ -485,9 +485,9 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2020/21,Championship,Rotherham,46,42,-16.0,24,League One o inferior,descenso,06550400,2021-06-30,12.0,True,full,False,False,2022-04-05,6.0,False,,,,depositada
 2021/22,Premier League,Man City,38,93,73.0,1,Premier League,se_mantiene,00040946,2022-06-30,12.0,True,full,False,False,2023-04-05,6.0,False,,,,depositada
 2021/22,Premier League,Liverpool,38,92,68.0,2,Premier League,se_mantiene,00035668,2022-05-31,12.0,True,group,False,False,2023-03-02,2.0,False,,,,depositada
-2021/22,Premier League,Chelsea,38,74,43.0,3,Premier League,se_mantiene,01965149,2022-06-30,12.0,True,full,False,False,2023-04-08,9.0,False,,,,depositada
+2021/22,Premier League,Chelsea,38,74,43.0,3,Premier League,se_mantiene,01965149,2022-06-30,12.0,True,full,False,False,2023-04-08,9.0,False,02536231,True,False,depositada
 2021/22,Premier League,Tottenham,38,71,29.0,4,Premier League,se_mantiene,00057186,2022-06-30,12.0,True,full,False,False,2023-02-16,-42.0,False,01706358,True,False,depositada
-2021/22,Premier League,Arsenal,38,69,13.0,5,Premier League,se_mantiene,00109244,2022-05-31,12.0,True,full,False,False,2022-12-01,-89.0,False,,,,depositada
+2021/22,Premier League,Arsenal,38,69,13.0,5,Premier League,se_mantiene,00109244,2022-05-31,12.0,True,full,False,False,2022-12-01,-89.0,False,04250459,True,False,depositada
 2021/22,Premier League,Man United,38,58,0.0,6,Premier League,se_mantiene,00095489,2022-06-30,12.0,True,full,False,False,2023-02-21,-37.0,False,,,,depositada
 2021/22,Premier League,West Ham,38,56,9.0,7,Premier League,se_mantiene,00066516,2022-05-31,12.0,True,full,False,False,2023-01-10,-49.0,False,,,,depositada
 2021/22,Premier League,Leicester,38,52,3.0,8,Premier League,se_mantiene,04593477,2022-05-31,12.0,True,group,False,False,2023-03-09,9.0,False,,,,depositada
@@ -528,7 +528,7 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2021/22,Championship,Peterboro,46,37,-44.0,23,League One o inferior,descenso,00290803,2022-06-30,12.0,True,full,False,False,2023-06-30,92.0,True,,,,depositada
 2021/22,Championship,Barnsley,46,30,-40.0,24,League One o inferior,descenso,04573250,2022-05-31,12.0,True,full,False,False,2023-02-28,0.0,False,,,,depositada
 2022/23,Premier League,Man City,38,89,61.0,1,Premier League,se_mantiene,00040946,2023-06-30,12.0,True,full,False,False,2024-04-04,5.0,False,,,,depositada
-2022/23,Premier League,Arsenal,38,84,45.0,2,Premier League,se_mantiene,00109244,2023-05-31,12.0,True,full,False,False,2024-03-03,3.0,False,,,,depositada
+2022/23,Premier League,Arsenal,38,84,45.0,2,Premier League,se_mantiene,00109244,2023-05-31,12.0,True,full,False,False,2024-03-03,3.0,False,04250459,True,False,depositada
 2022/23,Premier League,Man United,38,75,15.0,3,Premier League,se_mantiene,00095489,2023-06-30,12.0,True,full,False,False,2024-02-16,-43.0,False,,,,depositada
 2022/23,Premier League,Newcastle,38,71,35.0,4,Premier League,se_mantiene,00031014,2023-06-30,12.0,True,full,False,False,2024-01-21,-69.0,False,02529667,True,False,depositada
 2022/23,Premier League,Liverpool,38,67,28.0,5,Premier League,se_mantiene,00035668,2023-05-31,12.0,True,group,False,False,2024-03-08,8.0,False,,,,depositada
@@ -538,7 +538,7 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2022/23,Premier League,Brentford,38,59,12.0,9,Premier League,se_mantiene,03642327,2023-06-30,12.0,True,group,False,False,2024-03-20,-10.0,False,,,,depositada
 2022/23,Premier League,Fulham,38,52,2.0,10,Premier League,se_mantiene,02114486,2023-06-30,12.0,True,full,False,False,2024-04-04,5.0,False,03374347,True,False,depositada
 2022/23,Premier League,Crystal Palace,38,45,-9.0,11,Premier League,se_mantiene,07270793,2023-06-30,12.0,True,full,False,False,2024-04-12,13.0,False,07206409,True,False,depositada
-2022/23,Premier League,Chelsea,38,44,-9.0,12,Premier League,se_mantiene,01965149,2023-06-30,12.0,True,full,False,False,2024-04-12,13.0,False,,,,depositada
+2022/23,Premier League,Chelsea,38,44,-9.0,12,Premier League,se_mantiene,01965149,2023-06-30,12.0,True,full,False,False,2024-04-12,13.0,False,02536231,True,False,depositada
 2022/23,Premier League,Wolves,38,41,-27.0,13,Premier League,se_mantiene,01989823,2023-05-31,12.0,True,full,False,False,2024-03-01,1.0,False,,,,depositada
 2022/23,Premier League,West Ham,38,40,-13.0,14,Premier League,se_mantiene,00066516,2023-05-31,12.0,True,full,False,False,2024-01-15,-45.0,False,,,,depositada
 2022/23,Premier League,Bournemouth,38,39,-34.0,15,Premier League,se_mantiene,06632170,2023-06-30,12.0,True,full,False,False,2024-03-27,-3.0,False,,,,depositada
@@ -572,11 +572,11 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2022/23,Championship,Wigan,46,45,-27.0,23,League One o inferior,descenso,13161421,2023-06-30,12.0,True,full,False,False,2024-03-21,-9.0,False,,,,depositada
 2022/23,Championship,Blackpool,46,44,-24.0,24,League One o inferior,descenso,00048409,2023-06-30,12.0,True,full,False,False,2024-03-27,-3.0,False,12022161,True,False,depositada
 2023/24,Premier League,Man City,38,91,62.0,1,Premier League,se_mantiene,00040946,2024-06-30,12.0,True,full,False,False,2025-03-10,-20.0,False,,,,depositada
-2023/24,Premier League,Arsenal,38,89,62.0,2,Premier League,se_mantiene,00109244,2024-05-31,12.0,True,full,False,False,2025-03-03,3.0,False,,,,depositada
+2023/24,Premier League,Arsenal,38,89,62.0,2,Premier League,se_mantiene,00109244,2024-05-31,12.0,True,full,False,False,2025-03-03,3.0,False,04250459,True,False,depositada
 2023/24,Premier League,Liverpool,38,82,45.0,3,Premier League,se_mantiene,00035668,2024-05-31,12.0,True,group,False,False,2025-03-03,3.0,False,,,,depositada
 2023/24,Premier League,Aston Villa,38,68,15.0,4,Premier League,se_mantiene,03375789,2024-06-30,13.0,True,full,False,False,2025-04-03,4.0,False,,,,depositada
 2023/24,Premier League,Tottenham,38,66,13.0,5,Premier League,se_mantiene,00057186,2024-06-30,12.0,True,full,False,False,2025-04-07,8.0,False,01706358,True,False,depositada
-2023/24,Premier League,Chelsea,38,63,14.0,6,Premier League,se_mantiene,01965149,2024-06-30,12.0,True,full,False,False,2025-04-04,5.0,False,,,,depositada
+2023/24,Premier League,Chelsea,38,63,14.0,6,Premier League,se_mantiene,01965149,2024-06-30,12.0,True,full,False,False,2025-04-04,5.0,False,02536231,True,False,depositada
 2023/24,Premier League,Newcastle,38,60,23.0,7,Premier League,se_mantiene,00031014,2024-06-30,12.0,True,full,False,False,2025-04-25,26.0,False,02529667,True,False,depositada
 2023/24,Premier League,Man United,38,60,-1.0,8,Premier League,se_mantiene,00095489,2024-06-30,12.0,True,full,False,False,2025-03-31,1.0,False,,,,depositada
 2023/24,Premier League,West Ham,38,52,-14.0,9,Premier League,se_mantiene,00066516,2024-05-31,12.0,True,full,False,False,2025-01-08,-51.0,False,,,,depositada
@@ -616,9 +616,9 @@ temporada,division,club,partidos,puntos_sin_sanciones,dif_goles,posicion_sin_san
 2023/24,Championship,Huddersfield,46,45,-29.0,23,League One o inferior,descenso,01771361,2024-06-30,12.0,True,group,False,False,2025-04-02,3.0,False,,,,depositada
 2023/24,Championship,Rotherham,46,27,-52.0,24,League One o inferior,descenso,06550400,2024-06-30,12.0,True,full,False,False,2025-03-17,-13.0,False,,,,depositada
 2024/25,Premier League,Liverpool,38,84,45.0,1,Premier League,se_mantiene,00035668,2025-05-31,12.0,True,group,False,False,2026-03-04,4.0,False,,,,depositada
-2024/25,Premier League,Arsenal,38,74,35.0,2,Premier League,se_mantiene,00109244,2025-05-31,12.0,True,full,False,False,2026-02-27,-1.0,False,,,,depositada
+2024/25,Premier League,Arsenal,38,74,35.0,2,Premier League,se_mantiene,00109244,2025-05-31,12.0,True,full,False,False,2026-02-27,-1.0,False,04250459,True,False,depositada
 2024/25,Premier League,Man City,38,71,28.0,3,Premier League,se_mantiene,00040946,2025-06-30,12.0,True,full,False,False,2026-03-06,-24.0,False,,,,depositada
-2024/25,Premier League,Chelsea,38,69,21.0,4,Premier League,se_mantiene,01965149,2025-06-30,12.0,True,full,False,False,2026-04-12,13.0,False,,,,depositada
+2024/25,Premier League,Chelsea,38,69,21.0,4,Premier League,se_mantiene,01965149,2025-06-30,12.0,True,full,False,False,2026-04-12,13.0,False,02536231,True,False,depositada
 2024/25,Premier League,Newcastle,38,66,21.0,5,Premier League,se_mantiene,00031014,2025-06-30,12.0,True,full,False,False,2026-04-13,14.0,False,02529667,True,False,depositada
 2024/25,Premier League,Aston Villa,38,66,7.0,6,Premier League,se_mantiene,03375789,2025-06-30,12.0,True,full,False,False,2026-04-12,13.0,False,,,,depositada
 2024/25,Premier League,Nott'm Forest,38,65,12.0,7,Premier League,se_mantiene,01630402,2025-06-30,12.0,True,full,False,False,2026-03-26,-4.0,False,,,,depositada

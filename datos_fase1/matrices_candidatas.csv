@@ -1,0 +1,22 @@
+club,numero,nombre,estado,creada,disuelta,via,n_cuentas,n_group,primera,ultima,tipos
+Arsenal,04250459,ARSENAL HOLDINGS LIMITED,active,2001-07-11,,nombre,24,23,2002-05-31,2025-05-31,full;group
+Arsenal,04987886,ARSENAL STADIUM MANAGEMENT HOLDINGS LIMITED,active,2003-12-08,,nombre,21,0,2005-05-31,2025-05-31,full;small;total-exemption-full
+Arsenal,08075206,STONE HOLDINGS ROYAL ARSENAL LIMITED,dissolved,2012-05-18,2019-05-14,nombre,6,0,2012-12-31,2018-06-30,dormant;micro-entity;total-exemption-small
+Arsenal,05357070,WOOLWICH ARSENAL RAIL ENTERPRISES (HOLDINGS) LIMITED,dissolved,2005-02-08,2016-06-28,nombre,10,6,2005-12-31,2015-03-31,audit-exemption-subsiduary;full;group
+Arsenal,08248196,ARSENAL OVERSEAS HOLDINGS LTD,active,2012-10-10,,nombre,13,0,2013-05-31,2025-05-31,full;small;total-exemption-full
+Arsenal,05659803,ARSENAL (AFC HOLDINGS) LIMITED,active,2005-12-21,,nombre,19,0,2007-05-31,2025-05-31,full;small
+Arsenal,10254363,KSE RAIL UK LIMITED,dissolved,2016-06-28,2018-08-14,nombre,0,0,,,
+Arsenal,05659803,Arsenal ( Afc Holdings) Limited,,,,PSC nivel 0,19,0,2007-05-31,2025-05-31,full;small
+Arsenal,04250459,Arsenal Holdings Limited,,,,PSC nivel 1,24,23,2002-05-31,2025-05-31,full;group
+Chelsea,02536231,CHELSEA FC HOLDINGS LIMITED,active,1990-09-03,,nombre,35,31,1991-06-30,2025-06-30,dormant;full-group;group;small
+Chelsea,05730931,FORDSTAM CONSULTANCY LIMITED,active,2006-03-06,,nombre,19,0,2007-03-31,2025-03-31,micro-entity;total-exemption-small
+Chelsea,04784127,FORDSTAM LIMITED,active,2003-06-02,,nombre,21,18,2004-06-30,2024-06-30,full;group
+Chelsea,11305710,FORDSTAM DEVELOPMENTS LIMITED,active,2018-04-12,,nombre,7,0,2019-06-30,2025-06-30,dormant
+Chelsea,14304080,BLUECO 22 PROPERTIES LIMITED,active,2022-08-18,,nombre,3,0,2023-06-30,2025-06-30,audit-exemption-subsiduary
+Chelsea,14213798,BLUECO 22 MIDCO LIMITED,active,2022-07-04,,nombre,3,0,2023-06-30,2025-06-30,audit-exemption-subsiduary
+Chelsea,13949552,BLUECO 22 LIMITED,active,2022-03-02,,nombre,3,3,2023-06-30,2025-06-30,group
+Chelsea,14075320,BLUECO 22 INVESTOR HOLDINGS LIMITED,dissolved,2022-04-28,2023-07-18,nombre,0,0,,,
+Chelsea,LP022606,BLUECO 22 HOLDINGS L.P.,active,2022-05-23,,nombre,0,0,,,
+Chelsea,15250098,BLUECO 22 RESIDENTIAL LIMITED,active,2023-10-31,,nombre,2,0,2024-06-30,2025-06-30,dormant
+Chelsea,04784127,Fordstam Limited,,,,PSC nivel 0,21,18,2004-06-30,2024-06-30,full;group
+Chelsea,14075518,22 Holdco Limited,,,,PSC nivel 3,3,3,2023-06-30,2025-06-30,group

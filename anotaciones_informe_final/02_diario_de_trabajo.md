@@ -95,3 +95,29 @@ Base: 789 club-temporadas del estudio con cierre principal, sin holdings que no 
 - Resultado antes de impuestos + impuesto = resultado neto: cuadra en el **84,5 %** (de 663). El fallo suele ser el impuesto, que recoge el número de nota.
 
 **Conclusión:** las partidas secundarias **no son fiables todavía**. Hay que validarlas con el mismo protocolo que las clave antes de usarlas en la fase 3. Prioridad: acreedores, caja y deuda por traspasos, por el riesgo y el contagio. Las deudas por traspasos ni siquiera se extraen aún: están en la nota de acreedores.
+
+## 4 nov 2026: paso 3, matrices de Arsenal y Chelsea
+`fase2_matrices.py` (ejecutado por el usuario, salida en `datos_fase1/matrices_candidatas.csv`) recorre la cadena de control (PSC) desde la sociedad del club y busca por nombre.
+
+**Arsenal:** club 00109244 → Arsenal (AFC Holdings) Ltd 05659803 (19 cuentas, ninguna de grupo: no consolida) → **Arsenal Holdings Ltd 04250459** (24 cuentas, 23 de grupo, 2002-2025) → E. S. Kroenke. **Se elige 04250459** como grupo: es la cabecera consolidada de todo el periodo y la que usan las fuentes externas (Deloitte, etc.).
+
+**Chelsea:** club 01965149 → **Chelsea FC Holdings Ltd 02536231** (35 cuentas, 31 de grupo, 1991-2025). Por encima: Fordstam Ltd 04784127 (Abramovich, controlador hasta el 30-5-2022, cuentas de grupo hasta 2024) y, desde 2022, Blueco 22 Midco → Blueco 22 Ltd 13949552 → 22 Holdco 14075518 (solo cuentas 2023-2025). **Se elige 02536231**: es la única consolidada continua a través del cambio de propiedad y da una serie homogénea. Fordstam y Blueco 22 se descartan como grupo (ninguna cubre el periodo entero).
+
+**Para el informe:**
+- Explica la diferencia del 4-10 % de Arsenal y Chelsea en el contraste externo: el panel tenía la sociedad del club; las fuentes usan el grupo. Tras añadir el grupo, repetir el contraste.
+- Chelsea FC Holdings no es la cabecera última tras 2022 (lo es Blueco 22). Las operaciones con sociedades hermanas del grupo Blueco (según la prensa, la venta de los hoteles y del equipo femenino a sociedades del mismo propietario) generan resultados dentro de Chelsea FC Holdings que no existirían en el consolidado de Blueco 22. **Por comprobar en las cuentas** cuando se extraigan; si se confirma, marcarlo como partida no recurrente/intragrupo.
+- `mapa_sociedades.csv`: añadidos `numero_grupo` 04250459 (Arsenal) y 02536231 (Chelsea).
+
+Siguiente: inventario, descarga, OCR/iXBRL y extracción de esas dos sociedades (el usuario lo ejecuta; los scripts son reanudables y solo procesan lo nuevo).
+
+## 4 nov 2026: paso 3 completado, cifras de los grupos Arsenal y Chelsea
+- El usuario ejecutó el inventario, la descarga y el OCR: 34 cuentas de grupo, 1.456 páginas, 12 minutos.
+- El extractor automático confunde estas cuentas: columnas de grupo y de sociedad, cuenta de resultados en tres columnas por año, y unidades en libras en un año de Arsenal. Por eso **las 188 cifras clave de los dos grupos se fijaron a mano** (`decisiones_revision4.py`): ingresos, gasto de personal, sueldos, resultado antes de impuestos, activos netos y patrimonio, de 2010 a 2025.
+- **Comprobaciones:**
+  - 172 de las 188 aparecen en la cuenta del año siguiente;
+  - las 5 que no aparecen son reexpresiones declaradas (FRS 102 en 2015 y sueldos de Arsenal 2018), y se guarda la original;
+  - 11 son de 2025, sin cuenta siguiente: se comprobaron en imagen o por suma de la nota.
+- **Contraste externo:** las 9 cifras de Arsenal y Chelsea cuadran con el grupo. Deloitte quita a Arsenal la promoción inmobiliaria y los traspasos de la cifra de negocio, y la cuenta sale exacta.
+- **Confirmado en las cuentas de Chelsea:** venta de los hoteles a Blueco 22 Properties (+76,5 M£ en 2022/23) y del equipo femenino a Blueco 22 Midco (+198,7 M£ en 2023/24). Sin el equipo femenino, el resultado de 2023/24 (+128,4 M£) habría sido de unos −70 M£.
+- **Incidencia:** `fase2_extraer_ixbrl.py` ejecutado en Windows no reproduce 34 filas de 5 sociedades. Se restauró el archivo validado y queda pendiente investigar la causa.
+- **Siguiente:** paso 4, validar las partidas secundarias.

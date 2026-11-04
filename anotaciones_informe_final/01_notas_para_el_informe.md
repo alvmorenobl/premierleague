@@ -5,7 +5,7 @@ Lista viva. Todo lo que no sea "cifra leída tal cual en el estado financiero de
 ## 1. Fuentes externas (Deloitte, prensa, webs)
 - **No se ha rellenado ninguna cifra del panel con fuentes externas.** Deloitte Football Money League 2023 y 2024, Swiss Ramble, The Guardian, Inside World Football y salarysport.com se usaron **solo para contrastar** 66 cifras (`datos_fase2/auditoria/contraste_externo*.csv`).
 - Si alguna vez se rellena una cifra con una fuente externa, se marcará con `fuente = externa` y la referencia exacta. Propuesta: no usarla en el modelo base, solo en un análisis de sensibilidad.
-- Hay que explicar que Deloitte y la prensa suelen usar la **matriz del grupo**, mientras que el panel usa la sociedad del mapa. Por eso Arsenal, Chelsea y Man United difieren entre un 4 % y un 10 % en ingresos.
+- Hay que explicar que Deloitte y la prensa suelen usar la **matriz del grupo**. Arsenal y Chelsea cuadran ahora exactamente con el grupo (9 de 9 cifras). Deloitte quita a Arsenal la promoción inmobiliaria y los traspasos de la cifra de negocio. Man United sigue en la sociedad del club (su matriz cotiza en EE. UU.: pendiente decidir).
 
 ## 2. Cifras del panel que no salen del estado financiero principal del año
 Todas están en `datos_fase2/correcciones_manuales.csv`, columna `motivo` (336 filas).
@@ -21,12 +21,15 @@ Todas están en `datos_fase2/correcciones_manuales.csv`, columna `motivo` (336 f
 | Comparativo de la cuenta del año siguiente (`estado = desde_año_siguiente`) | ~3.000 filas (todas las partidas) | Los que vienen de una cuenta que avisa de reexpresión se marcan como sospechosos y quedan fuera del panel fiable |
 | Derivada por identidad, activos netos = patrimonio (`derivada_identidad`) | ~330 filas | |
 | Revisión manual contra el PDF, el iXBRL o el texto OCR | 269 decisiones en 3 pasadas (336 filas) | Unas 110 confirmadas; el resto corregidas o completadas |
+| Revisión manual de los grupos de Arsenal y Chelsea (4ª pasada) | 188 | Todas las cifras clave de 04250459 y 02536231 entre 2010 y 2025 |
 
 ## 3. Decisiones de método que hay que declarar
 - **Original frente a reexpresada:** el panel guarda la cifra original publicada. Una reexpresión solo se acepta si la cuenta siguiente lo dice ("restated"); si no, la cifra queda en conflicto. Ejemplo: el resultado de Everton 2022 se guarda como −44.732, aunque la cuenta de 2023 lo reexpresa a −38.413.
 - **"Sin evidencia no se corrige":** las cifras dudosas quedan fuera del panel fiable; no se adivinan.
 - **Entidad:** se recogen la sociedad del club y, si existe en el mapa, la del grupo.
-  - Arsenal y Chelsea están sin matriz de grupo (pendiente).
+  - Arsenal y Chelsea: grupo añadido el 4-11-2026, Arsenal Holdings Ltd (04250459) y Chelsea FC Holdings Ltd (02536231). En Chelsea, tras 2022 la cabecera última es Blueco 22 (solo cuentas desde 2023); se usa Chelsea FC Holdings por continuidad.
+  - **Hay que declarar** que los resultados de Chelsea incluyen ventas a sociedades hermanas, confirmadas en las cuentas: hoteles (+76,5 M£, 2022/23) y equipo femenino (+198,7 M£, 2023/24). Son no recurrentes e intragrupo, y en el consolidado de Blueco 22 no existirían. Propuesta: marcarlas y hacer un análisis de sensibilidad sin ellas.
+  - **Todas las cifras clave de los dos grupos** (188) son de revisión manual (`decisiones_revision4.py`): el extractor no maneja las columnas de grupo y de sociedad.
   - **Middlesbrough Holdings** (todos los años revisados) y **West Brom Group** (2013-2014) son holdings que **no consolidan al club**: sus cifras de "grupo" son cero o casi cero y no representan al club. En la fase 3 hay que usar la sociedad del club en esos casos.
 - **Gastos de personal en positivo** aunque la cuenta los imprima entre paréntesis.
 - **Huecos estructurales:**
