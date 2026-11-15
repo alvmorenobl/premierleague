@@ -194,7 +194,7 @@ Phase 5  Evaluation & publication   ░░░░░░░░░░    0 %  pendi
 ## 6. Repository structure and what each file contains
 
 ```
-premierleague/
+english-football-financial-risk/
 ├── README.md                       ← this document
 ├── requirements.txt                ← required Python libraries
 ├── .gitignore                      ← files that are NOT pushed to GitHub
@@ -308,8 +308,8 @@ premierleague/
 ### 7.2 Step 1: clone the repository
 
 ```bash
-git clone https://github.com/alvmorenobl/premierleague.git
-cd premierleague
+git clone https://github.com/alvmorenobl/english-football-financial-risk.git
+cd english-football-financial-risk
 ```
 
 ### 7.3 Step 2: install the libraries
@@ -379,7 +379,7 @@ python ocr_selectivo.py path/to/file.pdf 14,15     # 3. fine OCR of those pages
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
-| `FileNotFoundError: api-premier-key.text` | You have not created the key file or you are in another folder | Create the file and run the scripts from the project folder (`cd premierleague`) |
+| `FileNotFoundError: api-premier-key.text` | You have not created the key file or you are in another folder | Create the file and run the scripts from the project folder (`cd english-football-financial-risk`) |
 | Error `401` | Wrong key, with spaces, or created as a type other than REST | Check the file; if needed, create a new key |
 | Error `429` | Too many requests | The script waits on its own; if it stops, run it again |
 | `WinError 10060` on Transfermarkt | Your network cannot reach that server | Not essential; ignore it |
