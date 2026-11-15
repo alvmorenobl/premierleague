@@ -1,446 +1,448 @@
-# Riesgo financiero individual y sistémico en el fútbol inglés
+# Individual and Systemic Financial Risk in English Football
 
-### Un test de estrés para la era del regulador
+### A stress test for the regulator era
 
-> **Estado:** en desarrollo. Fases 0-2 completadas (panel financiero validado); siguiente: fase 3 (modelos de riesgo).
-> **Última actualización:** noviembre de 2026.
-> **Datos:** solo fuentes públicas (Companies House, football-data.co.uk).
-
----
-
-## Índice
-
-1. [De qué va el proyecto](#1-de-qué-va-el-proyecto)
-2. [Por qué ahora](#2-por-qué-ahora)
-3. [Preguntas de investigación](#3-preguntas-de-investigación)
-4. [Fases del proyecto y estado actual](#4-fases-del-proyecto-y-estado-actual)
-5. [Resultados obtenidos hasta ahora](#5-resultados-obtenidos-hasta-ahora)
-6. [Estructura del repositorio y qué contiene cada archivo](#6-estructura-del-repositorio-y-qué-contiene-cada-archivo)
-7. [Cómo ejecutarlo desde otro ordenador](#7-cómo-ejecutarlo-desde-otro-ordenador)
-8. [Decisiones de diseño y lecciones aprendidas](#8-decisiones-de-diseño-y-lecciones-aprendidas)
-9. [Limitaciones conocidas](#9-limitaciones-conocidas)
-10. [Glosario](#10-glosario)
-11. [Fuentes](#11-fuentes)
+> **Status:** in progress. Phases 0–2 completed (validated financial panel); next: phase 3 (risk models).
+> **Last updated:** November 2026.
+> **Data:** public sources only (Companies House, football-data.co.uk).
 
 ---
 
-## 1. De qué va el proyecto
+## Contents
 
-Los clubes de fútbol ingleses pierden dinero de forma estructural. En la Championship (la segunda división) los salarios suelen superar el 100 % de los ingresos, y en los últimos quince años varios clubes históricos han entrado en **administración** (el equivalente británico al concurso de acreedores): Portsmouth, Bolton, Wigan, Derby y Sheffield Wednesday.
-
-Este proyecto quiere **medir ese riesgo con datos públicos** y responder a dos preguntas:
-
-1. **Riesgo individual:** ¿se puede anticipar, con años de antelación, qué club va a acabar en problemas financieros graves (administración, sanción por incumplir las normas, impago)?
-2. **Riesgo sistémico:** los clubes se deben dinero entre sí porque los traspasos se pagan a plazos. Si un club cae, ¿cuántos otros arrastra y cuánto?
-
-Para ello combinamos:
-
-- **Contabilidad:** cuentas anuales depositadas en el registro mercantil británico (Companies House).
-- **Derecho deportivo:** las normas financieras de la Premier League y de la EFL (Championship) y cómo han cambiado entre 2010 y 2026.
-- **Economía y finanzas:** modelos de quiebra, calidad del beneficio, redes de contagio.
-- **Ciencia de datos:** extracción automática (APIs, OCR), aprendizaje automático y análisis de redes.
-
-**Ámbito:** los **62 clubes** que han jugado en la Premier League o en la Championship entre las temporadas 2010/11 y 2026/27.
+1. [What the project is about](#1-what-the-project-is-about)
+2. [Why now](#2-why-now)
+3. [Research questions](#3-research-questions)
+4. [Project phases and current status](#4-project-phases-and-current-status)
+5. [Results so far](#5-results-so-far)
+6. [Repository structure and what each file contains](#6-repository-structure-and-what-each-file-contains)
+7. [How to run it on another computer](#7-how-to-run-it-on-another-computer)
+8. [Design decisions and lessons learned](#8-design-decisions-and-lessons-learned)
+9. [Known limitations](#9-known-limitations)
+10. [Glossary](#10-glossary)
+11. [Sources](#11-sources)
 
 ---
 
-## 2. Por qué ahora
+## 1. What the project is about
 
-- **Regulador nuevo.** El Independent Football Regulator (IFR) abre las solicitudes de licencia provisional entre noviembre de 2026 y febrero de 2027. Por primera vez, un organismo independiente va a vigilar la salud financiera de los clubes.
-- **Normas nuevas en la Premier y la Championship.** Desde la temporada 2026/27 las antiguas normas de pérdidas máximas (PSR en la Premier, P&S en la EFL) se sustituyen por un **límite de gasto en plantilla en proporción a los ingresos** (SCR). La Premier League añade además unas **reglas de solidez financiera** (SSR).
-- **Sanciones recientes.** Everton, Nottingham Forest, Leicester y Sheffield Wednesday han perdido puntos por incumplir normas financieras o por problemas de pagos.
+English football clubs lose money structurally. In the Championship (the second tier), wages often exceed 100 % of revenue, and over the last fifteen years several historic clubs have gone into **administration** (the British insolvency procedure): Portsmouth, Bolton, Wigan, Derby and Sheffield Wednesday.
 
-Un análisis que compare **cómo habrían funcionado las normas antiguas y las nuevas** sobre quince años de datos reales es útil para clubes, ligas y regulador.
+This project aims to **measure that risk with public data** and answer two questions:
+
+1. **Individual risk:** can we anticipate, years in advance, which club will end up in serious financial trouble (administration, sanctions for breaking the rules, missed payments)?
+2. **Systemic risk:** clubs owe each other money because transfer fees are paid in instalments. If one club fails, how many others does it drag down, and by how much?
+
+To do this, the project combines:
+
+- **Accounting:** annual accounts filed with the UK companies register (Companies House).
+- **Sports regulation:** the financial rules of the Premier League and the EFL (Championship) and how they changed between 2010 and 2026.
+- **Economics and finance:** bankruptcy models, earnings quality, contagion networks.
+- **Data science:** automated extraction (APIs, OCR), machine learning and network analysis.
+
+**Scope:** the **62 clubs** that played in the Premier League or the Championship between the 2010/11 and 2026/27 seasons.
 
 ---
 
-## 3. Preguntas de investigación
+## 2. Why now
 
-| # | Pregunta | Módulo |
+- **A new regulator.** The Independent Football Regulator (IFR) opens applications for provisional licences between November 2026 and February 2027. For the first time, an independent body will oversee the financial health of clubs.
+- **New rules in the Premier League and the Championship.** From the 2026/27 season, the old maximum-loss rules (PSR in the Premier League, P&S in the EFL) are replaced by a **cap on squad spending as a share of revenue** (SCR). The Premier League also adds **financial resilience rules** (SSR).
+- **Recent sanctions.** Everton, Nottingham Forest, Leicester and Sheffield Wednesday have been deducted points for breaking financial rules or for payment problems.
+
+An analysis that compares **how the old and the new rules would have performed** on fifteen years of real data is useful for clubs, leagues and the regulator.
+
+---
+
+## 3. Research questions
+
+| # | Question | Module |
 |---|----------|--------|
-| P1 | ¿Qué señales contables anticipan la crisis de un club con 1-3 años de antelación? | Modelo de riesgo individual |
-| P2 | ¿Qué clubes "maquillan" su resultado (venta del estadio al propietario, plusvalías de cantera, patrocinios de empresas vinculadas)? | Índice de calidad del beneficio |
-| P3 | ¿Cómo se propaga una quiebra por la red de deudas de traspasos? | Red de contagio y test de estrés |
-| P4 | ¿Qué normas (PSR, SCR, SSR) habrían detectado antes y mejor los casos reales? | Evaluación de las normas |
+| Q1 | Which accounting signals anticipate a club's crisis 1–3 years in advance? | Individual risk model |
+| Q2 | Which clubs "dress up" their results (selling the stadium to the owner, academy player sales, sponsorships from related companies)? | Earnings quality index |
+| Q3 | How does a bankruptcy spread through the network of transfer debts? | Contagion network and stress test |
+| Q4 | Which rules (PSR, SCR, SSR) would have detected the real cases earlier and better? | Rule evaluation |
 
 ---
 
-## 4. Fases del proyecto y estado actual
+## 4. Project phases and current status
 
 ```
-Fase 0  Viabilidad                 ██████████  100 %  ✅ completada
-Fase 1  Universo de clubes         ██████████  100 %  ✅ completada
-Fase 2  Recopilación de cuentas    ██████████  100 %  ✅ completada
-Fase 3  Modelos de riesgo          ░░░░░░░░░░    0 %  🔄 siguiente
-Fase 4  Red de contagio y estrés   ░░░░░░░░░░    0 %  ⏳ pendiente
-Fase 5  Evaluación y publicación   ░░░░░░░░░░    0 %  ⏳ pendiente
+Phase 0  Feasibility                ██████████  100 %  completed
+Phase 1  Universe of clubs          ██████████  100 %  completed
+Phase 2  Collection of accounts     ██████████  100 %  completed
+Phase 3  Risk models                ░░░░░░░░░░    0 %  next
+Phase 4  Contagion network & stress ░░░░░░░░░░    0 %  pending
+Phase 5  Evaluation & publication   ░░░░░░░░░░    0 %  pending
 ```
 
-### Fase 0: Viabilidad ✅
+### Phase 0: Feasibility (completed)
 
-**Objetivo:** comprobar que los datos públicos sirven antes de invertir meses de trabajo.
+**Goal:** check that public data is good enough before investing months of work.
 
-**Qué se hizo:**
-- Registro en la API de Companies House y prueba con 4 clubes elegidos por ser casos distintos:
-  - **Sheffield Wednesday:** club en crisis, cuentas en formato digital.
-  - **Everton, Brentford y Liverpool:** grandes clubes cuyas cuentas son PDF escaneados (imágenes).
-- Descarga del perfil de cada empresa, su historial de cuentas, sus préstamos garantizados (*charges*), sus administradores y sus tres últimas cuentas anuales.
-- Dos vías de extracción:
-  - **iXBRL** (formato digital): lectura directa de las cifras etiquetadas.
-  - **PDF escaneado:** OCR (reconocimiento de texto en imágenes), primero rápido para localizar las páginas clave y después en alta resolución sobre esas páginas.
+**What was done:**
+- Registration with the Companies House API and a test with 4 clubs chosen because they are different cases:
+  - **Sheffield Wednesday:** a club in crisis, with accounts in digital format.
+  - **Everton, Brentford and Liverpool:** large clubs whose accounts are scanned PDFs (images).
+- Download of each company's profile, filing history, secured loans (*charges*), officers and its last three annual accounts.
+- Two extraction routes:
+  - **iXBRL** (digital format): direct reading of the tagged figures.
+  - **Scanned PDF:** OCR (optical character recognition), first a fast pass to locate the key pages and then a high-resolution pass on those pages only.
 
-**Resultado:** **viabilidad confirmada.**
-- Del iXBRL de Sheffield Wednesday salieron 784 cifras; el patrimonio neto negativo coincide con lo publicado en prensa.
-- El OCR de las cuentas 2024/25 de Liverpool, Everton y Brentford acertó **14 de 14 cifras** comprobadas contra datos publicados.
+**Result:** **feasibility confirmed.**
+- 784 figures were extracted from Sheffield Wednesday's iXBRL; the negative equity matches what was reported in the press.
+- The OCR of the 2024/25 accounts of Liverpool, Everton and Brentford got **14 out of 14 figures** right when checked against published data.
 
-### Fase 1: Universo de clubes ✅
+### Phase 1: Universe of clubs (completed)
 
-**Objetivo:** saber qué clubes estudiar, en qué división estuvo cada uno cada temporada y qué empresa del registro mercantil corresponde a cada club.
+**Goal:** know which clubs to study, which division each one was in every season, and which company in the register corresponds to each club.
 
-**Qué se hizo:**
-1. **Tabla clubes-temporada.** Con los resultados de todos los partidos de Premier y Championship desde 2010/11 (football-data.co.uk) se reconstruyó la clasificación de cada temporada. Salen **748 filas (club × temporada) y 62 clubes**. Para cada uno se sabe si ascendió, descendió o se quedó.
-2. **Mapa club → sociedad.** Un club no es una empresa sino a menudo varias: la sociedad del club, un holding que la controla, una empresa del estadio… Además, cuando un club entra en administración su sociedad suele **cambiar de nombre** ("… Realisations Limited") y se crea otra nueva. Se resolvió en cuatro pasos:
-   - búsqueda por nombre (229 candidatos);
-   - búsqueda dirigida de los casos que no aparecieron;
-   - consulta del registro de control (PSC, *quién controla a quién*) para los casos dudosos;
-   - búsqueda a través de los antiguos directivos para las sociedades renombradas tras una administración.
+**What was done:**
+1. **Club-season table.** Using the results of every Premier League and Championship match since 2010/11 (football-data.co.uk), the league table of every season was rebuilt. The result is **748 rows (club × season) and 62 clubs**. For each one we know whether it was promoted, relegated or stayed.
+2. **Club → company map.** A club is not one company but often several: the club company, a holding company that controls it, a stadium company… In addition, when a club goes into administration its company usually **changes its name** ("… Realisations Limited") and a new one is created. This was solved in four steps:
+   - search by name (229 candidates);
+   - targeted search for the cases that did not appear;
+   - lookup in the register of control (PSC, *who controls whom*) for unclear cases;
+   - search through former directors for companies renamed after an administration.
 
-**Resultado:** **84 sociedades** (club y grupo) asignadas a los 62 clubes; 61 filas con confianza alta y 6 con confianza media.
+**Result:** **84 companies** (club and group) assigned to the 62 clubs; 61 rows with high confidence and 6 with medium confidence.
 
-### Fase 2: Recopilación de cuentas ✅
+### Phase 2: Collection of accounts (completed)
 
-**Objetivo:** construir un **panel financiero**, una tabla con las principales cifras de cada club en cada año (ingresos, salarios, resultado, patrimonio, deuda, etc.), con una fiabilidad demostrada.
+**Goal:** build a **financial panel**, a table with the main figures of each club in each year (revenue, wages, profit, equity, debt, etc.), with proven reliability.
 
-**Qué se hizo:**
-1. **Inventario y descarga.** Se identificaron 1.259 cuentas anuales válidas de las 84 sociedades y se descargaron todas: unas 1.120 en PDF escaneado y 143 en iXBRL. Se calculó además el retraso en el depósito de cada cuenta: 63 se depositaron claramente fuera de plazo.
-2. **OCR.** Una pasada rápida (110 ppp) recorrió 31.848 páginas para localizar los estados financieros, y una pasada fina (300 ppp) leyó esas páginas, con un complemento de 2.381 páginas más.
-3. **Extracción por reglas** (`fase2_extraer_cifras.py`) e **iXBRL** (`fase2_extraer_ixbrl.py`): etiquetas, columnas, unidades y formatos de 1 a 6 columnas.
-4. **Panel validado** (`fase2_panel.py`):
-   - cada cifra del año *t* se contrasta con la que repite como comparativo la cuenta de *t+1*;
-   - las discrepancias se clasifican: unidades, signo, dígito, truncado, columna o reexpresión;
-   - se aplican identidades contables;
-   - **sin evidencia no se corrige nada**: la cifra queda en conflicto y fuera del panel fiable.
-5. **Revisión manual dirigida.** 227 cifras clave de las club-temporadas del estudio se comprobaron contra el PDF y quedaron documentadas una a una en `datos_fase2/correcciones_manuales.csv`.
-6. **Auditoría y validación ciega.** Se usaron cinco muestras de 30-60 cuentas, cada una revisada cifra a cifra contra la imagen del PDF; las que se usaron para ajustar reglas quedaron "contaminadas" y no cuentan como prueba. Todo está en `datos_fase2/auditoria/AUDITORIA_FASE2.md`.
+**What was done:**
+1. **Inventory and download.** 1,259 valid annual accounts were identified for the 84 companies and all of them were downloaded: about 1,120 as scanned PDFs and 143 in iXBRL. The filing delay of each set of accounts was also calculated: 63 were clearly filed late.
+2. **OCR.** A fast pass (110 dpi) went through 31,848 pages to locate the financial statements, and a fine pass (300 dpi) read those pages, plus a complementary pass over 2,381 more pages.
+3. **Rule-based extraction** (`fase2_extraer_cifras.py`) and **iXBRL** (`fase2_extraer_ixbrl.py`): labels, columns, units and layouts from 1 to 6 columns.
+4. **Validated panel** (`fase2_panel.py`):
+   - each figure for year *t* is checked against the comparative figure repeated in the accounts for *t+1*;
+   - discrepancies are classified: units, sign, digit, truncation, column or restatement;
+   - accounting identities are applied;
+   - **nothing is corrected without evidence**: the figure is flagged as a conflict and left out of the reliable panel.
+5. **Targeted manual review.** 227 key figures for the club-seasons in the study were checked against the PDF and documented one by one in `datos_fase2/correcciones_manuales.csv`.
+6. **Audit and blind validation.** Five samples of 30–60 accounts were used, each reviewed figure by figure against the PDF image; the samples used to tune the rules were considered "contaminated" and do not count as evidence. Everything is in `datos_fase2/auditoria/AUDITORIA_FASE2.md`.
 
-**Resultado (validación 5, muestra ciega nueva, medida una sola vez):**
+**Result (validation 5, new blind sample, measured only once):**
 
-| | Precisión | Exhaustividad |
+| | Precision | Recall |
 |---|---|---|
-| Panel fiable final | **100 %** (175/175) | **99,4 %** (175/176) |
+| Final reliable panel | **100 %** (175/175) | **99.4 %** (175/176) |
 
-- **Contraste con 63 cifras publicadas** (Deloitte, prensa): ningún error de lectura. Las diferencias del 4-10 % en Arsenal, Chelsea y Man United se deben a que el panel recoge la sociedad del club y no la matriz del grupo.
-- **Cifras clave sin valor fiable:** 70 de 3.332. De ellas, 17 son cuentas nunca depositadas, 19 cuentas abreviadas y 34 están documentadas como pendientes.
+- **Check against 63 published figures** (Deloitte, press): no reading errors. The 4–10 % differences for Arsenal, Chelsea and Man United are because the panel uses the club company, not the group's parent company.
+- **Key figures without a reliable value:** 70 out of 3,332. Of these, 17 are accounts that were never filed, 19 are abbreviated accounts and 34 are documented as pending.
 
-**Limitaciones para la fase 3:**
-- Faltan las matrices de grupo de Arsenal y Chelsea.
-- Las partidas secundarias (impuesto, acreedores, caja) no tienen el mismo nivel de validación.
-- Los huecos del panel fiable deben tratarse explícitamente en los modelos.
+**Limitations for phase 3:**
+- The group parent companies of Arsenal and Chelsea are missing.
+- Secondary items (tax, creditors, cash) do not have the same level of validation.
+- Gaps in the reliable panel must be handled explicitly in the models.
 
-### Fase 3: Modelos de riesgo individual ⏳
+### Phase 3: Individual risk models (next)
 
-- **Variable a predecir:** administración, sanción de puntos, cuentas con duda sobre la continuidad del negocio (*going concern*), depósito fuera de plazo.
-- **Modelos:** regresión logística penalizada y modelo de supervivencia en tiempo discreto, con *gradient boosting* como comparación.
-- **Validación:** temporal (se entrena con el pasado y se prueba con el futuro), calibración e interpretabilidad (SHAP).
-- **Índice de calidad del beneficio:** adaptación al fútbol de los modelos de Beneish y Altman.
-- **Texto:** análisis de las notas de *going concern* con técnicas de lenguaje natural (NLP).
+- **Target variable:** administration, points deduction, accounts with a *going concern* warning, late filing.
+- **Models:** penalised logistic regression and a discrete-time survival model, with *gradient boosting* as a benchmark.
+- **Validation:** temporal (train on the past, test on the future), calibration and interpretability (SHAP).
+- **Earnings quality index:** adaptation of the Beneish and Altman models to football.
+- **Text:** analysis of *going concern* notes with natural language processing (NLP).
 
-### Fase 4: Red de contagio y test de estrés ⏳
+### Phase 4: Contagion network and stress test (pending)
 
-- Reconstrucción de la red de deudas por traspasos entre clubes (métodos de máxima entropía / RAS, porque solo se conocen los totales de cada club).
-- Simulación de quiebras con los modelos **Eisenberg-Noe** y **DebtRank**.
-- Incorporación de la regla de "acreedores futbolísticos": en una administración los demás clubes cobran íntegro pero tarde, así que el golpe es de **liquidez** más que de solvencia.
+- Reconstruction of the network of transfer debts between clubs (maximum entropy / RAS methods, because only each club's totals are known).
+- Default simulation with the **Eisenberg-Noe** and **DebtRank** models.
+- Inclusion of the "football creditor" rule: in an administration, other clubs are paid in full but late, so the shock hits **liquidity** rather than solvency.
 
-### Fase 5: Evaluación de normas y publicación ⏳
+### Phase 5: Rule evaluation and publication (pending)
 
-- Tratar cada norma (PSR, P&S, SCR, SSR, UEFA) como un clasificador: ¿a quién habría señalado y cuándo?
-- Las normas se guardan como **parámetros en un archivo de configuración**, para poder actualizarlas si el regulador o las ligas las cambian.
-- Publicación: informe, panel interactivo y artículo en LinkedIn.
-
----
-
-## 5. Resultados obtenidos hasta ahora
-
-### Validación del OCR (cuentas 2024/25, miles de £)
-
-| Club | Concepto | Valor extraído |
-|------|----------|---------------:|
-| Liverpool | Ingresos | 702.722 |
-| Liverpool | Resultado antes de impuestos | 15.212 |
-| Liverpool | Gastos de personal | 427.727 |
-| Liverpool | Beneficio por venta de jugadores | 53.268 |
-| Everton | Ingresos | 196.697 |
-| Everton | Resultado antes de impuestos | −8.609 |
-| Brentford | Ingresos | 173.076 |
-| Brentford | Beneficio por venta de jugadores | 27.236 |
-| Brentford | Resultado antes de impuestos | −20.527 |
-
-*Todas las cifras comprobadas (14/14) coinciden con las publicadas.*
-
-### Hallazgos de la fase 1
-
-- **Las sociedades cambian de nombre al quebrar.** Las antiguas sociedades de Bolton (`BWFC2019 Ltd`), Derby (`DC Realisations 1 Ltd`, todavía en administración) y Wigan (`Latics Realisations Ltd`) no aparecen buscando por el nombre del club. Si no se incluyen, el modelo solo vería clubes que sobrevivieron (**sesgo de supervivencia**).
-- **Algunas matrices no están en el registro británico:** Manchester United plc (Islas Caimán) y la matriz de Birmingham City (cotiza en Hong Kong). De esos clubes solo tendremos las cuentas del club.
-- **Normativa de 2010 a 2026:** la Premier y la Championship han tenido normas distintas y cambiantes (detalle en el documento del proyecto):
-
-| Periodo | Premier League | Championship (EFL) |
-|---------|----------------|--------------------|
-| 2012-2016 | STCC (control de salarios), desde 2013 | FFP anual (pérdida máxima por temporada) |
-| 2016-2026 | PSR: pérdida máxima de £105 m en 3 años | P&S: pérdida máxima de £39 m en 3 años |
-| 2026/27 en adelante | SCR (85 % de los ingresos) + SSR (solidez) | SCR (85 % + aportaciones del propietario) |
+- Treat each rule (PSR, P&S, SCR, SSR, UEFA) as a classifier: which clubs would it have flagged, and when?
+- The rules are stored as **parameters in a configuration file**, so they can be updated if the regulator or the leagues change them.
+- Publication: report, interactive dashboard and a LinkedIn article.
 
 ---
 
-## 6. Estructura del repositorio y qué contiene cada archivo
+## 5. Results so far
+
+### OCR validation (2024/25 accounts, £ thousands)
+
+| Club | Item | Extracted value |
+|------|------|----------------:|
+| Liverpool | Revenue | 702,722 |
+| Liverpool | Profit before tax | 15,212 |
+| Liverpool | Staff costs | 427,727 |
+| Liverpool | Profit on player sales | 53,268 |
+| Everton | Revenue | 196,697 |
+| Everton | Profit before tax | −8,609 |
+| Brentford | Revenue | 173,076 |
+| Brentford | Profit on player sales | 27,236 |
+| Brentford | Profit before tax | −20,527 |
+
+*All figures checked (14/14) match the published ones.*
+
+### Phase 1 findings
+
+- **Companies change their name when they go bust.** The former companies of Bolton (`BWFC2019 Ltd`), Derby (`DC Realisations 1 Ltd`, still in administration) and Wigan (`Latics Realisations Ltd`) do not show up when searching by the club's name. If they were left out, the model would only see clubs that survived (**survivorship bias**).
+- **Some parent companies are not in the UK register:** Manchester United plc (Cayman Islands) and Birmingham City's parent company (listed in Hong Kong). For those clubs only the club company's accounts are available.
+- **Rules from 2010 to 2026:** the Premier League and the Championship have had different, changing rules (details in the project document):
+
+| Period | Premier League | Championship (EFL) |
+|--------|----------------|--------------------|
+| 2012–2016 | STCC (wage control), from 2013 | Annual FFP (maximum loss per season) |
+| 2016–2026 | PSR: maximum loss of £105m over 3 years | P&S: maximum loss of £39m over 3 years |
+| 2026/27 onwards | SCR (85 % of revenue) + SSR (resilience) | SCR (85 % + owner contributions) |
+
+---
+
+## 6. Repository structure and what each file contains
 
 ```
 premierleague/
-├── README.md                       ← este documento
-├── requirements.txt                ← librerías de Python necesarias
-├── .gitignore                      ← archivos que NO se suben a GitHub
-├── api-premier-key.text            ← tu clave de la API (NO se sube; la creas tú)
+├── README.md                       ← this document
+├── requirements.txt                ← required Python libraries
+├── .gitignore                      ← files that are NOT pushed to GitHub
+├── api-premier-key.text            ← your API key (NOT pushed; you create it)
 │
-├── fase0_prueba.py                 ← Fase 0: prueba de viabilidad con 4 clubes
-├── ocr_rapido.py                   ← Fase 0: OCR rápido de un PDF escaneado
-├── localizar_paginas.py            ← Fase 0: encuentra las páginas clave en el OCR rápido
-├── ocr_selectivo.py                ← Fase 0: OCR de alta calidad solo en páginas clave
-├── ocr_paginas.py                  ← Fase 0: OCR completo (versión inicial, lenta)
+├── fase0_prueba.py                 ← Phase 0: feasibility test with 4 clubs
+├── ocr_rapido.py                   ← Phase 0: fast OCR of a scanned PDF
+├── localizar_paginas.py            ← Phase 0: finds the key pages in the fast OCR
+├── ocr_selectivo.py                ← Phase 0: high-quality OCR on key pages only
+├── ocr_paginas.py                  ← Phase 0: full OCR (initial, slow version)
 │
-├── fase1_descargas.py              ← Fase 1: descarga resultados de partidos
-├── fase1_clubes_temporada.py       ← Fase 1: construye la tabla club × temporada
-├── fase1_sociedades.py             ← Fase 1: busca la sociedad de cada club
-├── fase1_sociedades_pendientes.py  ← Fase 1: busca los clubes que no aparecieron
-├── fase1_sociedades_cierre.py      ← Fase 1: búsqueda avanzada + quién controla a quién
-├── fase1_sociedades_antiguas.py    ← Fase 1: sociedades renombradas tras una quiebra
+├── fase1_descargas.py              ← Phase 1: downloads match results
+├── fase1_clubes_temporada.py       ← Phase 1: builds the club × season table
+├── fase1_sociedades.py             ← Phase 1: finds each club's company
+├── fase1_sociedades_pendientes.py  ← Phase 1: searches for the clubs that did not appear
+├── fase1_sociedades_cierre.py      ← Phase 1: advanced search + who controls whom
+├── fase1_sociedades_antiguas.py    ← Phase 1: companies renamed after a bankruptcy
 │
-├── fase2_inventario_cuentas.py     ← Fase 2: inventario de todas las cuentas depositadas
+├── fase2_inventario_cuentas.py     ← Phase 2: inventory of all filed accounts
 │
-├── datos_fase0/                    ← resultados de la prueba de viabilidad
-└── datos_fase1/                    ← tablas de clubes y sociedades
+├── datos_fase0/                    ← feasibility test results
+└── datos_fase1/                    ← club and company tables
 ```
 
-### 6.1 Archivos de configuración
+*File, folder and column names are kept in Spanish, as in the code.*
 
-| Archivo | Qué es |
-|---------|--------|
-| `.gitignore` | Lista de archivos que git ignora: la clave de la API, cachés de Python y datos brutos pesados que se pueden volver a descargar. |
-| `requirements.txt` | Librerías de Python que hay que instalar (`requests`, `pandas`, `beautifulsoup4`). |
-| `api-premier-key.text` | **Tu clave personal de la API.** Una sola línea con la clave, sin espacios. **Nunca se sube a GitHub** ni se escribe dentro del código. |
+### 6.1 Configuration files
 
-### 6.2 Scripts de la fase 0 (viabilidad)
+| File | What it is |
+|------|------------|
+| `.gitignore` | List of files git ignores: the API key, Python caches and heavy raw data that can be downloaded again. |
+| `requirements.txt` | Python libraries to install (`requests`, `pandas`, `beautifulsoup4`). |
+| `api-premier-key.text` | **Your personal API key.** A single line with the key, no spaces. **It is never pushed to GitHub** nor written inside the code. |
 
-| Script | Qué hace | Entrada | Salida |
-|--------|----------|---------|--------|
-| `fase0_prueba.py` | Comprueba la clave. Para 4 clubes (Sheffield Wednesday, Everton, Brentford, Liverpool): busca la empresa, descarga perfil, historial de cuentas, *charges* y administradores, calcula los retrasos en el depósito de cuentas, descarga las 3 últimas cuentas (iXBRL si existe, si no PDF) y extrae todas las cifras etiquetadas del iXBRL. | Clave de la API | `datos_fase0/<club>/…`, `cifras_ixbrl.csv`, `cifras_clave.csv`, `informe_fase0.txt` |
-| `ocr_rapido.py` | Pasa un PDF escaneado por OCR a baja resolución (110 ppp, escala de grises). Es rápido y basta para *localizar* contenido, no para leer cifras con precisión. | Un PDF | `ocr_rapido/<pdf>/pag_NNN.txt` |
-| `localizar_paginas.py` | Busca palabras clave en el OCR rápido para identificar qué página contiene cada estado financiero: cuenta de resultados, balance, flujos de caja, acreedores, deudores, personal, intangibles, *going concern*, partes vinculadas. | Carpeta del OCR rápido | `paginas_clave.json` |
-| `ocr_selectivo.py` | OCR de alta calidad (300 ppp) solo sobre las páginas indicadas. Uso: `python ocr_selectivo.py archivo.pdf 14,15,19` | PDF y lista de páginas | `ocr/<pdf>/pag_NNN.txt` |
-| `ocr_paginas.py` | Primera versión: OCR de *todas* las páginas a 250 ppp. Funciona pero es demasiado lenta; se sustituyó por la combinación rápido + selectivo. Se conserva como referencia. | Un PDF | Texto por página |
+### 6.2 Phase 0 scripts (feasibility)
 
-> **¿Por qué dos pasadas de OCR?** El OCR de alta calidad tarda unos 5 segundos por página. Unas cuentas tienen 40-60 páginas y solo interesan 5-8. La pasada rápida localiza las páginas útiles y la lenta solo se aplica a esas.
+| Script | What it does | Input | Output |
+|--------|--------------|-------|--------|
+| `fase0_prueba.py` | Checks the key. For 4 clubs (Sheffield Wednesday, Everton, Brentford, Liverpool): finds the company, downloads its profile, filing history, *charges* and officers, calculates filing delays, downloads the last 3 accounts (iXBRL if available, otherwise PDF) and extracts every tagged figure from the iXBRL. | API key | `datos_fase0/<club>/…`, `cifras_ixbrl.csv`, `cifras_clave.csv`, `informe_fase0.txt` |
+| `ocr_rapido.py` | Runs OCR on a scanned PDF at low resolution (110 dpi, greyscale). It is fast and good enough to *locate* content, not to read figures accurately. | A PDF | `ocr_rapido/<pdf>/pag_NNN.txt` |
+| `localizar_paginas.py` | Searches for keywords in the fast OCR to identify which page contains each financial statement: income statement, balance sheet, cash flow, creditors, debtors, staff, intangibles, *going concern*, related parties. | Fast OCR folder | `paginas_clave.json` |
+| `ocr_selectivo.py` | High-quality OCR (300 dpi) only on the given pages. Usage: `python ocr_selectivo.py file.pdf 14,15,19` | PDF and list of pages | `ocr/<pdf>/pag_NNN.txt` |
+| `ocr_paginas.py` | First version: OCR of *all* pages at 250 dpi. It works but is too slow; it was replaced by the fast + selective combination. Kept for reference. | A PDF | Text per page |
 
-### 6.3 Scripts de la fase 1 (universo de clubes)
+> **Why two OCR passes?** High-quality OCR takes about 5 seconds per page. A set of accounts has 40–60 pages and only 5–8 of them matter. The fast pass finds the useful pages and the slow pass is applied only to those.
 
-| Script | Qué hace | Salida |
-|--------|----------|--------|
-| `fase1_descargas.py` | Descarga los resultados de todos los partidos de Premier (`E0`) y Championship (`E1`) desde 2010/11 de football-data.co.uk. También intenta descargar datos de Transfermarkt (competiciones europeas); esa descarga **falla desde algunas redes** y no es imprescindible. | `datos_fase1/raw/fd_<temporada>_<E0/E1>.csv` |
-| `fase1_clubes_temporada.py` | Reconstruye la clasificación de cada temporada (puntos, diferencia de goles, posición) **sin descontar sanciones**, y deduce el movimiento de cada club: ascenso, descenso o permanencia. No necesita internet. | `datos_fase1/clubes_temporada.csv` |
-| `fase1_sociedades.py` | Para los 62 clubes, busca en Companies House las empresas cuyo nombre encaja, descarta fundaciones, peñas, equipos femeninos o academias y descarga el perfil de cada candidata. | `datos_fase1/candidatos_sociedades.csv` |
-| `fase1_sociedades_pendientes.py` | Repite la búsqueda con nombres alternativos para los clubes que no aparecieron (p. ej. Crystal Palace se llama "CPFC Limited") e incluye los nombres anteriores de cada sociedad. | `datos_fase1/candidatos_pendientes.csv` |
-| `fase1_sociedades_cierre.py` | (1) Búsqueda avanzada, que incluye sociedades disueltas. (2) Consulta del registro PSC para ver la cadena de control club → holding → propietario. | `datos_fase1/antiguas.csv`, `datos_fase1/control_psc.csv` |
-| `fase1_sociedades_antiguas.py` | Encuentra las sociedades renombradas tras una administración buscando a sus antiguos directivos y listando todas las empresas en las que fueron administradores. | `datos_fase1/sociedades_via_directivos.csv` |
+### 6.3 Phase 1 scripts (universe of clubs)
 
-### 6.4 Scripts de la fase 2 (cuentas)
+| Script | What it does | Output |
+|--------|--------------|--------|
+| `fase1_descargas.py` | Downloads the results of every Premier League (`E0`) and Championship (`E1`) match since 2010/11 from football-data.co.uk. It also tries to download Transfermarkt data (European competitions); that download **fails from some networks** and is not essential. | `datos_fase1/raw/fd_<season>_<E0/E1>.csv` |
+| `fase1_clubes_temporada.py` | Rebuilds each season's league table (points, goal difference, position) **without deducting sanctions**, and works out each club's movement: promotion, relegation or staying. Does not need internet access. | `datos_fase1/clubes_temporada.csv` |
+| `fase1_sociedades.py` | For the 62 clubs, searches Companies House for companies whose name matches, discards foundations, supporters' clubs, women's teams or academies, and downloads each candidate's profile. | `datos_fase1/candidatos_sociedades.csv` |
+| `fase1_sociedades_pendientes.py` | Repeats the search with alternative names for the clubs that did not appear (e.g. Crystal Palace is "CPFC Limited") and includes each company's previous names. | `datos_fase1/candidatos_pendientes.csv` |
+| `fase1_sociedades_cierre.py` | (1) Advanced search, which includes dissolved companies. (2) Lookup in the PSC register to see the chain of control club → holding → owner. | `datos_fase1/antiguas.csv`, `datos_fase1/control_psc.csv` |
+| `fase1_sociedades_antiguas.py` | Finds companies renamed after an administration by searching for their former directors and listing every company where they were officers. | `datos_fase1/sociedades_via_directivos.csv` |
 
-| Script | Qué hace | Salida |
-|--------|----------|--------|
-| `fase2_inventario_cuentas.py` | Para las 84 sociedades del mapa, lista todas las cuentas depositadas desde 2009: fecha de cierre, fecha de depósito, tipo (completas, abreviadas, consolidadas…) y formatos disponibles (iXBRL y/o PDF). **No descarga documentos**: sirve para planificar. Se puede relanzar y continúa donde se quedó. | `datos_fase2/inventario_cuentas.csv` |
+### 6.4 Phase 2 scripts (accounts)
 
-### 6.5 Datos
+| Script | What it does | Output |
+|--------|--------------|--------|
+| `fase2_inventario_cuentas.py` | For the 84 companies in the map, lists every set of accounts filed since 2009: year-end date, filing date, type (full, abbreviated, consolidated…) and available formats (iXBRL and/or PDF). **It does not download documents**: it is for planning. It can be re-run and resumes where it left off. | `datos_fase2/inventario_cuentas.csv` |
+
+### 6.5 Data
 
 #### `datos_fase0/`
 
-| Archivo / carpeta | Contenido |
-|-------------------|-----------|
-| `<club>/perfil.json` | Ficha de la empresa: estado, fecha de creación, actividad, plazos de cuentas. |
-| `<club>/historial_cuentas.json` | Todas las cuentas depositadas con sus fechas. |
-| `<club>/charges.json` | Préstamos con garantía (hipotecas, pignoraciones de derechos de TV…). |
-| `<club>/officers.json` | Administradores y secretarios, con sus fechas de nombramiento y cese. |
-| `<club>/candidatos_busqueda.json` | Resultados brutos de la búsqueda de la empresa. |
-| `<club>/cuentas/` | Cuentas descargadas (PDF o XHTML). *Ignoradas por git a partir de ahora.* |
-| `<club>/ocr_rapido/`, `<club>/ocr/` | Texto extraído por OCR, por página. |
-| `cifras_ixbrl.csv` | Todas las cifras etiquetadas extraídas del iXBRL (una fila por cifra). |
-| `cifras_clave.csv` | Selección de las cifras principales. |
-| `cifras_clave_ocr_2024_25.csv` | Cifras extraídas por OCR de las cuentas 2024/25. |
-| `validacion_ocr_2024_25.csv` | Comparación OCR frente a datos publicados (14/14 correctas). |
-| `informe_fase0.txt` | Resumen legible de la prueba. |
+| File / folder | Content |
+|---------------|---------|
+| `<club>/perfil.json` | Company profile: status, incorporation date, activity, accounts deadlines. |
+| `<club>/historial_cuentas.json` | Every set of accounts filed, with its dates. |
+| `<club>/charges.json` | Secured loans (mortgages, pledges of TV rights…). |
+| `<club>/officers.json` | Directors and secretaries, with their appointment and resignation dates. |
+| `<club>/candidatos_busqueda.json` | Raw results of the company search. |
+| `<club>/cuentas/` | Downloaded accounts (PDF or XHTML). *Ignored by git from now on.* |
+| `<club>/ocr_rapido/`, `<club>/ocr/` | Text extracted by OCR, per page. |
+| `cifras_ixbrl.csv` | Every tagged figure extracted from the iXBRL (one row per figure). |
+| `cifras_clave.csv` | Selection of the main figures. |
+| `cifras_clave_ocr_2024_25.csv` | Figures extracted by OCR from the 2024/25 accounts. |
+| `validacion_ocr_2024_25.csv` | OCR vs. published data comparison (14/14 correct). |
+| `informe_fase0.txt` | Readable summary of the test. |
 
 #### `datos_fase1/`
 
-| Archivo | Contenido | Columnas principales |
-|---------|-----------|----------------------|
-| `clubes_temporada.csv` | 748 filas, una por club y temporada. | `temporada`, `division` (E0 = Premier, E1 = Championship), `club`, `partidos`, `puntos_sin_sanciones`, `dif_goles`, `posicion_sin_sanciones`, `division_siguiente`, `movimiento` |
-| `candidatos_sociedades.csv` | 229 empresas candidatas de la primera búsqueda. | `club`, `numero`, `nombre`, `estado`, `creada`, `actividad_sic`, `ultimas_cuentas_tipo`, `historial_insolvencia`… |
-| `candidatos_pendientes.csv` | Candidatos de la búsqueda dirigida. | Las mismas, más `nombres_anteriores` |
-| `antiguas.csv` | Resultados de la búsqueda avanzada. | `club`, `numero`, `nombre`, `estado`, `creada`, `disuelta` |
-| `control_psc.csv` | Quién controla a cada sociedad dudosa. | `numero`, `controlador`, `numero_controlador`, `desde`, `hasta` |
-| `sociedades_via_directivos.csv` | Sociedades encontradas a través de antiguos directivos. | `club`, `directivo`, `numero`, `nombre`, `estado`, `nombrado`, `cese` |
-| **`mapa_sociedades.csv`** | **Tabla final: qué sociedad corresponde a cada club en cada periodo.** Es la entrada de la fase 2. | `club`, `numero_club`, `sociedad_club`, `numero_grupo`, `sociedad_grupo`, `temporadas`, `confianza`, `nota` |
-| `raw/` | CSV originales de football-data (ignorados por git). | |
+| File | Content | Main columns |
+|------|---------|--------------|
+| `clubes_temporada.csv` | 748 rows, one per club and season. | `temporada`, `division` (E0 = Premier League, E1 = Championship), `club`, `partidos`, `puntos_sin_sanciones`, `dif_goles`, `posicion_sin_sanciones`, `division_siguiente`, `movimiento` |
+| `candidatos_sociedades.csv` | 229 candidate companies from the first search. | `club`, `numero`, `nombre`, `estado`, `creada`, `actividad_sic`, `ultimas_cuentas_tipo`, `historial_insolvencia`… |
+| `candidatos_pendientes.csv` | Candidates from the targeted search. | The same, plus `nombres_anteriores` |
+| `antiguas.csv` | Results of the advanced search. | `club`, `numero`, `nombre`, `estado`, `creada`, `disuelta` |
+| `control_psc.csv` | Who controls each unclear company. | `numero`, `controlador`, `numero_controlador`, `desde`, `hasta` |
+| `sociedades_via_directivos.csv` | Companies found through former directors. | `club`, `directivo`, `numero`, `nombre`, `estado`, `nombrado`, `cese` |
+| **`mapa_sociedades.csv`** | **Final table: which company corresponds to each club in each period.** It is the input for phase 2. | `club`, `numero_club`, `sociedad_club`, `numero_grupo`, `sociedad_grupo`, `temporadas`, `confianza`, `nota` |
+| `raw/` | Original football-data CSVs (ignored by git). | |
 
-> **Nota sobre los nombres de los clubes:** se usa la grafía de football-data.co.uk (`Man United`, `Nott'm Forest`, `Sheffield Weds`, `Peterboro`…), que es la clave común de todas las tablas.
+> **Note on club names:** the spelling used by football-data.co.uk (`Man United`, `Nott'm Forest`, `Sheffield Weds`, `Peterboro`…) is used as the common key across all tables.
 
 ---
 
-## 7. Cómo ejecutarlo desde otro ordenador
+## 7. How to run it on another computer
 
-### 7.1 Requisitos
+### 7.1 Requirements
 
-| Requisito | Para qué | Obligatorio |
-|-----------|----------|-------------|
-| Python 3.10 o superior (recomendado: [Anaconda](https://www.anaconda.com/download)) | Ejecutar los scripts | Sí |
-| Git | Clonar el repositorio | Sí |
-| Cuenta y clave de la API de Companies House | Descargar datos del registro mercantil | Sí, para las fases 0, 1 y 2 |
-| Poppler (`pdftoppm`) y Tesseract OCR | Leer los PDF escaneados | Solo para el OCR |
+| Requirement | What for | Required |
+|-------------|----------|----------|
+| Python 3.10 or later (recommended: [Anaconda](https://www.anaconda.com/download)) | Running the scripts | Yes |
+| Git | Cloning the repository | Yes |
+| Companies House account and API key | Downloading data from the companies register | Yes, for phases 0, 1 and 2 |
+| Poppler (`pdftoppm`) and Tesseract OCR | Reading scanned PDFs | Only for OCR |
 
-### 7.2 Paso 1: clonar el repositorio
+### 7.2 Step 1: clone the repository
 
 ```bash
 git clone https://github.com/alvmorenobl/premierleague.git
 cd premierleague
 ```
 
-### 7.3 Paso 2: instalar las librerías
+### 7.3 Step 2: install the libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Con Anaconda, `pandas` y `requests` ya vienen instaladas; puede que solo falte `beautifulsoup4`.
+With Anaconda, `pandas` and `requests` are already installed; you may only need `beautifulsoup4`.
 
-### 7.4 Paso 3: conseguir la clave de la API de Companies House (gratis, unos 10 minutos)
+### 7.4 Step 3: get a Companies House API key (free, about 10 minutes)
 
-1. Entra en <https://developer.company-information.service.gov.uk/> y crea una cuenta. Desde agosto de 2026 el acceso es con **GOV.UK One Login**.
-2. Ve a **Your applications → Create an application**.
-   - *Application name:* p. ej. `Football Finance Research`
-   - *Description:* solo letras, espacios y guiones, **sin puntos ni comas**; p. ej. `Academic research on football club finances`
+1. Go to <https://developer.company-information.service.gov.uk/> and create an account. Since August 2026, access is through **GOV.UK One Login**.
+2. Go to **Your applications → Create an application**.
+   - *Application name:* e.g. `Football Finance Research`
+   - *Description:* letters, spaces and hyphens only, **no full stops or commas**; e.g. `Academic research on football club finances`
    - *Environment:* **Live**
-3. Dentro de la aplicación pulsa **Create new key** y elige el tipo **REST**.
-4. Copia la clave con el botón de copiar.
-5. En la carpeta del proyecto crea un archivo llamado **`api-premier-key.text`** y pega la clave en una sola línea, sin espacios ni comillas.
+3. Inside the application, click **Create new key** and choose the **REST** type.
+4. Copy the key with the copy button.
+5. In the project folder, create a file called **`api-premier-key.text`** and paste the key on a single line, with no spaces or quotes.
 
-> ⚠️ **Seguridad**
-> - El archivo de la clave está en `.gitignore`, así que git no lo sube.
-> - **No pegues la clave** dentro de ningún script, chat ni captura de pantalla.
-> - Si la clave se expone, bórrala en el portal y crea una nueva.
+> **Security**
+> - The key file is listed in `.gitignore`, so git does not push it.
+> - **Do not paste the key** into any script, chat or screenshot.
+> - If the key is exposed, delete it in the portal and create a new one.
 
-**Límite de la API:** 600 peticiones cada 5 minutos. Los scripts hacen una pausa de unos 0,6 s entre peticiones y esperan 60 s si reciben el aviso de límite (error 429).
+**API limit:** 600 requests every 5 minutes. The scripts pause for about 0.6 s between requests and wait 60 s if they receive the rate-limit warning (error 429).
 
-### 7.5 Paso 4: instalar las herramientas de OCR (opcional)
+### 7.5 Step 4: install the OCR tools (optional)
 
-Solo hacen falta si vas a leer PDF escaneados.
+Only needed if you are going to read scanned PDFs.
 
 - **Windows:**
-  - Tesseract: instalador de [UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki).
-  - Poppler: [poppler-windows](https://github.com/oschwartz10612/poppler-windows/releases), descomprimir y añadir la carpeta `bin` al PATH.
+  - Tesseract: [UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki) installer.
+  - Poppler: [poppler-windows](https://github.com/oschwartz10612/poppler-windows/releases), unzip it and add the `bin` folder to the PATH.
 - **macOS:** `brew install tesseract poppler`
 - **Linux:** `sudo apt install tesseract-ocr poppler-utils`
 
-Comprueba que funcionan con `tesseract --version` y `pdftoppm -v`.
+Check that they work with `tesseract --version` and `pdftoppm -v`.
 
-### 7.6 Paso 5: ejecutar en orden
+### 7.6 Step 5: run in order
 
-Abre una terminal (en Windows, **Anaconda Prompt**) **dentro de la carpeta del proyecto** y ejecuta:
+Open a terminal (on Windows, **Anaconda Prompt**) **inside the project folder** and run:
 
-| Orden | Comando | Tiempo aprox. | Necesita internet | Resultado |
-|------:|---------|---------------|:-----------------:|-----------|
-| 1 | `python fase0_prueba.py` | 2-3 min | ✅ | Prueba con 4 clubes (opcional, solo demostrativo) |
-| 2 | `python fase1_descargas.py` | 1-2 min | ✅ | Resultados de partidos 2010-2027 |
-| 3 | `python fase1_clubes_temporada.py` | segundos | ❌ | `clubes_temporada.csv` |
-| 4 | `python fase1_sociedades.py` | 5-8 min | ✅ | Candidatos de sociedades |
-| 5 | `python fase1_sociedades_pendientes.py` | 1-2 min | ✅ | Candidatos de los casos difíciles |
-| 6 | `python fase1_sociedades_cierre.py` | < 1 min | ✅ | Búsqueda avanzada y cadena de control |
-| 7 | `python fase1_sociedades_antiguas.py` | ~1 min | ✅ | Sociedades renombradas tras quiebras |
-| 8 | `python fase2_inventario_cuentas.py` | 10-15 min | ✅ | Inventario de cuentas |
+| Order | Command | Approx. time | Needs internet | Result |
+|------:|---------|--------------|:--------------:|--------|
+| 1 | `python fase0_prueba.py` | 2–3 min | Yes | Test with 4 clubs (optional, demo only) |
+| 2 | `python fase1_descargas.py` | 1–2 min | Yes | Match results 2010–2027 |
+| 3 | `python fase1_clubes_temporada.py` | seconds | No | `clubes_temporada.csv` |
+| 4 | `python fase1_sociedades.py` | 5–8 min | Yes | Company candidates |
+| 5 | `python fase1_sociedades_pendientes.py` | 1–2 min | Yes | Candidates for the difficult cases |
+| 6 | `python fase1_sociedades_cierre.py` | < 1 min | Yes | Advanced search and chain of control |
+| 7 | `python fase1_sociedades_antiguas.py` | ~1 min | Yes | Companies renamed after bankruptcies |
+| 8 | `python fase2_inventario_cuentas.py` | 10–15 min | Yes | Inventory of accounts |
 
-> **Importante:** `mapa_sociedades.csv` **no lo genera ningún script automáticamente.** Es el resultado de revisar los candidatos de los pasos 4-7 (con justificación en la columna `nota`). Ya está incluido en el repositorio, así que **para reproducir la fase 2 basta con ejecutar el paso 8.**
+> **Important:** `mapa_sociedades.csv` **is not generated automatically by any script.** It is the result of reviewing the candidates from steps 4–7 (with the reasoning in the `nota` column). It is already included in the repository, so **to reproduce phase 2 you only need to run step 8.**
 
-**OCR de un PDF escaneado (opcional):**
+**OCR of a scanned PDF (optional):**
 
 ```bash
-python ocr_rapido.py ruta/al/archivo.pdf          # 1. OCR rápido de todo el PDF
-python localizar_paginas.py ruta/a/ocr_rapido/... # 2. localiza las páginas clave
-python ocr_selectivo.py ruta/al/archivo.pdf 14,15 # 3. OCR fino de esas páginas
+python ocr_rapido.py path/to/file.pdf             # 1. fast OCR of the whole PDF
+python localizar_paginas.py path/to/ocr_rapido/... # 2. finds the key pages
+python ocr_selectivo.py path/to/file.pdf 14,15     # 3. fine OCR of those pages
 ```
 
-### 7.7 Problemas frecuentes
+### 7.7 Common problems
 
-| Problema | Causa | Solución |
-|----------|-------|----------|
-| `FileNotFoundError: api-premier-key.text` | No has creado el archivo de la clave o estás en otra carpeta | Crea el archivo y ejecuta los scripts desde la carpeta del proyecto (`cd premierleague`) |
-| Error `401` | Clave incorrecta, con espacios, o creada como tipo distinto de REST | Revisa el archivo; si hace falta, crea una clave nueva |
-| Error `429` | Demasiadas peticiones | El script espera solo; si se corta, vuelve a lanzarlo |
-| `WinError 10060` en Transfermarkt | Tu red no llega a ese servidor | No es imprescindible; ignóralo |
-| `ModuleNotFoundError: bs4` | Falta la librería | `pip install beautifulsoup4` |
-| Aviso `LF will be replaced by CRLF` al hacer `git add` | Diferencia de saltos de línea entre Windows y Linux | Inofensivo. Para quitarlo: `git config core.autocrlf true` |
-| `tesseract` o `pdftoppm` no encontrados | No están instalados o no están en el PATH | Ver el paso 4 |
-
----
-
-## 8. Decisiones de diseño y lecciones aprendidas
-
-1. **Solo datos públicos.** Cualquier persona puede reproducir el trabajo y no depende de que un club quiera colaborar.
-2. **Sociedad del club como unidad principal y grupo como secundaria.** Las normas de la Premier y de la EFL miran al club *y a su grupo*, así que se guardan ambos.
-3. **Un club puede tener varias sociedades a lo largo del tiempo.** El mapa tiene una fila por club *y periodo* (p. ej. Derby: sociedad antigua hasta 2022 y nueva desde 2024).
-4. **Incluir los clubes que quebraron** para evitar el sesgo de supervivencia.
-5. **Clasificaciones "sin sanciones".** Se calculan los puntos deportivos sin restar sanciones; las sanciones se añadirán como variable aparte, porque son justamente lo que queremos explicar.
-6. **Las normas son parámetros, no código.** Las normas financieras cambian casi cada temporada, así que se guardan en configuración para poder actualizarlas sin rehacer el análisis.
-7. **La Premier y la Championship son el núcleo; la UEFA es secundaria.** Las normas de la UEFA solo afectan a los clubes que juegan en Europa y se usan como contexto.
-8. **Automatización por partes.** Cada paso es un script corto, reanudable y que guarda su resultado en CSV, para poder revisar a mano lo dudoso.
+| Problem | Cause | Solution |
+|---------|-------|----------|
+| `FileNotFoundError: api-premier-key.text` | You have not created the key file or you are in another folder | Create the file and run the scripts from the project folder (`cd premierleague`) |
+| Error `401` | Wrong key, with spaces, or created as a type other than REST | Check the file; if needed, create a new key |
+| Error `429` | Too many requests | The script waits on its own; if it stops, run it again |
+| `WinError 10060` on Transfermarkt | Your network cannot reach that server | Not essential; ignore it |
+| `ModuleNotFoundError: bs4` | Missing library | `pip install beautifulsoup4` |
+| Warning `LF will be replaced by CRLF` when running `git add` | Line-ending difference between Windows and Linux | Harmless. To remove it: `git config core.autocrlf true` |
+| `tesseract` or `pdftoppm` not found | Not installed or not in the PATH | See step 4 |
 
 ---
 
-## 9. Limitaciones conocidas
+## 8. Design decisions and lessons learned
 
-- **Cuentas abreviadas.** Algunos clubes pequeños (Doncaster, Scunthorpe, Wycombe, Yeovil) presentan cuentas reducidas con pocas cifras.
-- **Matrices extranjeras.** Las cuentas de Manchester United plc (Islas Caimán) y de la matriz de Birmingham (Hong Kong) no están en Companies House.
-- **PDF escaneados.** Muchos clubes grandes depositan imágenes; el OCR funciona pero hay que validar cada cifra.
-- **Formatos distintos.** Cada club presenta su cuenta de resultados con un diseño diferente (p. ej. Everton usa seis columnas), y estandarizarlo es parte del trabajo de la fase 2.
-- **Cuentas modificadas (AAMD).** Algunas cuentas se vuelven a depositar corregidas y aparecen duplicadas; falta filtrarlas en el cálculo de retrasos.
-- **Competiciones europeas.** La tabla de participación europea está pendiente porque la fuente prevista (Transfermarkt) no es accesible desde todas las redes.
-
----
-
-## 10. Glosario
-
-| Término | Significado |
-|---------|-------------|
-| **Administración** | Procedimiento de insolvencia británico, parecido al concurso de acreedores. En el fútbol inglés implica sanción de puntos. |
-| **Companies House** | Registro mercantil del Reino Unido. Todas las sociedades depositan allí sus cuentas anuales. |
-| **iXBRL** | Formato digital de cuentas en el que cada cifra lleva una etiqueta legible por máquina. |
-| **OCR** | Reconocimiento óptico de caracteres: convierte una imagen de texto en texto. |
-| **PSC** | *Persons with Significant Control*: registro público de quién controla cada sociedad. |
-| **Charges** | Préstamos o deudas con garantía sobre bienes de la sociedad. |
-| **Going concern** | Empresa en funcionamiento. Si los auditores o administradores dudan de que la empresa pueda seguir operando, lo deben indicar en las cuentas. |
-| **PSR** | *Profitability and Sustainability Rules* de la Premier League (2016-2026): pérdida máxima de £105 m en tres años. |
-| **P&S** | Normas equivalentes de la EFL: pérdida máxima de £39 m en tres años en la Championship. |
-| **SCR** | *Squad Cost Ratio*: gasto en plantilla limitado a un porcentaje de los ingresos. En vigor en Premier y Championship desde 2026/27. |
-| **SSR** | *Sustainability and Systemic Resilience*: tests de liquidez y solvencia de la Premier League desde 2026/27. |
-| **IFR** | *Independent Football Regulator*: regulador independiente del fútbol inglés. |
-| **DebtRank / Eisenberg-Noe** | Modelos para simular cómo se propagan las pérdidas en una red de deudas. |
-| **SHAP** | Método para explicar qué variables pesan en cada predicción de un modelo. |
+1. **Public data only.** Anyone can reproduce the work, and it does not depend on any club agreeing to collaborate.
+2. **Club company as the main unit and group as secondary.** Premier League and EFL rules look at the club *and its group*, so both are stored.
+3. **A club can have several companies over time.** The map has one row per club *and period* (e.g. Derby: old company until 2022 and new one from 2024).
+4. **Include the clubs that went bust** to avoid survivorship bias.
+5. **"Without sanctions" league tables.** Sporting points are calculated without deducting sanctions; sanctions will be added as a separate variable, because they are exactly what we want to explain.
+6. **Rules are parameters, not code.** Financial rules change almost every season, so they are stored in configuration so they can be updated without redoing the analysis.
+7. **The Premier League and the Championship are the core; UEFA is secondary.** UEFA rules only affect clubs playing in Europe and are used as context.
+8. **Step-by-step automation.** Each step is a short, resumable script that saves its result as CSV, so unclear cases can be reviewed by hand.
 
 ---
 
-## 11. Fuentes
+## 9. Known limitations
+
+- **Abbreviated accounts.** Some small clubs (Doncaster, Scunthorpe, Wycombe, Yeovil) file reduced accounts with few figures.
+- **Foreign parent companies.** The accounts of Manchester United plc (Cayman Islands) and of Birmingham's parent company (Hong Kong) are not in Companies House.
+- **Scanned PDFs.** Many large clubs file images; OCR works but every figure has to be validated.
+- **Different layouts.** Each club presents its income statement with a different layout (e.g. Everton uses six columns), and standardising it is part of the phase 2 work.
+- **Amended accounts (AAMD).** Some accounts are re-filed with corrections and appear twice; they still need to be filtered out when calculating delays.
+- **European competitions.** The European participation table is pending because the planned source (Transfermarkt) is not reachable from every network.
+
+---
+
+## 10. Glossary
+
+| Term | Meaning |
+|------|---------|
+| **Administration** | British insolvency procedure. In English football it carries a points deduction. |
+| **Companies House** | The UK companies register. Every company files its annual accounts there. |
+| **iXBRL** | Digital accounts format in which every figure carries a machine-readable tag. |
+| **OCR** | Optical character recognition: converts an image of text into text. |
+| **PSC** | *Persons with Significant Control*: public register of who controls each company. |
+| **Charges** | Loans or debts secured on the company's assets. |
+| **Going concern** | If the auditors or directors doubt that the company can keep operating, they must say so in the accounts. |
+| **PSR** | Premier League *Profitability and Sustainability Rules* (2016–2026): maximum loss of £105m over three years. |
+| **P&S** | The equivalent EFL rules: maximum loss of £39m over three years in the Championship. |
+| **SCR** | *Squad Cost Ratio*: squad spending capped at a percentage of revenue. In force in the Premier League and the Championship from 2026/27. |
+| **SSR** | *Sustainability and Systemic Resilience*: Premier League liquidity and solvency tests from 2026/27. |
+| **IFR** | *Independent Football Regulator*: the independent regulator of English football. |
+| **DebtRank / Eisenberg-Noe** | Models that simulate how losses spread through a network of debts. |
+| **SHAP** | Method that explains which variables drive each prediction of a model. |
+
+---
+
+## 11. Sources
 
 - **Companies House API:** <https://developer.company-information.service.gov.uk/>
-- **Football-Data.co.uk:** resultados históricos, <https://www.football-data.co.uk/>
-- **Premier League Handbook:** normas financieras de cada temporada.
-- **EFL Regulations:** normas de la Championship.
+- **Football-Data.co.uk:** historical results, <https://www.football-data.co.uk/>
+- **Premier League Handbook:** financial rules for each season.
+- **EFL Regulations:** Championship rules.
 - **Deloitte Annual Review of Football Finance.**
-- Literatura académica: Szymanski; Plumley, Wilson y Ramchandani; Alaminos y Fernández; Eisenberg y Noe (2001); Battiston et al. (DebtRank, 2012).
+- Academic literature: Szymanski; Plumley, Wilson and Ramchandani; Alaminos and Fernández; Eisenberg and Noe (2001); Battiston et al. (DebtRank, 2012).
 
 ---
 
-*Proyecto de investigación independiente. No está afiliado a la Premier League, la EFL, la UEFA ni a ningún club.*
+*Independent research project. Not affiliated with the Premier League, the EFL, UEFA or any club.*
